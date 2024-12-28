@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Merrow
+size: Large
+type: Monstrosity
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 331
+---
+
 # Merrow
 
 *Large* *Monstrosity*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage, or 9 (2d4 + 4) piercing damage if the target is grappled.
-
-

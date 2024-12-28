@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Eldritch Ooze
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 153
+hp_roll: 18d10+54
+ac: 8
+speed: walk 10 ft. climb 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 278
+---
+
 # Eldritch Ooze
 
 *Large* *Ooze* *unaligned*
@@ -33,5 +52,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 ### Reactions
 
 - **Split:** When an eldritch ooze that is Medium or larger is subjected to lightning or slashing damage, it splits into two new oozes if it has at least 10 hp. Each new ooze has hp equal to half the original ooze’s, rounded down. New oozes are one size smaller than the original ooze.
-
-

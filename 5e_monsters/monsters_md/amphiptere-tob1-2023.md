@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Amphiptere
+size: Medium
+type: Beast
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 24
+ac: 15
+speed: walk 20 ft. fly 20 ft.
+senses: blindsight 10 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 16
+---
+
 # Amphiptere
 
 *Medium* *Beast* *Unaligned*

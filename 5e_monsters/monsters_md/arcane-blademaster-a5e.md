@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arcane Blademaster
+size: Medium
+type: Humanoid
+alignment: 
+cr: 19
+xp: 22,000
+hp: 256
+hp_roll: 27d8+135
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 479
+---
+
 # Arcane Blademaster
 
 *Medium* *Humanoid*
@@ -72,5 +91,3 @@
 
 - **Improved War Magic:** When the blademaster uses an action to cast a spell, they can make one weapon attack.
 - **Misty Step (2nd-Level; V):** The blademaster teleports to an unoccupied space they can see within 30 feet. The blademaster can't cast this spell and a 1st-level or higher spell on the same turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vapor Lynx
+size: Large
+type: Monstrosity
+alignment: Chaotic Neutral
+cr: 5
+xp: 1,800
+hp: 127
+hp_roll: 45
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 383
+---
+
 # Vapor Lynx
 
 *Large* *Monstrosity* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Black Sun
+size: Large
+type: Giant
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 152
+hp_roll: 16d10+64
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 298
+---
+
 # Ogre, Black Sun
 
 *Large* *Giant* *lawful evil*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Gauntleted Backhand:** When a creature within 5 ft. of the ogre misses the ogre with melee attack the attacker must make DC 16 Dex save or be knocked prone
-
-

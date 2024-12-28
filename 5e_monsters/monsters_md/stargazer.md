@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stargazer
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 168
+hp_roll: 16d12+64
+ac: 17
+speed: walk 15 ft. burrow 20 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 354
+---
+
 # Stargazer
 
 *Huge* *Monstrosity* *unaligned*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Wing Trap Snap:** When 1+ creatures step onto a space on ground within 10 ft. directly above a hidden stargazer stargazer can burrow up to 10 ft. and snap its wing-like appendages shut emerging on the ground in space directly above where it was buried and that contains one or more other creatures. Each creature must make DC 16 Dex save or be trapped as if it failed save vs. Wing Trap.
-
-

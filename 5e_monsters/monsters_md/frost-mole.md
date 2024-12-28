@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Frost Mole
+size: Small
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 71
+hp_roll: 11d6+33
+ac: 14
+speed: burrow 30 ft. walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 390
+---
+
 # Frost Mole
 
 *Small* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage.
-
-

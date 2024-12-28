@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Truant Devourer
+size: Medium
+type: Undead
+alignment: creator deity
+cr: 9
+xp: 5,000
+hp: 156
+hp_roll: 24d8+48
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 378
+---
+
 # Truant Devourer
 
 *Medium* *Undead* *any alignment (as its creator deity)*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Dusty Step:** Teleports  with items worn/carried up to 60' to unoccupied space it can see. Dust cloud appears at origin and destination.
-
-

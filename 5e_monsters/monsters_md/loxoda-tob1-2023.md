@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Loxoda
+size: Huge
+type: Monstrosity
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 147
+hp_roll: 56
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 259
+---
+
 # Loxoda
 
 *Huge* *Monstrosity* *Neutral Evil*

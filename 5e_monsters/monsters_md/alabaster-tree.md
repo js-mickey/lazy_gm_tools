@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alabaster Tree
+size: Huge
+type: Celestial
+alignment: neutral good
+cr: 7
+xp: 2,900
+hp: 105
+hp_roll: 10d12+40
+ac: 18
+speed: walk 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 302
+---
+
 # Alabaster Tree
 
 *Huge* *Celestial* *neutral good*
@@ -34,5 +53,3 @@
 - **Serrated Squeeze (Willow Only):** The alabaster tree makes one slam attack against a Large or smaller target it is grappling. If the attack hits, the target is engulfed in razor-sharp leaves, and the grapple ends. While engulfed, the target is blinded and restrained, it has total cover against attacks and other effects outside of the leaves, and it takes 13 (3d8) slashing damage at the start of each of the alabaster tree's turns. An alabaster tree can have only one creature engulfed at a time.<br><br>If the alabaster tree takes 15 damage or more on a single turn from the engulfed creature, the alabaster tree must succeed on a DC 14 Constitution saving throw at the end of that turn or release the creature in a shower of shredded leaves. The released creature falls prone in a space within 10 feet of the alabaster tree. If the alabaster tree dies, an engulfed creature is no longer restrained by it and can escape from the leaves and branches by using an action to untangle itself.
 - **Toss (Oak Only):** One Large or smaller object held or creature grappled by the alabaster tree is thrown up to 40 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 15 Dexterity saving throw or take the same damage and be knocked prone.
 - **Cloud of Needles (Recharge 5-6, Pine Only):** The alabaster tree fires a cloud of sharp needles at all creatures within 30 feet of it. Each creature in that area must make a DC 15 Dexterity saving throw, taking 18 (4d8) piercing damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devilbound Gnome
+size: Small
+type: Humanoid
+alignment: Any Evil
+cr: 9
+xp: 5,000
+hp: 104
+hp_roll: 38
+ac: 17
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 408
+---
+
 # Devilbound Gnome
 
 *Small* *Humanoid* *Any Evil*

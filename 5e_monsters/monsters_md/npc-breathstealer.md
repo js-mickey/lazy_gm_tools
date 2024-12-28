@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Breathstealer
+size: Medium
+type: Humanoid
+alignment: any non-good
+cr: 7
+xp: 2,900
+hp: 99
+hp_roll: 18d8+18
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 404
+---
+
 # Npc: Breathstealer
 
 *Medium* *Humanoid* *any non-good*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Cunning Action:** Dash Disengage or Hide action.
-
-

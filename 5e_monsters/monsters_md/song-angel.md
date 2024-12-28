@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Song Angel
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 6
+xp: 2,300
+hp: 76
+hp_roll: 9d10+27
+ac: 15
+speed: fly 60 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 320
+---
+
 # Song Angel
 
 *Large* *Celestial* *lawful good*
@@ -37,5 +56,3 @@ At will: alter self, calm emotions, charm person, create food and water, detect 
 ### Reactions
 
 - **Heavenly Inspiration:** When a creature the song angel can see fails an ability check or saving throw or misses with a weapon attack, the angel can sing a verse of divine music. If the creature hears this song, it can reroll the failed check, save, or attack roll with advantage.
-
-

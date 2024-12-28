@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pixie’s Umbrella
+size: Small
+type: Plant
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 10
+hp_roll: 4d4
+ac: 7
+speed: walk 5 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 7
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 158
+---
+
 # Pixie’s Umbrella
 
 *Small* *Plant* *unaligned*
@@ -28,5 +47,3 @@
 ### Reactions
 
 - **Float:** When a pixie’s umbrella senses motion within 30 feet of it, it fills its cap with air and flies 20 feet away from the motion without provoking opportunity attacks.
-
-

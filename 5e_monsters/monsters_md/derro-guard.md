@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derro Guard
+size: Small
+type: Humanoid
+alignment: non-good alignment
+cr: 1/2
+xp: 100
+hp: 18
+hp_roll: 4d6+4
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 7
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 97
+---
+
 # Derro Guard
 
 *Small* *Humanoid* *any non-good alignment*
@@ -26,5 +45,3 @@
 
 - **Aklys:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 10/30 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
-
-

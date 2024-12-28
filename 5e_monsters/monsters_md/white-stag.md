@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: White Stag
+size: Large
+type: Celestial
+alignment: chaotic good
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d10+7
+ac: 13
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 379
+---
+
 # White Stag
 
 *Large* *Celestial* *chaotic good*
@@ -27,5 +46,3 @@
 - **Multiattack:** The white stag makes one gore attack and one hooves attack.
 - **Gore:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Hooves:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) bludgeoning damage.
-
-

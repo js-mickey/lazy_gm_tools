@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Ironmonger
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d8+42
+ac: 19
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 376
+---
+
 # Trollkin Ironmonger
 
 *Medium* *Humanoid* *neutral*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Impregnable Counter:** When a creature within 5 ft. of the ironmonger misses a melee attack vs. it the attacker must make DC 15 Str save or be knocked prone.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Cactus
+size: Medium
+type: Dragon
+alignment: neutral good
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 20 ft. climb 20 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 152
+---
+
 # Drake, Cactus
 
 *Medium* *Dragon* *neutral good*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage.
 - **Thorn Spray (Recharge 5–6):** Shakes its body spraying thorns around it. Each creature within 20' of it: 18 (4d8) piercing damage (DC 13 Dex half). A creature that fails by 5+ has its speed reduced by 10 ft. until it uses action to remove thorns. When drake uses this it loses Thorny Body trait until start of its next turn.
-
-

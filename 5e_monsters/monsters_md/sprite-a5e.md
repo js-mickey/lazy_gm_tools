@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sprite
+size: Tiny
+type: Fey
+alignment: 
+cr: 1/4
+xp: 50
+hp: 2
+hp_roll: 1d4
+ac: 14
+speed: walk 10 ft. fly 40 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 203
+---
+
 # Sprite
 
 *Tiny* *Fey*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Invisibility:** The sprite and any equipment it wears or carries magically turns invisible until the sprite attacks, becomes incapacitated, or uses a bonus action to become visible.
-
-

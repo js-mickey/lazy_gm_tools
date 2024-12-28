@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Saber-Toothed Tiger
+size: Large
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 12
+speed: walk 40 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 459
+---
+
 # Saber-Toothed Tiger
 
 *Large* *Beast*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Opportune Bite:** The tiger makes a bite attack against a prone creature.
-
-

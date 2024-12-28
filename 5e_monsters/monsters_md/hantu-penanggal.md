@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hantu Penanggal
+size: Medium
+type: Fiend
+alignment: any evil
+cr: 8
+xp: 3,900
+hp: 123
+hp_roll: 19d8+38
+ac: 14
+speed: fly 40 ft. walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 192
+---
+
 # Hantu Penanggal
 
 *Medium* *Fiend* *any evil*
@@ -37,5 +56,3 @@ At will: darkness, detect evil and good
 - **Claw (Body Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 3 (1d6) necrotic damage.
 - **Bite (Head Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 7 (2d6) necrotic damage. The target’s hp maximum is reduced by an amount equal to the necrotic damage taken, and the penanggal regains hp equal to that amount. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way becomes the new body for the penanggal, if it is detached and its body died. Otherwise, the humanoid rises 24 hours later as a new hantu penanggal.
 - **Entrails (Head Only):** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the penanggal can’t use its entrails on another target.
-
-

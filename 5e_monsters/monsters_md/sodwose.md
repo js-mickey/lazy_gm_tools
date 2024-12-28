@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sodwose
+size: Medium
+type: Plant
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 127
+hp_roll: 15d8+60
+ac: 15
+speed: walk 40 ft. climb 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 350
+---
+
 # Sodwose
 
 *Medium* *Plant* *neutral evil*
@@ -35,5 +54,3 @@
 
 - **Grass Step:** Teleports along with any equipment it is wearing or carrying up to 30' to an unoccupied spot it sees. The origin and destination spaces must contain grass.
 - **Set Snare:** Creates a snare in a square area it can see within 30' of it that is 5 ft. on a side and 50%+ grass. 1st creature to moves into that space within next min: DC 15 Str save or be restrained by grasses. A creature including restrained creature can use action to free restrained creature via DC 15 Str check. It can have at most 3 snares set at a time. If it sets a 4th oldest ceases to function.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bearfolk
+size: Medium
+type: Humanoid
+alignment: Chaotic Good
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 18
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 33
+---
+
 # Bearfolk
 
 *Medium* *Humanoid* *Chaotic Good*

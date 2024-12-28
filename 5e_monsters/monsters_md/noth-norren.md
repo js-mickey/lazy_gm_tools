@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Noth-norren
+size: Gargantuan
+type: Elemental
+alignment: chaotic evil
+cr: 13
+xp: 10,000
+hp: 203
+hp_roll: 14d20+56
+ac: 14
+speed: hover True ft. walk 0 ft. fly 90 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 270
+---
+
 # Noth-norren
 
 *Gargantuan* *Elemental* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Throw Debris:** Ranged Weapon Attack: +8 to hit, range 60/180 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Fling Victim:** One Large or smaller creature caught in the nothnorren’s vortex is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 16 Dexterity saving throw or take the same damage and be knocked prone.
 - **Vortex (Recharge 5-6):** The noth-norren pulls nearby creatures into its central vortex to be torn apart by its jagged teeth. Each creature within 5 feet of the noth-norren must succeed on a DC 16 Strength saving throw or be pulled into the vortex. A creature in the vortex is blinded and restrained, it has total cover against attacks and other effects outside the vortex, and it takes 21 (6d6) slashing damage at the start of each of the noth-norren’s turns.<br><br>If the noth-norren takes 30 damage or more on a single turn from a creature inside the vortex, the noth-norren must succeed on a DC 18 Constitution saving throw at the end of that turn or release all creatures caught in its vortex, which fall prone in a space within 10 feet of the noth-norren. If the noth-norren dies, it becomes a pile of teeth, its windy form dissipating, and releases all trapped creatures.
-
-

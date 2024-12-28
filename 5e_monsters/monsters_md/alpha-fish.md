@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alpha Fish
+size: Large
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 59
+hp_roll: 7d10+21
+ac: 13
+speed: walk 0 ft. swim 50 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 14
+---
+
 # Alpha Fish
 
 *Large* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 - **Multiattack:** The alpha fish uses its Fin Flare. It then makes two headbutt attacks.
 - **Headbutt:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 - **Fin Flare:** The alpha fish flares its fins in an attempt to frighten its opponents. Each creature within 30 feet that can see the fish must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the alpha fish’s Fin Flare for the next 24 hours.
-
-

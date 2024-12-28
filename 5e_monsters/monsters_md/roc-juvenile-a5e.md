@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Roc Juvenile
+size: Huge
+type: Beast
+alignment: 
+cr: 8
+xp: 3,900
+hp: 147
+hp_roll: 14d12+56
+ac: 14
+speed: walk 25 ft. fly 100 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 459
+---
+
 # Roc Juvenile
 
 *Huge* *Beast*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Retributive Strike:** When a creature the roc can see hits it with a melee weapon attack, the roc makes a beak attack against its attacker.
-
-

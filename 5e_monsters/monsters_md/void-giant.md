@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Void Giant
+size: Huge
+type: Giant
+alignment: chaotic neutral
+cr: 11
+xp: 7,200
+hp: 210
+hp_roll: 20d12+80
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 187
+---
+
 # Void Giant
 
 *Huge* *Giant* *chaotic neutral*
@@ -37,5 +56,3 @@ Cantrips (at will): chill touch, light, mending, shocking grasp
 ### Reactions
 
 - **Magic Absorption:** If the void giant succeeds on a saving throw against an enemy spell, the void giant doesn't suffer the effects of that spell. If it uses Void Casting on its next turn, the void giant can affect all creatures hit by its spell or who fail a saving throw against its spell instead of just one creature.
-
-

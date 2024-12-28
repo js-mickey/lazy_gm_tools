@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Windy Wailer
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 75
+hp_roll: 10d10+20
+ac: 14
+speed: fly 60 ft. walk 0 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 370
+---
+
 # Windy Wailer
 
 *Large* *Undead* *neutral evil*
@@ -32,5 +51,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Chilling Touch:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) necrotic damage plus 7 (1d6) cold damage.
 - **Wind Blast:** Ranged Weapon Attack: +7 to hit, range 120 ft., one target. Hit: 14 (4d6) cold damage, and the target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from the windy wailer and knocked prone.
 - **Frightful Gale (Recharge 5-6):** The windy wailer unleashes freezing wind filled with fearful wailing in a 30-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw. On a failure, a creature takes 14 (4d6) cold damage and is frightened for 1 minute. On a success, a creature takes half the damage and isn’t frightened. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br>A creature reduced to 0 hp by the windy wailer’s Frightful Gale and later revived is permanently marked by a shock of white hair somewhere on its body.
-
-

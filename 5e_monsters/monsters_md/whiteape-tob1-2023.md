@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: White Ape
+size: Large
+type: Monstrosity
+alignment: Neutral
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 48
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 396
+---
+
 # White Ape
 
 *Large* *Monstrosity* *Neutral*

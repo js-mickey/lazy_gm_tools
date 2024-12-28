@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gnoll Demonfang
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 65
+hp_roll: 10d8+20
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 247
+---
+
 # Gnoll Demonfang
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 
 - **Multiattack:** The gnoll attacks three times with its Charging Claw.
 - **Charging Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) slashing damage  or 10 (2d6 + 3) slashing damage if this is the gnolls first attack on this target this turn. The gnoll may then move up to 10 feet without provoking opportunity attacks.
-
-

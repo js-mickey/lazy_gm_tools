@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chroma Lizard
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 84
+---
+
 # Chroma Lizard
 
 *Large* *Beast* *unaligned*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (1d10+3) slashing damage.
 - **Dazzling Display:** Causes its chrome scales to ripple casting dizzying reflections of light. Each creature that can see the chroma lizard must make DC 15 Con save or be blinded until the end of its next turn. The lizard can’t use this action while in darkness and creatures have advantage on the save if the chroma lizard is in dim light.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Devil
+size: Large
+type: Fiend
+alignment: 
+cr: 12
+xp: 8,400
+hp: 180
+hp_roll: 19d10+76
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 84
+---
+
 # Ice Devil
 
 *Large* *Fiend*
@@ -42,5 +61,3 @@
 ### Reactions
 
 - **Freezing Blood (1/Day):** When a creature within 60 feet that the devil can see hits it with a ranged attack or includes it in a spells area, the creature makes a DC 16 Constitution saving throw. On a failure, the creature takes 10 (3d6) cold damage and is slowed until the end of its next turn.
-
-

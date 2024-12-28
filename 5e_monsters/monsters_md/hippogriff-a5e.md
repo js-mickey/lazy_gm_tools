@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hippogriff
+size: Large
+type: Monstrosity
+alignment: 
+cr: 1
+xp: 200
+hp: 39
+hp_roll: 6d10+6
+ac: 12
+speed: walk 40 ft. fly 60 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 279
+---
+
 # Hippogriff
 
 *Large* *Monstrosity*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Claws:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
-
-

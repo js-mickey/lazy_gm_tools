@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Storm Spirit
+size: Medium
+type: Elemental
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 14
+speed: fly 40 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 350
+---
+
 # Storm Spirit
 
 *Medium* *Elemental* *neutral*
@@ -27,5 +46,3 @@
 - **Thunder Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) thunder damage.
 - **Shocking Bolt:** Ranged Weapon Attack: +4 to hit, range 60/240 ft., one target. Hit: 4 (1d4 + 2) lightning damage.
 - **Tempest (Recharge 6):** Each creature within 10 feet of the spirit must succeed on a DC 12 Dexterity saving throw. On a failure, a creature takes 5 (2d4) lightning damage, 5 (2d4) thunder damage, is thrown 10 feet in a random direction, and is knocked prone.
-
-

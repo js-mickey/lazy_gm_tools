@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Obeleric
+size: Medium
+type: Aberration
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d8+30
+ac: 15
+speed: walk 30 ft. burrow 15 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 294
+---
+
 # Obeleric
 
 *Medium* *Aberration* *chaotic evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Reflux:** When the obeleric takes bludgeoning it can vomit acid at one creature within 5 ft. of it. That creature must make DC 13 Dex save or take 3 (1d6) acid.
-
-

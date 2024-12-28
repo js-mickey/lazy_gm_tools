@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Light Cavalry
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 1
+xp: 200
+hp: 39
+hp_roll: 6d8+12
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 256
+---
+
 # Light Cavalry
 
 *Medium* *Humanoid* *lawful neutral*
@@ -27,5 +46,3 @@
 - **Cavalry Saber:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Fire Breath (Recharges after a Short or Long Rest):** The dragonborn breathes fire in a 15-foot cone. All creatures in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

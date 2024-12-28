@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Roachling Lord
+size: Small
+type: Humanoid
+alignment: Chaotic Neutral
+cr: 2
+xp: 450
+hp: 63
+hp_roll: 14
+ac: 15
+speed: walk 25 ft.
+senses: darkvision 60 ft. tremorsense 10 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 310
+---
+
 # Roachling Lord
 
 *Small* *Humanoid* *Chaotic Neutral*

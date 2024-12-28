@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scribe Devil
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 11d8+33
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 318
+---
+
 # Scribe Devil
 
 *Medium* *Fiend* *lawful evil*
@@ -34,5 +53,3 @@ At will: detect magic, illusory script
 - **Multiattack:** The scribe devil makes two attacks: one with its claws and one with its tail.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Tail:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage, and if the target is a creature, it must succeed on a DC 14 Constitution saving throw or become blinded as its eyes turn black and fill with infernal ink. The condition can be removed with a greater restoration spell or similar magic. Alternatively, a creature with a healer’s kit can drain the ink from a blinded creature’s eyes with a successful DC 14 Wisdom (Medicine) check. If this check fails by 5 or more, the attempt to drain the ink instead removes the blinded creature’s eyes and the creature takes 21 (6d6) piercing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Aboleth
+size: Huge
+type: Aberration
+alignment: 
+cr: 11
+xp: 7,200
+hp: 342
+hp_roll: 36d10+144
+ac: 17
+speed: walk 10 ft. swim 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 17
+---
+
 # Ancient Aboleth
 
 *Huge* *Aberration*

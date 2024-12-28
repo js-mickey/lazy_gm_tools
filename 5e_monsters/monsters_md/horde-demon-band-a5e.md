@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horde Demon Band
+size: Large
+type: Fiend
+alignment: 
+cr: 13
+xp: 10,000
+hp: 260
+hp_roll: 40d8+80
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 71
+---
+
 # Horde Demon Band
 
 *Large* *Fiend*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The band attacks twice.
 - **Mob Attack:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one creature. Hit: 50 (10d6 + 15) slashing damage  or half damage if the band is bloodied.
-
-

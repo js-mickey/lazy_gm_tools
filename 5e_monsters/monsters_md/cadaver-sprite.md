@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cadaver Sprite
+size: Tiny
+type: Undead
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 20
+hp_roll: 8d4
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 55
+---
+
 # Cadaver Sprite
 
 *Tiny* *Undead* *neutral evil*
@@ -24,5 +43,3 @@
 - **Shortbow:** Ranged Weapon Attack: +6 to hit, range 40/160 ft., one target. Hit: 7 (1d6 + 4) piercing damage. The target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
 - **Corrupting Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 2 (1d4) necrotic damage, and the target must make a DC 12 Constitution saving throw or take 2 (1d4) necrotic damage at the start of its next turn.
 - **Invisibility:** The cadaver sprite magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Monolith Footman
+size: Large
+type: Construct
+alignment: Neutral
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 16
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 275
+---
+
 # Monolith Footman
 
 *Large* *Construct* *Neutral*

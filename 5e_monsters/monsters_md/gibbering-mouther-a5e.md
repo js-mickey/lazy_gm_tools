@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gibbering Mouther
+size: Medium
+type: Aberration
+alignment: 
+cr: 2
+xp: 450
+hp: 67
+hp_roll: 9d8+27
+ac: 9
+speed: walk 20 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 245
+---
+
 # Gibbering Mouther
 
 *Medium* *Aberration*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Blinding Bile (Recharge 5-6):** Ranged Weapon Attack: +2 to hit, range 20/60 ft., one creature. Hit: 3 (1d6) acid damage, and the target is blinded until the end of the mouthers next turn.
-
-

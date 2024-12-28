@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Corpse Worm
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 8d10+32
+ac: 14
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 71
+---
+
 # Corpse Worm
 
 *Large* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Regurgitate (Recharge 5-6):** When a creature the corpse worm can see hits it with an attack while within 10 feet of it, the corpse worm regurgitates a portion of its stomach contents on the attacker. The target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. If the corpse worm has a swallowed creature when it uses this reaction, the worm must succeed on a DC 14 Constitution saving throw or also regurgitate the swallowed creature, which falls prone in a space within 5 feet of the target. If it regurgitates the swallowed creature, the target and the swallowed creature take 7 (2d6) acid damage.
-
-

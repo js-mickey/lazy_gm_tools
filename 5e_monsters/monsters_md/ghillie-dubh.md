@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghillie Dubh
+size: Medium
+type: Celestial
+alignment: lawful good
+cr: 1
+xp: 200
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 30 ft. climb 20 ft. swim 20 ft.
+senses: 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 165
+---
+
 # Ghillie Dubh
 
 *Medium* *Celestial* *lawful good*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
 - **Forest Knowledge (Recharge 6):** The ghillie dubh can alter nearby creatures’ knowledge of the forest, choosing one of the following. An effect lasts for 24 hours, until the creature leaves the ghillie dubh’s forest, or until the ghillie dubh dismisses it as a bonus action. <br>* Remove Knowledge. Each creature within 30 feet of the ghillie dubh must succeed on a DC 13 Charisma saving throw or become hopelessly lost in the ghillie dubh’s forest. The creature has disadvantage on Wisdom (Survival) checks and takes 50 percent more time on overland travel, even delaying clearheaded companions. <br>* Share Knowledge. Each creature within 30 feet of the ghillie dubh has advantage on Wisdom (Survival) checks. The creature can move at a fast pace through forest terrain, and difficult terrain composed of nonmagical plants doesn’t cost it extra movement.
-
-

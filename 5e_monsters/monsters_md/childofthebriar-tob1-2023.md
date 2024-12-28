@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Child of the Briar
+size: Tiny
+type: Plant
+alignment: Neutral Evil
+cr: 1
+xp: 200
+hp: 50
+hp_roll: 20d4
+ac: 13
+speed: walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 55
+---
+
 # Child of the Briar
 
 *Tiny* *Plant* *Neutral Evil*

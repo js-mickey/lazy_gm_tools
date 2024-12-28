@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troll, Rattleback
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 126
+hp_roll: 12d10+60
+ac: 16
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 374
+---
+
 # Troll, Rattleback
 
 *Large* *Giant* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 14 (2d8+5) piercing damage + 7 (2d6) poison. Target: DC 15 Con save or poisoned 1 min. While poisoned this way target can’t regain hp. Target can re-save at end of each of its turns success ends effect on itself.
 - **Claw:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.
 - **Venom Spray (Recharge 5–6):** Sprays its venom in a 30' cone. Each creature in that area: 28 (8d6) poison and is poisoned for 1 min (DC 15 Con half damage and isn’t poisoned). While poisoned in this way a creature can’t regain hp. A poisoned creature can re-save at end of each of its turns success ends effect on itself.
-
-

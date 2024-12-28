@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wendigo
+size: Medium
+type: Monstrosity
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 150
+hp_roll: 20d8+60
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 377
+---
+
 # Wendigo
 
 *Medium* *Monstrosity* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Icy Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage and 14 (4d6) cold damage.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
 - **Frozen Spittle:** Ranged Spell Attack: +7 to hit, range 100 ft., one target. Hit: 28 (8d6) cold damage, and the target must succeed on a DC 16 Dexterity saving throw or be restrained until the end of its next turn.
-
-

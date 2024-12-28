@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Mephit
+size: Small
+type: Elemental
+alignment: 
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d6
+ac: 12
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 325
+---
+
 # Ice Mephit
 
 *Small* *Elemental*
@@ -30,5 +49,3 @@
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) cold damage.
 - **Fog (1/Day):** The mephit exhales a cloud of fog  creating a 20-foot-radius sphere of fog centered on the mephit. The fog is heavily obscured to non-mephits. The fog cloud is immobile  spreads around corners  and remains for 10 minutes or until dispersed by a strong wind.
 - **Freezing Breath (1/Day):** The mephit exhales a 15-foot cone of ice. Each creature in the area makes a DC 10 Constitution saving throw  taking 5 (2d4) cold damage on a failed save or half damage on a success.
-
-

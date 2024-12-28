@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Herald of Slaughter
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 198
+---
+
 # Herald of Slaughter
 
 *Large* *Fiend* *chaotic evil*
@@ -36,5 +55,3 @@ At will: detect thoughts
 - **Enkindle Hate:** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 18 (4d8) fire damage, and the target must succeed on a DC 16 Constitution saving throw or be blinded until the end of its next turn.
 - **Gore:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 - **Cleaver:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage plus 9 (2d8) necrotic damage.
-
-

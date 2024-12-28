@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Niya-Atha Warrior
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 49
+hp_roll: 9d8+9
+ac: 16
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 290
+---
+
 # Niya-Atha Warrior
 
 *Medium* *Fey* *lawful neutral*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Enlarge:** Magically increases in size along with anything it is wearing or carrying. While enlarged it is Large doubles its damage dice on weapon attacks (included above) and makes Str checks and Str saves with advantage. While enlarged it also can no longer use the Standing Leap trait. If it lacks the room to become Large this action fails.
-
-

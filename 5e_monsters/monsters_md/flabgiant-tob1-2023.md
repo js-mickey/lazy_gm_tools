@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flab Giant
+size: Large
+type: Giant
+alignment: Chaotic Evil
+cr: 4
+xp: 1,100
+hp: 110
+hp_roll: 39
+ac: 14
+speed: walk 20 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 206
+---
+
 # Flab Giant
 
 *Large* *Giant* *Chaotic Evil*

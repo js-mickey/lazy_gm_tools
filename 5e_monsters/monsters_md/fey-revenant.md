@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fey Revenant
+size: Large
+type: Fey
+alignment: lawful evil
+cr: 7
+xp: 2,900
+hp: 161
+hp_roll: 17d10+68
+ac: 19
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 150
+---
+
 # Fey Revenant
 
 *Large* *Fey* *lawful evil*
@@ -35,5 +54,3 @@
 - **Shortsword:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage.
 - **Longbow:** Ranged Weapon Attack: +7 to hit, range 120/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 3 (1d6) poison damage.
 - **Queen’s Grasp:** Ranged Weapon Attack: +7 to hit, ranged 30/60 ft., one target. Hit: The target is restrained by icy wisps of shadow. While restrained, the creature takes 7 (2d6) cold damage at the start of each of its turns. As an action, the restrained creature can make a DC 15 Strength check, bursting through the icy shadow on a success. The icy shadow can also be attacked and destroyed (AC 10; 5 hp; resistance to bludgeoning, piercing, and slashing damage; immunity to cold, necrotic, poison, and psychic damage).
-
-

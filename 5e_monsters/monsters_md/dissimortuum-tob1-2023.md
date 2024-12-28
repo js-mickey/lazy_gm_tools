@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dissimortuum
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+cr: 7
+xp: 2,900
+hp: 112
+hp_roll: 45
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 106
+---
+
 # Dissimortuum
 
 *Medium* *Undead* *Chaotic Evil*

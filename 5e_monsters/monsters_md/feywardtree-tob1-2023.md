@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Feyward Tree
+size: Huge
+type: Construct
+alignment: Unaligned
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 48
+ac: 17
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 186
+---
+
 # Feyward Tree
 
 *Huge* *Construct* *Unaligned*

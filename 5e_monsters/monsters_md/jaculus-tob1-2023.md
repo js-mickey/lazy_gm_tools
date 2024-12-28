@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jaculus
+size: Small
+type: Dragon
+alignment: Neutral Evil
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 30
+ac: 15
+speed: walk 10 ft. fly 20 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 241
+---
+
 # Jaculus
 
 *Small* *Dragon* *Neutral Evil*

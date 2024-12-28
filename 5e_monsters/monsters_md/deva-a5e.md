@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deva
+size: Medium
+type: Celestial
+alignment: 
+cr: 10
+xp: 5,900
+hp: 153
+hp_roll: 18d8+72
+ac: 17
+speed: walk 30 ft. fly 90 ft.
+senses: truesight 30 ft. 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 19
+---
+
 # Deva
 
 *Medium* *Celestial*
@@ -34,5 +53,3 @@
 - **Divine Blast:** Ranged Spell Attack: +8 to hit  range 60 ft.  one target. Hit: 22 (5d8) radiant damage.
 - **Radiant Energy (1/Day):** The deva touches a creature other than itself. If the target is unwilling  the deva makes an attack roll with a +8 bonus. The deva can choose to magically heal 60 hit points of damage and end any blindness  curse  deafness  disease  or poison on the target. Alternatively  the deva can choose to deal 60 radiant damage to the target.
 - **Change Form:** The deva magically transforms into a beast or humanoid or back into its true form. It retains its deva statistics  including speech and telepathy  except that it has the size  movement modes  and traits of its new form.
-
-

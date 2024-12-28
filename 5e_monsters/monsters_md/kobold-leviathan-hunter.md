@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold, Leviathan Hunter
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 10
+xp: 5,900
+hp: 190
+hp_roll: 20d8+100
+ac: 17
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 254
+---
+
 # Kobold, Leviathan Hunter
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -41,5 +60,3 @@
 ### Reactions
 
 - **Grappled Redirect:** If it is target of an attack it can see while grappling a creature it can hold the grappled creature in the way and the grappled creature becomes attack's target instead.
-
-

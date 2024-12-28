@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Weirding Scroll
+size: Tiny
+type: Construct
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d4+12
+ac: 10
+speed: fly 10 ft. walk 0 ft.
+senses: blindsight 60 ft. (blind beyond this radius) passive perception 10
+passive_perception: -
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 376
+---
+
 # Weirding Scroll
 
 *Tiny* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Dominate:** A weirding scroll beguiles one humanoid that it can see within 30 feet. The target must succeed on a DC 13 Wisdom saving throw or be charmed for 1 hour. The charmed creature obeys the telepathic commands of the weirding scroll to the best of its ability. This action works like the dominate person spell, except the weirding scroll doesn't need to concentrate to maintain the domination, and it can't take total and precise control of the target. The weirding scroll can have only one humanoid under its control at one time. If it dominates another, the effect on the previous target ends.
 - **Tendril of Light:** Melee Spell Attack: +5 to hit, reach 10 ft., one target. Hit: 3 (1d6) psychic damage plus 3 (1d6) radiant damage.
-
-

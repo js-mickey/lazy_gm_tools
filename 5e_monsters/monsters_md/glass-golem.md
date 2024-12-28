@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Glass Golem
+size: Small
+type: Construct
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10d6+10
+ac: 12
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 200
+---
+
 # Glass Golem
 
 *Small* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Shatter:** When a glass golem takes bludgeoning damage, it can make one shard attack against each creature within 5 feet of it.
-
-

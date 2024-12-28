@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Incinis
+size: Large
+type: Elemental
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 171
+hp_roll: 18d10+72
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 226
+---
+
 # Incinis
 
 *Large* *Elemental* *neutral evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The incinis makes two magma fist attacks.
 - **Magma Fist:** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 14 (2d8 + 5) bludgeoning damage and 9 (2d8) fire damage.
 - **Wave of Magma (Recharge 5-6):** The incinis transforms into a wave of magma, moving up to its speed in a straight line. Each creature in the path where the incinis moves must make a DC 17 Dexterity saving throw. On a failure, a target takes 21 (6d6) fire damage and, if it is a Large or smaller creature, it is pushed ahead of the incinis and knocked prone in an unoccupied space within 5 feet of where the incinis ends its movement. On a success, a target takes half the damage and is neither pushed nor knocked prone.
-
-

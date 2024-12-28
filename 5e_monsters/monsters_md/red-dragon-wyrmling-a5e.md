@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Red Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 17
+speed: walk 30 ft. climb 30 ft. fly 60 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 119
+---
+
 # Red Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -25,5 +44,3 @@
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 20 (3d10 + 4) piercing damage.
 - **Fire Breath (Recharge 5-6):** The dragon exhales a blast of fire in a 15-foot cone. Each creature in that area makes a DC 15 Dexterity saving throw  taking 24 (7d6) fire damage on a failed save or half damage on a success.
-
-

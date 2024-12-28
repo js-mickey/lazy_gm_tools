@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Carbuncle
+size: Small
+type: Monstrosity
+alignment: chaotic good
+cr: 1
+xp: 200
+hp: 36
+hp_roll: 8d6+8
+ac: 12
+speed: climb 20 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 57
+---
+
 # Carbuncle
 
 *Small* *Monstrosity* *chaotic good*
@@ -28,5 +47,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Light Beam (Recharge 5-6):** The carbuncle shoots a 30-foot-long, 5-foot-wide line of scintillating light from the garnet on its forehead. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) radiant damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kraken
+size: Gargantuan
+type: Monstrosity
+alignment: 
+cr: 25
+xp: 75,000
+hp: 444
+hp_roll: 24d20+192
+ac: 20
+speed: walk 20 ft. swim 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 300
+---
+
 # Kraken
 
 *Gargantuan* *Monstrosity*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Anubian
+size: Medium
+type: Elemental
+alignment: Chaotic Evil
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 23
+---
+
 # Anubian
 
 *Medium* *Elemental* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mad Piper
+size: Large
+type: Construct
+alignment: neutral
+cr: 2
+xp: 450
+hp: 19
+hp_roll: 3d8+6
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 250
+---
+
 # Mad Piper
 
 *Large* *Construct* *neutral*
@@ -26,5 +45,3 @@
 
 - **Screaming Flail:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 2 (1d4) thunder damage.
 - **Terrible Dirge:** The mad piper plays a haunting dirge. Each creature of the mad piper’s choice that is within 30 feet of the piper and can hear the dirge must succeed o a DC 13 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the mad piper’s Terrible Dirge for the next 24 hours.
-
-

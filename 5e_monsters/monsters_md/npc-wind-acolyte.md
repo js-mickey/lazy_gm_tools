@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Wind Acolyte
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d8+42
+ac: 15
+speed: walk 30 ft. fly 50 ft.
+senses: blindsight 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 412
+---
+
 # Npc: Wind Acolyte
 
 *Medium* *Humanoid* *neutral*
@@ -33,5 +52,3 @@
 
 - **Buoying Wind:** Summons winds to break the fall of up to 5 falling creatures it can see within 60' of it. A falling creature’s rate of descent slows to 60' per round for 1 min. If a falling creature lands before effect ends it takes no falling damage and can land on its feet.
 - **Drift:** When a creature moves to within 15 ft. of the wind acolyte the acolyte can fly up to half its flying speed.
-
-

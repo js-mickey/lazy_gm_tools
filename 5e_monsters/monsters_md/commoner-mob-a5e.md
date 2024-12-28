@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Commoner Mob
+size: Huge
+type: Humanoid
+alignment: 
+cr: 0
+xp: 25
+hp: 45
+hp_roll: 10d8
+ac: 10
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 471
+---
+
 # Commoner Mob
 
 *Huge* *Humanoid*
@@ -27,5 +46,3 @@
 - **Clubs:** Melee Weapon Attack: +2 to hit  reach 5 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
 - **Stones:** Ranged Weapon Attack: +2 to hit  range 10/30 ft.  up to two targets. Hit: 10 (4d4) bludgeoning damage  or half damage if the mob is bloodied.
 - **When riled up by strident voices, angry people may coalesce into a group that acts like a single organism:** A mob might commit acts of violence its individual members would otherwise shun.
-
-

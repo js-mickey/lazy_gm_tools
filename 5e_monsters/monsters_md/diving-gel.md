@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Diving Gel
+size: Tiny
+type: Ooze
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 17
+hp_roll: 5d4+5
+ac: 13
+speed: walk 5 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 136
+---
+
 # Diving Gel
 
 *Tiny* *Ooze* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 5 (1d4+3) bludgeoning damage.
 - **Attach:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. The gel attaches itself to the head face or gills of a creature. If the creature is Large or smaller and can breathe air it continues to breathe normally as the air-filled gel provides breathable air for the creature. If the creature can’t breathe air it must hold its breath or begin to suffocate. If the gel is attached to a creature it has advantage on attack rolls vs. that creature. A creature including the target can take its action to detach the diving gel by succeeding on a DC 12 Str check.
-
-

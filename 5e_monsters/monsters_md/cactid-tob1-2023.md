@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cactid
+size: Large
+type: Plant
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 32
+ac: 14
+speed: walk 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 48
+---
+
 # Cactid
 
 *Large* *Plant* *Unaligned*

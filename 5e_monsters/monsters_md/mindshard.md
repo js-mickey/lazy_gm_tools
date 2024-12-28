@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mindshard
+size: Small
+type: Aberration
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 81
+hp_roll: 18d6+18
+ac: 16
+speed: walk 0 ft. fly 40 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 271
+---
+
 # Mindshard
 
 *Small* *Aberration* *neutral evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Enthralling Defense:** When a creature the mindshard can see within 30' of it hits it with an attack that creature must make DC 14 Cha save or be charmed until end of its next turn.
-
-

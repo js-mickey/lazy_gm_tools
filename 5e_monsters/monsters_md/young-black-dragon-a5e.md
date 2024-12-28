@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Black Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 144
+hp_roll: 17d10+51
+ac: 18
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 103
+---
+
 # Young Black Dragon
 
 *Large* *Dragon*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) acid damage. Instead of dealing piercing damage  the dragon can grapple the target (escape DC 16)  and a Medium or smaller creature grappled in this way is restrained. While grappling a creature  the dragon can't bite another creature.
 - **Claw:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Acid Breath (Recharge 5-6):** The dragon exhales sizzling acid in a 40-foot-long  5-foot-wide line. Each creature in that area makes a DC 15 Dexterity saving throw  taking 45 (10d8) acid damage on a failed save or half damage on a success. A creature that fails the save is blinded until the end of its next turn.
-
-

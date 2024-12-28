@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: One-Headed Clockwork Dragon
+size: Large
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 178
+hp_roll: 17d10+85
+ac: 16
+speed: fly 50 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 111
+---
+
 # One-Headed Clockwork Dragon
 
 *Large* *Construct* *unaligned*
@@ -38,5 +57,3 @@ Each circlet is a magic item that must be attuned.
 - **Fire Breath (Recharge 6):** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one.
 - **Oil Spray:** The dragon sprays oil in a 30-foot-cone. Each creature in the area must succeed on a DC 16 Dexterity saving throw or become vulnerable to fire damage until the end of the dragon's next turn.
 - **Tail Sweep:** The dragon swings its bladed tail. Each creature within 10 feet of the dragon must make a DC 17 Dexterity saving throw, taking 15 (2d8 + 6) slashing damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elf, Shadow Fey Executioner
+size: Medium
+type: Humanoid
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 172
+hp_roll: 23d8+69
+ac: 16
+speed: walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 169
+---
+
 # Elf, Shadow Fey Executioner
 
 *Medium* *Humanoid* *lawful evil*
@@ -36,5 +55,3 @@
 
 - **Recall Severed Head:** Commands all severed heads attached to creatures to detach and return to the executioner’s belt.
 - **Shadow Traveler (3/Day):** In shadows/dim light/darkness disappears into darkness and reappears in unoccupied space it can see within 30'. Smoke tendril appears at origin and destination.
-
-

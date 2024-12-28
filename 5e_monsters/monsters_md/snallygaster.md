@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snallygaster
+size: Huge
+type: Aberration
+alignment: unaligned
+cr: 15
+xp: 13,000
+hp: 207
+hp_roll: 18d12+90
+ac: 16
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 348
+---
+
 # Snallygaster
 
 *Huge* *Aberration* *unaligned*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Parry Spell:** If it succeeds on save vs. spell of 5th level or lower that targets only snallygaster spell has no effect. If snallygaster succeeds on save by 5+ spell is reflected back at spellcaster using slot level spell save DC attack bonus and spellcasting ability of caster
-
-

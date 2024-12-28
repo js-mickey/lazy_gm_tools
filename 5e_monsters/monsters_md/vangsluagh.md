@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vangsluagh
+size: Medium
+type: Aberration
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d8+40
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 359
+---
+
 # Vangsluagh
 
 *Medium* *Aberration* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Tentacle Lash:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
 - **Sonic Bullet:** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 10 (3d6) thunder damage, and the target must make a DC 13 Constitution saving throw or be deafened until the end of its next turn.
 - **Agonizing Trill (Recharge After a Short or Long Rest):** The vangsluagh increases the pitch of its cacophony to deadly levels. Each creature within 30 feet of the vangsluagh must make a DC 13 Constitution saving throw. On a failure, a creature takes 10 (3d6) thunder damage and is stunned for 1 minute. On a success, a creature takes half the damage and isn’t stunned. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

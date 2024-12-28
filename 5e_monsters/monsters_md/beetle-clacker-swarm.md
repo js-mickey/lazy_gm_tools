@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Beetle, Clacker Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 36
+hp_roll: 8d8
+ac: 14
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 30 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 54
+---
+
 # Beetle, Clacker Swarm
 
 *Medium* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit 0' 1 tgt in the swarm’s space. 14 (4d6) piercing damage or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
-
-

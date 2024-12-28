@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cueyatl Warrior
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 1
+xp: 200
+hp: 36
+hp_roll: 8d6+8
+ac: 13
+speed: climb 20 ft. swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 69
+---
+
 # Cueyatl Warrior
 
 *Small* *Humanoid* *lawful evil*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Battleaxe:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage plus 7 (2d6) poison damage, or 7 (1d10 + 2) slashing damage plus 7 (2d6) poison damage if used with two hands.
-
-

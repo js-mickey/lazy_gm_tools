@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Orniraptor
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 16
+hp_roll: 3d6+6
+ac: 11
+speed: walk 30 ft.
+senses: 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 285
+---
+
 # Orniraptor
 
 *Small* *Monstrosity* *unaligned*
@@ -26,5 +45,3 @@
 
 - **Peck:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Spit Stone:** Ranged Weapon Attack: +3 to hit, range 20/60 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghul
+size: Medium
+type: Undead
+alignment: evil alignment
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d8+42
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 169
+---
+
 # Ghul
 
 *Medium* *Undead* *any evil alignment*
@@ -33,5 +52,3 @@ At will: chill touch, fire bolt, ray of frost, shocking grasp
 
 - **Multiattack:** The ghul makes two attacks with its claws.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

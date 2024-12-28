@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Prismatic Adult
+size: Huge
+type: Dragon
+alignment: neutral
+cr: 16
+xp: 15,000
+hp: 212
+hp_roll: 17d12+102
+ac: 18
+speed: walk 50 ft. climb 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 22
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 140
+---
+
 # Dragon, Prismatic Adult
 
 *Huge* *Dragon* *neutral*

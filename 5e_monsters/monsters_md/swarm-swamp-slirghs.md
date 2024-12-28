@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm, Swamp Slirghs
+size: Large
+type: Elemental
+alignment: neutral
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d10
+ac: 10
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 363
+---
+
 # Swarm, Swamp Slirghs
 
 *Large* *Elemental* *neutral*
@@ -30,5 +49,3 @@
 - **Bites:** Melee Weapon Attack: +5 to hit, 0 ft., one creature, in the swarm’s space. 14 (4d6) piercing damage + 9 (2d8) poison or 7 (2d6) piercing damage + 4 (1d8) poison if the swarm has half its hp or fewer.
 - **Spit Swamp Sludge:** Ranged Weapon Attack: +5 to hit 20/60' one target 18 (4d8) poison or 9 (2d8) poison if the swarm has half its hp or fewer.
 - **Soggy Relocation (Recharge 5–6):** While at least one creature is in swarm’s space swarm uses Puddle Jump attempting to pull one creature along for the ride. Target magically teleported with swarm to swarm’s destination (DC 13 Str negates).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Leech
+size: Medium
+type: Construct
+alignment: neutral
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d8+18
+ac: 13
+speed: walk 30 ft. swim 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 66
+---
+
 # Clockwork Leech
 
 *Medium* *Construct* *neutral*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the clockwork leech attaches to the target. While attached, the leech doesn’t attack. Instead, at the start of each of the clockwork leech’s turns, the target loses 5 (1d6 + 2) hp due to blood loss, and the target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the leech’s next turn. The clockwork leech can detach itself by spending 5 feet of its movement. It does so after it drains 10 hp of blood from its target or the target dies. A creature, including the target, can use its action to detach the leech by succeeding on a DC 10 Strength check.
 - **Tail:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pixie
+size: Tiny
+type: Fey
+alignment: 
+cr: 1
+xp: 200
+hp: 2
+hp_roll: 1d4
+ac: 15
+speed: walk 10 ft. fly 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 202
+---
+
 # Pixie
 
 *Tiny* *Fey*
@@ -38,5 +57,3 @@
 ### Bonus Actions
 
 - **Invisibility:** The pixie and any equipment it wears or carries magically turns invisible until the pixie attacks, casts a spell, becomes incapacitated, or uses a bonus action to become visible.
-
-

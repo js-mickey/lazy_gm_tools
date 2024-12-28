@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ooze, Sinoper
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 170
+hp_roll: 20d8+80
+ac: 7
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 310
+---
+
 # Ooze, Sinoper
 
 *Medium* *Ooze* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** Three Paint Splash attacks.
 - **Paint Splash:** Melee or Ranged Weapon Attack: +9 to hit 5 ft. or range 20/60' one creature. 18 (3d8+5) acid and target is coated in paint. Roll a die. Even result: target is coated in a warm color paint such as red orange or yellow. Odd result: target is coated in a cool color paint such as blue green or purple. A creature including target can use its action to remove the paint.
 - **Foment Pigment (Recharge 4–6):** Activates latent magic in its paint burning/freezing paint off creatures affected by Paint Splash. Each creature coated in paint within 60' of it: 35 (10d6) cold (if coated in cool color) or fire (warm color) and poisoned 1 min (DC 16 Con half damage and isn’t poisoned). Each affected creature no longer coated in paint.
-
-

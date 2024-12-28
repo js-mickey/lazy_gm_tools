@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kinnara
+size: Medium
+type: Celestial
+alignment: lawful good
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: fly 50 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 17
+---
+
 # Kinnara
 
 *Medium* *Celestial* *lawful good*
@@ -37,5 +56,3 @@ At will: detect good and evil, guidance, light, spare the dying
 ### Reactions
 
 - **Share the Pain:** When the kinnara's partner is hit with a melee or ranged attack, the kinnara can teleport to an unoccupied space within 5 feet of its partner. The damage caused by the attack is divided evenly between the two kinnara.
-
-

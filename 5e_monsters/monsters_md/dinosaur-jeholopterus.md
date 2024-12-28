@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dinosaur, Jeholopterus
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 12
+hp_roll: 5d4
+ac: 14
+speed: walk 10 ft. fly 60 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 126
+---
+
 # Dinosaur, Jeholopterus
 
 *Small* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Blood Drain:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 8 (2d4+3) piercing damage and it attaches to the target. While attached jeholopterus doesn’t attack. Instead at start of each of jeholopterus’s turns target loses 8 (2d4+3) hp due to blood loss. The jeholopterus can detach itself by spending 5 ft. of its movement. It does so after it drains 15 hp of blood from the target or the target dies. A creature including the target can take its action to detach the jeholopterus by succeeding on a DC 13 Str check.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 7 (1d6+3) slashing damage.
-
-

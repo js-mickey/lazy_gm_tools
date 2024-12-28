@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Eater of Dust
+size: Medium
+type: Aberration
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 114
+hp_roll: 60
+ac: 17
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 153
+---
+
 # Eater of Dust
 
 *Medium* *Aberration* *Neutral Evil*

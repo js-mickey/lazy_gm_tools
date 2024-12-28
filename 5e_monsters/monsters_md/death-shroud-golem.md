@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Death Shroud Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 10d10+40
+ac: 12
+speed: fly 40 ft. walk 10 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 179
+---
+
 # Death Shroud Golem
 
 *Large* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 
 - **Smothering Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller creature. Hit: 10 (2d6 + 3) bludgeoning damage and the creature is grappled (escape DC 15). Until this grapple ends, the target is restrained, blinded, and unable to breathe, and the golem can automatically hit the target with its smothering slam but can’t use its smothering slam on another target.
 - **Direct Victim:** The death shroud golem forces a creature it is grappling to move up to the creature’s speed and make one attack with a melee weapon the creature is holding. If the creature isn’t holding a melee weapon, it makes one unarmed strike instead. The death shroud golem decides the direction of the movement and the target of the attack. The grappled creature can use its reaction and isn’t considered blinded or restrained when moving and attacking in this way.
-
-

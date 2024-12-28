@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Khargi
+size: Huge
+type: Fiend
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 147
+hp_roll: 14d12+56
+ac: 16
+speed: walk 30 ft. fly 20 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 251
+---
+
 # Khargi
 
 *Huge* *Fiend* *neutral evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Adaptive Carapace:** When it takes acid cold force lightning or thunder it can magically attune itself to that type of damage. Until end of its next turn khargi has resistance to damage of the triggering type and when it hits with any weapon target takes an extra 7 (2d6) damage of the triggering type.
-
-

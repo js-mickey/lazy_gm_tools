@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Astral Snapper
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 78
+hp_roll: 12d8+24
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 43
+---
+
 # Astral Snapper
 
 *Medium* *Aberration* *neutral evil*
@@ -28,5 +47,3 @@ From the time the astral snapper succeeds on the initial dive into the host thro
 
 - **Multiattack:** The astral snapper makes two attacks with its claws. If both attacks hit the same target, the target must succeed on a DC 13 Wisdom saving throw or its wound becomes a rift to the Astral Plane. The astral snapper immediately passes through, closing the rift behind it. The target is then affected by the astral snapper's Astral Devour trait.
 - **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
-
-

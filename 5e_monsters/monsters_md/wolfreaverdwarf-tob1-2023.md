@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wolf Reaver Dwarf
+size: Medium
+type: Humanoid
+alignment: Chaotic Alignment
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 36
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 412
+---
+
 # Wolf Reaver Dwarf
 
 *Medium* *Humanoid* *Any Chaotic Alignment*

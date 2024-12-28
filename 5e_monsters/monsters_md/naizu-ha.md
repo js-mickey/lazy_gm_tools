@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Naizu-Ha
+size: Small
+type: Fey
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 117
+hp_roll: 18d6+54
+ac: 17
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 223
+---
+
 # Naizu-Ha
 
 *Small* *Fey* *neutral evil*
@@ -30,5 +49,3 @@
 - **Scissor Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Scythe Tail:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
 - **Dagger Legs:** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) piercing damage.
-
-

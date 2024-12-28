@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wintergrim
+size: Small
+type: Fey
+alignment: chaotic good
+cr: 1/2
+xp: 100
+hp: 26
+hp_roll: 4d6+12
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 372
+---
+
 # Wintergrim
 
 *Small* *Fey* *chaotic good*
@@ -29,5 +48,3 @@
 
 - **Fist:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage.
 - **Handaxe:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) slashing damage, or 8 (1d8 + 4) slashing damage if used with two hands to make a melee attack.
-
-

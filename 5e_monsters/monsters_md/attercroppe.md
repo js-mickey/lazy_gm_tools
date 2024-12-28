@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Attercroppe
+size: Tiny
+type: Fey
+alignment: chaotic evil
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d4+6
+ac: 14
+speed: swim 30 ft. climb 20 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 32
+---
+
 # Attercroppe
 
 *Tiny* *Fey* *chaotic evil*
@@ -31,5 +50,3 @@ At will: poison spray
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
-
-

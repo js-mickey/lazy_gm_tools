@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Soldier
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d8+18
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 65
+---
+
 # Clockwork Soldier
 
 *Medium* *Construct* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Halberd:** Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) slashing damage.
 - **Overdrive Flurry (Recharge 6):** The soldier makes four halberd attacks. After taking this action, it is stunned until the end of its next turn.
-
-

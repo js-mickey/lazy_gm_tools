@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dark Servant
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 55
+hp_roll: 10d8+10
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 72
+---
+
 # Dark Servant
 
 *Medium* *Humanoid* *neutral evil*
@@ -29,5 +48,3 @@ against being charmed or frightened.
 - **Multiattack:** The dark servant makes two attacks with its sickle.
 - **Sickle:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
-
-

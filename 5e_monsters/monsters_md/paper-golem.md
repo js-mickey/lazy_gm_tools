@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Paper Golem
+size: Tiny
+type: Construct
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 2d4+2
+ac: 13
+speed: fly 30 ft. walk 20 ft.
+senses: darkvision 30 ft. passive perception 8
+passive_perception: -
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 176
+---
+
 # Paper Golem
 
 *Tiny* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 ### Actions
 
 - **Paper Cut:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
-
-

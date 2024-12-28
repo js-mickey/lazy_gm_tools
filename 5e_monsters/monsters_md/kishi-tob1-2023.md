@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kishi
+size: Medium
+type: Fiend
+alignment: Chaotic Evil
+cr: 8
+xp: 3,900
+hp: 119
+hp_roll: 56
+ac: 18
+speed: walk 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 84
+---
+
 # Kishi
 
 *Medium* *Fiend* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spawn of Alquam
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d10+48
+ac: 16
+speed: fly 60 ft. walk 20 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 95
+---
+
 # Spawn of Alquam
 
 *Large* *Fiend* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
 - **Talon:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 - **Gloomspittle:** Ranged Weapon Attack: +6 to hit, range 30 ft., one creature. Hit: 10 (2d6 + 3) necrotic damage, and the target must succeed on a DC 15 Dexterity saving throw or be blinded until the end of its next turn.
-
-

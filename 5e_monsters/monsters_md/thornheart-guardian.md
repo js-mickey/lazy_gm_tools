@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thornheart Guardian
+size: Large
+type: Construct
+alignment: lawful evil
+cr: 9
+xp: 5,000
+hp: 133
+hp_roll: 14d10+56
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 346
+---
+
 # Thornheart Guardian
 
 *Large* *Construct* *lawful evil*
@@ -32,5 +51,3 @@
 - **Barbed Greatsword:** Melee Weapon Attack +8 to hit, reach 5 ft, one target. Hit: 13 (2d8 + 4) slashing damage plus 7 (2d6) piercing damage.
 - **Thorny Whip:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 11 (2d6 + 4) piercing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained, the guardian can automatically hit the target with its thorny whip, and the guardian can’t make thorny whip attacks against other targets.
 - **Grasp of the Briar (Recharge 5-6):** The thornheart guardian summons grasping, thorny vines to impede and drain the life of its foes. The ground within 20 feet of the thornheart guardian becomes difficult terrain for 1 minute. This difficult terrain doesn’t cost the thornheart guardian extra movement. A creature that enters or starts its turn in the area must succeed on a DC 16 Strength saving throw or be restrained by the plants. A restrained creature takes 7 (2d6) necrotic damage at the start of each of its turns. A creature, including the restrained target, can take its action to break the target free of the vines by succeeding on a DC 16 Strength check.
-
-

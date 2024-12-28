@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Merclops
+size: Huge
+type: Giant
+alignment: 
+cr: 7
+xp: 2,900
+hp: 126
+hp_roll: 11d12+55
+ac: 13
+speed: swim 60 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 58
+---
+
 # Merclops
 
 *Huge* *Giant*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Big Windup:** When a creature hits the merclops with a melee attack, the merclops readies a powerful strike against its attacker. The merclops has advantage on the next club attack it makes against the attacker before the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hebi-Doku
+size: Medium
+type: Fey
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 123
+hp_roll: 13d8+65
+ac: 15
+speed: climb 40 ft. walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 222
+---
+
 # Hebi-Doku
 
 *Medium* *Fey* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Disabling Sting:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (3d4 + 5) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or be unable to use bonus actions and reactions until the end of its next turn.
 - **Toxic Spittle:** Ranged Weapon Attack: +8 to hit, range 30/90 ft., one target. Hit: 10 (3d6) poison damage, and the target must make a DC 16 Constitution saving throw. On a failure, the target is paralyzed for 1 minute. On a success, the target is poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Transfixing Rattle:** The hebi-doku rattles its tail at one creature it can see within 30 feet of it. The target must make a DC 14 Wisdom saving throw or be incapacitated and have its speed reduced to 0 until the end of its next turn.
-
-

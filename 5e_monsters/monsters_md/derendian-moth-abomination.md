@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derendian Moth Abomination
+size: Huge
+type: Monstrosity
+alignment: neutral evil
+cr: 12
+xp: 8,400
+hp: 210
+hp_roll: 20d12+80
+ac: 14
+speed: walk 30 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 96
+---
+
 # Derendian Moth Abomination
 
 *Huge* *Monstrosity* *neutral evil*

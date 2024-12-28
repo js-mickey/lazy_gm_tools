@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Huli Jing
+size: Medium
+type: Fey
+alignment: neutral
+cr: 9
+xp: 5,000
+hp: 130
+hp_roll: 20d8+40
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 21
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 204
+---
+
 # Huli Jing
 
 *Medium* *Fey* *neutral*
@@ -36,5 +55,3 @@ At will: charm person, invisibility (self only), major image
 - **Jade Dagger (Humanoid Form Only):** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage and 7 (2d6) psychic damage
 - **Curse of Luck:** Each creature of the huli jing’s choice within 60 feet of it and aware of it must succeed on a DC 16 Wisdom saving throw or have disadvantage on attack rolls and saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the huli jing’s Curse of Luck for the next 24 hours. Alternatively, the huli jing can choose up to three willing creatures within 60 feet of it. Each target has advantage on attack rolls and saving throws for 1 minute.
 - **Draining Glance (Recharge 5-6):** The huli jing draws sustenance from the psyches of living creatures in a 30-foot cone. Each creature in the area that isn’t a construct or an undead must make a DC 16 Wisdom saving throw, taking 28 (8d6) psychic damage on a failed save, or half as much damage on a successful one. The huli jing regains hp equal to the single highest amount of psychic damage dealt.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Khalkos
+size: Medium
+type: Aberration
+alignment: 
+cr: 9
+xp: 5,000
+hp: 130
+hp_roll: 20d8+40
+ac: 16
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 294
+---
+
 # Khalkos
 
 *Medium* *Aberration*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Telekinetic Shield:** When the khalkos is hit by an attack made by a creature that it can see or sense with its Detect Alignment trait, it gains a +4 bonus to AC against the triggering attack.
-
-

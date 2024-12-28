@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Oasis Keeper
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 123
+hp_roll: 13d12+39
+ac: 15
+speed: swim 30 ft. walk 30 ft.
+senses: blindsight 20 ft. darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 273
+---
+
 # Oasis Keeper
 
 *Huge* *Monstrosity* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** The oasis keeper makes two attacks: one with its stinger and one with its bite
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft, one target. Hit: 21 (3d10 + 5) piercing damage.
 - **Stinger:** Melee Weapon Attack: +9 to hit, reach 10 ft, one target. Hit: 14 (2d8 + 5) piercing damage, and the target must make a DC 15 Constitution saving throw. On a failure, the target takes 14 (4d6) poison damage and is incapacitated for 1 minute. On a success, the target takes half the damage and isn’t incapacitated. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bloated Ghoul
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 142
+hp_roll: 19d8+57
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 166
+---
+
 # Bloated Ghoul
 
 *Medium* *Undead* *neutral evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (3d8 + 3) piercing damage, and, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or contract darakhul fever.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 14 Constitution saving throw or have its speed halved and have disadvantage on Dexterity-based checks and saving throws for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Hideous Feast:** The bloated ghoul feeds on a corpse within 5 feet of it that is less than 1 week old. It regains 1d8 hit points per size category of the creature it consumes. For example, the ghoul regains 1d8 hit points when consuming a Tiny creature or 4d8 hit points when consuming a Large creature. The bloated ghoul can’t use Hideous Feast on a corpse if it or another bloated ghoul has already used Hideous Feast on the corpse.
-
-

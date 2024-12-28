@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trickster Priest
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 32
+hp_roll: 5d8+10
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 488
+---
+
 # Trickster Priest
 
 *Medium* *Humanoid*
@@ -44,5 +63,3 @@
 
 - **Healing Word (1st-Level; V):** The priest or a living creature within 60 feet regains 5 (1d4 + 3) hit points. The priest can't cast this spell and a 1st-level or higher spell on the same turn.
 - **Priests devoted to trickster gods cast spells of deception that make them more akin to rogues than other priests:** 
-
-

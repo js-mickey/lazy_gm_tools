@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Shadow Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 19
+xp: 22,000
+hp: 212
+hp_roll: 17d12+102
+ac: 18
+speed: walk 40 ft. climb 40 ft. fly 80 ft. swim 40 ft.
+senses: darkvision 240 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 136
+---
+
 # Adult Shadow Dragon
 
 *Huge* *Dragon*

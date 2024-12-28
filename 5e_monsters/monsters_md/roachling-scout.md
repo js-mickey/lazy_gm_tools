@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Roachling Scout
+size: Small
+type: Humanoid
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 63
+hp_roll: 14d6+14
+ac: 14
+speed: climb 15 ft. walk 25 ft.
+senses: darkvision 60 ft. tremorsense 10 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 319
+---
+
 # Roachling Scout
 
 *Small* *Humanoid* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** The roachling scout makes two begrimed shortsword attacks or two begrimed dart attacks.
 - **Begrimed Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage.
 - **Begrimed Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 7 (2d6) poison damage.
-
-

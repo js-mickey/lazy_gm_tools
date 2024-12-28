@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Dwarf Defender
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 477
+---
+
 # Mountain Dwarf Defender
 
 *Medium* *Humanoid*
@@ -30,5 +49,3 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage.
 - **Knightly Inspiration (1/Day):** The knight inspires creatures of their choice within 30 feet that can hear and understand them. For the next minute  inspired creatures gain an expertise die (1d4) on attack rolls and saving throws. A creature can benefit from only one Knightly Inspiration at a time  and the knight cannot target themselves.
 - **Mountain dwarf defenders are champions who stand fast in battle, never surrendering an inch of ground:** A line of mountain dwarf defenders offers more protection than a wall of solid stone.
-
-

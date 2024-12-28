@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jaanavar Jal
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 172
+hp_roll: 15d12+75
+ac: 15
+speed: swim 60 ft. walk 20 ft.
+senses: blindsense 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 229
+---
+
 # Jaanavar Jal
 
 *Huge* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage
 - **Constrict:** Melee Weapon Attack: +8 to hit, reach 5 ft., one Large or smaller creature. Hit: 10 (1d10 + 5) bludgeoning damage and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained and the jaanavar jal can't constrict another creature.
 - **Flaming Oil Spittle (Recharge 5-6):** The jaanavar jal expels a line of burning oil that is 40 feet long and 5 feet wide from glands beside its mouth. Each creature in that line must make a DC 16 Dexterity saving throw, taking 31 (9d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

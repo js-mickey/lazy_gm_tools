@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ningyo
+size: Small
+type: Aberration
+alignment: neutral evil
+cr: 7
+xp: 2,900
+hp: 77
+hp_roll: 14d6+28
+ac: 15
+speed: fly 60 ft. swim 60 ft. walk 0 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 278
+---
+
 # Ningyo
 
 *Small* *Aberration* *neutral evil*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Share Pain:** When the ningyo takes damage, it can choose to take half the damage instead. The ningyo then chooses a creature within 60 feet. The target must succeed on a DC 15 Constitution saving throw or have disadvantage until the end of its next turn as it is wracked with the pain of the attack.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wormhearted Suffragan
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+cr: 5
+xp: 1,800
+hp: 120
+hp_roll: 48
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 398
+---
+
 # Wormhearted Suffragan
 
 *Medium* *Undead* *Chaotic Evil*

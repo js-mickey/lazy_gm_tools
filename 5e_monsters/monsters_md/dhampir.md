@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dhampir
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 106
+---
+
 # Dhampir
 
 *Medium* *Humanoid* *any alignment*
@@ -29,5 +48,3 @@
 - **Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Dark Thirst:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature that is grappled by the dhampir, incapacitated, or restrained. Hit: 1 piercing damage plus 3 (1d6) necrotic damage. The dhampir regains hp equal to the amount of necrotic damage dealt.
 - **Predatory Charm:** The dhampir magically beguiles the mind of one humanoid it can see within 30 feet for 1 hour. The target must succeed on a DC 13 Charisma saving throw or the dhampir has advantage on Charisma checks against the target. If the dhampir or any of its allies damage the target, the effect ends. If the target's saving throw is successful or the effect ends, the target is immune to this dhampir's Predatory Charm for the next 24 hours. A creature immune to being charmed is immune to this effect. A dhampir can have only one target affected by its Predatory Charm at a time. If it uses its Predatory Charm on another target, the effect on the previous target ends.
-
-

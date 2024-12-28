@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snow Cat
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d8
+ac: 12
+speed: climb 40 ft. walk 50 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 346
+---
+
 # Snow Cat
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
-
-

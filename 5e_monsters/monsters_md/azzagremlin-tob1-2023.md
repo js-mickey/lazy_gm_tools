@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Azza Gremlin
+size: Small
+type: Fey
+alignment: Neutral
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 2d6
+ac: 14
+speed: walk 40 ft. fly 10 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 222
+---
+
 # Azza Gremlin
 
 *Small* *Fey* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rotsam Swarm
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 142
+hp_roll: 15d10+60
+ac: 9
+speed: walk 10 ft. swim 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 309
+---
+
 # Rotsam Swarm
 
 *Large* *Ooze* *unaligned*
@@ -28,5 +47,3 @@
 ### Actions
 
 - **Diseased Bites:** Melee Weapon Attack: +7 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 10 (4d4) piercing damage plus 21 (6d6) necrotic damage, or 5 (2d4) piercing damage and 10 (3d6) necrotic damage if the swarm has half of its hp or fewer. The target must make a DC 15 Constitution saving throw or contract a disease (see the Bog Rot trait).
-
-

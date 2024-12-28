@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rotting Wind
+size: Large
+type: Undead
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 110
+hp_roll: 39
+ac: 15
+speed: walk 60 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 311
+---
+
 # Rotting Wind
 
 *Large* *Undead* *Neutral Evil*

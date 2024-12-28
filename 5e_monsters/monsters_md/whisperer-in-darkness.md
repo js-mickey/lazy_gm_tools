@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Whisperer in Darkness
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 15
+xp: 13,000
+hp: 142
+hp_roll: 15d8+75
+ac: 17
+speed: walk 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 378
+---
+
 # Whisperer in Darkness
 
 *Medium* *Aberration* *neutral evil*
@@ -33,5 +52,3 @@ At will: alter self, detect magic, detect thoughts, disguise self, fear, identif
 
 - **Multiattack:** The whisperer in the darkness makes two Grasp of the Void attacks.
 - **Grasp of the Void:** Melee Spell Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (6d6) force damage, and the target must succeed on a DC 18 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

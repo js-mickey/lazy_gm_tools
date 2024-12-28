@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dread Knight
+size: Medium
+type: Undead
+alignment: 
+cr: 19
+xp: 22,000
+hp: 262
+hp_roll: 25d8+150
+ac: 18
+speed: walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 184
+---
+
 # Dread Knight
 
 *Medium* *Undead*
@@ -37,5 +56,3 @@
 
 - **Cursed Greatsword:** The dread knight makes a cursed greatsword attack.
 - **Break Magic:** The dread knight ends all spell effects created by a 5th-level or lower spell slot on a creature, object, or point within 30 feet.
-
-

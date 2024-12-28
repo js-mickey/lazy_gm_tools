@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Sun Orc
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: climb 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 289
+---
+
 # Black Sun Orc
 
 *Medium* *Humanoid* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The orc makes two attacks with its greatclub or with its sling.
 - **Greatclub:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
 - **Sling:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-
-

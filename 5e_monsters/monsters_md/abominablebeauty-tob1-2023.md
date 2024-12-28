@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Abominable Beauty
+size: Medium
+type: Fey
+alignment: Neutral Evil
+cr: 11
+xp: 7,200
+hp: 187
+hp_roll: 88
+ac: 18
+speed: walk 30 ft.
+senses: 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 11
+---
+
 # Abominable Beauty
 
 *Medium* *Fey* *Neutral Evil*

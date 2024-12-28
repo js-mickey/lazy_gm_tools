@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fear Smith
+size: Medium
+type: Fey
+alignment: Chaotic Neutral
+cr: 10
+xp: 5,900
+hp: 149
+hp_roll: 46
+ac: 17
+speed: walk 15 ft.
+senses: blindsight 30 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 169
+---
+
 # Fear Smith
 
 *Medium* *Fey* *Chaotic Neutral*

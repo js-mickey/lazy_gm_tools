@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drakon
+size: Large
+type: Dragon
+alignment: Unaligned
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 28
+ac: 16
+speed: walk 40 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 147
+---
+
 # Drakon
 
 *Large* *Dragon* *Unaligned*

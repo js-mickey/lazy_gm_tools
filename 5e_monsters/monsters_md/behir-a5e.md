@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Behir
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 11
+xp: 7,200
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 60 ft. climb 40 ft. swim 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 33
+---
+
 # Behir
 
 *Huge* *Monstrosity*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Vengeful Breath (1/Day:** When struck by a melee attack, the behir immediately recharges and uses Lightning Breath, including the attacker in the area of effect.
-
-

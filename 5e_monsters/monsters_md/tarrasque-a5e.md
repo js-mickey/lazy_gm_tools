@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tarrasque
+size: Titanic
+type: Monstrosity
+alignment: 
+cr: 30
+xp: 155,000
+hp: 1230
+hp_roll: 60d20+600
+ac: 25
+speed: walk 60 ft. burrow 30 ft.
+senses: blindsight 120 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 401
+---
+
 # Tarrasque
 
 *Titanic* *Monstrosity*

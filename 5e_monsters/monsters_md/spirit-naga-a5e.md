@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spirit Naga
+size: Large
+type: Monstrosity
+alignment: 
+cr: 6
+xp: 2,300
+hp: 85
+hp_roll: 10d10+30
+ac: 16
+speed: walk 40 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 343
+---
+
 # Spirit Naga
 
 *Large* *Monstrosity*
@@ -47,5 +66,3 @@
 ### Reactions
 
 - **Shield (1st-Level; V):** When the naga is hit by an attack or targeted by magic missile, it gains a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the beginning of its next turn.
-
-

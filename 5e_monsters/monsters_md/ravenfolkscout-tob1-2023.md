@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ravenfolk Scout
+size: Medium
+type: Humanoid
+alignment: Neutral
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 304
+---
+
 # Ravenfolk Scout
 
 *Medium* *Humanoid* *Neutral*

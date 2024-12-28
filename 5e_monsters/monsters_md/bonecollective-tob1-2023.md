@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Collective
+size: Small
+type: Swarm
+alignment: Chaotic Evil
+cr: 8
+xp: 3,900
+hp: 120
+hp_roll: 64
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 39
+---
+
 # Bone Collective
 
 *Small* *Swarm* *Chaotic Evil*

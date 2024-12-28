@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grave Behemoth
+size: Huge
+type: Undead
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 210
+hp_roll: 20d12+80
+ac: 9
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 208
+---
+
 # Grave Behemoth
 
 *Huge* *Undead* *neutral evil*
@@ -33,5 +52,3 @@
 - **Slam:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
 - **Gorge:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 25 (3d12 + 6) piercing damage plus 14 (4d6) necrotic damage.
 - **Hurl Flesh (Recharge 5-6):** The grave behemoth vomits putrid flesh and 5 (2d4) zombies in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw. On a failure, a target takes 38 (11d6) necrotic damage and is covered in rotting slime for 1 minute. On a success, a target takes half the necrotic damage and isn't covered in slime. A creature, including the target, can take an action to clean off the slime. Zombies under the grave behemoth's control have advantage on attack rolls against creatures covered in a grave behemoth's slime.
-
-

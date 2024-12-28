@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Death Worm
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8d6+16
+ac: 13
+speed: walk 20 ft. burrow 20 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 106
+---
+
 # Death Worm
 
 *Small* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one creature,. 4 (1d4+2) piercing damage + 2 (1d4) lightning and 4 (1d8) poison and the target must make DC 12 Con save or succumb to worm’s Dreaming Venom (above).
 - **Spit Poison:** Ranged Weapon Attack: +4 to hit 15/30' one creature. 9 (2d8) poison and the target must make DC 12 Con save or succumb to the worm’s venom (see Dreaming Venom).
-
-

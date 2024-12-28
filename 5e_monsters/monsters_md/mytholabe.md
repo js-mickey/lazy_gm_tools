@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mytholabe
+size: Large
+type: Construct
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 152
+hp_roll: 16d10+64
+ac: 18
+speed: fly 30 ft. hover True ft. walk 0 ft.
+senses: 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 271
+---
+
 # Mytholabe
 
 *Large* *Construct* *unaligned*
@@ -35,5 +54,3 @@
 - **Multiattack:** The mytholabe makes three heroic jab attacks. When its Purifying Resonance is available, it can use the resonance in place of one heroic jab attack.
 - **Heroic Jab:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) radiant damage.
 - **Purifying Resonance (Recharge 5-6):** The mytholabe thrums with a harmonic resonance that brings order to those within 30 feet. Each creature in that area must succeed on a DC 16 Constitution saving throw or have all conditions and magical effects on it ended immediately and any concentration it's maintaining broken.
-
-

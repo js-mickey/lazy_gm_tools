@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brimstone Locusthound
+size: Medium
+type: Monstrosity
+alignment: neutral
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d8+24
+ac: 15
+speed: walk 30 ft. fly 60 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 51
+---
+
 # Brimstone Locusthound
 
 *Medium* *Monstrosity* *neutral*
@@ -26,5 +45,3 @@
 - **Multiattack:** The brimstone locusthound makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) slashing damage.
 - **Sticky Spittle:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 9 (2d6 + 2) acid damage, and the target must succeed on a DC 13 Dexterity saving throw or be restrained until the end of its next turn.
-
-

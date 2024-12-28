@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archon, Word
+size: Tiny
+type: Celestial
+alignment: lawful good
+cr: 1
+xp: 200
+hp: 28
+hp_roll: 8d4+8
+ac: 13
+speed: walk 0 ft. fly 90 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 44
+---
+
 # Archon, Word
 
 *Tiny* *Celestial* *lawful good*
@@ -32,5 +51,3 @@
 - **Forceful Words:** Ranged Spell Attack: +5 to hit, 90 ft., one target, 10 (2d6+3) radiant.
 - **Share Smite (3/Day):** Empowers the weapon of one creature within 30' of it that can hear and see it for 1 min. The first time the target hits with the weapon on a turn deals extra 9 (2d8) radiant. If creature the target hits is a Fiend or Undead it takes 13 (3d8) radiant instead.
 - **Spellcasting:** Cha (DC 13) no material or somatic components: At will: dancing lights message true strike1/day ea: faerie fire heroism
-
-

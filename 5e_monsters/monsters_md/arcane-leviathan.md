@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arcane Leviathan
+size: Gargantuan
+type: Construct
+alignment: unaligned
+cr: 16
+xp: 15,000
+hp: 279
+hp_roll: 18d20+90
+ac: 17
+speed: walk 10 ft. swim 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 40
+---
+
 # Arcane Leviathan
 
 *Gargantuan* *Construct* *unaligned*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Arcane Barrage:** Sends arcane energy toward a creature it can see within 120' of it. Target begins to glow with arcane energy and at end of target’s next turn: 35 (10d6) radiant (DC 19 Con half). Damage is divided evenly between target and all creatures within 10 ft. of it except leviathan.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devil Bough
+size: Huge
+type: Fiend
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d12+36
+ac: 14
+speed: walk 10 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 302
+---
+
 # Devil Bough
 
 *Huge* *Fiend* *neutral evil*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Arcasynthesis:** When a spell of 5th level or lower is cast within 100 feet of the devil bough, it attempts to synthesize the magic. The spell resolves as normal, but the devil bough has a 50% chance of regaining 5 (1d10) hp per level of the spell cast.
-
-

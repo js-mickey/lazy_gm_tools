@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Beach Weird
+size: Large
+type: Elemental
+alignment: neutral
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d10+10
+ac: 14
+speed: walk 20 ft. swim 40 ft.
+senses: blindsight 30 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 52
+---
+
 # Beach Weird
 
 *Large* *Elemental* *neutral*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 16 (3d8+3) bludgeoning damage and target: DC 13 Str save or be pushed up to 10 ft. away from the beach weird.
 - **Create Quicksand (3/Day):** Creates a 10 ft. radius 5 ft. deep area of quicksand centered on a point it can see within 30' of it. A creature that starts its turn in the quicksand or enters area for the first time on a turn: DC 13 Str save or be grappled by it. Grappled creature must make DC 13 Str save at start of each of its turns or sink 1 foot into the quicksand. A Small creature that sinks 2'+ or a Med creature that sinks 3'+ is restrained instead.
-
-

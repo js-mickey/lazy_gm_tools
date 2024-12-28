@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mydnari
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d8+4
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 264
+---
+
 # Mydnari
 
 *Medium* *Humanoid* *neutral evil*
@@ -28,5 +47,3 @@
 
 - **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Acid Glob:** Ranged Weapon Attack: +5 to hit, range 30/60 ft., one target. Hit: 5 (1d4 + 3) acid damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

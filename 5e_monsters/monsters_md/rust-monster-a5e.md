@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rust Monster
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 5d8+5
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 375
+---
+
 # Rust Monster
 
 *Medium* *Monstrosity*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Defensive Bite:** When the rust monster is hit by a melee attack made by a creature it can see within 5 feet, it bites the attacker.
-
-

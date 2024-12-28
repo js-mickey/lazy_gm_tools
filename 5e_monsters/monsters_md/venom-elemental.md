@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Venom Elemental
+size: Large
+type: Elemental
+alignment: neutral
+cr: 4
+xp: 1,100
+hp: 93
+hp_roll: 11d10+33
+ac: 14
+speed: swim 50 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 138
+---
+
 # Venom Elemental
 
 *Large* *Elemental* *neutral*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The venom elemental makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 10 ft., one creature. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage, and the creature must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its next turn.
-
-

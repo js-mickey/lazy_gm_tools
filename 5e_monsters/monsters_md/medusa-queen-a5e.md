@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Medusa Queen
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 11
+xp: 7,200
+hp: 153
+hp_roll: 18d10+54
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 323
+---
+
 # Medusa Queen
 
 *Medium* *Monstrosity*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tosculi Jeweled Drone
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d6+48
+ac: 15
+speed: fly 60 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 355
+---
+
 # Tosculi Jeweled Drone
 
 *Small* *Humanoid* *lawful evil*
@@ -33,5 +52,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 ### Reactions
 
 - **Protect the Queen:** When a creature makes an attack against a tosculi hive queen, the jeweled drone grants a +2 bonus to the queen's AC if the drone is within 5 feet of the queen.
-
-

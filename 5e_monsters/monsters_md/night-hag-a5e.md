@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Night Hag
+size: Medium
+type: Fey
+alignment: 
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d8+42
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 270
+---
+
 # Night Hag
 
 *Medium* *Fey*
@@ -30,5 +49,3 @@
 - **Shapeshift:** The hag magically polymorphs into a Small or Medium humanoid. Equipment it is carrying isnt transformed. It retains its claws in any form. It has no true form and remains in its current form when it dies.
 - **Planar Travel (3/Day):** The hag magically enters the Ethereal Plane from the Material Plane  or vice versa. Alternatively  the hag is magically transported to the Material Plane  Hell  or the Abyss  arriving within 10 miles of its desired destination.
 - **Nightmare Haunting (1/Day):** While on the Ethereal Plane  the hag magically touches a sleeping creature that is under the night hags Curse and is not protected by a magic circle or protection from evil and good spell or similar magic. As long as the touch persists  the target has terrible nightmares. If the nightmares last for 1 hour  the target gains no benefit from the rest  and its hit point maximum is reduced by 5 (1d10) until the curse ends. If this effect reduces the targets hit points maximum to 0  the target dies and the hag captures its soul. The reduction to the targets hit point maximum lasts until removed by greater restoration or similar magic.
-
-

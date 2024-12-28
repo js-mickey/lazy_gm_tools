@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Guard
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/8
+xp: 25
+hp: 11
+hp_roll: 2d8+2
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 492
+---
+
 # Guard
 
 *Medium* *Humanoid*
@@ -20,5 +39,3 @@
 
 - **Spear:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 3 (1d6) piercing damage.
 - **Guards patrol city gates or accompany caravans:** Most guards are not as well trained or equipped as army soldiers  but their presence can deter bandits and opportunistic monsters.
-
-

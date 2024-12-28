@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Megapede
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d10+20
+ac: 15
+speed: climb 40 ft. walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 266
+---
+
 # Megapede
 
 *Large* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Stinger:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage and the target must make a DC 13 Constitution saving throw or become poisoned for 1 minute.
 - **Consume Metal:** The megapede consumes one unattended Medium or smaller metal object or attempts to consume a metal object worn or held by the creature it is grappling. The grappled creature must succeed on a DC 13 Strength saving throw or the object is consumed. If the object is a magic item, the creature has advantage on the saving throw. Magic items consumed by the megapede stay intact in its stomach for 1d4 hours before they are destroyed.
 - **Acid Spray (Recharge 6):** The megapede spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
-
-

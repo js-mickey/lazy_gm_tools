@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Howler Baboon
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 2d8+4
+ac: 12
+speed: climb 30 ft. walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 380
+---
+
 # Howler Baboon
 
 *Medium* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Fist:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
-
-

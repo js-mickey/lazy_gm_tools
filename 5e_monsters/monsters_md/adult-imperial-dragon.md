@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Imperial Dragon
+size: Huge
+type: Dragon
+alignment: neutral
+cr: 20
+xp: 25,000
+hp: 297
+hp_roll: 22d12+154
+ac: 19
+speed: fly 80 ft. walk 40 ft. swim 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 25
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 117
+---
+
 # Adult Imperial Dragon
 
 *Huge* *Dragon* *neutral*

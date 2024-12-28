@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Colossus
+size: Gargantuan
+type: Undead
+alignment: chaotic evil
+cr: 13
+xp: 10,000
+hp: 181
+hp_roll: 11d20+66
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 267
+---
+
 # Bone Colossus
 
 *Gargantuan* *Undead* *chaotic evil*
@@ -34,5 +53,3 @@ As an action, the swarms can reform into a single bone colossus as long as all s
 - **Multiattack:** The bone colossus makes two attacks.
 - **Thunderous Slam (Colossus Form Only):** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage plus 10 (3d6) thunder damage, and the target must succeed on a DC 18 Strength saving throw or be knocked prone.
 - **Razor Teeth (Swarm Form Only):** Melee Weapon Attack: +12 to hit, reach 0 ft., one target in the swarm’s space. Hit: 21 (6d6) piercing damage, or 10 (3d6) piercing damage if the swarm has half its hp or fewer.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Belu
+size: Huge
+type: Giant
+alignment: chaotic good
+cr: 10
+xp: 5,900
+hp: 184
+hp_roll: 16d12+80
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 55
+---
+
 # Belu
 
 *Huge* *Giant* *chaotic good*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Magically transforms into a Small or Med Humanoid or back into its true form. Its stats other than size are same in each form. Any equipment it is wearing or carrying transforms with it. If it dies it reverts to its true form.
-
-

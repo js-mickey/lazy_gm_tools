@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nihilethic Zombie
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 1
+xp: 200
+hp: 37
+hp_roll: 15
+ac: 8
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 9
+---
+
 # Nihilethic Zombie
 
 *Medium* *Undead* *Neutral Evil*

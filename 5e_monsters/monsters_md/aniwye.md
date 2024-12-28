@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aniwye
+size: Large
+type: Monstrosity
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 12d10+36
+ac: 15
+speed: climb 20 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 25
+---
+
 # Aniwye
 
 *Large* *Monstrosity* *neutral evil*
@@ -29,5 +48,3 @@
 - **Claw (Skunk Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Rock (Giant Form Only):** Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage.
 - **Deadly Musk (Recharge 5-6; Skunk Form Only):** The aniwye releases a cloud of highly poisonous musk from its tail in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failure, a creature takes 24 (7d6) poison damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned.
-
-

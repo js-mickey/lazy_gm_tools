@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scheznyki
+size: Small
+type: Fey
+alignment: Chaotic Evil
+cr: 6
+xp: 2,300
+hp: 135
+hp_roll: 72
+ac: 16
+speed: walk 40 ft. fly 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 319
+---
+
 # Scheznyki
 
 *Small* *Fey* *Chaotic Evil*

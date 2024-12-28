@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sap Demon
+size: Small
+type: Ooze
+alignment: Chaotic Evil
+cr: 4
+xp: 1,100
+hp: 81
+hp_roll: 18
+ac: 13
+speed: walk 20 ft.
+senses: blindsight 90 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 315
+---
+
 # Sap Demon
 
 *Small* *Ooze* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ankheg Queen
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 59
+hp_roll: 7d12+14
+ac: 14
+speed: walk 30 ft. burrow 15 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 26
+---
+
 # Ankheg Queen
 
 *Huge* *Monstrosity*

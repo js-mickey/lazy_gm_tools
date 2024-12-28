@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Roper
+size: Large
+type: Monstrosity
+alignment: 
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d10+33
+ac: 20
+speed: walk 10 ft. climb 10 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 373
+---
+
 # Roper
 
 *Large* *Monstrosity*
@@ -28,5 +47,3 @@
 - **Tendril:** Melee Weapon Attack: +7 to hit  reach 50 ft.  one target. Hit: The target is grappled (escape DC 15). Until this grapple ends  the target is restrained and the roper can't use this tendril on another target.
 - **Reel:** The roper pulls each creature it is grappling up to 25 feet straight towards it.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) piercing damage plus 9 (2d8) acid damage.
-
-

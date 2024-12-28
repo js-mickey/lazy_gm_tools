@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ravenfolk Warrior
+size: Medium
+type: Humanoid
+alignment: Neutral
+cr: 3
+xp: 700
+hp: 78
+hp_roll: 24
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 304
+---
+
 # Ravenfolk Warrior
 
 *Medium* *Humanoid* *Neutral*

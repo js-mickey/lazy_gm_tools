@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lava Keeper
+size: Huge
+type: Elemental
+alignment: lawful neutral
+cr: 18
+xp: 20,000
+hp: 276
+hp_roll: 24d12+120
+ac: 18
+speed: walk 40 ft. burrow 40 ft.
+senses: darkvision 60 ft. tremorsense 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 235
+---
+
 # Lava Keeper
 
 *Huge* *Elemental* *lawful neutral*
@@ -34,5 +53,3 @@ At will: move earth, stone shape
 - **Slam:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 25 (4d8 + 7) bludgeoning damage.
 - **Lava Lob:** Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 21 (6d6) fire damage, and the target must succeed on a DC 19 Dexterity saving throw or take 10 (3d6) fire damage at the start of its next turn.
 - **Fumarole (Recharge 5-6):** The crater between the lava keeper’s shoulders erupts in a plume of fire, rock, and toxic smoke. Each creature within 60 feet of the lava keeper must make a DC 19 Constitution saving throw. On a failure, a creature takes 21 (6d6) bludgeoning damage and 21 (6d6) fire damage and becomes poisoned for 1 minute. On a success, a creature takes half the damage and isn’t poisoned. A poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The eruption surrounds the lava keeper in a 20-foot-radius sphere of smoke, considered heavily obscured until the end of its next turn. A wind of moderate or greater speed (at least 10 miles per hour) disperses the smoke.
-
-

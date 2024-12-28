@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Far Dorocha
+size: Medium
+type: Fey
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 15d8+15
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 142
+---
+
 # Far Dorocha
 
 *Medium* *Fey* *lawful evil*
@@ -33,5 +52,3 @@ At will: disguise self, thaumaturgy
 - **Multiattack:** The far dorocha makes two dirk attacks.
 - **Dirk:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Dark Invitation:** One humanoid within 30 feet of the far dorocha and that can hear it must succeed on a DC 15 Charisma saving throw or be magically charmed for 1 day. The charmed target believes it has been invited to meet with the far dorocha’s master and accompanies the far dorocha. Although the target isn’t under the far dorocha’s control, it takes the far dorocha’s requests or actions in the most favorable way it can. Each time the far dorocha or its companions do anything harmful to the target, the target can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect ends if the far dorocha is destroyed, is on a different plane of existence than the target, or uses its bonus action to end the effect. If the target successfully saves against the effect, or if the effect ends for it, the target is immune to the far dorocha’s Dark Invitation for the next 24 hours.<br><br>The far dorocha can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
-
-

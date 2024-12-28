@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Wind Dragon
+size: Gargantuan
+type: Dragon
+alignment: Chaotic Neutral
+cr: 21
+xp: 33,000
+hp: 351
+hp_roll: +152
+ac: 20
+speed: walk 120 ft. fly 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 27
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 133
+---
+
 # Ancient Wind Dragon
 
 *Gargantuan* *Dragon* *Chaotic Neutral*

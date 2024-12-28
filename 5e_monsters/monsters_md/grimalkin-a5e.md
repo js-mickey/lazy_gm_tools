@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grimalkin
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d8+4
+ac: 13
+speed: walk 50 ft. climb 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 452
+---
+
 # Grimalkin
 
 *Medium* *Monstrosity*
@@ -29,5 +48,3 @@
 
 - **Opportune Bite (True Form Only):** The grimalkin makes a bite attack against a prone creature.
 - **Shapeshift:** The grimalkin changes its form to a Tiny cat or into its true form, which resembles a panther. While shapeshifted, its statistics are unchanged except for its size. It reverts to its true form if it dies.
-
-

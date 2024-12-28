@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Timingila
+size: Gargantuan
+type: Monstrosity
+alignment: neutral evil
+cr: 15
+xp: 13,000
+hp: 232
+hp_roll: 15d20+75
+ac: 18
+speed: swim 60 ft. walk 0 ft.
+senses: blindsight 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 349
+---
+
 # Timingila
 
 *Gargantuan* *Monstrosity* *neutral evil*
@@ -32,5 +51,3 @@
 - **Tail Slap:** Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage, and the target must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away from the timingila and knocked prone.
 - **Breach:** The timingila swims up to its swimming speed without provoking opportunity attacks. If it breaches the water’s surface, it crashes back down, creating a wave in a 30-foot-wide, 120-footlong line that is 30 feet tall. Any Gargantuan or smaller vehicles in the line are carried up to 100 feet away from the timingila and have a 50 percent chance of capsizing.
 - **Resonating Roar (Recharge 5-6):** The timingila roars in a 90-foot cone. Each creature in the area must make a DC 18 Constitution saving throw. On a failure, a creature takes 45 (10d8) thunder damage and is deafened for 1 minute. On a success, a creature takes half the damage and isn’t deafened. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br>If a vehicle is in the area, the roar travels into the vehicle and resonates inside it. Each creature inside the vehicle, even if the creature is outside the roar’s area, must succeed on a DC 18 Constitution saving throw or take half the damage from the roar.
-
-

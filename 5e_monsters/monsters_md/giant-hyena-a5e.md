@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Hyena
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 4d10+12
+ac: 12
+speed: walk 50 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 447
+---
+
 # Giant Hyena
 
 *Large* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6+2) piercing damage. If this damage reduces the target to 0 hit points  the hyena can use its bonus action to move half its Speed and make a second bite attack.
-
-

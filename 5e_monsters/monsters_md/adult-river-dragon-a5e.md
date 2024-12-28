@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult River Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 17
+xp: 18,000
+hp: 252
+hp_roll: 24d12+96
+ac: 18
+speed: walk 60 ft. fly 80 ft. swim 90 ft.
+senses: darkvision 120 ft. tremorsense 200 ft. (only detects vibrations in water) 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 132
+---
+
 # Adult River Dragon
 
 *Huge* *Dragon*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Goblin Boss
+size: Small
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 24
+hp_roll: 7d6
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 250
+---
+
 # Goblin Boss
 
 *Small* *Humanoid*
@@ -26,5 +45,3 @@
 ### Bonus Actions
 
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
-
-

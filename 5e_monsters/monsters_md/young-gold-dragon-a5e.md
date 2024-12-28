@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Gold Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 157
+hp_roll: 15d10+75
+ac: 18
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 173
+---
+
 # Young Gold Dragon
 
 *Large* *Dragon*
@@ -31,5 +50,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten gold in a 30-foot cone. Each creature in the area makes a DC 17 Dexterity saving throw  taking 49 (9d10) fire damage on a failed save or half damage on a success.
 - **Weakening Breath:** The dragon exhales gas in a 30-foot cone. Each creature in the area must succeed on a DC 17 Constitution saving throw or suffer disadvantage on weapon attack rolls for 1 minute. A weakened creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
-
-

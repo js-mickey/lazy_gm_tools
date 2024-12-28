@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spider
+size: Tiny
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 1
+hp_roll: 1d4-1
+ac: 12
+speed: walk 20 ft. climb 20 ft.
+senses: darkvision 30 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 460
+---
+
 # Spider
 
 *Tiny* *Beast*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage and the target makes a DC 9 Constitution saving throw  taking 2 (1d4) poison damage on a failure.
-
-

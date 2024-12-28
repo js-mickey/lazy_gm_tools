@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Smaragdine Golem
+size: Large
+type: Construct
+alignment: Unaligned
+cr: 14
+xp: 11,500
+hp: 231
+hp_roll: 110
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 219
+---
+
 # Smaragdine Golem
 
 *Large* *Construct* *Unaligned*

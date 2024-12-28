@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wharfling
+size: Tiny
+type: Beast
+alignment: Unaligned
+cr: 1/8
+xp: 25
+hp: 10
+hp_roll: 4d4
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 395
+---
+
 # Wharfling
 
 *Tiny* *Beast* *Unaligned*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skein Witch
+size: Medium
+type: Celestial
+alignment: Neutral
+cr: 12
+xp: 8,400
+hp: 162
+hp_roll: +50
+ac: 20
+speed: walk 30 ft. fly 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 328
+---
+
 # Skein Witch
 
 *Medium* *Celestial* *Neutral*

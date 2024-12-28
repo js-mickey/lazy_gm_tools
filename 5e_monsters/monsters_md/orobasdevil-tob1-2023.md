@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Orobas Devil
+size: Large
+type: Fiend
+alignment: Lawful Evil
+cr: 14
+xp: 11,500
+hp: 203
+hp_roll: 126
+ac: 19
+speed: walk 40 ft.
+senses: truesight 90 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 99
+---
+
 # Orobas Devil
 
 *Large* *Fiend* *Lawful Evil*

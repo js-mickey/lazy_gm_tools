@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Planewatcher
+size: Medium
+type: Celestial
+alignment: Lawful Neutral
+cr: 10
+xp: 5,900
+hp: 136
+hp_roll: 64
+ac: 18
+speed: walk 90 ft. fly 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 293
+---
+
 # Planewatcher
 
 *Medium* *Celestial* *Lawful Neutral*

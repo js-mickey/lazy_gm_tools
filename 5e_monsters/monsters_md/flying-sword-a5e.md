@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flying Sword
+size: Small
+type: Construct
+alignment: 
+cr: 1/4
+xp: 50
+hp: 10
+hp_roll: 3d6
+ac: 17
+speed: walk 0 ft. fly 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 23
+---
+
 # Flying Sword
 
 *Small* *Construct*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Longsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) slashing damage.
-
-

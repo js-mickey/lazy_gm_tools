@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Caldera Kite
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 119
+hp_roll: 14d10+42
+ac: 17
+speed: walk 0 ft. fly 60 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 71
+---
+
 # Caldera Kite
 
 *Large* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Proboscis:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 11 (2d6+4) piercing damage. Target is grappled (escape DC 17) if it is a Med or smaller creature and kite doesn’t have another creature grappled. Until grapple ends creature is restrained caldera kite can automatically hit target with its Proboscis and kite can’t make Proboscis attacks vs. other targets.
 - **Wings:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage and 7 (2d6) poison.
 - **Dust Cloud (Recharge 4–6):** Kite thrashes its body and releases stored toxic gases. Each creature within 20' of kite: 28 (8d6) poison (DC 14 Con half). Creature that fails save can’t speak and is suffocating until it is no longer within 20' of caldera kite.
-
-

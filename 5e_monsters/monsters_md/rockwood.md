@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rockwood
+size: Huge
+type: Elemental
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 94
+hp_roll: 9d12+36
+ac: 17
+speed: walk 30 ft. burrow 15 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 334
+---
+
 # Rockwood
 
 *Huge* *Elemental* *chaotic neutral*
@@ -35,5 +54,3 @@
 - **Whomping Slam:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 18 (3d8+5) bludgeoning damage and if the target is a Large or smaller creature it must make DC 15 Str save or be knocked prone.
 - **Rock:** Ranged Weapon Attack: +8 to hit 60/180' one target 16 (2d10+5) bludgeoning damage.
 - **Fossil Barrage (Recharge 6):** Stone shards in 30' cone. Each creature in area: 28 (8d6) piercing damage (DC 15 Dex half).
-
-

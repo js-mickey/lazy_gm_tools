@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Seahorse
+size: Tiny
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 1
+hp_roll: 1d4-1
+ac: 11
+speed: walk 0 ft. swim 20 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 459
+---
+
 # Seahorse
 
 *Tiny* *Beast*
@@ -19,5 +38,3 @@
 ### Special Abilities
 
 - **Water Breathing:** The seahorse breathes only water.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Badger
+size: Tiny
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 3
+hp_roll: 1d4+1
+ac: 10
+speed: walk 20 ft. burrow 5 ft.
+senses: darkvision 30 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 439
+---
+
 # Badger
 
 *Tiny* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
-
-

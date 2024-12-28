@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elephant
+size: Huge
+type: Beast
+alignment: 
+cr: 4
+xp: 1,100
+hp: 76
+hp_roll: 8d12+24
+ac: 12
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 443
+---
+
 # Elephant
 
 *Huge* *Beast*
@@ -24,5 +43,3 @@
 ### Bonus Actions
 
 - **Trample Underfoot:** The elephant makes a stomp attack against a prone creature.
-
-

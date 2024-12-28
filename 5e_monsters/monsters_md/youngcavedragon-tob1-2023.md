@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Cave Dragon
+size: Large
+type: Dragon
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 189
+hp_roll: 90
+ac: 17
+speed: walk 20 ft. fly 20 ft. burrow 40 ft.
+senses: blindsight 30 ft. tremorsense 90 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 115
+---
+
 # Young Cave Dragon
 
 *Large* *Dragon* *Neutral Evil*

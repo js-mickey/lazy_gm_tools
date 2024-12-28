@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Asanbosam
+size: Large
+type: Aberration
+alignment: Chaotic Evil
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 36
+ac: 14
+speed: walk 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 27
+---
+
 # Asanbosam
 
 *Large* *Aberration* *Chaotic Evil*

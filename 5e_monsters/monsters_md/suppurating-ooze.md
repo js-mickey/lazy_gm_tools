@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Suppurating Ooze
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 30
+hp_roll: 4d8+12
+ac: 8
+speed: climb 10 ft. walk 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 288
+---
+
 # Suppurating Ooze
 
 *Medium* *Ooze* *unaligned*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or become infected with the seeping death disease (see the Seeping Death trait).
-
-

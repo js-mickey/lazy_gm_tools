@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Earth Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 24
+xp: 62,000
+hp: 425
+hp_roll: 23d20+184
+ac: 22
+speed: walk 40 ft. fly 40 ft. burrow 60 ft.
+senses: darkvision 120 ft. tremorsense 120 ft. 
+passive_perception: 26
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 126
+---
+
 # Ancient Earth Dragon
 
 *Gargantuan* *Dragon*

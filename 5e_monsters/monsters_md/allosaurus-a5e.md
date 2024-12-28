@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Allosaurus
+size: Huge
+type: Beast
+alignment: 
+cr: 3
+xp: 700
+hp: 57
+hp_roll: 6d12+18
+ac: 15
+speed: walk 60 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 89
+---
+
 # Allosaurus
 
 *Huge* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 17 (3d8 + 4) slashing damage. If the allosaurus moves at least 10 feet towards its target before making this attack  it gains advantage on the attack.
-
-

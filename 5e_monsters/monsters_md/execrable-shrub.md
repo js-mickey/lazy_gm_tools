@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Execrable Shrub
+size: Medium
+type: Fiend
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 40
+hp_roll: 9d8
+ac: 14
+speed: burrow 10 ft. walk 10 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 304
+---
+
 # Execrable Shrub
 
 *Medium* *Fiend* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Burning Slash:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) fire damage.
 - **Smolder (Recharge 5-6):** The execrable shrub releases a billowing cloud of smoke in a 10-foot-radius that lasts for 1 minute and moves with the shrub. The area affected by the smoke is heavily obscured.
-
-

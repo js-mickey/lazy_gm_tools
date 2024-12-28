@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Troll
+size: Large
+type: Giant
+alignment: 
+cr: 6
+xp: 2,300
+hp: 84
+hp_roll: 8d10+40
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 413
+---
+
 # Cave Troll
 
 *Large* *Giant*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Rock:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-
-

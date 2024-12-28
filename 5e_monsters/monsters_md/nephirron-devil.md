@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nephirron Devil
+size: Huge
+type: Fiend
+alignment: lawful evil
+cr: 16
+xp: 15,000
+hp: 225
+hp_roll: 18d12+108
+ac: 19
+speed: walk 40 ft. fly 80 ft.
+senses: truesight 90 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 104
+---
+
 # Nephirron Devil
 
 *Huge* *Fiend* *lawful evil*
@@ -39,5 +58,3 @@ At will: detect thoughts, protection from evil and good, teleport (self plus 150
 ### Reactions
 
 - **Sculpt Breath (Recharge 6):** When the nephirron is in the area of a spell, such as fireball, or a breath weapon, it can create a hole in the spell or breath weapon, protecting itself from the effects. If it does so, the nephirron automatically succeeds on its saving throw against the spell or breath weapon and takes no damage if it would normally take half damage on a successful save.
-
-

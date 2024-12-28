@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stained-Glass Moth
+size: Small
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d6+24
+ac: 12
+speed: walk 20 ft. climb 20 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 353
+---
+
 # Stained-Glass Moth
 
 *Small* *Construct* *unaligned*
@@ -33,5 +52,3 @@
 - **Wing Slice:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) slashing damage.
 - **Radiant Wing:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 6 (1d8+2) radiant.
 - **Blessed Wings:** Marks one creature it can see within 30' of it with holy power. If the target is a hostile creature the next attack roll made vs. the target before the start of the moth’s next turn has advantage. If the target is a friendly creature it gains a +2 bonus to AC until the start of the moth’s next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wraith
+size: Medium
+type: Undead
+alignment: 
+cr: 5
+xp: 1,800
+hp: 67
+hp_roll: 9d8+27
+ac: 13
+speed: walk 0 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 427
+---
+
 # Wraith
 
 *Medium* *Undead*
@@ -31,5 +50,3 @@
 
 - **Life Drain:** The wraith targets a creature within 5 feet  forcing it to make a DC 14 Constitution saving throw. On a failure  the creature takes 14 (4d6) necrotic damage  or 21 (6d6) necrotic damage if it is frightened or surprised  and its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. It dies if its hit point maximum is reduced to 0.
 - **Create Specter:** The wraith touches a humanoid corpse it killed less than 1 day ago. The creatures spirit rises as a specter under the wraiths control.
-
-

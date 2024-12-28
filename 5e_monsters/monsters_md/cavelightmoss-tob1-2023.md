@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cavelight Moss
+size: Large
+type: Plant
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 95
+hp_roll: 40
+ac: 15
+speed: walk 15 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 52
+---
+
 # Cavelight Moss
 
 *Large* *Plant* *Unaligned*

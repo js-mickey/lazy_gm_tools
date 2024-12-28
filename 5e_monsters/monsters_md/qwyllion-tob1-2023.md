@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Qwyllion
+size: Medium
+type: Aberration
+alignment: Neutral Evil
+cr: 8
+xp: 3,900
+hp: 110
+hp_roll: 52
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 298
+---
+
 # Qwyllion
 
 *Medium* *Aberration* *Neutral Evil*

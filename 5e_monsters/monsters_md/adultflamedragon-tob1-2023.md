@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Flame Dragon
+size: Huge
+type: Dragon
+alignment: Chaotic Evil
+cr: 16
+xp: 15,000
+hp: 275
+hp_roll: 132
+ac: 19
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 22
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 118
+---
+
 # Adult Flame Dragon
 
 *Huge* *Dragon* *Chaotic Evil*

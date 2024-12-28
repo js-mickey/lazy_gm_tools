@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mystic
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 316
+---
+
 # Mystic
 
 *Medium* *Humanoid* *neutral evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Void Deflection:** When a creature the mystic can see targets it with a ranged spell attack, the mystic can attempt to deflect the spell. The mystic makes a Constitution saving throw. If the result is higher than the attack roll, the mystic is unaffected by the spell.
-
-

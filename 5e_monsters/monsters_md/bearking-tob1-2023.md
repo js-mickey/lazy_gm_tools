@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bear King
+size: Medium
+type: Fey
+alignment: Lawful Neutral
+cr: 12
+xp: 8,400
+hp: 133
+hp_roll: 70
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 120 ft. truesight 10 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 172
+---
+
 # Bear King
 
 *Medium* *Fey* *Lawful Neutral*

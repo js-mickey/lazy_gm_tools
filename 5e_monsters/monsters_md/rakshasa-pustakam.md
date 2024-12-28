@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rakshasa, Pustakam
+size: Small
+type: Fiend
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 91
+hp_roll: 14d6+42
+ac: 15
+speed: walk 25 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 328
+---
+
 # Rakshasa, Pustakam
 
 *Small* *Fiend* *lawful evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into Tiny object or back into true fiend form. Its stats except size are same in each form. Items worn/carried not transformed. Reverts on death.
-
-

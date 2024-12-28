@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Malakbel
+size: Medium
+type: Fiend
+alignment: Chaotic Evil
+cr: 9
+xp: 5,000
+hp: 102
+hp_roll: 48
+ac: 14
+speed: walk 40 ft.
+senses: truesight 30 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 13
+---
+
 # Malakbel
 
 *Medium* *Fiend* *Chaotic Evil*

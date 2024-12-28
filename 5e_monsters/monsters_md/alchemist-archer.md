@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alchemist Archer
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 10
+xp: 5,900
+hp: 135
+hp_roll: 18d8+54
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 141
+---
+
 # Alchemist Archer
 
 *Medium* *Humanoid* *any alignment*
@@ -31,5 +50,3 @@ Explosive. The target takes an extra 18 (4d8) fire damage and catches on fire, t
 - **Multiattack:** The alchemist archer makes three longbow attacks or two scimitar attacks.
 - **Scimitar:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage.
 - **Longbow:** Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
-
-

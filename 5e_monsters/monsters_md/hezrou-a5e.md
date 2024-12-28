@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hezrou
+size: Large
+type: Fiend
+alignment: 
+cr: 10
+xp: 5,900
+hp: 136
+hp_roll: 13d10+65
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 69
+---
+
 # Hezrou
 
 *Large* *Fiend*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Stench (1/Day):** When hit by a melee attack, the hezrou emits a cloud of foul-smelling poison gas in a 20-foot radius. Each creature in the area makes a DC 14 Constitution saving throw. On a failure, a creature is poisoned for 1 minute. A creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success
-
-

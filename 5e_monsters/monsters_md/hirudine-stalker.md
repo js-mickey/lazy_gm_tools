@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hirudine Stalker
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 30 ft. climb 20 ft. swim 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 235
+---
+
 # Hirudine Stalker
 
 *Medium* *Monstrosity* *neutral evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Hidden Predator:** Takes the Hide action.
-
-

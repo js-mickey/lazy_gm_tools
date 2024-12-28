@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Witchlight
+size: Tiny
+type: Construct
+alignment: Any Alignment
+cr: 1/4
+xp: 50
+hp: 20
+hp_roll: 8d4
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 397
+---
+
 # Witchlight
 
 *Tiny* *Construct* *Any Alignment*

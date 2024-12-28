@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dire Centipede
+size: Large
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: walk 30 ft. climb 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 443
+---
+
 # Dire Centipede
 
 *Large* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage and the target makes a DC 11 Constitution saving throw. On a failure  the target takes 10 (3d6) poison damage and is poisoned for 1 minute. The target is paralyzed while poisoned in this way. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
-
-

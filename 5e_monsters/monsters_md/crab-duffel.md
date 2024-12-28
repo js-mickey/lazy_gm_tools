@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crab, Duffel
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d8+24
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 97
+---
+
 # Crab, Duffel
 
 *Large* *Monstrosity* *unaligned*
@@ -26,5 +45,3 @@
 - **Multiattack:** Two Claws or one Claw and uses Collect.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 10 (2d6+3) bludgeoning damage and target is grappled (escape DC 13). Until this grapple ends target is restrained and crab can’t attack another target with that claw. The crab has two claws each of which can grapple only one target.
 - **Collect:** Places one target it is grappling into its extradimensional space if there is room and grapple ends. Target blinded and restrained and has total cover vs. attacks and effects outside. A trapped creature can take its action to climb out of the bag by succeeding on a DC 13 Str or Dex check (creature’s choice). If crab dies trapped creature is no longer restrained by crab and can escape bag using 5 ft. of movement exiting prone.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Ragecaster
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 15d8+45
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 377
+---
+
 # Trollkin Ragecaster
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Ragecasting (3/Day):** Enters special rage that lets it channel elemental power for 1 min. While ragecasting: disadvantage on Wis saves and gains fly speed of 60'. It can end ragecasting as a bonus action. When ragecasting ends it descends 60'/round until it lands on a solid surface and can continue concentrating on spell it cast while ragecasting.
-
-

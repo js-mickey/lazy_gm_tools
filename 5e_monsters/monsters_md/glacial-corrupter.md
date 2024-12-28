@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Glacial Corrupter
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 4d8+16
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 176
+---
+
 # Glacial Corrupter
 
 *Medium* *Undead* *lawful evil*
@@ -23,5 +42,3 @@
 - **Longsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 - **Longbow:** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Glacial Touch (Recharge 5-6):** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) cold damage. The target must succeed on a DC 13 Constitution saving throw or take 2 (1d4) cold damage at the start of each of its turns, as a frozen shard lodges itself in the wound. Any creature can take an action to remove the shard with a successful DC 12 Wisdom (Medicine) check. The shard crumbles to snow if the target receives magical healing.<br><br>A humanoid slain by this attack rises in 1 week as a glacial corrupter, unless the humanoid is restored to life or its body is destroyed.
-
-

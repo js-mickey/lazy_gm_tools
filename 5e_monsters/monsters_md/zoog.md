@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zoog
+size: Tiny
+type: Aberration
+alignment: chaotic evil
+cr: 0
+xp: 25
+hp: 3
+hp_roll: 1d4+1
+ac: 13
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 396
+---
+
 # Zoog
 
 *Tiny* *Aberration* *chaotic evil*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
-
-

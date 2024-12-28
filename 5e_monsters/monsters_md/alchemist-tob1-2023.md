@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alchemist
+size: Small
+type: Humanoid
+alignment: Lawful Neutral
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 16
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 244
+---
+
 # Alchemist
 
 *Small* *Humanoid* *Lawful Neutral*

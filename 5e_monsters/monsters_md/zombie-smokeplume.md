@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zombie, Smokeplume
+size: Large
+type: Undead
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 68
+hp_roll: 8d10+24
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 400
+---
+
 # Zombie, Smokeplume
 
 *Large* *Undead* *chaotic evil*
@@ -29,5 +48,3 @@
 
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage + 9 (2d8) fire.
 - **Smoke Breath (Recharge 5–6):** The zombie breathes a cloud of smoke in a 15 ft. cone. Each creature in the area: 9 (2d8) fire and 7 (2d6) poison (DC 15 Con half). Smoke remains until the start of the zombie’s next turn and its area is heavily obscured.
-
-

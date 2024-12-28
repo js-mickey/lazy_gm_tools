@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fennec Fox
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 7
+hp_roll: 2d4+2
+ac: 11
+speed: burrow 5 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 0
+---
+
 # Fennec Fox
 
 *Tiny* *Beast* *unaligned*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
-
-

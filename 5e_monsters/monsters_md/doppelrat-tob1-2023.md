@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Doppelrat
+size: Tiny
+type: Monstrosity
+alignment: Unaligned
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 20
+ac: 13
+speed: walk 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 109
+---
+
 # Doppelrat
 
 *Tiny* *Monstrosity* *Unaligned*

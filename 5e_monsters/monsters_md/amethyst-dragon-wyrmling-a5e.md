@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Amethyst Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 16
+speed: walk 30 ft. burrow 15 ft. fly 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 142
+---
+
 # Amethyst Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -26,5 +45,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Concussive Breath (Recharge 5-6):** The dragon psionically unleashes telekinetic energy in a 15-foot cone. Each creature in that area makes a DC 12 Constitution saving throw  taking 16 (3d10) force damage on a failed save or half damage on a success.
-
-

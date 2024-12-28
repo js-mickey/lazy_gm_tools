@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Subek
+size: Large
+type: Humanoid
+alignment: Lawful Neutral
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 48
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 352
+---
+
 # Subek
 
 *Large* *Humanoid* *Lawful Neutral*

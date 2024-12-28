@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jiangshi
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 117
+hp_roll: 18d8+36
+ac: 15
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 230
+---
+
 # Jiangshi
 
 *Medium* *Undead* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Multiattack:** The jiangshi makes two claw attacks. It can use Life Drain in place of one claw attack.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage. The target is grappled (escape DC 14) if it is a Medium or smaller creature and the jiangshi doesn't have two other creatures grappled.
 - **Life Drain:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature that is grappled by the jiangshi, incapacitated, or restrained. Hit: 14 (4d6) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. <br><br>A humanoid slain in this way rises 24 hours later as a jiangshi, unless the humanoid is restored to life, its body is bathed in vinegar before burial, or its body is destroyed.
-
-

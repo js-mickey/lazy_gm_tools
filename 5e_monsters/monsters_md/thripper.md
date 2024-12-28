@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thripper
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 16d8+32
+ac: 15
+speed: walk 25 ft.
+senses: truesight 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 368
+---
+
 # Thripper
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Glamour Counter:** When creature thripper can see within 30' of it casts spell can counter the spell. This works like counterspell spell with +6 spellcasting ability check except thripper can counter only enchantment or illusion spells and it must make the ability check regardless of spell’s level.
-
-

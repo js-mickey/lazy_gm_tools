@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Urochar
+size: Huge
+type: Aberration
+alignment: Chaotic Evil
+cr: 17
+xp: 18,000
+hp: 256
+hp_roll: 133
+ac: 19
+speed: walk 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 374
+---
+
 # Urochar
 
 *Huge* *Aberration* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thrummren
+size: Gargantuan
+type: Celestial
+alignment: chaotic good
+cr: 12
+xp: 8,400
+hp: 198
+hp_roll: 12d20+72
+ac: 17
+speed: walk 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 347
+---
+
 # Thrummren
 
 *Gargantuan* *Celestial* *chaotic good*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Protect Rider:** When the thrummren’s rider is the target of an attack the thrummren can see, the thrummren can choose to become the target of the attack instead.
-
-

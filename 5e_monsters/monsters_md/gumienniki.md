@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gumienniki
+size: Small
+type: Fiend
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 5d6+5
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 213
+---
+
 # Gumienniki
 
 *Small* *Fiend* *neutral evil*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Taunting Cackle:** When the gumienniki is missed by an attack, it can taunt the attacker. The attacking creature must succeed on a DC 12 Wisdom saving throw or have disadvantage on its next attack roll or saving throw.
-
-

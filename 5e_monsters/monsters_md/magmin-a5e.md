@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Magmin
+size: Small
+type: Elemental
+alignment: 
+cr: 1/2
+xp: 100
+hp: 14
+hp_roll: 4d6
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 316
+---
+
 # Magmin
 
 *Small* *Elemental*
@@ -28,5 +47,3 @@
 
 - **Touch:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) fire damage. If the magmin is ablaze and the target is a creature  it suffers 5 (1d10) ongoing fire damage until a creature takes an action to extinguish the flame on the target.
 - **Spurt Magma (Ablaze Only):** Ranged Weapon Attack: +5 to hit  range 30 ft.  one target. Hit: 5 (1d6 + 2) fire damage.
-
-

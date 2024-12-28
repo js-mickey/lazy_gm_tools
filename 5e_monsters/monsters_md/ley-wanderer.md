@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ley Wanderer
+size: Huge
+type: Aberration
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 16d12+32
+ac: 15
+speed: walk 10 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 260
+---
+
 # Ley Wanderer
 
 *Huge* *Aberration* *neutral*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Absorb Spell:** When a creature wanderer can see within 30' of it casts spell wanderer can absorb spell’s energy countering it. Works like counterspell except wanderer must always make spellcasting ability check no matter spell’s level. Its ability check for this is +7. If it successfully counters the spell it gains 5 temp hp/spell level.
-
-

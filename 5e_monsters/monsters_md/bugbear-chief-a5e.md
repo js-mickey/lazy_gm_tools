@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bugbear Chief
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 71
+hp_roll: 11d8+22
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 38
+---
+
 # Bugbear Chief
 
 *Medium* *Humanoid*
@@ -22,5 +41,3 @@
 - **Maul:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  or 18 (4d6 + 4) bludgeoning damage if the target is a creature that is surprised or that can't see the bugbear.
 - **Javelin:** Melee or Ranged Weapon Attack: +6 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 7 (1d6 + 4) piercing damage  or 14 (3d6 + 4) piercing damage if the target is a creature that is surprised or that can't see the bugbear.
 - **Move Out (1/Day):** The bugbear and creatures of its choice within 30 feet move up to half their Speed without provoking opportunity attacks.
-
-

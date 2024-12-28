@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mei Jiao Shou
+size: Gargantuan
+type: Beast
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 139
+hp_roll: 9d20+45
+ac: 14
+speed: walk 50 ft.
+senses: 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 259
+---
+
 # Mei Jiao Shou
 
 *Gargantuan* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Head Bash:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.
 - **Stomp:** Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. Hit: 28 (4d10 + 6) bludgeoning damage.
 - **Earth-Shaking Thump (Recharge 5-6):** The mei jiao shou rears up and lands heavily, kicking up a shower of debris and rattling and cracking the ground. Each creature in contact with the ground within 30 feet of the mei jiao shou must make a DC 16 Dexterity saving throw. On a failure, a creature takes 22 (4d10) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone. The area then becomes difficult terrain.
-
-

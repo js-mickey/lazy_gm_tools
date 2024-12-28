@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Forgotten Regent
+size: Medium
+type: Undead
+alignment: lawful neutral
+cr: 10
+xp: 5,900
+hp: 187
+hp_roll: 22d8+88
+ac: 17
+speed: walk 30 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 187
+---
+
 # Forgotten Regent
 
 *Medium* *Undead* *lawful neutral*

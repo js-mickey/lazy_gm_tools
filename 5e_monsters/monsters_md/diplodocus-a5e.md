@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Diplodocus
+size: Gargantuan
+type: Beast
+alignment: 
+cr: 7
+xp: 2,900
+hp: 139
+hp_roll: 9d20+45
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 90
+---
+
 # Diplodocus
 
 *Gargantuan* *Beast*
@@ -21,5 +40,3 @@
 - **Multiattack:** The diplodocus makes a stomp attack and a tail attack against two different targets.
 - **Stomp:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 21 (4d6 + 7) bludgeoning damage.
 - **Tail:** Melee Weapon Attack: +10 to hit  reach 15 ft.  one target. Hit: 17 (3d6 + 7) bludgeoning damage. If the target is a Large or smaller creature  it is pushed 10 feet away from the diplodocus and knocked prone.
-
-

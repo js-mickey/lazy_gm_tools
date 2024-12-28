@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archmage
+size: Medium
+type: Humanoid
+alignment: 
+cr: 11
+xp: 7,200
+hp: 117
+hp_roll: 18d8+36
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 480
+---
+
 # Archmage
 
 *Medium* *Humanoid*
@@ -67,5 +86,3 @@
 
 - **Counterspell (3rd-Level; S):** When a creature the archmage can see within 60 feet casts a spell, the archmage attempts to interrupt it. If the creature is casting a 2nd-level spell or lower, the spell fails. If the creature is casting a 3rd-level or higher spell, the archmage makes an Intelligence check against a DC of 10 + the spells level. On a success, the spell fails, and the spellcasting creature can use its reaction to try to cast a second spell with the same casting time so long as it uses a spell slot level equal to or less than half the original spell slot. If the archmage casts counterspell with a higher spell slot, the interrupted spell fails if its level is less than that of counterspell.
 - **Shield (1st-Level; V:** When the archmage is hit by an attack or targeted by magic missile, they gain a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of their next turn.
-
-

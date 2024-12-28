@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Purple Slime
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 8d10+32
+ac: 7
+speed: climb 10 ft. swim 30 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 307
+---
+
 # Purple Slime
 
 *Large* *Ooze* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The purple slime makes two spike attacks.
 - **Spike:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage and 10 (3d6) poison damage. In addition, the target must succeed on a DC 14 Constitution saving throw or its Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
-
-

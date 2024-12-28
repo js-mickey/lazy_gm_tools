@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep Dwarf Soldier
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft.
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 493
+---
+
 # Deep Dwarf Soldier
 
 *Medium* *Humanoid*
@@ -33,5 +52,3 @@
 
 - **Tactical Movement:** Until the end of the soldiers turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
 - **Deep dwarves march grimly to battle from huge underground cities:** 
-
-

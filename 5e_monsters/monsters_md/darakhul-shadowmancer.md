@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Darakhul Shadowmancer
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 52
+hp_roll: 8d8+16
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 173
+---
+
 # Darakhul Shadowmancer
 
 *Medium* *Undead* *neutral evil*
@@ -40,5 +59,3 @@ Cantrips (at will): acid splash, chill touch, mage hand, prestidigitation
 - **Multiattack:** The darakhul shadowmancer makes two attacks: one with its bite and one with its dagger.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 11 (2d8 + 2) piercing damage, and, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or contract darakhul fever.
 - **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
-

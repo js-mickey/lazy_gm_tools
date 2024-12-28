@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Emerald Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 24
+xp: 62,000
+hp: 346
+hp_roll: 21d20+126
+ac: 20
+speed: walk 40 ft. burrow 40 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 144
+---
+
 # Ancient Emerald Dragon
 
 *Gargantuan* *Dragon*

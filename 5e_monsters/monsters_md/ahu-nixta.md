@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ahu-Nixta
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d10+18
+ac: 14
+speed: fly 30 ft. swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 11
+---
+
 # Ahu-Nixta
 
 *Large* *Aberration* *neutral evil*
@@ -35,5 +54,3 @@ At will: fear, fire bolt (2d10), telekinesis
 - **Whirring Blades:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Pronged Scepter:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Bashing Rod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage.
-
-

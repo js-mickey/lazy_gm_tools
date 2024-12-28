@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Golem, Chain
+size: Large
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 119
+hp_roll: 14d10+42
+ac: 16
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 215
+---
+
 # Golem, Chain
 
 *Large* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 - **Multiattack:** Two Chain attacks.
 - **Chain:** Melee Weapon Attack: +7 to hit, 15 ft., one target, 18 (4d6+4) slashing damage and target contracts infernal tetanus disease (see above; DC 16 Con not diseased). Target is grappled (escape DC 14) if it is a Large or smaller creature and golem doesn’t have another creature grappled.
 - **Imprison:** Creates prison of chains around an up to Med creature grappled by it. Imprisoned: restrained and takes 14 (4d6) piercing damage at start of each of its turns. Imprisoned creature or creature within 5 ft. of golem can use action to free imprisoned creature. Doing so requires DC 16 Str check and creature attempting takes 7 (2d6) piercing damage.
-
-

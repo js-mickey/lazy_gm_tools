@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Boar
+size: Large
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 47
+hp_roll: 5d10+20
+ac: 12
+speed: walk 40 ft.
+senses: 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 445
+---
+
 # Giant Boar
 
 *Large* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Tusk:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6+3) slashing damage. If the boar moves at least 20 feet straight towards the target before the attack  the attack deals an extra 7 (2d6) slashing damage and the target makes a DC 13 Strength saving throw  falling prone on a failure.
-
-

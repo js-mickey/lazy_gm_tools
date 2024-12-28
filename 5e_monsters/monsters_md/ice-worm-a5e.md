@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Worm
+size: Gargantuan
+type: Monstrosity
+alignment: 
+cr: 15
+xp: 13,000
+hp: 247
+hp_roll: 15d20+90
+ac: 18
+speed: walk 50 ft. burrow 20 ft.
+senses: blindsight 30 ft. tremorsense 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 365
+---
+
 # Ice Worm
 
 *Gargantuan* *Monstrosity*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Fighting Retreat:** When a creature makes an opportunity attack on the worm, the worm attacks with either its bite or its tail stinger.
-
-

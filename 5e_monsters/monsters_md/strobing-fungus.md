@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Strobing Fungus
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 76
+hp_roll: 9d8+36
+ac: 13
+speed: walk 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 160
+---
+
 # Strobing Fungus
 
 *Medium* *Plant* *unaligned*
@@ -29,5 +48,3 @@ While emitting light, the strobing fungus can’t attack. It can stop emitting l
 
 - **Multiattack:** The strobing fungus makes two attacks.
 - **Chemical Burn:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one creature. Hit: 13 (3d6 + 3) acid damage.
-
-

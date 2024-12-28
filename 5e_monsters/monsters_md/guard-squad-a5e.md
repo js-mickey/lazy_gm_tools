@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Guard Squad
+size: Large
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d8+10
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 492
+---
+
 # Guard Squad
 
 *Large* *Humanoid*
@@ -26,5 +45,3 @@
 
 - **Spears:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 feet  one target. Hit: 17 (5d6) piercing damage  or half damage if the squad is bloodied.
 - **Guard squads patrol city streets and accompany caravans along trade routes:** 
-
-

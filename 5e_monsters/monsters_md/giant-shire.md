@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant, Shire
+size: Huge
+type: Giant
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 138
+hp_roll: 12d12+60
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 205
+---
+
 # Giant, Shire
 
 *Huge* *Giant* *lawful evil*
@@ -23,5 +42,3 @@
 - **Rock:** Ranged Weapon Attack: +7 to hit 60/240' 20 (3d10+4) bludgeoning damage.
 - **Grab:** Reaches out and grabs a Med or smaller creature it can see within 10 ft. of it. The target must make DC 15 Dex save or be grappled (escape DC 15) by the giant. Until this grapple ends the target is restrained.
 - **Throw:** Throws a creature it is grappling at a space it can see within 30' of it. The thrown creature takes 14 (4d6) bludgeoning damage and must make DC 15 Dex save or land prone. If the target space is occupied by another creature that creature must make DC 15 Dex save or take 14 (4d6) bludgeoning damage and be knocked prone.
-
-

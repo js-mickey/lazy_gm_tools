@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Meerkat
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 0
+xp: 25
+hp: 2
+hp_roll: 1d4
+ac: 11
+speed: walk 20 ft. burrow 10 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 268
+---
+
 # Meerkat
 
 *Tiny* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit, 5 ft., one creature,. 1 piercing.
-
-

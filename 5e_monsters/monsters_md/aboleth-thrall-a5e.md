@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aboleth Thrall
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 12
+speed: walk 30 ft. swim 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 17
+---
+
 # Aboleth Thrall
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Self-Sacrifice:** When a creature within 5 feet of the thrall that the thrall can see hits an aboleth with an attack, the thrall can make itself the target of the attack instead.
-
-

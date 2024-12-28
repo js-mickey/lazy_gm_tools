@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Awakened Shrub
+size: Small
+type: Plant
+alignment: 
+cr: 0
+xp: 25
+hp: 7
+hp_roll: 2d6
+ac: 9
+speed: walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 438
+---
+
 # Awakened Shrub
 
 *Small* *Plant*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Rake:** Melee Weapon Attack: +1 to hit  reach 5 ft.  one target. Hit: 1 slashing damage.
-
-

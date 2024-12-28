@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Manabane Scarabs
+size: Medium
+type: Swarm
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 33
+ac: 15
+speed: walk 10 ft. fly 20 ft. burrow 20 ft.
+senses: blindsight 10 ft. darkvision 30 ft. tremorsense 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 355
+---
+
 # Swarm of Manabane Scarabs
 
 *Medium* *Swarm* *Unaligned*

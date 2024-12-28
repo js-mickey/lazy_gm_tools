@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: Neutral Evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 21
+ac: 16
+speed: walk 20 ft. fly 20 ft. burrow 30 ft.
+senses: blindsight 10 ft. tremorsense 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 115
+---
+
 # Cave Dragon Wyrmling
 
 *Medium* *Dragon* *Neutral Evil*

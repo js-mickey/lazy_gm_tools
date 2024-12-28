@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cloud Giant Noble
+size: Huge
+type: Giant
+alignment: 
+cr: 12
+xp: 8,400
+hp: 187
+hp_roll: 15d12+90
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 233
+---
+
 # Cloud Giant Noble
 
 *Huge* *Giant*
@@ -38,5 +57,3 @@
 
 - **Gust:** One creature within 10 feet makes a DC 15 Strength saving throw. On a failure, it is pushed up to 30 feet away from the giant.
 - **Misty Step (2nd-Level; V):** The giant teleports to an unoccupied space it can see within 30 feet. The giant can't cast this spell and a 1st-level or higher spell on the same turn.
-
-

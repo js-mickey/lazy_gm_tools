@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Demon, Balbazu
+size: Tiny
+type: Fiend
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d6+8
+ac: 13
+speed: walk 10 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 107
+---
+
 # Demon, Balbazu
 
 *Tiny* *Fiend* *chaotic evil*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 10 (2d6+3) piercing damage and it attaches to target. While attached balbazu doesn’t attack. Instead at start of each of balbazu’s turns target loses 10 (2d6+3) hp from blood loss. When balbazu first attaches to the target and each time target loses hp from blood loss target unaware of the attack (and balbazu if it is invisible). Target is still aware of the hp loss but it feels no pain from the attack. (DC 11 Con target is aware of the attack and balbazu and doesn’t need to continue making this save while it remains attached to it.) Regains hp equal to half hp of blood it drains. Balbazu can detach itself by spending 5 ft. of its move. A creature that is aware of the balbazu including the target can use its action to detach the balbazu.
-
-

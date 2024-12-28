@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fractal Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 8
+hp_roll: 1d10+3
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 200
+---
+
 # Fractal Golem
 
 *Large* *Construct* *unaligned*
@@ -28,5 +47,3 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) bludgeoning damage.
-
-

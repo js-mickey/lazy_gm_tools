@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Animated Instrument, Symphony
+size: Gargantuan
+type: Construct
+alignment: neutral
+cr: 15
+xp: 13,000
+hp: 201
+hp_roll: 13d20+65
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 34
+---
+
 # Animated Instrument, Symphony
 
 *Gargantuan* *Construct* *neutral*

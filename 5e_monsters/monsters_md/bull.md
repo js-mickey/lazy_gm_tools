@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bull
+size: Large
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 25
+hp_roll: 3d10+9
+ac: 11
+speed: walk 40 ft.
+senses: 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 169
+---
+
 # Bull
 
 *Large* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 
 - **Hooves:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 - **Gore:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
-
-

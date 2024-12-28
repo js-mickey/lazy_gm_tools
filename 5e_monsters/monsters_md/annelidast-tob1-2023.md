@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Annelidast
+size: Huge
+type: Monstrosity
+alignment: Unaligned
+cr: 12
+xp: 8,400
+hp: 184
+hp_roll: 80
+ac: 18
+speed: walk 30 ft. burrow 40 ft.
+senses: tremorsense 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 21
+---
+
 # Annelidast
 
 *Huge* *Monstrosity* *Unaligned*

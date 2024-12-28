@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Blue Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 19
+xp: 22,000
+hp: 275
+hp_roll: 22d12+132
+ac: 19
+speed: walk 40 ft. burrow 30 ft. fly 80 ft. swim 30 ft.
+senses: blindsight 60 ft. tremorsense 60 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 107
+---
+
 # Adult Blue Dragon
 
 *Huge* *Dragon*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Ethereal
+size: Large
+type: Dragon
+alignment: chaotic neutral
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 14d10+56
+ac: 16
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 153
+---
+
 # Drake, Ethereal
 
 *Large* *Dragon* *chaotic neutral*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Ethereal Step:** Magically shifts from Material Plane to Ethereal or vice versa. Drake can bring creatures grappled by it into the Ethereal Plane with it. A creature not native to Ethereal Plane returns to Material Plane in 1d4 rounds if brought to the plane while grappled by drake.
-
-

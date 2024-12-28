@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Iceworm
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 38
+hp_roll: 7d6+14
+ac: 13
+speed: walk 20 ft. burrow 30 ft. swim 20 ft.
+senses: blindsight 90 ft. (blind beyond) tremorsense 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 241
+---
+
 # Iceworm
 
 *Small* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 
 - **Icy Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 5 (1d4+3) piercing damage + 7 (2d6) cold.
 - **Icy Spit:** Ranged Weapon Attack: +5 to hit 20/60' one creature. 10 (2d6+3) cold and target is coated in freezing viscous slime. While coated creature’s speed reduced by 10 ft. and has disadvantage on 1st attack roll it makes on each of its turns. Creature including target can use action to clean off the slime ending effect.
-
-

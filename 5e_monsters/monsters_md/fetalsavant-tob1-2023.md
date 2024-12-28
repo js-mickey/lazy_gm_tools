@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fetal Savant
+size: Tiny
+type: Humanoid
+alignment: Chaotic Evil
+cr: 4
+xp: 1,100
+hp: 32
+hp_roll: 13d4
+ac: 11
+speed: walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 88
+---
+
 # Fetal Savant
 
 *Tiny* *Humanoid* *Chaotic Evil*

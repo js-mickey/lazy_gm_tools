@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Wasteland Dragon
+size: Large
+type: Dragon
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 178
+hp_roll: 17d10+85
+ac: 18
+speed: burrow 20 ft. climb 40 ft. fly 70 ft. walk 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 118
+---
+
 # Young Wasteland Dragon
 
 *Large* *Dragon* *chaotic evil*
@@ -24,5 +43,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 - **Warped Energy Breath (Recharge 6):** The dragon blasts warped arcane energy in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 49 (11d8) force damage on a failed save, or half as much damage on a successful one.
-
-

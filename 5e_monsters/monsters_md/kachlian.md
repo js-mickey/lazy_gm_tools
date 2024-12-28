@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kachlian
+size: Huge
+type: Aberration
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 157
+hp_roll: 15d12+60
+ac: 16
+speed: fly 40 ft. walk 0 ft. hover True ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 219
+---
+
 # Kachlian
 
 *Huge* *Aberration* *neutral evil*
@@ -32,5 +51,3 @@ Cantrips (at will): chill touch, minor illusion, ray of frost, shocking grasp
 
 - **Multiattack:** The kachlian makes three attacks with its tentacles.
 - **Tentacle:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 16). The kachlian has three tentacles, each of which can grapple only one target.
-
-

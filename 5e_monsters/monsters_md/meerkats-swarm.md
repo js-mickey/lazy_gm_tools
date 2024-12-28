@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Meerkats, Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 12
+speed: walk 20 ft. burrow 10 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 268
+---
+
 # Meerkats, Swarm
 
 *Medium* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 0 ft., one creature, in the swarm's space. 10 (4d4) piercing damage or 5 (2d4) piercing damage if swarm has half of its hp or fewer.
-
-

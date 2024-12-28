@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tree Skinner
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 38
+hp_roll: 7d8+7
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 351
+---
+
 # Tree Skinner
 
 *Medium* *Fiend* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. The target must succeed on a DC 13 Constitution saving throw or take 7 (2d6) poison damage and become poisoned until the end of its next turn.
 - **Vine Whip (Tree Form Only):** Melee Weapon Attack: +5 to hit, reach 20 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and if the target is a Large or smaller creature, it is grappled (escape DC 13). The skinner can grapple up to two creatures at one time.
 - **Squeeze (Tree Form Only):** The tree skinner makes one vine whip attack against a creature it is grappling. If the attack hits, the target is also unable to breathe or cast spells with verbal components until this grapple ends.
-
-

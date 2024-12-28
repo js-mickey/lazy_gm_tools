@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pestilence Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 4d8+4
+ac: 14
+speed: fly 30 ft. walk 10 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 294
+---
+
 # Pestilence Swarm
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Diseased Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half its hp or fewer. The creature must succeed on a DC 11 Constitution saving throw or contract sewer plague. It takes 1d4 days for sewer plague’s symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of exhaustion, and it regains only half the normal number of hp from spending Hit Dice and no hp from finishing a long rest. At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the creature gains one level of exhaustion. On a successful save, the creature’s exhaustion level decreases by one level. If a successful saving throw reduces the infected creature’s level of exhaustion below 1, the creature recovers from the disease.
-
-

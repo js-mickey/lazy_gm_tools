@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Raider
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 353
+---
+
 # Trollkin Raider
 
 *Medium* *Humanoid* *neutral*
@@ -27,5 +46,3 @@
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 - **Claw:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
 - **Spear:** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
-
-

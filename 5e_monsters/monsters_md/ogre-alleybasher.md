@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Alleybasher
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d10+30
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 297
+---
+
 # Ogre, Alleybasher
 
 *Large* *Giant* *chaotic evil*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Intimidating Rebuff:** When a creature the alleybasher can see within 30' of it targets it with an attack ogre can make a Str (Intimidation) check taking half a step forward snarling or otherwise spooking the attacker. If check is equal to or higher than attack roll attacker must reroll the attack using lower of the two results.
-
-

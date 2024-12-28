@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Queen of Witches
+size: Large
+type: Fey
+alignment: Neutral
+cr: 17
+xp: 18,000
+hp: 218
+hp_roll: 92
+ac: 18
+speed: walk 50 ft. fly 40 ft.
+senses: darkvision 120 ft. truesight 60 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 180
+---
+
 # Queen of Witches
 
 *Large* *Fey* *Neutral*

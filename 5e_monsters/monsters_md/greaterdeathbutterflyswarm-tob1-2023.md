@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Death Butterfly Swarm
+size: Huge
+type: Swarm
+alignment: Unaligned
+cr: 6
+xp: 2,300
+hp: 84
+hp_roll: 13d12
+ac: 15
+speed: walk 40 ft. fly 5 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 70
+---
+
 # Greater Death Butterfly Swarm
 
 *Huge* *Swarm* *Unaligned*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vellso
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 120
+hp_roll: 16d8+48
+ac: 15
+speed: climb 40 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 92
+---
+
 # Vellso
 
 *Medium* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Multiattack:** The vellso makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 13 (3d8) necrotic damage and contract the carrion curse disease (see sidebar).
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br>Constitution saving throw or gain one level of exhaustion. If an infected creature succeeds on the saving throw, it no longer gains exhaustion levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a greater restoration spell or similar magic. A living creature that dies from the effects of carrion curse has a 75% chance of rising again as a blood zombie (see page 393) within 24 hours.
-
-

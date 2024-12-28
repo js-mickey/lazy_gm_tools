@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Faux-Garou
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 174
+---
+
 # Faux-Garou
 
 *Medium* *Construct* *unaligned*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into Large or smaller Beast matching type of lycanthrope it resembles (wolf if it resembles a werewolf etc.) or back into its true form. Its stats other than size and speed are same in each form. While transformed retains constructed appearance and claws at end of its forelimbs. Items worn or carried not transformed. Reverts to true form if it dies.
-
-

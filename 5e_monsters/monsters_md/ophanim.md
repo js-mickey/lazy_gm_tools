@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ophanim
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 16
+xp: 15,000
+hp: 200
+hp_roll: 16d10+112
+ac: 19
+speed: fly 120 ft. hover True ft. walk 50 ft.
+senses: truesight 120 ft. 
+passive_perception: 22
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 18
+---
+
 # Ophanim
 
 *Large* *Celestial* *lawful good*
@@ -34,5 +53,3 @@ At will: bless, detect evil and good, invisibility (self only), scrying, thaumat
 - **Multiattack:** The ophanim makes four Light of Judgment attacks.
 - **Light of Judgment:** Ranged Spell Attack: +13 to hit, range 80/320 ft., one target. Hit: 18 (4d8) radiant damage.
 - **Holy Fire (Recharge 5-6):** The ophanim emits a burst of holy fire. Each creature within 30 feet of the ophanim must make a DC 19 Dexterity saving throw, taking 63 (18d6) radiant damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hp by this damage dies, leaving only a pile of fine ash.
-
-

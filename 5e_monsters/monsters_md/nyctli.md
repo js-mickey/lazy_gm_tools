@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nyctli
+size: Tiny
+type: Fey
+alignment: chaotic evil
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 3d4
+ac: 14
+speed: fly 40 ft. hover True ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 271
+---
+
 # Nyctli
 
 *Tiny* *Fey* *chaotic evil*
@@ -20,5 +39,3 @@
 
 - **Stingers:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 1 piercing damage plus 3 (1d6) necrotic damage, and the target must succeed on a DC 11 Constitution saving throw or be blinded until the end of its next turn.
 - **Douse Light:** The nyctli magically dispels or douses a single magical or nonmagical light source within 30 feet of it. The nyctli can’t dispel light created by a spell of 3rd level or higher.
-
-

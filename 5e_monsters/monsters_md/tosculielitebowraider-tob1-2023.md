@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tosculi Elite Bow Raider
+size: Medium
+type: Humanoid
+alignment: Lawful Evil
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 39
+ac: 17
+speed: walk 60 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 366
+---
+
 # Tosculi Elite Bow Raider
 
 *Medium* *Humanoid* *Lawful Evil*

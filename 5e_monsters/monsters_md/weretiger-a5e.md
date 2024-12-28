@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Weretiger
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 90
+hp_roll: 12d8+36
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. (tiger or hybrid form only) 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 314
+---
+
 # Weretiger
 
 *Medium* *Humanoid*
@@ -35,5 +54,3 @@
 - **Shapeshift:** The weretiger changes its form to a Large tiger, a tiger-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged except for its size. It can't speak in tiger form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Opportune Bite (Tiger or Hybrid Form Only):** The weretiger makes a bite attack against a prone creature.
 - **Frenzied Bite (While Bloodied:** The weretiger makes a bite attack.
-
-

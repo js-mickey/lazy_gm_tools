@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Empty Cloak
+size: Medium
+type: Construct
+alignment: Neutral
+cr: 1/2
+xp: 100
+hp: 45
+hp_roll: 10d8
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 164
+---
+
 # Empty Cloak
 
 *Medium* *Construct* *Neutral*

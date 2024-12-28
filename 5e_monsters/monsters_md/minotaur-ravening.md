@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Minotaur, Ravening
+size: Large
+type: Monstrosity
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 85
+hp_roll: 10d10+30
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 272
+---
+
 # Minotaur, Ravening
 
 *Large* *Monstrosity* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (1d8+4) piercing damage and minotaur gains temp hp equal to damage. Target: DC 13 Con save or infected with ravening (below).
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) slashing damage.
 - **Gore:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 13 (2d8+4) piercing damage.
-
-

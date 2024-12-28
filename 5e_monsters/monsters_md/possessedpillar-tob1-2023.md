@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Possessed Pillar
+size: Large
+type: Construct
+alignment: Unaligned
+cr: 7
+xp: 2,900
+hp: 95
+hp_roll: 40
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 295
+---
+
 # Possessed Pillar
 
 *Large* *Construct* *Unaligned*

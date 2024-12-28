@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Mole Lizard
+size: Large
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d10+20
+ac: 14
+speed: walk 15 ft. burrow 20 ft.
+senses: blindsight 10 ft. tremorsense 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 199
+---
+
 # Giant Mole Lizard
 
 *Large* *Beast* *unaligned*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Mass Shove:** Each Large or smaller creature within 10 ft. of the giant mole lizard and that isn’t grappled by it must make DC 14 Str save or be pushed up to 15 ft. away from the lizard and knocked prone.
-
-

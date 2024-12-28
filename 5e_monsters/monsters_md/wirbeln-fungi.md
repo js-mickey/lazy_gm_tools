@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wirbeln Fungi
+size: Small
+type: Plant
+alignment: lawful neutral
+cr: 1
+xp: 200
+hp: 16
+hp_roll: 3d8+3
+ac: 13
+speed: fly 20 ft. walk 20 ft.
+senses: darkvision 60 ft. passive perception 13
+passive_perception: -
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 166
+---
+
 # Wirbeln Fungi
 
 *Small* *Plant* *lawful neutral*
@@ -26,5 +45,3 @@
 - **Poison Needle:** Melee Weapon Attack. +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Poison Dart:** Ranged Weapon Attack. +5 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a creature, it must make a DC 13 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Spore Cloud:** (Recharge 5-6). The wirbeln ejects spores in a 15foot cone. All creatures that are not wirbeln fungi must succeed on a DC 13 Constitution saving throw or take 5 (1d10) poison damage and be subject to one of the following effects for 1 minute, depending on the wirbeln's color: green is poisoned; red is blinded; yellow is incapacitated; blue is paralyzed; purple is frightened; and black is 5 (2d4) poison damage each round. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pact Lich
+size: Medium
+type: Undead
+alignment: evil alignment
+cr: 15
+xp: 13,000
+hp: 195
+hp_roll: 26d8+78
+ac: 17
+speed: walk 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 152
+---
+
 # Pact Lich
 
 *Medium* *Undead* *any evil alignment*

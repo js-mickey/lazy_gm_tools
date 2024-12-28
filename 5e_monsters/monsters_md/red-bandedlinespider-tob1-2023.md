@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Red-Banded Line Spider
+size: Tiny
+type: Beast
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 15
+hp_roll: 6d4
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 345
+---
+
 # Red-Banded Line Spider
 
 *Tiny* *Beast* *Unaligned*

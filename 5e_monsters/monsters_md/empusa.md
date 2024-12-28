@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Empusa
+size: Medium
+type: Monstrosity
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 12d8+48
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 136
+---
+
 # Empusa
 
 *Medium* *Monstrosity* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The empusa makes two claw attacks, or one claw attack and one kick attack.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.
 - **Kick:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage, and the target must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet away from the empusa and knocked prone.
-
-

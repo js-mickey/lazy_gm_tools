@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Giant
+size: Gargantuan
+type: Giant
+alignment: neutral evil
+cr: 21
+xp: 33,000
+hp: 313
+hp_roll: 19d20+114
+ac: 20
+speed: walk 50 ft.
+senses: tremorsense 120 ft. 
+passive_perception: 22
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 185
+---
+
 # Mountain Giant
 
 *Gargantuan* *Giant* *neutral evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Bronze Dragon
+size: Huge
+type: dragon
+alignment: 
+cr: 15
+xp: 
+hp: 255
+hp_roll: 
+ac: 19
+speed: 40 ft., fly 80 ft., swim 40 ft.
+senses: 
+passive_perception: 
+source_title: Kobold Press Black Flag SRD
+source_url: https://koboldpress.com/black-flag-roleplaying/
+source_page: 
+---
+
 # Adult Bronze Dragon
 
 *Huge dragon*
@@ -54,4 +73,3 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 This work contains material from the Black Flag Roleplaying Reference Document v0.2, © Open Design LLC d/b/a Kobold Press. Reserved Material elements in this product include all elements designated as Reserved Material under the ORC License. This product contains no Expressly Designated Licensed Material.
 
 This work is licensed under the ORC License, located at the Library of Congress at TX 9-307-067, and available online at various locations including koboldpress.com/orclicense and others. All warranties are disclaimed as set forth therein.
-

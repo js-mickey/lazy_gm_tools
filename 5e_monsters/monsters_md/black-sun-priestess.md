@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Sun Priestess
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d8+27
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 290
+---
+
 # Black Sun Priestess
 
 *Medium* *Humanoid* *chaotic evil*
@@ -30,5 +49,3 @@ Cantrips (at will): guidance, mending, resistance, sacred flame
 ### Actions
 
 - **Greatclub:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage.
-
-

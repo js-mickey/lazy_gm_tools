@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brain Coral
+size: Huge
+type: Aberration
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d12+28
+ac: 14
+speed: walk 0 ft. swim 120 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 67
+---
+
 # Brain Coral
 
 *Huge* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@
 - **Pseudopod:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d8+3) bludgeoning damage.
 - **Reef Poison Spray (Recharge 5–6):** Expels poison cloud. Each creature within 15 ft. of central spire: 21 (6d6) poison and is incapacitated until end of its next turn (DC 15 Int half damage not incapacitated).
 - **Beasts of the Sea (1/Day):** Magically calls 2d4 giant crabs 2 giant sea horses or reef sharks or 1 swarm of quippers provided coral is underwater. The called creatures arrive in 1d4 rounds acting as allies of coral and obeying its telepathic commands. Beasts remain 1 hr until coral dies or until coral dismisses them as a bonus action.
-
-

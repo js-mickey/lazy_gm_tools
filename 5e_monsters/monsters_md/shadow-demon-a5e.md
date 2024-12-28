@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Demon
+size: Medium
+type: Fiend
+alignment: 
+cr: 4
+xp: 1,100
+hp: 45
+hp_roll: 10d8
+ac: 13
+speed: walk 30 ft. fly 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 74
+---
+
 # Shadow Demon
 
 *Medium* *Fiend*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Shadow Sneak:** The demon takes the Hide action even if obscured only by dim light or darkness.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold, Ghost Hunter
+size: Small
+type: Humanoid
+alignment: lawful neutral
+cr: 11
+xp: 7,200
+hp: 176
+hp_roll: 32d6+64
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 254
+---
+
 # Kobold, Ghost Hunter
 
 *Small* *Humanoid* *lawful neutral*
@@ -43,5 +62,3 @@
 ### Reactions
 
 - **Flame Burst:** When a hostile creature enters a space within 5 ft. of the ghost hunter the hunter can release a burst of fire from its clockwork hand. The creature must make DC 17 Dex save or take 7 (2d6) fire and have disadvantage on the next attack roll it makes vs. the ghost hunter before the end of the ghost hunter’s next turn.
-
-

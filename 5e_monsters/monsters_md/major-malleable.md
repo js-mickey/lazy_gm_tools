@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Major Malleable
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 10
+xp: 5,900
+hp: 218
+hp_roll: 23d12+69
+ac: 13
+speed: walk 40 ft. climb 40 ft.
+senses: blindsight 90 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 254
+---
+
 # Major Malleable
 
 *Huge* *Aberration* *chaotic evil*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Sudden Separation:** When the major malleable takes 20 damage or more from a single attack, it can choose to immediately use Separate Malleables. If it does so, the damage is divided evenly among the separate malleables it becomes.
-
-

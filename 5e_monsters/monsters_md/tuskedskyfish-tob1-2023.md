@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tusked Skyfish
+size: Large
+type: Aberration
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 102
+hp_roll: 36
+ac: 14
+speed: walk 20 ft. fly 5 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 372
+---
+
 # Tusked Skyfish
 
 *Large* *Aberration* *Unaligned*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold Broodguard
+size: Small
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d6+16
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 298
+---
+
 # Kobold Broodguard
 
 *Small* *Humanoid*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Rally! (1/Day:** When the kobold takes damage, it shouts a rallying cry. All kobolds within 30 feet that can hear it gain immunity to the frightened condition for 1 minute, and their next attack roll made before this effect ends deals an extra 1d4 damage.
-
-

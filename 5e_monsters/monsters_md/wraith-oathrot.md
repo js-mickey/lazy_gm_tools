@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wraith, Oathrot
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 52
+hp_roll: +16
+ac: 13
+speed: walk 0 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 396
+---
+
 # Wraith, Oathrot
 
 *Medium* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Life Drain:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 20 (4d8+2) necrotic. The target must make DC 13 Con save or its hp max is reduced by amount equal to damage taken. Reduction lasts until target finishes long rest. Target dies if this reduces its hp max to 0.
-
-

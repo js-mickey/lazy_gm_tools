@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Birgemon Seal
+size: Medium
+type: Aberration
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 60
+hp_roll: 8d8+24
+ac: 12
+speed: walk 20 ft. swim 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 57
+---
+
 # Birgemon Seal
 
 *Medium* *Aberration* *unaligned*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Ice Slide:** If the birgemon seal moves at least 10 ft. in a straight line while on snow or ice during its turn it can slide up to 40 feet.
-
-

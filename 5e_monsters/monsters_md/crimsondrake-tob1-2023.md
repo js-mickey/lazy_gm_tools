@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crimson Drake
+size: Tiny
+type: Dragon
+alignment: Chaotic Evil
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 20
+ac: 14
+speed: walk 80 ft. fly 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 141
+---
+
 # Crimson Drake
 
 *Tiny* *Dragon* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horned Serpent
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 12
+xp: 8,400
+hp: 210
+hp_roll: 20d10+100
+ac: 18
+speed: swim 40 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 220
+---
+
 # Horned Serpent
 
 *Large* *Monstrosity* *unaligned*
@@ -33,5 +52,3 @@
 - **Gore:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 19 (4d6 + 5) piercing damage.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 21 (3d10 + 5) piercing damage, and the target must succeed on a DC 17 Constitution saving throw or become infected with the corpse cough disease (see the Corpse Cough trait).
 - **Gem Gaze (Recharge 5-6):** The horned serpent's gem flashes, bathing a 30-foot cone in iridescent light. Each creature in the area must make a DC 17 Constitution saving throw. On a failed save, a creature takes 35 (10d6) radiant damage and is infected with the corpse cough disease (see the Corpse Cough trait). On a success, a creature takes half the damage and isn't infected with the disease. Gem Gaze has no effect on constructs and undead.
-
-

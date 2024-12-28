@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alabroza, Bloodfiend
+size: Small
+type: Fiend
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 72
+hp_roll: 16d6+16
+ac: 14
+speed: walk 10 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 13
+---
+
 # Alabroza, Bloodfiend
 
 *Small* *Fiend* *neutral evil*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into Med humanoid Small mist cloud or back into true bird-like fiend form. Other than size and speed stats are same in each form with mist form exceptions. Items worn/carried not transformed. Reverts on death. Mist form: can’t take any actions speak or manipulate objects resistance to nonmagical damage. Weightless fly speed 20' can hover can enter hostile creature’s space and stop there. If air can pass through a space mist can with o squeezing but can’t pass through water.
-
-

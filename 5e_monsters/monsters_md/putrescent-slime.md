@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Putrescent Slime
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d8+18
+ac: 8
+speed: walk 20 ft. swim 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 300
+---
+
 # Putrescent Slime
 
 *Medium* *Ooze* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Pseudopod:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) bludgeoning damage plus 3 (1d6) poison damage.
-
-

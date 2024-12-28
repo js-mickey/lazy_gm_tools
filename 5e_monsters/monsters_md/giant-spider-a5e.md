@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Spider
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 26
+hp_roll: 4d10+4
+ac: 14
+speed: walk 30 ft. climb 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 450
+---
+
 # Giant Spider
 
 *Large* *Beast*
@@ -29,5 +48,3 @@
 ### Bonus Actions
 
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 20/60 feet., one Large or smaller creature. Hit: The creature is restrained by a web. As an action, a creature can make a DC 12 Strength check, breaking the web on a success. The effect also ends if the web is destroyed. The web is an object with AC 10, 1 hit point, and immunity to all forms of damage except slashing, fire, and force.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Mongoose
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 2d8+4
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 393
+---
+
 # Giant Mongoose
 
 *Medium* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Defensive Roll:** The mongoose adds its Athletics bonus to its AC against one attack that would hit it. To do so, the mongoose must see the attacker.
-
-

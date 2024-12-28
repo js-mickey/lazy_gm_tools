@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Armadillo
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 10
+hp_roll: 3d6
+ac: 12
+speed: burrow 15 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 392
+---
+
 # Giant Armadillo
 
 *Small* *Beast* *unaligned*
@@ -20,5 +39,3 @@
 
 - **Claws:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.
 - **Tuck In:** The giant armadillo tucks its entire body into its shell, forming an armored ball. While in this form, it moves by rolling around, it has resistance to bludgeoning, piercing, and slashing damage, and it can’t take the Attack action or burrow. The giant armadillo can return to its true form as a bonus action.
-
-

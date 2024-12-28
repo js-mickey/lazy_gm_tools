@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tulpa
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 39
+hp_roll: 6d8+12
+ac: 13
+speed: hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 358
+---
+
 # Tulpa
 
 *Medium* *Undead* *neutral evil*
@@ -32,5 +51,3 @@
 - **Black Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) necrotic damage.
 - **Psychic Blast:** Ranged Spell Attack: +4 to hit, range 120 ft., one target. Hit: 22 (4d10) psychic damage.
 - **Imposing Dread (1/Day):** The tulpa uses its action to fill a 40-foot radius around itself with dread-inducing psychic energy. Each creature, other than the tulpa's creator, within that area must succeed on a DC 13 Wisdom saving throw or be frightened of the tulpa until the end of its next turn and become cursed. A creature with an Intelligence of 5 or lower can't be cursed. While cursed by the tulpa, that creature's own thoughts turn ever more dark and brooding. Its sense of hope fades, and shadows seem overly large and ominous. The cursed creature can repeat the saving throw whenever it finishes a long rest, ending the effect on itself on a success. If not cured within three days, the cursed creature manifests its own tulpa.
-
-

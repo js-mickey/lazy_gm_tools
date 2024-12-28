@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aural Hunter
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 127
+hp_roll: 15d10+45
+ac: 15
+speed: walk 40 ft. climb 30 ft.
+senses: blindsight 60 ft. or 20 ft. while deafened (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 47
+---
+
 # Aural Hunter
 
 *Large* *Aberration* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) slashing damage.
 - **Rib Hooks:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+3) piercing damage and the target is grappled (escape DC 15) if it is a Large or smaller creature and it doesn’t have another creature grappled.
 - **Consume Sound:** Siphons energy from audible vibrations surrounding a creature grappled by it. Target: 14 (4d6) necrotic and becomes deafened and unable to speak until end of its next turn (DC 13 Con half damage and is able to hear and speak). Aural hunter regains hp equal to damage dealt. Consume Sound has no effect on creatures that are already deafened and unable to speak. It can’t use this action if it is deafened.
-
-

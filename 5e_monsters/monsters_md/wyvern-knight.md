@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wyvern Knight
+size: Medium
+type: Humanoid
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 12d8+48
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 385
+---
+
 # Wyvern Knight
 
 *Medium* *Humanoid* *lawful evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Protection:** When a creature the wyvern knight can see attacks a target that is within 5 feet of it, including a creature it is riding, the knight can use a reaction to impose disadvantage on the attack roll. The knight must be wielding a shield.
-
-

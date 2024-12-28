@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cambion
+size: Medium
+type: Fiend
+alignment: 
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 16
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 42
+---
+
 # Cambion
 
 *Medium* *Fiend*
@@ -30,5 +49,3 @@
 - **Fell Charm:** The cambion targets one creature within 30 feet. The target makes a DC 15 Wisdom saving throw. On a failure, it is magically charmed by the cambion for 1 day. The effect ends if the cambion or a cambions ally harms the target, or if the cambion commands it to take a suicidal action. While charmed, the target regards the cambion as a trusted friend and is an ally of the cambion. If the target makes a successful saving throw or the effect ends, the target is immune to this cambions Fell Charm for 24 hours.
 - **Command:** The cambion gives an order to an ally within 60 feet that can hear it. If the ally has a reaction available, it can use it to follow the cambions order, either taking an action or moving up to its Speed.
 - **Shapeshift:** The cambion magically changes its form to that of any humanoid creature it has seen before, or back into its true form. While shapeshifted, its statistics are unchanged except that it has no armor or equipment, can't use its black iron blade, and can fly only if it is in a form with wings. It reverts to its true form if it dies.
-
-

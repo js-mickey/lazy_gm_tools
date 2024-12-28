@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wardu
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 16
+speed: fly 40 ft. walk 0 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 365
+---
+
 # Wardu
 
 *Medium* *Aberration* *neutral evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The wardu uses its Segmented Gaze. It then makes two proboscis attacks.
 - **Proboscis:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) piercing damage, and the wardu regains hp equal to half the damage dealt. If the target is a spellcaster, the target has disadvantage on Constitution saving throws to maintain its concentration until the end of its next turn.
 - **Segmented Gaze:** The wardu’s segmented central eye flares with unstable magical energy. One creature the wardu can see within 30 feet of it must succeed on a DC 15 Constitution saving throw or suffer a random condition until the end of its next turn. Roll a d4 to determine the condition: blinded (1), frightened (2), deafened (3), or incapacitated (4).
-
-

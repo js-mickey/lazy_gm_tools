@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Helashruu
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 13
+xp: 10,000
+hp: 184
+hp_roll: 16d12+80
+ac: 18
+speed: fly 50 ft. walk 0 ft. hover True ft.
+senses: truesight 90 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 197
+---
+
 # Helashruu
 
 *Huge* *Aberration* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Trap Life (Recharge 6):** One creature of the helashruu’s choice that is within 30 feet of the helashruu and that can see it must succeed on a DC 18 Wisdom saving throw or be trapped inside the helashruu’s mirror. While trapped, the target is blinded and restrained, it has total cover against attacks and other effects outside the helashruu, and it takes 21 (6d6) force damage at the start of each of the helashruu’s turns. The helashruu can have only one creature trapped at a time. A fragmented caricature of the trapped creature appears on the helashruu’s surface while a creature is trapped inside it.<br><br>If the helashruu takes 30 or more bludgeoning or thunder damage on a single turn, the helashruu must succeed on a DC 15 Constitution saving throw or release the creature, which falls prone in a space within 10 feet of the helashruu. If the helashruu dies, a trapped creature is immediately released into a space within 10 feet of the helashruu.
 - **Teleport:** The helashruu magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Dimensional Hop (3/Day):** The helashruu can transport itself to a different plane of existence. This works like the plane shift spell, except the helashruu can affect only itself and can’t use this action to banish an unwilling creature to another plane.
-
-

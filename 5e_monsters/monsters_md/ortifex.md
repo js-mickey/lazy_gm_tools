@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ortifex
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 12
+speed: fly 30 ft. walk 0 ft. hover True ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 287
+---
+
 # Ortifex
 
 *Medium* *Undead* *neutral evil*
@@ -31,5 +50,3 @@ Unless surprised, a creature can plug its ears to avoid the saving throw at the 
 
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) necrotic damage.
 - **Blood Siphon (Recharge 6):** The ortifex drains blood from nearby creatures. Each creature within 20 feet of the ortifex must make a DC 13 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. The ortifex gains temporary hp equal to the single highest amount of necrotic damage dealt. If it gains temporary hp from this action while it still has temporary hp from a previous use of this action, the temporary hp add together. The ortifex’s temporary hp can’t exceed half its hp maximum. A creature that doesn’t have blood is immune to Blood Siphon.
-
-

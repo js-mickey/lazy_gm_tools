@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Void Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: Chaotic Neutral
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 18
+ac: 17
+speed: walk 60 ft. fly 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 131
+---
+
 # Void Dragon Wyrmling
 
 *Medium* *Dragon* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dread Troll
+size: Large
+type: Giant
+alignment: 
+cr: 7
+xp: 2,900
+hp: 105
+hp_roll: 10d10+50
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 413
+---
+
 # Dread Troll
 
 *Large* *Giant*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Multiattack:** The troll makes two bite attacks and three claw attacks.
-
-

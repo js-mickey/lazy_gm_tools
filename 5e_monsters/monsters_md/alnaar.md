@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alnaar
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 212
+hp_roll: 25d10+75
+ac: 17
+speed: burrow 20 ft. fly 40 ft. walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 82
+---
+
 # Alnaar
 
 *Large* *Fiend* *chaotic evil*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **On the Hunt:** When a creature the alnaar can see moves, the alnaar can move up to 20 feet toward the moving creature. If the alnaar moves within 10 feet of that creature, it can make one fiery fangs attack against the creature.
-
-

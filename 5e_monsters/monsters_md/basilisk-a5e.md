@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Basilisk
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 7d8+21
+ac: 15
+speed: walk 20 ft. climb 10 ft.
+senses: darkvision 30 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 32
+---
+
 # Basilisk
 
 *Medium* *Monstrosity*
@@ -24,5 +43,3 @@
 ### Reactions
 
 - **Stone Glance:** If a creature within 60 feet that the basilisk can see hits the basilisk with an attack, the basilisk uses Stone Gaze on the attacker.
-
-

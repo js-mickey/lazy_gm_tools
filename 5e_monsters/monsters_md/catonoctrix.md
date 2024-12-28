@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Catonoctrix
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 168
+hp_roll: 16d10+80
+ac: 18
+speed: walk 40 ft. fly 80 ft.
+senses: darkvision 120 ft. truesight 30 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 75
+---
+
 # Catonoctrix
 
 *Large* *Aberration* *neutral evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Precognitive Dodge:** Adds 4 to its AC vs. one attack that would hit it. To do so it must see the attacker and be within 30' of it.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sammael
+size: Medium
+type: Celestial
+alignment: neutral good
+cr: 7
+xp: 2,900
+hp: 104
+hp_roll: 16d8+32
+ac: 16
+speed: fly 40 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 19
+---
+
 # Sammael
 
 *Medium* *Celestial* *neutral good*
@@ -33,5 +52,3 @@
 - **Greataxe (Executioner Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage plus 9 (2d8) radiant damage. If the target is a creature, it must succeed on a DC 16 Wisdom saving throw or be frightened until the end of its next turn.
 - **Slam (Destructor Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) fire damage plus 9 (2d8) radiant damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be pushed 10 feet away from the angel.
 - **Whip (Punisher Form Only):** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) slashing damage plus 9 (2d8) radiant damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be stunned until the end of its next turn. A creature's hp maximum is reduced by an amount equal to the radiant damage taken. This reduction lasts until the creature finishes a short or long rest.
-
-

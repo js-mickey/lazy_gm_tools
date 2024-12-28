@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Treacle
+size: Tiny
+type: Ooze
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 12
+ac: 12
+speed: walk 10 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 5
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 368
+---
+
 # Treacle
 
 *Tiny* *Ooze* *Unaligned*

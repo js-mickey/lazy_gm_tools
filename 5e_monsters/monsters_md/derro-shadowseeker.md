@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derro Shadowseeker
+size: Small
+type: Humanoid
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d6+60
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 98
+---
+
 # Derro Shadowseeker
 
 *Small* *Humanoid* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Dagger:** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +8 to hit, range 80/320 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
 - **Maddening Convulsions (Recharge 5-6):** The shadowseeker’s body contorts and spasms in bizarre ways, confounding other creatures. Each non-derro creature within 5 feet of the shadowseeker that can see it must succeed on a DC 15 Wisdom saving throw or be affected as if by a confusion spell for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the shadowseeker’s Maddening Convulsions for the next 24 hours.
-
-

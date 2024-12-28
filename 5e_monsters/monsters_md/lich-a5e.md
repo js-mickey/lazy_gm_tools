@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lich
+size: Medium
+type: Undead
+alignment: 
+cr: 21
+xp: 33,000
+hp: 170
+hp_roll: 20d8+80
+ac: 18
+speed: walk 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 306
+---
+
 # Lich
 
 *Medium* *Undead*

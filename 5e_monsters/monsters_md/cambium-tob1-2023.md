@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cambium
+size: Large
+type: Fiend
+alignment: Neutral Evil
+cr: 14
+xp: 11,500
+hp: 264
+hp_roll: 138
+ac: 19
+speed: walk 30 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 49
+---
+
 # Cambium
 
 *Large* *Fiend* *Neutral Evil*

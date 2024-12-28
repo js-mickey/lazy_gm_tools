@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Animated Armor
+size: Medium
+type: Construct
+alignment: 
+cr: 1
+xp: 200
+hp: 31
+hp_roll: 7d8
+ac: 18
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 23
+---
+
 # Animated Armor
 
 *Medium* *Construct*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Weapon:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 7 (1d10 + 2) bludgeoning  piercing  or slashing damage  depending on weapon.
-
-

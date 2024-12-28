@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chamrosh
+size: Medium
+type: Celestial
+alignment: neutral good
+cr: 1
+xp: 200
+hp: 39
+hp_roll: 6d8+12
+ac: 14
+speed: fly 60 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 59
+---
+
 # Chamrosh
 
 *Medium* *Celestial* *neutral good*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
 - **Fearsome Bark (Recharge 5-6):** The chamrosh lets out a highpitched bark at a creature it can see within 30 feet of it. If the target is of evil alignment, it must make a DC 13 Wisdom saving throw. On a failure, the target takes 10 (3d6) psychic damage and is frightened until the end of its next turn. On a success, the target takes half the damage and isn’t frightened. The bark has no effect on neutral or good-aligned creatures.
 - **Healing Lick (2/Day):** The chamrosh licks another creature. The target magically regains 10 (2d8 + 1) hp and is cured of the charmed, frightened, and poisoned conditions.
-
-

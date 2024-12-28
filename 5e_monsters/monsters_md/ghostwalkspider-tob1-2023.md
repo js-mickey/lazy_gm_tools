@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghostwalk Spider
+size: Large
+type: Monstrosity
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 119
+hp_roll: 42
+ac: 15
+speed: walk 50 ft.
+senses: truesight 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 343
+---
+
 # Ghostwalk Spider
 
 *Large* *Monstrosity* *Neutral Evil*

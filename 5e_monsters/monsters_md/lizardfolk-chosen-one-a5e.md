@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lizardfolk Chosen One
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 310
+---
+
 # Lizardfolk Chosen One
 
 *Medium* *Humanoid*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Supernatural Rebuke (1/Day):** When the lizardfolk is dealt damage by a creature it can see within 60 feet, its attacker makes a DC 13 Dexterity saving throw. On a failure, the attacker takes 11 (2d10) fire or radiant damage (the lizardfolks choice).
-
-

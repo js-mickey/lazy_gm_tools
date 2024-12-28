@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel of Judgment
+size: Huge
+type: Celestial
+alignment: neutral
+cr: 18
+xp: 20,000
+hp: 229
+hp_roll: 17d12+119
+ac: 19
+speed: walk 40 ft. fly 120 ft.
+senses: truesight 120 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 16
+---
+
 # Angel of Judgment
 
 *Huge* *Celestial* *neutral*
@@ -37,5 +56,3 @@ At will: detect evil and good, detect magic, detect thoughts, invisibility (self
 
 - **Multiattack:** The angel of judgment makes two melee attacks.
 - **Greataxe:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage plus 27 (6d8) force damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deer
+size: Medium
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 4
+hp_roll: 1d8
+ac: 13
+speed: walk 50 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 442
+---
+
 # Deer
 
 *Medium* *Beast*
@@ -24,5 +43,3 @@
 
 - **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 1 piercing damage.
 - **Headbutt:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) piercing damage.
-
-

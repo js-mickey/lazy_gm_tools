@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Warlock Of The Genie Lord
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 5
+xp: 1,800
+hp: 78
+hp_roll: 12d8+24
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 411
+---
+
 # Npc: Warlock Of The Genie Lord
 
 *Medium* *Humanoid* *any alignment*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Genie Lord’s Favor:** When it takes acid cold fire lightning or thunder warlock has advantage on next Elemental Burst attack it makes before end of its next turn provided Elemental Burst deals same damage as damage warlock took.
-
-

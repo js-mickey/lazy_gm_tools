@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Golem, Barnyard
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d8+30
+ac: 9
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 214
+---
+
 # Golem, Barnyard
 
 *Medium* *Construct* *unaligned*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 7 (1d6+4) piercing damage + 7 (2d6) poison.
 - **Wing Slap:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) bludgeoning damage and the target must make DC 13 Str save or be knocked prone.
 - **Chymus Expulsion (Recharge 5–6):** Exhales semi-digested decayed meat and vegetation in a 15 ft. cone. Each creature in that area: 14 (4d6) poison (DC 13 Con half).
-
-

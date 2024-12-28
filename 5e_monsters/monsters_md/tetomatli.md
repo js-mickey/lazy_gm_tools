@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tetomatli
+size: Large
+type: Construct
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 152
+hp_roll: 16d10+64
+ac: 16
+speed: walk 30 ft.
+senses: tremorsense 90 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 345
+---
+
 # Tetomatli
 
 *Large* *Construct* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Head Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage. If the tetomatli scores a critical hit against a target wearing metal armor, the target must succeed on a DC 15 Strength saving throw or its armor is destroyed. A creature wearing magical armor has advantage on this saving throw. A creature wearing adamantine armor is unaffected.
 - **Wing Buffet:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.
 - **Tremor (Recharge 6):** The tetomatli slams its head repeatedly into the ground, creating a magical shockwave. Each creature within 20 feet of the tetomatli must succeed on a DC 15 Dexterity saving throw or be knocked prone and have disadvantage on attack rolls and Dexterity checks until the end of its next turn.
-
-

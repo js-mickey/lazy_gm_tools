@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Killer Whale
+size: Huge
+type: Beast
+alignment: 
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d12+10
+ac: 12
+speed: walk 0 ft. swim 60 ft.
+senses: blindsight 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 453
+---
+
 # Killer Whale
 
 *Huge* *Beast*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 14 (3d6+4) piercing damage. If the target is a creature  it is grappled (escape DC 14). Until this grapple ends  the whale can't bite another target and it has advantage on bite attacks against the creature it is grappling.
-
-

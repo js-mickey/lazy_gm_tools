@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Imperator
+size: Huge
+type: Monstrosity
+alignment: neutral
+cr: 11
+xp: 7,200
+hp: 216
+hp_roll: 16d12+112
+ac: 16
+speed: walk 30 ft. swim 90 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 242
+---
+
 # Imperator
 
 *Huge* *Monstrosity* *neutral*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Muster the Legions (1/Day):** When the imperator is reduced to half its hp or lower it magically calls 1d4 swarms of penguins. The penguins arrive on initiative count 20 of the next round acting as allies of the imperator and obeying its telepathic commands. The penguins remain for 1 hr until the imperator dies or until the imperator dismisses them as a bonus action.
-
-

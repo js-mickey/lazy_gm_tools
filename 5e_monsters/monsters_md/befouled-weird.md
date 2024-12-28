@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Befouled Weird
+size: Medium
+type: Elemental
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 30 ft. swim 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 41
+---
+
 # Befouled Weird
 
 *Medium* *Elemental* *neutral evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The befouled weird makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or become infected with parasitic amoebas (see the Parasitic Amoebas trait).
 - **Drown in Filth (Recharge 4-6):** A creature in the befouled weird’s space must make a DC 13 Strength saving throw. On a failure, the target takes 10 (2d6 + 3) bludgeoning damage and 7 (2d6) necrotic damage, and, if it is Medium or smaller, it is grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the weird’s space. At the start of each of the weird’s turns, the grappled target takes 10 (2d6 + 3) bludgeoning damage and 7 (2d6) necrotic damage, and it must make a DC 13 Constitution saving throw or become infected with parasitic amoebas. A creature within 5 feet of the weird can pull the target out of it by taking an action to make a DC 13 Strength check and succeeding.
-
-

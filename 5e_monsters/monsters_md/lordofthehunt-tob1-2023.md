@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lord of the Hunt
+size: Medium
+type: Fey
+alignment: Lawful Neutral
+cr: 18
+xp: 20,000
+hp: 229
+hp_roll: 108
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 10 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 174
+---
+
 # Lord of the Hunt
 
 *Medium* *Fey* *Lawful Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flumph
+size: Small
+type: Aberration
+alignment: 
+cr: 1/8
+xp: 25
+hp: 7
+hp_roll: 2d6
+ac: 12
+speed: walk 5 ft. fly 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 207
+---
+
 # Flumph
 
 *Small* *Aberration*
@@ -28,5 +47,3 @@
 
 - **Tendrils:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage plus 3 (1d6) acid damage.
 - **Stench Spray (1/Day):** Each creature in a 15-foot cone makes a DC 10 Dexterity saving throw. On a failure  the creature exudes a horrible stench for 1 hour. While a creature exudes this stench  it and any creature within 5 feet of it are poisoned. A creature can remove the stench on itself by bathing during a rest.
-
-

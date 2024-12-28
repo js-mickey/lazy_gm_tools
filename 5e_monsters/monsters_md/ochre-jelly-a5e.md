@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ochre Jelly
+size: Large
+type: Ooze
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 8
+speed: walk 15 ft. climb 15 ft. swim 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 352
+---
+
 # Ochre Jelly
 
 *Large* *Ooze*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Split:** When a Medium or larger jelly with at least 10 hit points is subjected to lightning or slashing damage, it splits into two jellies that are each one size smaller, freeing any grappled targets. Each new jelly has half the originals hit points (rounded down).
-
-

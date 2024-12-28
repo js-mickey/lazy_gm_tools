@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Paper Drake
+size: Small
+type: Dragon
+alignment: Neutral
+cr: 2
+xp: 450
+hp: 78
+hp_roll: 36
+ac: 13
+speed: walk 60 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 144
+---
+
 # Paper Drake
 
 *Small* *Dragon* *Neutral*

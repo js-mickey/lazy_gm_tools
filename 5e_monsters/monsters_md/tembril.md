@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tembril
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d10+48
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 344
+---
+
 # Tembril
 
 *Large* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage. If the tembril scores a critical hit against a Medium or smaller target and the damage reduces the target to below half its hp maximum, the target must succeed on a DC 15 Constitution saving throw or be instantly killed as its head is removed. A creature is immune to this effect if it is immune to piercing damage or doesn’t have or need a head.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Maddening Chitter (Recharge 6):** The tembril chitters maddeningly in a 30-foot cone. Each creature in that area must make a DC 15 Wisdom saving throw. On a failure, a creature takes 21 (6d6) psychic damage and is incapacitated for 1 minute. On a success, a creature takes half the damage and isn’t incapacitated. If a creature fails the saving throw by 5 or more, it also suffers short-term madness. An incapacitated creature can repeat the saving throw at the end of each of its turns, ending the incapacitated condition on itself on a success.
-
-

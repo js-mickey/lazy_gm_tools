@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dinosaur, Thundercall Hadrosaur
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 11
+xp: 7,200
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 40 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 126
+---
+
 # Dinosaur, Thundercall Hadrosaur
 
 *Huge* *Monstrosity* *unaligned*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Sonic Shield:** The hadrosaur adds 4 to its AC vs. one ranged attack that would hit it. To do so the hadrosaur must see the attacker and not be in an area of magical silence.
-
-

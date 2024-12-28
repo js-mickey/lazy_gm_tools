@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Glabrezu
+size: Large
+type: Fiend
+alignment: 
+cr: 10
+xp: 5,900
+hp: 157
+hp_roll: 15d10+75
+ac: 17
+speed: walk 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 68
+---
+
 # Glabrezu
 
 *Large* *Fiend*
@@ -37,5 +56,3 @@
 - **Rend:** If grappling the same target with both pincers, the glabrezu rips at the target, ending both grapples and dealing 27 (4d10 + 5) slashing damage. If this damage reduces a creature to 0 hit points, it dies and is torn in half.
 - **Darkness:** Magical darkness spreads from a point within 30 feet, filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute, until the glabrezu dismisses it, or until the glabrezu uses this ability again. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 - **Confusion (1/Day):** The glabrezu targets up to three creatures within 90 feet. Each target makes a DC 16 Wisdom saving throw, becoming confused for 1 minute on a failure. A target repeats this saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

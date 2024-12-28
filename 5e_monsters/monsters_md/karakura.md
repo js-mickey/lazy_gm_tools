@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Karakura
+size: Medium
+type: Fiend
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 76
+hp_roll: 17d8
+ac: 15
+speed: fly 40 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 235
+---
+
 # Karakura
 
 *Medium* *Fiend* *neutral evil*
@@ -34,5 +53,3 @@
 - **Charm:** One humanoid the karakura can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed until dawn. The charmed target obeys the fiend's commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw to end the effect. If the target successfully saves, or if the effect on it ends, the target is immune to this karakura's Charm for the next 24 hours. <br><br>The karakura can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
 - **Shroud in Darkness (Recharge 5-6):** Bands of shadow stretch out from the karakura and wrap around a target it can see within 30 feet. The target must succeed on a DC 15 Charisma saving throw or be translocated to the Plane of Shadow for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. When a target exits the shroud, it appears in an unoccupied space within 10 feet of the karakura. <br><br>The karakura can have only one target in its shroud at a time. It can release a target as a bonus action. <br><br>While in the Plane of Shadow, the target is bombarded with horrific images and sensations. Each round it remains in the Plane of Shadow, it must succeed on a DC 15 Charisma saving throw or gain one short-term madness. A target held in the shroud is released when the karakura dies.
 - **Shadow Walk:** The karakura can magically enter the Plane of Shadow from the Material Plane, or vice versa.
-
-

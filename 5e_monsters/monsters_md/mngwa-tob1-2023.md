@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mngwa
+size: Medium
+type: Aberration
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 91
+hp_roll: 28
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 273
+---
+
 # Mngwa
 
 *Medium* *Aberration* *Neutral Evil*

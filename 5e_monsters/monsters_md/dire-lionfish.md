@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dire Lionfish
+size: Large
+type: Beast
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 136
+hp_roll: 16d10+48
+ac: 15
+speed: walk 0 ft. swim 60 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 131
+---
+
 # Dire Lionfish
 
 *Large* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 14 (2d10+3) piercing damage.
 - **Headbutt:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) bludgeoning damage + 7 (2d6) poison.
 - **Forceful Spit (Recharge 4–6):** Launches a stream of pessurized water from its mouth in a 30' line that is 5 ft. wide  Each creature in that line: 21 (6d6) bludgeoning damage and is pushed up to 20' away from the lionfish and is knocked prone (DC 14 Dex half damage and is pushed up to 10 ft. away from the lionfish and isn’t knocked prone.)
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Orphan of the Black
+size: Small
+type: Fey
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 49
+hp_roll: 9d6+18
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 286
+---
+
 # Orphan of the Black
 
 *Small* *Fey* *neutral evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The orphan of the black makes two melee attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 - **Incite Violence (Recharge 5-6):** The orphan of the black forces a creature it can see within 15 feet of it to commit an outburst of violence. The target must make a DC 12 Wisdom saving throw. On a failed save, the creature must use its action on its next turn to attack the nearest creature other than the orphan of the black. On a success, the creature takes 7 (2d6) psychic damage from the violence boiling at the edge of its consciousness. A creature immune to being charmed isn’t affected by the orphan’s Incite Violence.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dust Goblin
+size: Small
+type: Humanoid
+alignment: Neutral Evil
+cr: 1/4
+xp: 50
+hp: 16
+hp_roll: 6
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 215
+---
+
 # Dust Goblin
 
 *Small* *Humanoid* *Neutral Evil*

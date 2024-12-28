@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Glass Gator
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 7
+ac: 15
+speed: walk 50 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 211
+---
+
 # Glass Gator
 
 *Large* *Beast* *Unaligned*

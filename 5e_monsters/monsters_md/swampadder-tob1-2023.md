@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swamp Adder
+size: Small
+type: Beast
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 334
+---
+
 # Swamp Adder
 
 *Small* *Beast* *Unaligned*

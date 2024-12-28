@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pech
+size: Small
+type: Elemental
+alignment: neutral good
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d6+12
+ac: 15
+speed: climb 10 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 294
+---
+
 # Pech
 
 *Small* *Elemental* *neutral good*
@@ -28,5 +47,3 @@
 - **Multiattack:** The pech makes two attacks: one with its pick and one with its hammer. If the pech hits the same target with both attacks, the target must succeed on a DC 11 Constitution saving throw or be incapacitated until the start of its next turn.
 - **Pick:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Hammer:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
-
-

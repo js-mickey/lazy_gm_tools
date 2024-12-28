@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tosculi Warrior
+size: Small
+type: Humanoid
+alignment: Lawful Evil
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 27
+ac: 15
+speed: walk 60 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 367
+---
+
 # Tosculi Warrior
 
 *Small* *Humanoid* *Lawful Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wyvern
+size: Large
+type: Dragon
+alignment: 
+cr: 6
+xp: 2,300
+hp: 110
+hp_roll: 13d10+39
+ac: 13
+speed: walk 20 ft. fly 80 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 430
+---
+
 # Wyvern
 
 *Large* *Dragon*
@@ -26,5 +45,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (2d4 + 4) slashing damage. If the wyvern is attacking from above  the target is grappled by the wyvern (escape DC 15). While grappling a target in this way  the wyverns Speed is reduced to 0  it can't use its claws to attack any other creature  and it has advantage on attacks against the target.
 - **Stinger:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one creature. Hit: 11 (2d6 + 4) piercing damage. The target makes a DC 15 Constitution saving throw  taking 24 (7d6) poison damage on a failure or half damage on a success.
-
-

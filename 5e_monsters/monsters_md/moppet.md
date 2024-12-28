@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moppet
+size: Tiny
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 17
+hp_roll: 5d6
+ac: 10
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 277
+---
+
 # Moppet
 
 *Tiny* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Nimble Moves:** Takes the Dash or Disengage action.
-
-

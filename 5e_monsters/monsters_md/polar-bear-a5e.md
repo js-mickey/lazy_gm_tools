@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Polar Bear
+size: Large
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 42
+hp_roll: 5d10+15
+ac: 12
+speed: walk 40 ft. swim 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 456
+---
+
 # Polar Bear
 
 *Large* *Beast*
@@ -25,5 +44,3 @@
 - **Multiattack:** The bear makes two melee attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d8+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d4+5) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 15). Until this grapple ends  the bear can't attack a different target with its claws.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Scorpion
+size: Large
+type: Construct
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 95
+hp_roll: 10d10+40
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 89
+---
+
 # Clockwork Scorpion
 
 *Large* *Construct* *unaligned*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Gas Nozzles:** When it takes damage all within 5 feet: 5 (1d10) poison. If damage taken was fire gas ignites deals + 5 (1d10) fire.
-
-

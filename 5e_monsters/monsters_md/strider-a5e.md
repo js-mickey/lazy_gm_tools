@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Strider
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 491
+---
+
 # Strider
 
 *Medium* *Humanoid*
@@ -34,5 +53,3 @@
 - **Aimed Strike:** The strider gains advantage on their next attack made before the end of their turn.
 - **Skirmish Step:** The strider moves up to half their Speed without provoking opportunity attacks.
 - **The most experienced scouts range over hill and dale:** Some striders protect settled folks, while others seek to avoid them.
-
-

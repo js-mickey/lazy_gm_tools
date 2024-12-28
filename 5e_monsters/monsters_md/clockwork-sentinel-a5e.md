@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Sentinel
+size: Medium
+type: Construct
+alignment: 
+cr: 4
+xp: 1,100
+hp: 60
+hp_roll: 8d8+24
+ac: 18
+speed: walk 35 ft.
+senses: blindsight 120 ft. (blind beyond that range) 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 52
+---
+
 # Clockwork Sentinel
 
 *Medium* *Construct*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Parry:** The sentinel adds 2 to its AC against one melee attack that would hit it.
-
-

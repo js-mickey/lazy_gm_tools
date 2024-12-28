@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: River King
+size: Medium
+type: Fey
+alignment: Chaotic Neutral
+cr: 16
+xp: 15,000
+hp: 190
+hp_roll: 100
+ac: 18
+speed: walk 60 ft.
+senses: blindsight 10 ft. darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 182
+---
+
 # River King
 
 *Medium* *Fey* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vine Drake
+size: Medium
+type: Dragon
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 105
+hp_roll: 14d8+42
+ac: 16
+speed: climb 50 ft. walk 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 181
+---
+
 # Vine Drake
 
 *Medium* *Dragon* *neutral*
@@ -31,5 +50,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Vine Lash:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. The target is grappled (escape DC 15) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained, and the vine drake can’t vine lash another target.
 - **Acid Breath (Recharge 5-6):** The vine drake exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
-
-

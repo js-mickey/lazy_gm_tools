@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Puffinfolk
+size: Small
+type: Humanoid
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d6+8
+ac: 15
+speed: walk 20 ft. swim 30 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 322
+---
+
 # Puffinfolk
 
 *Small* *Humanoid* *neutral*
@@ -29,5 +48,3 @@
 ### Reactions
 
 - **Quick and Nimble:** When a creature the puffinfolk can see targets it with melee or ranged weapon attack puffinfolk darts out of the way and attacker has disadvantage on the attack.
-
-

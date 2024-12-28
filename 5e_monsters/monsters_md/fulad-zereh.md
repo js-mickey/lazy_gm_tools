@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fulad-Zereh
+size: Huge
+type: Fiend
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 115
+hp_roll: 10d12+50
+ac: 18
+speed: fly 40 ft. walk 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 85
+---
+
 # Fulad-Zereh
 
 *Huge* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Multiattack:** The demon makes two attacks: one with its barbed whip and one with its battleaxe.
 - **Barbed Whip:** Melee Weapon Attack: +8 to hit, reach 30 ft., one target. Hit: 14 (3d6 + 4) slashing damage, and, if the target is Large or smaller, it is pulled up to 25 feet toward the demon. If the target is a creature other than an undead or a construct, it must succeed on a DC 16 Constitution saving throw or take 5 (1d10) necrotic damage at the start of each of its turns as a barb of pure Abyssal energy lodges itself in the wound. Each time the demon hits the barbed target with this attack, the damage dealt by the wound each round increases by 5 (1d10). Any creature can take an action to remove the barb with a successful DC 14 Wisdom (Medicine) check. The barb crumbles to dust if the target receives magical healing.
 - **Battleaxe:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) slashing damage.
-
-

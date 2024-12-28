@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Sovereign
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 16
+xp: 15,000
+hp: 253
+hp_roll: 22d12+110
+ac: 18
+speed: walk 40 ft. climb 30 ft.
+senses: darkvision 120 ft. tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 78
+---
+
 # Cave Sovereign
 
 *Huge* *Aberration* *chaotic evil*

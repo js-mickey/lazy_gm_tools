@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Irid
+size: Tiny
+type: Celestial
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 20
+hp_roll: 8d4
+ac: 13
+speed: fly 40 ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 217
+---
+
 # Irid
 
 *Tiny* *Celestial* *chaotic neutral*
@@ -32,5 +51,3 @@
 - **Iridescent Blast:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 7 (2d6) radiant damage.
 - **Gossip:** The irid spouts gossip and exaggerated truths about a target it can see within 30 feet. If the target is hostile, it must succeed on a DC 13 Charisma saving throw or have disadvantage on its next attack roll. If the target is friendly, it has advantage on its next attack roll.
 - **Invisibility:** The irid magically turns invisible until it attacks or uses Gossip, or until its concentration ends (as if concentrating on a spell). Any equipment the irid wears or carries is invisible with it.
-
-

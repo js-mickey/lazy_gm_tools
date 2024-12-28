@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Div
+size: Small
+type: Elemental
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 99
+hp_roll: 18d6+36
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 135
+---
+
 # Div
 
 *Small* *Elemental* *neutral evil*
@@ -31,5 +50,3 @@
 - **Noxious Blast:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) acid.
 - **Noxious Sands (Recharge 4–6):** Vomits a cloud of tainted sand in a 15 ft. cone. Each creature in the area: 14 (4d6) slashing damage and 14 (4d6) acid (DC 13 Dex half).
 - **Spellcasting:** Cha (DC 14) no material components: At will: disguise self minor illusion3/day ea: charm person suggestion1/day ea: dream fear
-
-

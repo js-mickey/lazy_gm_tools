@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xanka
+size: Small
+type: Construct
+alignment: Unaligned
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6
+ac: 14
+speed: walk 15 ft.
+senses: blindsight 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 399
+---
+
 # Xanka
 
 *Small* *Construct* *Unaligned*

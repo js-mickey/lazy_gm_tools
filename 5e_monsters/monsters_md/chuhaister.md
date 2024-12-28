@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chuhaister
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 157
+hp_roll: 15d10+75
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 62
+---
+
 # Chuhaister
 
 *Large* *Giant* *chaotic evil*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Deadfall Shield (Recharge 5-6):** When the chuhaister or one ally within 30 feet of it is hit by an attack, the chuhaister can create a magical, wooden barrier that interrupts the attack. The attack causes no damage. The shield splinters and disappears afterwards.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Emperor’s Hyena
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 91
+hp_roll: 14d8+28
+ac: 14
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 135
+---
+
 # Emperor’s Hyena
 
 *Medium* *Undead* *neutral evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The emperor’s hyena makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) necrotic damage.
 - **Black Breath (Recharge 5-6):** The emperor’s hyena breathes a 15-foot cone of noxious black vapor. Each creature in the area that isn’t an undead or a construct must make a DC 12 Constitution saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the creature gains one level of exhaustion. This exhaustion lasts until the creature finishes a short or long rest.
-
-

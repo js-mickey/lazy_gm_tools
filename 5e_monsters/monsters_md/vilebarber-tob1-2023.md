@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vile Barber
+size: Small
+type: Fey
+alignment: Chaotic Evil
+cr: 2
+xp: 450
+hp: 35
+hp_roll: 10d6
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 387
+---
+
 # Vile Barber
 
 *Small* *Fey* *Chaotic Evil*

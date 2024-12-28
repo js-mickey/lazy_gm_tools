@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sigilian
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: fly 60 ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 335
+---
+
 # Sigilian
 
 *Medium* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 - **Cut:** Ranged Weapon Attack: +6 to hit, range 60 ft., one target. Hit: 7 (1d6 + 4) slashing damage and the sigilian copies one of the target's weapon attacks for 1 minute.
 - **Paste:** Melee or Ranged Spell Attack: +7 to hit, reach 5 ft. or range 60 ft., one target. Hit: Damage die and type are determined by the copied weapon attack from Cut. Glowing runes in the image of that weapon appear as the sigilian attacks.
 - **Devour Spell:** While inside a spellbook, the sigilian eats one spell of the highest level present then exits the spellbook. It chooses to either make its next Paste attack with a number of damage dice equal to the eaten spell's level or regain 3 hp per spell level. The sigilian can only eat one spell at a time and must use the devoured spell's energy before attempting to enter another spellbook. The eaten spell's entry is garbled, but the owner can repair it for half the gold and time usually spent to copy a spell. If the owner has the spell prepared, it can re-record the spell during a long rest for no additional cost.
-
-

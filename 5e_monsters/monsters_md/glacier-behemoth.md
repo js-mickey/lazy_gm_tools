@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Glacier Behemoth
+size: Huge
+type: Beast
+alignment: unaligned
+cr: 12
+xp: 8,400
+hp: 172
+hp_roll: 15d12+75
+ac: 18
+speed: burrow 20 ft. walk 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 177
+---
+
 # Glacier Behemoth
 
 *Huge* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 - **Multiattack:** The glacier behemoth makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one creature. Hit: 33 (4d12 + 7) piercing damage.
 - **Inexorable Charge:** If the glacier behemoth moves at least 10 feet, it can then use this action to continue moving in a 40-foot line that is 15 feet wide. Each creature in this line must make a DC 17 Dexterity saving throw. On a failure, a creature takes 35 (10d6) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone. The glacier behemoth’s movement along this line doesn’t provoke opportunity attacks.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre Flesh Heap
+size: Large
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 59
+hp_roll: 7d10+28
+ac: 11
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 436
+---
+
 # Ogre Flesh Heap
 
 *Large* *Undead*
@@ -34,5 +53,3 @@
 
 - **Bodyblock:** If the ogre flesh heap is grappling a creature when it is hit with a weapon attack by a creature it can see, it uses the creature as a shield, adding 2 to its AC against the attack. If this causes the attack to miss, the attack hits the grappled creature instead.
 - **Corpulent Expulsion (Recharge 6:** When it takes damage, the ogre flesh heaps belly splits and releases a torrent of caustic gore in a 30-foot cone. Creatures in this area make a DC 14 Dexterity saving throw, taking 14 (4d6) acid damage on a failure and half damage on a success. The flesh heap then takes 10 (3d6) acid damage.
-
-

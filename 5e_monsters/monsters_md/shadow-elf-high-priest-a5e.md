@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Elf High Priest
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 82
+hp_roll: 11d8+33
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 120 ft.
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 489
+---
+
 # Shadow Elf High Priest
 
 *Medium* *Humanoid*
@@ -48,5 +67,3 @@
 - **Guardian of Faith (4th-Level; V):** A Large  indistinct spectral guardian appears in an unoccupied space within 30 feet and remains for 8 hours. Creatures of the priests choice that move to a space within 10 feet of the guardian for the first time on a turn make a DC 15 Dexterity saving throw  taking 20 radiant or necrotic damage (high priests choice) on a failed save or half damage on a success. The spell ends when the guardian has dealt 60 total damage.
 - **Insect Plague (5th-Level; V, S, M, Concentration):** A 20-foot-radius sphere of biting and stinging insects appears centered on a point the priest can see within 300 feet and remains for 10 minutes. The cloud spreads around corners  and the area is lightly obscured and difficult terrain. Each creature in the area when the cloud appears  and each creature that enters it for the first time on a turn or ends its turn there  makes a DC 15 Constitution saving throw  taking 22 (4d10) piercing damage on a failed save or half damage on a success. The priest is immune to this damage.
 - **In vast catacombs beneath the earth, some shadow elf societies live in perpetual darkness:** Ignoring and ignored by the upper world  they revere demons or dark gods.
-
-

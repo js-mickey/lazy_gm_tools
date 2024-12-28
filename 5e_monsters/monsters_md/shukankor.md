@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shukankor
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 115
+hp_roll: 11d12+44
+ac: 17
+speed: walk 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 326
+---
+
 # Shukankor
 
 *Huge* *Aberration* *chaotic evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Sacrifice Replica:** When a creature the shukankor can see targets it with an attack, the shukankor forces a replica within 5 feet of it to jump in the way. The chosen replica becomes the target of the attack instead.
-
-

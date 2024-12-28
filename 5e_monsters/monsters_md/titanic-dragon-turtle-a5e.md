@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Titanic Dragon Turtle
+size: Titanic
+type: Dragon
+alignment: 
+cr: 24
+xp: 62,000
+hp: 396
+hp_roll: 24d20+144
+ac: 21
+speed: walk 20 ft. swim 80 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 182
+---
+
 # Titanic Dragon Turtle
 
 *Titanic* *Dragon*

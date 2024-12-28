@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Imp
+size: Tiny
+type: Fiend
+alignment: 
+cr: 1/2
+xp: 100
+hp: 14
+hp_roll: 4d4+4
+ac: 13
+speed: walk 20 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 85
+---
+
 # Imp
 
 *Tiny* *Fiend*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Invisibility:** The imp magically turns invisible, along with any equipment carried. This invisibility ends if the imp makes an attack, falls unconscious, or dismisses the effect.
-
-

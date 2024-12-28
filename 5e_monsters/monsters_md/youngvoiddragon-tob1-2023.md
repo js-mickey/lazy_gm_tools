@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Void Dragon
+size: Large
+type: Dragon
+alignment: Chaotic Neutral
+cr: 9
+xp: 5,000
+hp: 157
+hp_roll: 75
+ac: 18
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 130
+---
+
 # Young Void Dragon
 
 *Large* *Dragon* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Zombie
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 51
+hp_roll: 6d8+24
+ac: 10
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 282
+---
+
 # Blood Zombie
 
 *Medium* *Undead* *neutral evil*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage plus 4 (1d8) necrotic damage. The zombie gains temporary hp equal to the necrotic damage taken.
-
-

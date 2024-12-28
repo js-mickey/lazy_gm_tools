@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flame Eater Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d8+6
+ac: 12
+speed: fly 40 ft. walk 0 ft.
+senses: blindsight 30 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 204
+---
+
 # Flame Eater Swarm
 
 *Medium* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The swarm can make two bite attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hp or fewer.
-
-

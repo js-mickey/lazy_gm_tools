@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Goat
+size: Large
+type: Beast
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 3d10+6
+ac: 11
+speed: walk 40 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 447
+---
+
 # Giant Goat
 
 *Large* *Beast*
@@ -20,5 +39,3 @@
 ### Actions
 
 - **Ram:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4+3) bludgeoning damage. If the target is a creature and the goat moves at least 20 feet straight towards the target before the attack  the target takes an additional 5 (2d4) bludgeoning damage and makes a DC 13 Strength saving throw  falling prone on a failure.
-
-

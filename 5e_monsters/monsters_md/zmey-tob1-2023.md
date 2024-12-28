@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zmey
+size: Huge
+type: Dragon
+alignment: Chaotic Evil
+cr: 15
+xp: 13,000
+hp: 189
+hp_roll: 72
+ac: 18
+speed: walk 30 ft. fly 30 ft.
+senses: blindsight 60 ft. darkvision 90 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 403
+---
+
 # Zmey
 
 *Huge* *Dragon* *Chaotic Evil*

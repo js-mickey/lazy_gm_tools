@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Imperator, Penguin Swarm
+size: Huge
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 12d12+36
+ac: 13
+speed: walk 20 ft. swim 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 242
+---
+
 # Imperator, Penguin Swarm
 
 *Huge* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 
 - **Beaks:** Melee Weapon Attack: +5 to hit, 0 ft., one creature, in the swarm’s space. 21 (6d6) piercing damage or 10 (3d6) if the swarm has half its hp or fewer.
 - **Toboggan Charge (Recharge 5–6):** The swarm moves up to 20' in a straight line over ice or snow and can move through the space of any Large or smaller creature. The first time it enters a creature’s space during this move that creature must make a DC 14 Str save. On a failure a creature takes 10 (3d6) bludgeoning damage and 10 (3d6) piercing damage and is knocked prone. On a success a creature takes half the damage and isn’t knocked prone.
-
-

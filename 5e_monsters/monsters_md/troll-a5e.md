@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troll
+size: Large
+type: Giant
+alignment: 
+cr: 5
+xp: 1,800
+hp: 84
+hp_roll: 8d10+40
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 412
+---
+
 # Troll
 
 *Large* *Giant*
@@ -29,5 +48,3 @@
 - **Multiattack:** The troll attacks with its bite and twice with its claw.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
-
-

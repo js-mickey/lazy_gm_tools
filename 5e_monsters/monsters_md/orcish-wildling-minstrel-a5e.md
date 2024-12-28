@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Orcish Wildling Minstrel
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 32
+hp_roll: 5d8+10
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 484
+---
+
 # Orcish Wildling Minstrel
 
 *Medium* *Humanoid*
@@ -48,5 +67,3 @@
 - **Martial Encouragement:** Until the beginning of the minstrels next turn, one creature within 30 feet that can hear the minstrel deals an extra 3 (1d6) damage whenever it deals weapon damage.
 - **Healing Word (1st-Level; V):** The minstrel or a living creature within 60 feet regains 5 (1d4 + 3) hit points. The minstrel can't cast this spell and a 1st-level or higher spell on the same turn.
 - **Many orc tribes use song to preserve a communal memory of history:** Minstrels are the keepers of the tribes wisdom and identity.
-
-

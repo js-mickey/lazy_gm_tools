@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Void Blessed
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: walk 30 ft.
+senses: blindsight 30 ft. (blind beyond) tremorsense 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 303
+---
+
 # Ogre, Void Blessed
 
 *Large* *Giant* *chaotic evil*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Volatile Stomach:** When it takes bludgeoning piercing or slashing can regurgitate some of its stomach contents. Each creature within 5 ft. of it: 4 (1d8) necrotic and be poisoned until end of its next turn (DC 15 Con negates). A pool of Void infused stomach contents forms in a space ogre can see within 5 ft. of it and lasts until start of ogre’s next turn. A creature that enters pool for first time on a turn or starts its turn there: 4 (1d8) necrotic.
-
-

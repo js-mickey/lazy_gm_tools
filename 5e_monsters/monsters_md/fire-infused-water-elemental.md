@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fire-Infused Water Elemental
+size: Huge
+type: Elemental
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 138
+hp_roll: 12d12+60
+ac: 14
+speed: swim 90 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 216
+---
+
 # Fire-Infused Water Elemental
 
 *Huge* *Elemental* *neutral*
@@ -28,5 +47,3 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage plus 7 (2d6) fire damage.
 - **Scald (Recharge 6):** A fire-infused water elemental sprays a 30-foot cone of superheated water. Each creature in the area must make a DC 12 Dexterity saving throw. On a failure, a creature takes 21 (6d6) fire damage and is knocked prone. On a success, a creature takes half as much damage and isn’t knocked prone.
-
-

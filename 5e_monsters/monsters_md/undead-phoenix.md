@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Undead Phoenix
+size: Huge
+type: Undead
+alignment: chaotic evil
+cr: 12
+xp: 8,400
+hp: 142
+hp_roll: 15d12+45
+ac: 17
+speed: fly 90 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 361
+---
+
 # Undead Phoenix
 
 *Huge* *Undead* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The undead phoenix makes three attacks: two with its claws and one with its decaying bite.
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) slashing damage.
 - **Decaying Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) piercing damage plus 14 (4d6) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or be cursed with perpetual decay. The cursed target can't regain hp until the curse is lifted by the remove curse spell or similar magic.
-
-

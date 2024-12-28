@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alchemical Apprentice
+size: Small
+type: Ooze
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 63
+hp_roll: 14d6+14
+ac: 11
+speed: climb 10 ft. walk 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 281
+---
+
 # Alchemical Apprentice
 
 *Small* *Ooze* *unaligned*
@@ -29,5 +48,3 @@
 
 - **Pseudopod:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) bludgeoning damage.
 - **Magical Burble:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 10 (3d6) acid, cold, fire, or poison damage.
-
-

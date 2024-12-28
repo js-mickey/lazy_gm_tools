@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Faerie Noble
+size: Medium
+type: Fey
+alignment: 
+cr: 12
+xp: 8,400
+hp: 165
+hp_roll: 22d8+66
+ac: 16
+speed: walk 35 ft. fly 60 ft.
+senses: truesight 60 ft. 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 200
+---
+
 # Faerie Noble
 
 *Medium* *Fey*
@@ -42,5 +61,3 @@
 
 - **Riposte:** When the noble is hit by a melee attack made by a creature it can see, it makes a glittering scimitar attack against the attacker.
 - **Vengeful Eye:** When the noble is hit by a ranged attack or targeted with a spell by a creature within 60 feet, it uses Evil Eye on the attacker if they can see each other.
-
-

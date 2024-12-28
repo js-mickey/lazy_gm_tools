@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Poisonous Snakes
+size: Medium
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10d8
+ac: 14
+speed: walk 30 ft. swim 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 461
+---
+
 # Swarm of Poisonous Snakes
 
 *Medium* *Beast*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +6 to hit  reach 0 ft.  one target. Hit: 7 (2d6) piercing damage plus 14 (4d6) poison damage  or 3 (1d6) poison damage plus 7 (2d6) poison damage if the swarm is bloodied.
-
-

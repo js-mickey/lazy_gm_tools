@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moon Weaver
+size: Small
+type: Beast
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 36
+hp_roll: 8d6+8
+ac: 13
+speed: walk 20 ft. climb 20 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 274
+---
+
 # Moon Weaver
 
 *Small* *Beast* *neutral*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Emboldening Song (2/Day):** Delivers a burst of beautiful song that motivates and emboldens one friendly creature the moon weaver can see within 60' of it. If the target can hear the song it gains one Embolden die a d6. Once within the next 10 min the target can roll the die and add the number rolled to one ability check attack roll or save it makes.
-
-

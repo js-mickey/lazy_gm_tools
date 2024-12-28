@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mari Lwyd
+size: Large
+type: Undead
+alignment: neutral
+cr: 4
+xp: 1,100
+hp: 66
+hp_roll: 7d10+28
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 257
+---
+
 # Mari Lwyd
 
 *Large* *Undead* *neutral*
@@ -33,5 +52,3 @@ At will: chill touch, mage hand
 - **Multiattack:** The mari lwyd makes one bite attack and one hooves attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
 - **Hooves:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) bludgeoning damage.
-
-

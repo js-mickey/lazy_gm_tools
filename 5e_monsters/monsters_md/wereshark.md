@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wereshark
+size: Large
+type: Humanoid
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 11
+speed: walk 30 ft.
+senses: blindsight 30 ft. (shark and hybrid form only) 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 266
+---
+
 # Wereshark
 
 *Large* *Humanoid* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** In humanoid or hybrid form, the wereshark makes three trident attacks.
 - **Bite (Shark or Hybrid Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with wereshark lycanthropy.
 - **Trident (Humanoid or Hybrid Form Only):** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack.
-
-

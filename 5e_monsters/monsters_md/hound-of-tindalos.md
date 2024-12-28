@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hound of Tindalos
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 93
+hp_roll: 11d8+44
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 221
+---
+
 # Hound of Tindalos
 
 *Medium* *Aberration* *neutral evil*
@@ -35,5 +54,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Tongue:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Hunter of the Lost:** The hound can transport itself to a different plane of existence. This works like the plane shift spell, except the hound can only affect itself, not other creatures, and can't use it to banish an unwilling creature to another plane.
-
-

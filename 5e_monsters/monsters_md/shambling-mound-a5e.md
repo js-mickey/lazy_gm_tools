@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shambling Mound
+size: Large
+type: Plant
+alignment: 
+cr: 6
+xp: 2,300
+hp: 123
+hp_roll: 13d10+52
+ac: 15
+speed: walk 20 ft. swim 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 391
+---
+
 # Shambling Mound
 
 *Large* *Plant*
@@ -28,5 +47,3 @@
 - **Multiattack:** The shambling mound takes two slam attacks. If both attacks hit one Medium or smaller creature  the target is grappled (escape DC 15)  and the shambling mound uses Engulf against it.
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Engulf:** The shambling mound absorbs a Medium or smaller grappled creature into its body. The engulfed creature is blinded  restrained can't breathe  and moves with the shambling mound. At the start of each of the shambling mounds turns  the target takes 11 (2d6 + 4) bludgeoning damage.
-
-

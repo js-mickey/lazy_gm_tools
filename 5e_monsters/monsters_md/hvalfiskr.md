@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hvalfiskr
+size: Huge
+type: Giant
+alignment: lawful neutral
+cr: 15
+xp: 13,000
+hp: 275
+hp_roll: 22d12+132
+ac: 16
+speed: walk 40 ft. swim 60 ft.
+senses: blindsight 120 ft. (whale form only) darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 237
+---
+
 # Hvalfiskr
 
 *Huge* *Giant* *lawful neutral*
@@ -37,5 +56,3 @@
 
 - **Change Shape:** Transforms into Huge frost giant Huge whale or back into its true whale-giant hybrid form. Its stats are the same in each form. Items worn/carried transform with it. Reverts on death.
 - **Reel Anchor:** Pulls on the chain connected to anchor returning it to its empty hand. If anchor is hooked around a creature creature: DC 19 Str save or be pulled up to 30' toward hvalfiskr.
-
-

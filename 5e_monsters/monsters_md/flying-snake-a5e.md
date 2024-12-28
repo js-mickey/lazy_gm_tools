@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flying Snake
+size: Tiny
+type: Beast
+alignment: 
+cr: 1/8
+xp: 25
+hp: 7
+hp_roll: 2d4+2
+ac: 13
+speed: walk 30 ft. fly 60 ft. swim 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 444
+---
+
 # Flying Snake
 
 *Tiny* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 1 piercing damage plus 3 (1d6) poison damage.
-
-

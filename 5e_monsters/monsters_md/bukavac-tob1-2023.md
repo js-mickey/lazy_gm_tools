@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bukavac
+size: Large
+type: Monstrosity
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 199
+hp_roll: 84
+ac: 16
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 45
+---
+
 # Bukavac
 
 *Large* *Monstrosity* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kapi
+size: Medium
+type: Humanoid
+alignment: chaotic good
+cr: 1/2
+xp: 100
+hp: 13
+hp_roll: 3d8
+ac: 14
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 234
+---
+
 # Kapi
 
 *Medium* *Humanoid* *chaotic good*
@@ -27,5 +46,3 @@
 - **Quarterstaff:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage or 6 (1d8 + 2) bludgeoning damage if used with two hands.
 - **Tail Trip:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: The target must succeed on a DC 14 Dexterity saving throw or be knocked prone.
 - **Sling:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage.
-
-

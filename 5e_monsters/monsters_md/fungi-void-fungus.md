@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fungi, Void Fungus
+size: Medium
+type: Plant
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 193
+---
+
 # Fungi, Void Fungus
 
 *Medium* *Plant* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Poisonous Mycelium:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) piercing damage + 7 (2d6) poison and poisoned until end of its next turn (DC 13 Con not poisoned.)
 - **Psychic Blast:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 12 (2d8+3) psychic.
 - **Consume Energy:** Hair-like tendrils dangling from its cap flash as it draws psychic energy from creature it can see within 30' of it. Target 18 (4d8) psychic (DC 13 Cha half). Fungus regains equal hp.
-
-

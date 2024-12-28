@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Wasteland Dragon
+size: Huge
+type: Dragon
+alignment: chaotic evil
+cr: 17
+xp: 18,000
+hp: 225
+hp_roll: 18d12+108
+ac: 18
+speed: burrow 30 ft. climb 40 ft. fly 70 ft. walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 118
+---
+
 # Adult Wasteland Dragon
 
 *Huge* *Dragon* *chaotic evil*

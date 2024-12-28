@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archaeopteryx
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 3d4
+ac: 12
+speed: fly 50 ft. walk 5 ft.
+senses: 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 25
+---
+
 # Archaeopteryx
 
 *Tiny* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 - **Multiattack:** The archaeopteryx makes two attacks: one with its beak and one with its talons.
 - **Beak:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 - **Talons:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
-
-

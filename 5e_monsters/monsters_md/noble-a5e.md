@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Noble
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d8
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 485
+---
+
 # Noble
 
 *Medium* *Humanoid*
@@ -25,5 +44,3 @@
 - **Parry:** If the noble is wielding a melee weapon and can see their attacker, they add 2 to their AC against one melee attack that would hit them.
 - **Nobles were raised to wealth:** A noble is trained in swordsmanship, but their greatest defense is their entourage of armed protectors.
 - **In non-feudal societies:** Nobles are primarily noncombatants: the knight or veteran stat block better represents an aristocrat with extensive military experience.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dread Examiner
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 21
+xp: 33,000
+hp: 322
+hp_roll: 28d10+168
+ac: 19
+speed: walk 30 ft. fly 30 ft. swim 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 159
+---
+
 # Dread Examiner
 
 *Large* *Aberration* *neutral evil*

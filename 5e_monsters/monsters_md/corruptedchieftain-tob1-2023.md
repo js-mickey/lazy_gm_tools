@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Corrupted Chieftain
+size: Large
+type: Giant
+alignment: Chaotic Evil
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 56
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 289
+---
+
 # Corrupted Chieftain
 
 *Large* *Giant* *Chaotic Evil*

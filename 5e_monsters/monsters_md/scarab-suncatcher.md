@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scarab, Suncatcher
+size: Gargantuan
+type: Beast
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 145
+hp_roll: 10d20+40
+ac: 19
+speed: walk 30 ft. burrow 40 ft. fly 15 ft.
+senses: blindsight 90 ft. (blind beyond) 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 338
+---
+
 # Scarab, Suncatcher
 
 *Gargantuan* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 14 (2d8+5) piercing damage + 7 (2d6) poison and target is poisoned until end of its next turn (DC 16 Con negates poison).
 - **Burrowing Burst:** If it burrows 20'+ as part of its movement it can use this action to emerge in a space that contains one or more other creatures. Each of those creatures and each creature within 10 ft. of the scarab’s space takes 27 (6d8) bludgeoning damage and is knocked prone (DC 16 Dex half damage and is pushed up to 10 ft. out of the scarab’s space into an unoccupied space of the creature’s choice; If no unoccupied space is within range creature instead falls prone in scarab’s space). Area within 10 ft. of the scarab’s space then becomes difficult terrain.
 - **Wing Beat (Recharge 5–6):** The suncatcher scarab rapidly beats its wings releasing sound or light in a 60' cone.Effect depends on if the elytra is closed or open:Closed Elytra: Creature takes 35 (10d6) thunder is pushed up to 15 ft. away from the scarab and is knocked prone (DC 16 Con half and isn’t pushed or knocked prone).Open Elytra: Creature takes 35 (10d6) radiant and blinded until end of its next turn (DC 16 Con half and isn’t blinded).
-
-

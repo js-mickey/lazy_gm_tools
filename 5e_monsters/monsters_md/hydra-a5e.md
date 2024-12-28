@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hydra
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 9
+xp: 5,000
+hp: 172
+hp_roll: 15d12+75
+ac: 16
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 284
+---
+
 # Hydra
 
 *Huge* *Monstrosity*

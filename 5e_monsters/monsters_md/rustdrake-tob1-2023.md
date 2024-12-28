@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rust Drake
+size: Medium
+type: Dragon
+alignment: Chaotic Evil
+cr: 8
+xp: 3,900
+hp: 161
+hp_roll: 76
+ac: 17
+speed: walk 80 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 145
+---
+
 # Rust Drake
 
 *Medium* *Dragon* *Chaotic Evil*

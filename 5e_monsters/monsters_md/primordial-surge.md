@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Primordial Surge
+size: Gargantuan
+type: Elemental
+alignment: neutral
+cr: 16
+xp: 15,000
+hp: 232
+hp_roll: 15d20+75
+ac: 19
+speed: walk 40 ft. fly 90 ft.
+senses: blindsight 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 320
+---
+
 # Primordial Surge
 
 *Gargantuan* *Elemental* *neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** Three Elemental Strike attacks.
 - **Elemental Strike:** Melee or Ranged Weapon Attack: +11 to hit 15 ft. or range 60' one target 28 (4d10+6) acid cold fire lightning or thunder (surge’s choice).
 - **Primordial Storm (Recharge 6):** Rain of energies produces one of: Restorative Rain Each non Construct/Undead creature within 30' of the surge regains 27 (5d10) hp. Area becomes difficult terrain as nonmagical plants in the area become thick and overgrown.Ruinous Rain Each creature within 30' of the surge: 27 (5d10) acid and 27 (5d10) fire and is coated in burning acid (DC 18 Dex half damage not coated in acid). A creature coated in acid: 5 (1d10) acid and 5 (1d10) fire at the start of each of its turns until it or another creature takes an action to scrape/wash off the acid.
-
-

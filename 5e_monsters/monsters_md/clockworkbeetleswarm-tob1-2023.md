@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Beetle Swarm
+size: Large
+type: Swarm
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8
+ac: 14
+speed: walk 50 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 60
+---
+
 # Clockwork Beetle Swarm
 
 *Large* *Swarm* *Unaligned*

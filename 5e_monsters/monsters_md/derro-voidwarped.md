@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derro, Voidwarped
+size: Small
+type: Humanoid
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 16d6+64
+ac: 14
+speed: walk 25 ft. fly 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 113
+---
+
 # Derro, Voidwarped
 
 *Small* *Humanoid* *neutral evil*
@@ -32,5 +51,3 @@
 - **Shortsword:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d6+4) piercing damage + 3 (1d6) cold and 3 (1d6) force.
 - **Void Tendril:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 7 (2d6) bludgeoning damage + 3 (1d6) cold and 3 (1d6) force. Target must make DC 15 Con save or its hp max is reduced by the amount equal to the damage taken. This reduction lasts until target finishes a long rest. Target dies if this reduces its hp max to 0.
 - **Void Speech Rant (Recharge 5–6):** Spews a tirade of Void Speech. Each creature within 40' of it that can hear the tirade: 27 (5d10) psychic and is incapacitated until the end of its next turn (DC 15 Wis half damage and isn’t incapacitated).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Apaxrusl
+size: Medium
+type: Construct
+alignment: neutral
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d8+24
+ac: 13
+speed: burrow 30 ft. walk 30 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 27
+---
+
 # Apaxrusl
 
 *Medium* *Construct* *neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Shifting Sands:** The apaxrusl can shift the flowing sands of its body to avoid harm. When the apaxrusl takes damage, roll a d12. Reduce the damage it takes by the number rolled.
-
-

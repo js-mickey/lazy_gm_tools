@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jubjub Bird
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 91
+hp_roll: 14d10+14
+ac: 13
+speed: walk 30 ft. fly 10 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 247
+---
+
 # Jubjub Bird
 
 *Large* *Beast* *unaligned*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Impassioned Riposte:** When a creature the jubjub bird can see misses it with an attack while within 10 ft. of it the jubjub bird can make one Bite attack vs. the attacker.
-
-

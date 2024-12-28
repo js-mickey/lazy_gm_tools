@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ecstatic Bloom
+size: Huge
+type: Celestial
+alignment: neutral good
+cr: 11
+xp: 7,200
+hp: 171
+hp_roll: 18d12+54
+ac: 15
+speed: walk 10 ft.
+senses: truesight 120 ft. (blind beyond this radius) 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 303
+---
+
 # Ecstatic Bloom
 
 *Huge* *Celestial* *neutral good*
@@ -32,5 +51,3 @@
 - **Multiattack:** The ecstatic bloom makes three gilded beam attacks.
 - **Gilded Beam:** Ranged Spell Attack: +9 to hit, range 150 ft., one target. Hit: 27 (6d8) radiant damage.
 - **Castigate (Recharges after a Short or Long Rest):** The bloom summons a chorus of booming celestial voices that descend into the minds of nearby creatures. Each creature within 30 feet of the bloom must succeed on a DC 17 Wisdom saving throw or be stunned until the end of its next turn. Castigate only affects non-good-aligned creatures with an Intelligence of 5 or higher.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Camel
+size: Medium
+type: Beast
+alignment: 
+cr: 1/8
+xp: 25
+hp: 15
+hp_roll: 2d10+4
+ac: 10
+speed: walk 50 ft.
+senses: 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 441
+---
+
 # Camel
 
 *Medium* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 2 (1d4) bludgeoning damage.
-
-

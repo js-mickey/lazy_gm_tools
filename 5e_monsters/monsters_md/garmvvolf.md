@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Garmvvolf
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 189
+hp_roll: 18d12+72
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 194
+---
+
 # Garmvvolf
 
 *Huge* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Multiattack:** Makes as many Bite attacks as it has heads.
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 8 (1d6+5) piercing damage + 10 (3d6) poison.
 - **Tripartite Howl (Recharge 5–6):** Its heads exhale a three-part howl one filled with poisonous spittle one a thunderous bellow and one a frightful bay in a 30' cone. Each creature in area: 17 (5d6) poison and 17 (5d6) thunder and becomes frightened 1 min (DC 16 Dex half damage isn’t frightened). A frightened creature can re-save at end of each of its turns ending effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snow Terror
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 127
+hp_roll: 15d10+45
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 334
+---
+
 # Snow Terror
 
 *Large* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@ While in the form of the creature it most recently killed, creatures that knew t
 
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) piercing damage plus 14 (4d6) acid damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Dexterity saving throw or be swallowed by the snow terror. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the snow terror, and it takes 14 (4d6) acid damage at the start of each of the snow terror’s turns. The snow terror can have only one creature swallowed at a time.<br><br>If the snow terror takes 15 or more damage on a single turn from the swallowed creature, it must succeed on a DC 16 Constitution saving throw at the end of that turn or regurgitate the swallowed creature, which falls prone in a space within 10 feet of the snow terror. If the snow terror dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.
 - **Horrifying Visage:** Each non-undead creature within 60 feet of the snow terror that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to this snow terror’s Horrifying Visage for the next 24 hours.
-
-

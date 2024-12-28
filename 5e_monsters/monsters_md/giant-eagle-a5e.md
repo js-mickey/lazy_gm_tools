@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Eagle
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 26
+hp_roll: 4d10+4
+ac: 12
+speed: walk 10 ft. fly 80 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 446
+---
+
 # Giant Eagle
 
 *Large* *Beast*
@@ -27,5 +46,3 @@
 ### Bonus Actions
 
 - **Beak:** Melee Weapon Attack: +4 to hit, reach 5 ft., one grappled creature. Hit: 5 (1d6+2) piercing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Pugilist
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 88
+---
+
 # Clockwork Pugilist
 
 *Medium* *Construct* *unaligned*
@@ -35,5 +54,3 @@
 
 - **Get Down Sir!:** When a creature within 5 ft. of the pugilist is targeted by a ranged attack or spell the pugilist steps in the way and the ranged attack or spell targets the pugilist instead.
 - **:** [+]Parry[/+] +2 to its AC vs. one melee attack that would hit it. Must see attacker and have at least one hand empty.
-
-

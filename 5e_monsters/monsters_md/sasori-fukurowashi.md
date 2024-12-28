@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sasori Fukurowashi
+size: Medium
+type: Fey
+alignment: neutral good
+cr: 9
+xp: 5,000
+hp: 123
+hp_roll: 19d8+38
+ac: 17
+speed: fly 80 ft. walk 40 ft. climb 20 ft.
+senses: truesight 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 224
+---
+
 # Sasori Fukurowashi
 
 *Medium* *Fey* *neutral good*
@@ -33,5 +52,3 @@
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 14). The kami has two claws, each of which can grapple only one target.
 - **Sting:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage, and the target must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 - **Talons:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-
-

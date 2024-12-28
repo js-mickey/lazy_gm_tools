@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fragrant One
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 13d6
+ac: 11
+speed: walk 20 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 156
+---
+
 # Fragrant One
 
 *Small* *Fey* *chaotic neutral*
@@ -34,5 +53,3 @@ The fragrant one can have no more than six creatures charmed at a time. The frag
 ### Reactions
 
 - **Interpose Ally:** When a creature the fragrant one can see targets it with an attack, the fragrant one can force a charmed ally within 5 feet of it to move between it and the attack. The charmed ally becomes the target of the attack instead. If the charmed ally takes damage from this attack, it can immediately repeat the Fragrant Aura’s saving throw, ending the charmed condition on itself on a success.
-
-

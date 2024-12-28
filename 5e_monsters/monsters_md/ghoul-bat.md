@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghoul Bat
+size: Small
+type: Undead
+alignment: neutral evil
+cr: 1/4
+xp: 50
+hp: 14
+hp_roll: 4d6
+ac: 13
+speed: fly 30 ft. walk 5 ft.
+senses: blindsight 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 391
+---
+
 # Ghoul Bat
 
 *Small* *Undead* *neutral evil*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving  throw or be paralyzed until the end of its next turn.
-
-

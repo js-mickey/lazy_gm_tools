@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wind Weasel
+size: Medium
+type: Fey
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 381
+---
+
 # Wind Weasel
 
 *Medium* *Fey* *chaotic neutral*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Scythe Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.
 - **Whirling Leaves (Whirlwind Form Only):** Each creature in the wind weasel's space must make a DC 13 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one.
-
-

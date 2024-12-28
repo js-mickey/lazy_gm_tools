@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moon Nymph
+size: Medium
+type: Aberration
+alignment: chaotic neutral
+cr: 8
+xp: 3,900
+hp: 110
+hp_roll: 20d8+20
+ac: 13
+speed: fly 40 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 269
+---
+
 # Moon Nymph
 
 *Medium* *Aberration* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Beguiling Touch:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage, and the target must succeed on a DC 14 Charisma saving throw or be stunned until the end of its next turn.
 - **Moonbeam:** Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 21 (4d8 + 3) radiant damage, and the target is blinded until the end of its next turn.
 - **Veil of Nightmares (1/Day):** The moon nymph emits a wave of hallucinatory nightmare visions. Each creature within 5 feet of the moon nymph must make a DC 14 Wisdom saving throw. On a failure, the creature takes 36 (8d8) psychic damage and is frightened. On a success, the creature takes half of the damage and isn't frightened. A frightened creature must succeed on a DC 10 Wisdom saving throw at the end of its turn to end the effect on itself. On a second failed save, the creature is incapacitated by fright for 1 round. On the start of its next turn, the creature must succeed on a DC 12 Wisdom saving throw or be reduced to 0 hp.
-
-

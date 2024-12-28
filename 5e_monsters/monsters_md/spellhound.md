@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spellhound
+size: Large
+type: Monstrosity
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 102
+hp_roll: 12d10+36
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 336
+---
+
 # Spellhound
 
 *Large* *Monstrosity* *lawful neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** The spellhound makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 - **Nullifying Howl (1/Day):** The spellhound lets out a high-pitched, multiphonic howl to disrupt magical effects within 60 feet of it. Any spell of 3rd level or lower within the area ends. For each spell of 4th-level or higher in the area, the spellhound makes an ability check, adding its Constitution modifier to the roll. The DC equals 10 + the spell’s level. On a success, the spell ends.<br><br>In addition, each spellcaster within 30 feet of the spellhound that can hear the howl must succeed on a DC 14 Constitution saving throw or be stunned until the end of its next turn.
-
-

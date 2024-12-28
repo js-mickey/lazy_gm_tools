@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Avulzor
+size: Large
+type: Aberration
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 135
+hp_roll: 18d10+36
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 37
+---
+
 # Avulzor
 
 *Large* *Aberration* *lawful evil*
@@ -36,5 +55,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 - **Synchronized Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (4d4 + 4) piercing damage.
 - **Animate Bones (Recharge 5-6):** The avulzor creates a skeleton out of a pile of bones or a the corpse of a Large or smaller creature within 10 feet of it. The skeleton is under the control of the avulzor, obeying the avulzor’s mental commands, and uses the statistics of a CR 1 or lower skeleton of your choice. The avulzor can control up to three skeletons at one time. If the avulzor creates a skeleton while it already has three under its control, the oldest skeleton crumbles to dust.
-
-

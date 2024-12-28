@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon Turtle
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 17
+xp: 18,000
+hp: 264
+hp_roll: 16d20+96
+ac: 21
+speed: walk 20 ft. swim 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 181
+---
+
 # Dragon Turtle
 
 *Gargantuan* *Dragon*
@@ -39,5 +58,3 @@
 
 - **Retract:** When the dragon turtle takes 50 damage or more from a single attack or spell, it retracts its head and limbs into its shell. It immediately regains 20 hit points. While retracted, it is blinded; its Speed is 0; it can't take reactions; it has advantage on saving throws; attacks against it have disadvantage; and it has resistance to all damage. The dragon turtle stays retracted until the beginning of its next turn.
 - **Tail:** When the dragon turtle is hit by an opportunity attack, it makes a tail attack.
-
-

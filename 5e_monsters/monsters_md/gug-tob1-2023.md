@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gug
+size: Huge
+type: Giant
+alignment: Neutral Evil
+cr: 12
+xp: 8,400
+hp: 230
+hp_roll: 100
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 240 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 225
+---
+
 # Gug
 
 *Huge* *Giant* *Neutral Evil*

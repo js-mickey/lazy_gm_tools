@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nightmare
+size: Large
+type: Fiend
+alignment: 
+cr: 3
+xp: 700
+hp: 68
+hp_roll: 8d10+24
+ac: 13
+speed: walk 60 ft. fly 90 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 344
+---
+
 # Nightmare
 
 *Large* *Fiend*
@@ -27,5 +46,3 @@
 
 - **Hooves:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage. If the horse moves at least 20 feet straight towards the target before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure. The nightmare can move through the space of a prone creature as long as it does not end its turn there.
 - **Ethereal Shift (Recharge 5-6):** The nightmare and a rider magically pass from the Ethereal Plane to the Material Plane or vice versa.
-
-

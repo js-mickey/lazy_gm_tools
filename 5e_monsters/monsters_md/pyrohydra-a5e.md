@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pyrohydra
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 13
+xp: 10,000
+hp: 218
+hp_roll: 19d12+95
+ac: 16
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 285
+---
+
 # Pyrohydra
 
 *Huge* *Monstrosity*

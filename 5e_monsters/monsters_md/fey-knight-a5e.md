@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fey Knight
+size: Medium
+type: Fey
+alignment: 
+cr: 4
+xp: 1,100
+hp: 58
+hp_roll: 9d8+18
+ac: 16
+speed: walk 35 ft. fly 60 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 201
+---
+
 # Fey Knight
 
 *Medium* *Fey*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Natures Shield:** When the knight would be hit by an attack while the knight is within 5 feet of a tree or other large plant, the knights AC magically increases by 3 against that attack as the plant interposes branches or vines between the knight and the attacker.
-
-

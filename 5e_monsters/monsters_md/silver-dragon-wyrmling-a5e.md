@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Silver Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d8+24
+ac: 17
+speed: walk 30 ft. fly 60 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 179
+---
+
 # Silver Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -27,5 +46,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Frost Breath:** The dragon exhales freezing wind in a 15-foot cone. Each creature in the area makes a DC 13 Constitution saving throw  taking 17 (5d6) cold damage on a failed save or half damage on a success.
 - **Paralyzing Breath:** The dragon exhales paralytic gas in a 15-foot cone. Each creature in the area must succeed on a DC 13 Constitution saving throw or be paralyzed until the end of its next turn.
-
-

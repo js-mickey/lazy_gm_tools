@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yaojing
+size: Medium
+type: Celestial
+alignment: neutral good
+cr: 15
+xp: 13,000
+hp: 202
+hp_roll: 27d8+81
+ac: 15
+speed: walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 377
+---
+
 # Yaojing
 
 *Medium* *Celestial* *neutral good*
@@ -37,5 +56,3 @@ At will: detect evil and good, silence
 - **Sacred Bolt:** Ranged Spell Attack: +10 to hit, range 60 ft., one target. Hit: 22 (5d8) radiant damage.
 - **Blasphemer’s Bane:** The yaojing makes a ward of censure against a creature it can see within 30 feet of it. The target must succeed on a DC 18 Wisdom saving throw or be unable to cast spells or maintain concentration on spells until the beginning of the yaojing’s next turn.
 - **Radiant Spin (Recharge 5-6):** The yaojing performs a spinning kick brimming with radiant energy. Each creature within 10 feet of the yaojing must make a DC 18 Dexterity saving throw. On a failure, a creature takes 22 (5d8) bludgeoning damage and 22 (5d8) radiant damage and is pushed up to 10 feet away from the yaojing. On a success, a creature takes half the damage and isn’t pushed.
-
-

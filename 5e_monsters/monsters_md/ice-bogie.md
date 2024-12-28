@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Bogie
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 1/8
+xp: 25
+hp: 10
+hp_roll: 3d6
+ac: 12
+speed: walk 25 ft.
+senses: darkvision 30 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 209
+---
+
 # Ice Bogie
 
 *Small* *Fey* *chaotic neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Frosty Aid (1/Day):** Whenever an allied ice bogie within 30 feet is reduced to 0 hp, this ice bogie can choose to reduce its hp by 3 (1d6), and the ally regains hp equal to the amount of hp this ice bogie lost.
-
-

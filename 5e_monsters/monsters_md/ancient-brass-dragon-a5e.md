@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Brass Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 22
+xp: 41,000
+hp: 367
+hp_roll: 21d20+147
+ac: 20
+speed: walk 40 ft. burrow 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 23
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 154
+---
+
 # Ancient Brass Dragon
 
 *Gargantuan* *Dragon*

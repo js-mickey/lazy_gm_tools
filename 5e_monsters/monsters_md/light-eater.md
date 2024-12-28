@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Light Eater
+size: Small
+type: Aberration
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 26
+hp_roll: 4d6+12
+ac: 14
+speed: walk 10 ft. fly 40 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 262
+---
+
 # Light Eater
 
 *Small* *Aberration* *unaligned*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Emergency Flare (Recharges: Short/Long Rest):** When it takes damage can emit brilliant flash of light. Each creature within 30': blinded 1 min (DC 12 Con negates). Blinded creature can re-save at end of each of its turns success ends effect on itself.
-
-

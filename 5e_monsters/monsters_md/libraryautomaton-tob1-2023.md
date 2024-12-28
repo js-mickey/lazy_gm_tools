@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Library Automaton
+size: Small
+type: Construct
+alignment: Lawful Neutral
+cr: 1/2
+xp: 100
+hp: 24
+hp_roll: 7d6
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 60 ft. truesight 10 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 252
+---
+
 # Library Automaton
 
 *Small* *Construct* *Lawful Neutral*

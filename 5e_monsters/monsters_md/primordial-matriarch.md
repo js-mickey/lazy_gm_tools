@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Primordial Matriarch
+size: Gargantuan
+type: Elemental
+alignment: neutral
+cr: 21
+xp: 33,000
+hp: 313
+hp_roll: 19d20+114
+ac: 20
+speed: walk 0 ft. fly 120 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 318
+---
+
 # Primordial Matriarch
 
 *Gargantuan* *Elemental* *neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold Dragon Servitor
+size: Small
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 7
+hp_roll: 3d6-3
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 298
+---
+
 # Kobold Dragon Servitor
 
 *Small* *Humanoid*
@@ -27,5 +46,3 @@
 
 - **Shiv:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 3 (1d3 + 2) piercing damage.
 - **Sling:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-
-

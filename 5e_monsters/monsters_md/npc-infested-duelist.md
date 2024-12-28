@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Infested Duelist
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 9
+xp: 5,000
+hp: 144
+hp_roll: 32d8
+ac: 18
+speed: walk 40 ft. climb 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 409
+---
+
 # Npc: Infested Duelist
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Spore Cloud:** When it takes damage from a ranged attack emits a burst of thick yellow spores that surround infested duelist and heavily obscure area within 5 ft. of it. Spores dissipate at start of duelist’s next turn.
-
-

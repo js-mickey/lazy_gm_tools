@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mudmutt
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d10+28
+ac: 15
+speed: walk 30 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 279
+---
+
 # Mudmutt
 
 *Large* *Monstrosity* *unaligned*
@@ -33,5 +52,3 @@
 - **Kick:** Melee Weapon Attack: +8 to hit, 5 ft., one creature,. 14 (2d8+5) bludgeoning damage.
 - **Sticky Tongue:** Melee Weapon Attack: +8 to hit, 20 ft., one creature,. 12 (2d6+5) bludgeoning damage and the target: DC 15 Str save or pulled up to 15 ft. to mudmutt.
 - **Sonic Croak (Recharge 5–6):** Unleashes an earpiercing croak in a 30' cone. Each creature in that area: 18 (4d8) thunder and is stunned until the end of its next turn (DC 15 Con half damage and isn’t stunned). Creatures submerged in water have disadvantage on the save and take 27 (6d8) thunder instead of 18 (4d8).
-
-

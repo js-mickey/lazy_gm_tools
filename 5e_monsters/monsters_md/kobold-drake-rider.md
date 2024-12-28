@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold, Drake Rider
+size: Small
+type: Humanoid
+alignment: lawful neutral
+cr: 3
+xp: 700
+hp: 71
+hp_roll: 13d6+26
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 252
+---
+
 # Kobold, Drake Rider
 
 *Small* *Humanoid* *lawful neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Failsafe Equipment:** The drake rider wears wing-like arm and feet flaps folded on its back. If its mount dies or it is dismounted the rider descends 60' per round and takes no damage from falling if its mount was flying or it gains a swimming speed of 30' for 1 min if its mount was swimming.
-
-

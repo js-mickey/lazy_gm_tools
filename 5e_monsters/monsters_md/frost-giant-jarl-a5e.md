@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Frost Giant Jarl
+size: Huge
+type: Giant
+alignment: 
+cr: 12
+xp: 8,400
+hp: 184
+hp_roll: 16d12+80
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 237
+---
+
 # Frost Giant Jarl
 
 *Huge* *Giant*
@@ -33,5 +52,3 @@
 - **Grab:** One creature within 5 feet makes a DC 11 Dexterity saving throw. On a failure, it is grappled (escape DC 18). Until this grapple ends, the giant can't grab another target, and it makes battleaxe attacks with advantage against the grappled target.
 - **Stomp (1/Day):** Melee Weapon Attack: +10 to hit, reach 10 ft., one prone target. Hit: 13 (3d4 + 6) bludgeoning damage.
 - **Icy Gaze:** One creature the giant can see within 60 feet makes a DC 17 Constitution saving throw. On a failure, it takes 21 (6d6) cold damage, and its Speed is halved until the end of its next turn. On a success, it takes half as much damage.
-
-

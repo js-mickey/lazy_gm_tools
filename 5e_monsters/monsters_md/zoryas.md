@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zoryas
+size: Medium
+type: Celestial
+alignment: lawful good
+cr: 8
+xp: 3,900
+hp: 104
+hp_roll: 16d8+32
+ac: 14
+speed: fly 40 ft. walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 21
+---
+
 # Zoryas
 
 *Medium* *Celestial* *lawful good*
@@ -32,5 +51,3 @@
 - **Morningstar:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) radiant or fire damage.
 - **Light of Dawn (Recharges after a Long Rest):** The zoryas' lantern brightens, bathing its environs in brilliant light. Each creature within 30 feet of the zoryas must succeed on a DC 16 Wisdom saving throw or be blinded for 1d4 rounds. An undead creature who fails this save also takes 13 (3d8) fire damage. The light dispels up to three spells or other magical effects of 3rd level or lower like the dispel magic spell within the area.
 - **Dusk's Arrival (Recharges after a Long Rest):** The zoryas' lantern darkens, snuffing out nearby natural and magical sources of light. Each creature within 30 feet of the zoryas must make a DC 16 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. The area is bathed in darkness like the darkness spell until the end of the zoryas' next turn.
-
-

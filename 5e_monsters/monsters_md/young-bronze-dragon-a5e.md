@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Bronze Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 152
+hp_roll: 16d10+64
+ac: 17
+speed: walk 40 ft. fly 80 ft. swim 60 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 162
+---
+
 # Young Bronze Dragon
 
 *Large* *Dragon*

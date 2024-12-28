@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arachnocrat
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 17d8+17
+ac: 15
+speed: walk 30 ft. climb 40 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 102
+---
+
 # Arachnocrat
 
 *Medium* *Fiend* *lawful evil*
@@ -33,5 +52,3 @@
 - **Multiattack:** The arachnocrat makes two claw attacks. If both claws hit a Medium or smaller target, the target is restrained in gilded webbing. As an action, the restrained target can make a DC 13 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 12; hp 8; immunity to bludgeoning, poison, and psychic damage).
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 14 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hp, the target is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way. The skin of a creature that dies while poisoned takes on a golden hue.
-
-

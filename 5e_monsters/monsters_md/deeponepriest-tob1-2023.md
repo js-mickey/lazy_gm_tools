@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep One Priest
+size: Medium
+type: Humanoid
+alignment: Chaotic Evil
+cr: 4
+xp: 1,100
+hp: 105
+hp_roll: 42
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 72
+---
+
 # Deep One Priest
 
 *Medium* *Humanoid* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blestsessebe
+size: Large
+type: Celestial
+alignment: neutral good
+cr: 8
+xp: 3,900
+hp: 144
+hp_roll: 17d10+51
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 61
+---
+
 # Blestsessebe
 
 *Large* *Celestial* *neutral good*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Free Runner:** Can take the Dash action.
-
-

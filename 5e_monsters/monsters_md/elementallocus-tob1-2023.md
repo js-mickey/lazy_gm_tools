@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elemental Locus
+size: Gargantuan
+type: Elemental
+alignment: Neutral
+cr: 17
+xp: 18,000
+hp: 290
+hp_roll: 80
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 120 ft. tremorsense 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 157
+---
+
 # Elemental Locus
 
 *Gargantuan* *Elemental* *Neutral*

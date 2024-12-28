@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dream Squire
+size: Medium
+type: Fey
+alignment: neutral
+cr: 2
+xp: 450
+hp: 71
+hp_roll: 13d8+13
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 134
+---
+
 # Dream Squire
 
 *Medium* *Fey* *neutral*
@@ -34,5 +53,3 @@ A dispel evil and good spell's break enchantment option that targets a dream squ
 ### Reactions
 
 - **For the Master:** When the dream squire's master is targeted by an attack or spell, the squire magically teleports to an unoccupied space within 5 feet of the master, and the attack or spell targets the squire instead. If the attack or spell deals damage, the dream squire takes half damage from it. To use this ability, the master and squire must be on the same plane.
-
-

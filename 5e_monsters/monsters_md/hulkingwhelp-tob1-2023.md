@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hulking Whelp
+size: Small
+type: Fey
+alignment: Chaotic Neutral
+cr: 5
+xp: 1,800
+hp: 94
+hp_roll: 36
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 236
+---
+
 # Hulking Whelp
 
 *Small* *Fey* *Chaotic Neutral*

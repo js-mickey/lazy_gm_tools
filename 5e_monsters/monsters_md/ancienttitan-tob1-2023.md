@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Titan
+size: Gargantuan
+type: Celestial
+alignment: Neutral Good
+cr: 12
+xp: 8,400
+hp: 198
+hp_roll: 72
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 361
+---
+
 # Ancient Titan
 
 *Gargantuan* *Celestial* *Neutral Good*

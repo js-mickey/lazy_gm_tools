@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stone Colossus
+size: Gargantuan
+type: Construct
+alignment: 
+cr: 16
+xp: 15,000
+hp: 263
+hp_roll: 17d20+85
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 266
+---
+
 # Stone Colossus
 
 *Gargantuan* *Construct*

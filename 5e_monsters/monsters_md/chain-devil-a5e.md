@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chain Devil
+size: Medium
+type: Fiend
+alignment: 
+cr: 9
+xp: 5,000
+hp: 127
+hp_roll: 15d8+60
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 80
+---
+
 # Chain Devil
 
 *Medium* *Fiend*
@@ -40,5 +59,3 @@
 ### Reactions
 
 - **Unnerving Mask:** When damaged by a creature within 30 feet that can see the devil, the devil momentarily assumes the magical illusory form of one of the attackers enemies or loved ones, alive or dead. The illusory figure may speak words that only the attacker can hear. The attacker makes a DC 15 Wisdom saving throw. On a failure, it takes 9 (2d8) psychic damage and is frightened until the end of its next turn.The attacker is then immune to this effect for the next 24 hours.
-
-

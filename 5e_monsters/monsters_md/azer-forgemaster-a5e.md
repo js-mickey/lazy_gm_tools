@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Azer Forgemaster
+size: Medium
+type: Elemental
+alignment: 
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 28
+---
+
 # Azer Forgemaster
 
 *Medium* *Elemental*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Fire Step:** While standing in fire, the azer can magically teleport up to 90 feet to a space within fire.
-
-

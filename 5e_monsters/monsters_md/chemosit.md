@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chemosit
+size: Medium
+type: Fiend
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d8+56
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 82
+---
+
 # Chemosit
 
 *Medium* *Fiend* *neutral evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Magically transforms into a Small or Med Humanoid or back into its true Fiendish form. Its stats other than size are the same in each form. No matter the form chemosit always has only one leg. Its crutch adjusts to fit its new form but no other equipment transforms. Reverts on death. Crutch becomes nonmagical.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chupacabra
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 36
+hp_roll: 8d6+8
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 63
+---
+
 # Chupacabra
 
 *Small* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Malodorous Stench:** When the chupacabra is reduced to less than half of its maximum hp, it releases a foul, sulphurous stench. Each creature within 5 feet of the chupacabra must succeed on a DC 11 Constitution saving throw or be poisoned until the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skeleton
+size: Medium
+type: Undead
+alignment: 
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 2d8+4
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 393
+---
+
 # Skeleton
 
 *Medium* *Undead*
@@ -27,5 +46,3 @@
 
 - **Shortsword:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit  range 80/320 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Astralsupial
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 15d6+30
+ac: 14
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 46
+---
+
 # Astralsupial
 
 *Medium* *Beast* *unaligned*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Playing Dead:** When reduced to 10 hp or less it feigns death in hopes of deceiving its attackers. A creature that sees it in this state can determine it is a ruse via DC 15 Wis (Medicine) check. Ruse lasts until astralsupial ends it (no action required) up to 8 hrs. 1st attack it makes within 1 round of ending ruse has advantage.
-
-

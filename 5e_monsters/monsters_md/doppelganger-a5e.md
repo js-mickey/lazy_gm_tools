@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Doppelganger
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 94
+---
+
 # Doppelganger
 
 *Medium* *Monstrosity*
@@ -24,5 +43,3 @@
 
 - **Shapeshift:** The doppelganger changes its form to that of any Small or Medium humanoid creature it has seen before, or back into its true form. While shapeshifted, its statistics are the same. Any equipment is not transformed. It reverts to its true form if it dies.
 - **Read Thoughts:** The doppelganger magically reads the surface thoughts of one creature within 60 feet that it can see. Until the end of its turn, it has advantage on attack rolls and on Deception, Insight, Intimidation, and Persuasion checks against the creature.
-
-

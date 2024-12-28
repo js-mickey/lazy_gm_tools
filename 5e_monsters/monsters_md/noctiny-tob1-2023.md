@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Noctiny
+size: Medium
+type: Humanoid
+alignment: Neutral Evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 16
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 287
+---
+
 # Noctiny
 
 *Medium* *Humanoid* *Neutral Evil*

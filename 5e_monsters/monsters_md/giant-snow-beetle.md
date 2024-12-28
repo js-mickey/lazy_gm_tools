@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Snow Beetle
+size: Large
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d10+12
+ac: 12
+speed: walk 30 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 392
+---
+
 # Giant Snow Beetle
 
 *Large* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 - **Pincer:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) bludgeoning damage.
 - **Rotten Snowball Shove (Recharge 6):** The giant snow beetle tosses one of its carrion-filled snowballs at a point it can see within 20 feet of it. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw. On a failure, a target takes 7 (2d6) bludgeoning damage and becomes poisoned for 1 minute. On a success, a target takes half the damage and isn’t poisoned. A poisoned creature can make a DC 13 Constitution saving throw at the end of each of its turns, ending the poisoned condition on itself on a success.
 - **Snowball Shove:** The giant snow beetle tosses one of its rolled snowballs at a point it can see within 20 feet of it. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw. On a failure, a target takes 7 (2d6) bludgeoning damage and is knocked prone. On a success, a target takes half the damage and isn’t knocked prone.
-
-

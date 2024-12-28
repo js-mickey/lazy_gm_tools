@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Web Zombie
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 3d8+9
+ac: 8
+speed: climb 30 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 209
+---
+
 # Web Zombie
 
 *Medium* *Undead* *neutral evil*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The web zombie makes two slam attacks. If both attacks hit a Medium or smaller target, the target is restrained by webbing. As an action, the restrained target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, necrotic, poison, and psychic damage).
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
-
-

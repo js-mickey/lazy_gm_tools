@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zouyu
+size: Huge
+type: Monstrosity
+alignment: chaotic good
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d12+36
+ac: 17
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 386
+---
+
 # Zouyu
 
 *Huge* *Monstrosity* *chaotic good*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) piercing damage.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.
 - **Alter Luck:** The zouyu flicks its vibrant, multi-stranded tail and alters the luck of one creature it can see within 30 feet of it, choosing one of the following luck options. The zouyu can’t target itself with Alter Luck. <br>* Bestow Luck. The target has advantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. <br>* Steal Luck. The target must succeed on a DC 15 Wisdom saving throw or have disadvantage on the next ability check, attack roll, or saving throw (zouyu’s choice) it makes before the end of its next turn. If the target fails the saving throw, the zouyu has advantage on one attack roll or saving throw it makes before the start of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bronze Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 57
+hp_roll: 6d10+24
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Bronze Golem
 
 *Large* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** The golem makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage and, if the target is a Medium or smaller creature, it is grappled (escape DC 13). The golem can only grapple one creature at a time.
 - **Brazen Bull:** The golem makes a slam attack against a target it is grappling as it opens a plate in its chest and exposes its arcane boiler. If the attack hits, the target is forced into the golem's boiler, and the grapple ends. While inside the boiler, the target is blinded and restrained, it has total cover against attacks and other effects outside the boiler, and it takes 14 (4d6) fire damage at the start of each of its turns. To escape, it or another creature must succeed on a DC 13 Strength (Athletics) check to open the boiler, freeing the target, which falls prone in a space within 5 feet of the golem. A bronze golem can only have one creature in its boiler at a time.
-
-

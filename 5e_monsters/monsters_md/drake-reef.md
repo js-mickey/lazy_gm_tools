@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Reef
+size: Huge
+type: Dragon
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 152
+hp_roll: 16d12+48
+ac: 18
+speed: walk 30 ft. burrow 30 ft. swim 60 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 154
+---
+
 # Drake, Reef
 
 *Huge* *Dragon* *neutral evil*
@@ -34,5 +53,3 @@
 
 - **Reef Stealth:** If it is within 10 ft. of a coral reef it can take the Hide action.
 - **Siege Follow-Through:** If it destroys an object or structure it can make a bite attack vs. a creature it can see within 5 ft. of that object or structure.
-
-

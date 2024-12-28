@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wraith Lord
+size: Medium
+type: Undead
+alignment: 
+cr: 13
+xp: 10,000
+hp: 171
+hp_roll: 18d8+90
+ac: 15
+speed: walk 40 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 428
+---
+
 # Wraith Lord
 
 *Medium* *Undead*
@@ -35,5 +54,3 @@
 - **Paralyzing Terror:** The wraith lord targets a frightened creature within 60 feet  forcing it to make a DC 18 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Create Wraith:** The wraith lord touches a humanoid corpse it killed up to 1 day ago. The creatures spirit rises as a wraith under the wraith lords control.
 - **Corporeal Form (1/Day):** The wraith lord takes on a material form. In material form  it loses its incorporeal trait  its fly speed  and its immunity to the grappled  prone  and restrained conditions. The wraith instantly reverts to its incorporeal form if it is bloodied  and it can do so voluntarily at any time as an action.
-
-

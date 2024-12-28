@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cult Fanatic
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 472
+---
+
 # Cult Fanatic
 
 *Medium* *Humanoid*
@@ -41,5 +60,3 @@
 - **Blindness/Deafness (2nd-Level; V):** One creature the cult fanatic can see within 30 feet makes a DC 12 Constitution saving throw. On a failure  the creature is blinded or deafened (cult fanatics choice) for 1 minute. The creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Hold Person (2nd-Level; V, S, M, Concentration):** One humanoid the cult fanatic can see within 60 feet makes a DC 12 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Cult fanatics are leaders who recruit for and command forbidden cults:** They have either been granted real spellcasting abilities by the dark forces they serve  or they have twisted their pre-existing magical abilities to the service of their cause.
-
-

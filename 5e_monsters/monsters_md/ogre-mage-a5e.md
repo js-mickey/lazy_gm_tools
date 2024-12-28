@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre Mage
+size: Large
+type: Giant
+alignment: 
+cr: 7
+xp: 2,900
+hp: 102
+hp_roll: 12d10+36
+ac: 16
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 348
+---
+
 # Ogre Mage
 
 *Large* *Giant*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Shapeshift:** The ogre changes its form into a Small or Medium humanoid, or back into its true form, which is a Large giant. Other than its size, its statistics are the same in each form. Its iron club, armor, and clothing change size with it. It reverts to its true form when it dies.
-
-

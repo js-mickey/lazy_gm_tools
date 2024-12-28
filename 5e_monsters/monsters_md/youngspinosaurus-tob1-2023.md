@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Spinosaurus
+size: Huge
+type: Beast
+alignment: Unaligned
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 40
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 104
+---
+
 # Young Spinosaurus
 
 *Huge* *Beast* *Unaligned*

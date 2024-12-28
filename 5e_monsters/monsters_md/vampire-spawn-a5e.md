@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampire Spawn
+size: Medium
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 76
+hp_roll: 9d8+36
+ac: 15
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 421
+---
+
 # Vampire Spawn
 
 *Medium* *Undead*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Hissing Scuttle (1/Day):** When the vampire takes radiant damage, it moves up to its Speed without provoking opportunity attacks.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm, Ice Borers
+size: Medium
+type: Elemental
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 40
+hp_roll: 9d8
+ac: 12
+speed: walk 10 ft. climb 10 ft. fly 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 362
+---
+
 # Swarm, Ice Borers
 
 *Medium* *Elemental* *unaligned*
@@ -30,5 +49,3 @@
 ### Actions
 
 - **Impale:** Melee Weapon Attack: +4 to hit, 0 ft., one creature, in the swarm’s space. 7 (2d6) piercing damage + 9 (2d8) cold or 3 (1d6) piercing damage + 4 (1d8) cold if the swarm has half its hp or fewer.
-
-

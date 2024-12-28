@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kuunganisha
+size: Small
+type: Fiend
+alignment: any evil
+cr: 2
+xp: 450
+hp: 17
+hp_roll: 5d6
+ac: 13
+speed: fly 40 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 245
+---
+
 # Kuunganisha
 
 *Small* *Fiend* *any evil*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Invisibility:** The kuunganisha magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the fiend wears or carries becomes invisible with it.
-
-

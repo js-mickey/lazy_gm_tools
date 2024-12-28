@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Silenal
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 7
+xp: 2,900
+hp: 117
+hp_roll: 18d6+54
+ac: 14
+speed: walk 25 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 328
+---
+
 # Silenal
 
 *Small* *Fey* *chaotic neutral*
@@ -31,5 +50,3 @@
 - **Tankard:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 7 (2d6) poison damage. The target must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Darts:** Ranged Weapon Attack: +7 to hit, range 20/40 ft., one target. Hit: 14 (4d4 + 4) piercing damage.
 - **Cause Row (1/Day):** The silenal magically stirs humanoids it can see within 60 feet of it into a frenzy. The frenzied patrons use the statistics of 4d4 commoners or 1 bar brawl. The frenzied patrons don’t attack the silenal. The patrons remain frenzied for 10 minutes, until the silenal dies, or until the silenal calms and disperses the mass as a bonus action.
-
-

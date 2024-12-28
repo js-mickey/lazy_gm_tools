@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Balloon Spider
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 36
+hp_roll: 8d8
+ac: 13
+speed: hover True ft. walk 20 ft. fly 40 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 387
+---
+
 # Balloon Spider
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage plus 5 (2d4) lightning damage, and the target must succeed on a DC 12 Constitution saving throw or it can move or take an action on its turn, but not both.
 - **Charged Web (Recharge 4-6):** Ranged Weapon Attack: +5 to hit, range 40/80 ft., one creature. Hit: The target is grappled (escape DC 13) by strands of charged webbing and begins to hover off the ground. Until this grapple ends, the target takes 1 lightning damage at the start of each of its turns. In addition, the grappled target can make a DC 12 Dexterity (Acrobatics) check to manipulate the strands of webbing and fly 10 feet in any direction.
 - **Draw In:** The balloon spider magically pulls all creatures grappled by its webbing up to 10 feet toward it. If this movement pulls the creature within 5 feet of the balloon spider, the spider can make one bite attack against the creature as a bonus action.
-
-

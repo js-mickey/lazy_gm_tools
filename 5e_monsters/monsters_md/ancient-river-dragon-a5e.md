@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient River Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 23
+xp: 50,000
+hp: 372
+hp_roll: 24d20+120
+ac: 20
+speed: walk 60 ft. fly 80 ft. swim 100 ft.
+senses: darkvision 120 ft. tremorsense 300 ft. (only detects vibrations in water) 
+passive_perception: 24
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 131
+---
+
 # Ancient River Dragon
 
 *Gargantuan* *Dragon*

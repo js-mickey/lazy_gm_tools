@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xing Tian
+size: Huge
+type: Giant
+alignment: neutral
+cr: 11
+xp: 7,200
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 376
+---
+
 # Xing Tian
 
 *Huge* *Giant* *neutral*
@@ -29,5 +48,3 @@
 - **Battleaxe:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage, or 22 (3d10 + 6) slashing damage if used with two hands.
 - **Shield Slam:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
 - **Dance of the Unyielding:** The xing tian stomps and waves its arms in a martial dance, and it regains 10 hp. Until the dance ends, the xing tian regains 10 hp at the start of each of its turns and melee attack rolls against the xing tian have disadvantage. It must take a bonus action on its subsequent turns to continue dancing. It can stop dancing at any time. The dance ends if the xing tian is incapacitated.
-
-

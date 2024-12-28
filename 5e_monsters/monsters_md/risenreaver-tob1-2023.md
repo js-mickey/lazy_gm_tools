@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Risen Reaver
+size: Large
+type: Undead
+alignment: Chaotic Evil
+cr: 7
+xp: 2,900
+hp: 168
+hp_roll: 80
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 120 ft. passive perception 11
+passive_perception: -
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 309
+---
+
 # Risen Reaver
 
 *Large* *Undead* *Chaotic Evil*

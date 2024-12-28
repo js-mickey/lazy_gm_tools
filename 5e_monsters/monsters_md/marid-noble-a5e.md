@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Marid Noble
+size: Large
+type: Elemental
+alignment: 
+cr: 11
+xp: 7,200
+hp: 344
+hp_roll: 30d10+180
+ac: 17
+speed: walk 30 ft. fly 60 ft. swim 90 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 224
+---
+
 # Marid Noble
 
 *Large* *Elemental*
@@ -33,5 +52,3 @@
 
 - **Fog Cloud (1/Day):** The marid magically creates a heavily obscured area of fog (or, if underwater, inky water) in a 30-foot radius around a point it can see within 60 feet. The fog spreads around corners and can be dispersed by a moderate wind or current (at least 10 miles per hour). Otherwise, it disperses after 10 minutes. The marid can see through this fog.
 - **Water Jet (While Bloodied):** The marid shoots water in a 5-foot-wide, 60-foot-long jet. Each creature in the area makes a DC 18 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and is pushed 20 feet away from the marid, to a maximum of 60 feet away, and knocked prone. On a success, a target takes half damage.
-
-

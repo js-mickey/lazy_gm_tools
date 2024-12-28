@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: J’ba Fofi Spider
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 20
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 344
+---
+
 # J’ba Fofi Spider
 
 *Large* *Beast* *Unaligned*

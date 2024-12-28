@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alp
+size: Small
+type: Fey
+alignment: chaotic evil
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8d6+16
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 14
+---
+
 # Alp
 
 *Small* *Fey* *chaotic evil*
@@ -31,5 +50,3 @@ At will: invisibility (self only)
 ### Actions
 
 - **Sleeper's Slap:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage, and, if the target was sleeping or unconscious before it was hit, it must succeed on a DC 13 Wisdom saving throw or become frightened and restrained for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the restrained condition on itself on a success. The creature must succeed on another saving throw on a following round to end the frightened condition.
-
-

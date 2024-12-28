@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hag, Wood
+size: Medium
+type: Fey
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 170
+hp_roll: 20d8+80
+ac: 16
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 228
+---
+
 # Hag, Wood
 
 *Medium* *Fey* *neutral evil*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Nettling Word:** Heckles mocks or jeers one creature she can see within 30' of her. If creature can hear and understand her enraged until end of its next turn (DC 16 Cha negates). While enraged: advantage on melee attacks unable to distinguish friend from foe and must move to and attack nearest creature (not hag). If none is near enough to move to and attack enraged creature stalks off in random direction. Attacks vs. enraged creature: advantage.
-
-

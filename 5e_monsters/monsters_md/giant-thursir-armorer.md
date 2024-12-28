@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant, Thursir Armorer
+size: Large
+type: Giant
+alignment: lawful evil
+cr: 6
+xp: 2,300
+hp: 138
+hp_roll: 12d10+72
+ac: 19
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 206
+---
+
 # Giant, Thursir Armorer
 
 *Large* *Giant* *lawful evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Harness Dwarven Soul:** Draws on the soul fragment trapped in one of the dwarven skulls on its belt. Armorer has advantage on ability checks when using smith’s tools and on attack rolls using a battleaxe handaxe light hammer or warhammer until start of its next turn. It carries six skulls on its belt.
-
-

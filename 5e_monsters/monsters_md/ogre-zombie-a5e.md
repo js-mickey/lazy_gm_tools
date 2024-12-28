@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre Zombie
+size: Large
+type: Undead
+alignment: 
+cr: 2
+xp: 450
+hp: 59
+hp_roll: 7d10+28
+ac: 11
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 436
+---
+
 # Ogre Zombie
 
 *Large* *Undead*
@@ -29,5 +48,3 @@
 - **Sweeping Strike:** Melee Weapon Attack: +6 to hit  reach 5 ft.  all creatures within 5 feet. Hit: 8 (1d8 + 4) bludgeoning damage  and if the target is a Medium or smaller creature  it makes a DC 14 Strength saving throw. On a failure  it is pushed 10 feet away from the ogre.
 - **Grab:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled if its Medium or smaller (escape DC 14)  and until the grapple ends  the zombie can't grab another target.
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target grappled by a zombie. Hit: 15 (2d10 + 4) piercing damage  and the zombie regains hit points equal to the damage dealt.
-
-

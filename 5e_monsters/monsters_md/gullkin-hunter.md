@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gullkin Hunter
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 7d8+14
+ac: 14
+speed: walk 20 ft. fly 30 ft. swim 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 223
+---
+
 # Gullkin Hunter
 
 *Medium* *Humanoid* *any alignment*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Mark Quarry (Recharges: Short/Long Rest):** Marks a creature as its quarry. Whenever hunter hits marked creature with weapon attack deals extra 1d6 damage to target.
-
-

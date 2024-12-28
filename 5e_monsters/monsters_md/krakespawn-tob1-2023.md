@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Krake Spawn
+size: Huge
+type: Monstrosity
+alignment: Neutral Evil
+cr: 14
+xp: 11,500
+hp: 175
+hp_roll: 84
+ac: 16
+speed: walk 60 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 249
+---
+
 # Krake Spawn
 
 *Huge* *Monstrosity* *Neutral Evil*

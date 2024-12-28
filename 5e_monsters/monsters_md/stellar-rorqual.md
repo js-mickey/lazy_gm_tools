@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stellar Rorqual
+size: Gargantuan
+type: Aberration
+alignment: neutral
+cr: 12
+xp: 8,400
+hp: 165
+hp_roll: 10d20+60
+ac: 14
+speed: walk 0 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 360 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 338
+---
+
 # Stellar Rorqual
 
 *Gargantuan* *Aberration* *neutral*
@@ -32,5 +51,3 @@
 - **Tail Slap:** Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 26 (4d8 + 8) bludgeoning damage.
 - **Energy Burst:** Ranged Spell Attack: +8 to hit, range 120 ft., one target. Hit: 24 (7d6) force damage.
 - **Planar Dive:** The stellar rorqual can transport itself and any willing creature inside its mouth to the Astral, Ethereal, or Material Planes or to the Void. This works like the plane shift spell, except the stellar rorqual can transport any number of willing creatures as long as they are inside its mouth. The stellar rorqual can’t use this action to banish an unwilling creature.
-
-

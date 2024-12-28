@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Akkorokamui
+size: Gargantuan
+type: Celestial
+alignment: chaotic good
+cr: 12
+xp: 8,400
+hp: 189
+hp_roll: 14d20+42
+ac: 17
+speed: walk 15 ft. swim 60 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 11
+---
+
 # Akkorokamui
 
 *Gargantuan* *Celestial* *chaotic good*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dwarf, Firecracker
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 3
+xp: 700
+hp: 68
+hp_roll: +32
+ac: 14
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 165
+---
+
 # Dwarf, Firecracker
 
 *Medium* *Humanoid* *any alignment*
@@ -29,5 +48,3 @@
 - **Wrecking Maul:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage + 3 (1d6) fire. The target must make DC 13 Str save or be pushed up to 15 ft. away from the firecracker and knocked prone.
 - **Fire Blast:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 12 (3d6+2) fire.
 - **Combustion Wave (Recharge 5–6):** The firecracker slams its massive hammer into the ground battering itself and its foes with fiery shockwave. Each creature within 20' of the firecracker including itself must make a DC 13 Con save taking 10 (3d6) fire and 10 (3d6) thunder on a failed save or half damage if made. Creatures behind cover have advantage on the save.
-
-

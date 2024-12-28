@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pyrite Pile
+size: Large
+type: Elemental
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 136
+hp_roll: 13d10+65
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 323
+---
+
 # Pyrite Pile
 
 *Large* *Elemental* *unaligned*
@@ -30,5 +49,3 @@
 - **Slam:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 15 (3d6+5) bludgeoning damage.
 - **Hurl Nugget:** Ranged Weapon Attack: +8 to hit 20/60' one target 14 (2d8+5) bludgeoning damage.
 - **Eat Gold:** Absorbs 52 (8d12) gp worth of nonmagical items and coins made of precious metals ignoring copper worn or carried by one creature grappled by it and the pile regains hp equal to half that. Absorbed metal is destroyed.
-
-

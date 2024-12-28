@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Medusa
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 7
+xp: 2,900
+hp: 120
+hp_roll: 16d8+48
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 323
+---
+
 # Medusa
 
 *Medium* *Monstrosity*
@@ -26,5 +45,3 @@
 - **Multiattack:** The medusa makes any combination of two attacks with its snake hair and longbow.
 - **Snake Hair:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) poison damage  plus an additional 3 (1d6) piercing damage if the target is a creature that is surprised or that can't see the medusa.
 - **Longbow:** Ranged Weapon Attack: +7 to hit  range 150/600 ft.  one target. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage.
-
-

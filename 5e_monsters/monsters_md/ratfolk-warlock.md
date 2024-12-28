@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ratfolk Warlock
+size: Small
+type: Humanoid
+alignment: any alignment
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 6d6+6
+ac: 13
+speed: swim 10 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 314
+---
+
 # Ratfolk Warlock
 
 *Small* *Humanoid* *any alignment*
@@ -31,5 +50,3 @@ At will: dancing lights, eldritch blast, fire bolt, mage armor, mage hand, minor
 - **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Quarterstaff:** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage or 3 (1d8 - 1) bludgeoning damage if used with two hands.
 - **Darken:** The ratfolk warlock causes tendrils of shadow to reach out from its body toward all creatures within 10 feet of it. Each creature in the area must succeed on a DC 13 Wisdom saving throw or be restrained by the tendrils until the end of the ratfolk warlock's next turn.
-
-

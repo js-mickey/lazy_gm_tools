@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sand Hag
+size: Medium
+type: Fey
+alignment: Chaotic Evil
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 48
+ac: 17
+speed: walk 30 ft. burrow 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 229
+---
+
 # Sand Hag
 
 *Medium* *Fey* *Chaotic Evil*

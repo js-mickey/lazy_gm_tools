@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ink Guardian
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 102
+hp_roll: 12d10+36
+ac: 8
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 285
+---
+
 # Ink Guardian
 
 *Large* *Ooze* *unaligned*
@@ -32,5 +51,3 @@ When the ink guardian is defeated, the bottle becomes inactive for 3d8 hours. Af
 
 - **Multiattack:** As a Medium or Large creature, the ink guardian makes two pseudopod attacks
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 7 (2d6) acid damage.
-
-

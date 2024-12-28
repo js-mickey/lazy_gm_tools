@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Emerald Order Cult Leader
+size: Medium
+type: Humanoid
+alignment: Lawful Evil
+cr: 8
+xp: 3,900
+hp: 156
+hp_roll: 48
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 410
+---
+
 # Emerald Order Cult Leader
 
 *Medium* *Humanoid* *Lawful Neutral or Lawful Evil*

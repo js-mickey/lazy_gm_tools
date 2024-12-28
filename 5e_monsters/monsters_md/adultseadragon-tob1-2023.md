@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Sea Dragon
+size: Huge
+type: Dragon
+alignment: Neutral Evil
+cr: 18
+xp: 20,000
+hp: 275
+hp_roll: 132
+ac: 19
+speed: walk 60 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 24
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 126
+---
+
 # Adult Sea Dragon
 
 *Huge* *Dragon* *Neutral Evil*

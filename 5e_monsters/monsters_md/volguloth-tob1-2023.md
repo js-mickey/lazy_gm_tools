@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Volguloth
+size: Medium
+type: Fiend
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 24
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 391
+---
+
 # Volguloth
 
 *Medium* *Fiend* *Neutral Evil*

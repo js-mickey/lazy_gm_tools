@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gnyan
+size: Large
+type: Elemental
+alignment: neutral good
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 14
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 210
+---
+
 # Gnyan
 
 *Large* *Elemental* *neutral good*
@@ -38,5 +57,3 @@
 ### Bonus Actions
 
 - **Snow Step:** Teleports with items worn/carried up to 30' to unoccupied space it can see. Origin and destination must have snow.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bunyip
+size: Huge
+type: Beast
+alignment: 
+cr: 8
+xp: 3,900
+hp: 150
+hp_roll: 12d12+72
+ac: 14
+speed: walk 20 ft. swim 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 441
+---
+
 # Bunyip
 
 *Huge* *Beast*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Terrifying Howl:** The bunyip unleashes a terrifying howl. Each creature of its choice within 120 feet that can see and hear it makes a DC 17 Wisdom saving throw, becoming frightened for 1 minute on a failure. A creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creatures saving throw is successful or the effect ends for it, the creature is immune to the bunyips Terrifying Howl for the next 24 hours.
-
-

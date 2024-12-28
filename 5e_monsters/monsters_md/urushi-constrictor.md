@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Urushi Constrictor
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d10+56
+ac: 14
+speed: walk 30 ft. climb 30 ft. swim 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 382
+---
+
 # Urushi Constrictor
 
 *Large* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Multiattack:** 2 Bites or 1 Bite and 1 Poisonous Constriction.
 - **Bite:** Melee Weapon Attack: +6 to hit, 10 ft., one creature,. 14 (2d10+3) piercing damage.
 - **Poisonous Constriction:** Melee Weapon Attack: +6 to hit, 5 ft., one creature,. 12 (2d8+3) bludgeoning damage and target is grappled (escape DC 15). Until this grapple ends target is restrained and takes 10 (3d6) poison at start of each of its turns and snake can't use Poisonous Constriction on another target. Each time target takes this poison it must make DC 15 Con save or contract urushi blight.
-
-

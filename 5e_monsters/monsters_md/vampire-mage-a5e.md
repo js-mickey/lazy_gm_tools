@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampire Mage
+size: Medium
+type: Undead
+alignment: 
+cr: 13
+xp: 10,000
+hp: 142
+hp_roll: 15d8+75
+ac: 16
+speed: walk 40 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 420
+---
+
 # Vampire Mage
 
 *Medium* *Undead*

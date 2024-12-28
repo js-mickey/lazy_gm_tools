@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Valkruung
+size: Tiny
+type: Monstrosity
+alignment: chaotic neutral
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d6+8
+ac: 13
+speed: climb 20 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 355
+---
+
 # Valkruung
 
 *Tiny* *Monstrosity* *chaotic neutral*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Disarming Tendrils:** When a creature the valkruung can see targets it with a melee weapon attack, the attacker must succeed on a DC 13 Dexterity saving throw or its weapon is knocked out of its grasp into a random unoccupied space within 5 feet of the attacker. The valkruung can’t use this reaction against attackers wielding a heavy or two-handed weapon.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Atavist
+size: Medium
+type: Humanoid
+alignment: lawful evil
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 404
+---
+
 # Npc: Atavist
 
 *Medium* *Humanoid* *lawful evil*
@@ -27,5 +46,3 @@
 - **Multiattack:** Two Keratin Blade or Bone Shard attacks. If both attacks hit one target the target takes an extra 7 (2d6) piercing damage as bits of bone dig deeper into the target.
 - **Keratin Blade:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 - **Bone Shard:** Ranged Weapon Attack: +4 to hit 30/120' one target 7 (2d4+2) piercing damage.
-
-

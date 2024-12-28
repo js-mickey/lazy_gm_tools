@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hill Dwarf Wrestler
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 495
+---
+
 # Hill Dwarf Wrestler
 
 *Medium* *Humanoid*
@@ -38,5 +57,3 @@
 
 - **Opportune Jab:** If a creature attempts to grapple the pugilist, the pugilist attacks that creature with their fists.
 - **The hill dwarven sport of wrestling has grown wildly popular:** 
-
-

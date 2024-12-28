@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Warhordling Orc Eye
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 32
+hp_roll: 5d8+10
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 10 ft.
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 488
+---
+
 # Warhordling Orc Eye
 
 *Medium* *Humanoid*
@@ -47,5 +66,3 @@ arcane eye
 
 - **Healing Word (1st-Level; V):** The priest or a living creature within 60 feet regains 5 (1d4 + 3) hit points. The priest can't cast this spell and a 1st-level or higher spell on the same turn.
 - **The priests of orcish war hordes act as counselors and magical scouts:** Some even put out their own eyes, trusting in their magical senses and intuition to lead the horde.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tripwire Patch
+size: Huge
+type: Plant
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 95
+hp_roll: 10d12+30
+ac: 14
+speed: walk 10 ft. burrow 20 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 371
+---
+
 # Tripwire Patch
 
 *Huge* *Plant* *unaligned*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **No Escape:** If a prone creature within 5 ft. of patch stands up from prone patch can make one Bite vs. it.
-
-

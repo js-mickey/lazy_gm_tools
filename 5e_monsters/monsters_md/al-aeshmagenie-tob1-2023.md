@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Al-Aeshma Genie
+size: Large
+type: Elemental
+alignment: Chaotic Evil
+cr: 9
+xp: 5,000
+hp: 149
+hp_roll: 78
+ac: 17
+speed: walk 90 ft. fly 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 197
+---
+
 # Al-Aeshma Genie
 
 *Large* *Elemental* *Chaotic Evil*

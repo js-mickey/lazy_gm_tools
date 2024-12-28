@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Star Drake
+size: Large
+type: Dragon
+alignment: Neutral
+cr: 15
+xp: 13,000
+hp: 189
+hp_roll: 90
+ac: 19
+speed: walk 100 ft. fly 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 22
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 146
+---
+
 # Star Drake
 
 *Large* *Dragon* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mechuiti
+size: Gargantuan
+type: Fiend
+alignment: Chaotic Evil
+cr: 27
+xp: 105,000
+hp: 462
+hp_roll: 200
+ac: 19
+speed: walk 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 22
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 78
+---
+
 # Mechuiti
 
 *Gargantuan* *Fiend* *Chaotic Evil*

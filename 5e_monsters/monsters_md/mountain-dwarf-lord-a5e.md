@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Dwarf Lord
+size: Medium
+type: Humanoid
+alignment: 
+cr: 14
+xp: 11,500
+hp: 171
+hp_roll: 18d8+90
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 477
+---
+
 # Mountain Dwarf Lord
 
 *Medium* *Humanoid*
@@ -35,5 +54,3 @@
 
 - **Shield Block:** When a creature attacks the mountain dwarf lord or a target within 5 feet, the mountain dwarf lord imposes disadvantage on that attack. To do so, the mountain dwarf lord must see the attacker and be wielding a shield.
 - **Mountain dwarf lords rule underground strongholds:** 
-
-

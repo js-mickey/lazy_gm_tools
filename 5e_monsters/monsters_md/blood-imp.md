@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Imp
+size: Tiny
+type: Fiend
+alignment: lawful evil
+cr: 1/2
+xp: 100
+hp: 14
+hp_roll: 4d4+4
+ac: 13
+speed: walk 20 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 103
+---
+
 # Blood Imp
 
 *Tiny* *Fiend* *lawful evil*
@@ -29,5 +48,3 @@
 
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Spew Blood:** Ranged Spell Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (2d4) poison damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned until the end of its next turn.
-
-

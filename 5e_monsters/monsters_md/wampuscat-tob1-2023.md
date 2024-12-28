@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wampus Cat
+size: Medium
+type: Monstrosity
+alignment: Chaotic Neutral
+cr: 1
+xp: 200
+hp: 39
+hp_roll: 12
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 392
+---
+
 # Wampus Cat
 
 *Medium* *Monstrosity* *Chaotic Neutral*

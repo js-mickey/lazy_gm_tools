@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Naina
+size: Large
+type: Dragon
+alignment: Lawful Evil
+cr: 11
+xp: 7,200
+hp: 231
+hp_roll: 110
+ac: 17
+speed: walk 120 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 282
+---
+
 # Naina
 
 *Large* *Dragon* *Lawful Evil*

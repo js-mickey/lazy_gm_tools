@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fragrite
+size: Medium
+type: Elemental
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 91
+hp_roll: 14d8+28
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 164
+---
+
 # Fragrite
 
 *Medium* *Elemental* *chaotic neutral*
@@ -32,5 +51,3 @@ While in sand form, the fragrite has a burrow speed of 50 feet, it can move thro
 - **Multiattack:** The fragrite makes two strike attacks.
 - **Strike:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage. If the fragrite is in its glass form and has less than half of its total hp remaining, this attack instead deals 16 (3d8 + 3) slashing damage.
 - **Spontaneous Explosion (Glass Form Only; Recharge 5-6):** The fragrite explodes into shards of glass, reducing its hp by 5 (2d4). Each creature within 15 feet of it must make a DC 14 Dexterity saving throw, taking 27 (6d8) slashing damage on a failed save, or half as much damage on a successful one. The fragrite then polymorphs into its sand form.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Desert Troll
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 10d10+50
+ac: 15
+speed: burrow 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 356
+---
+
 # Desert Troll
 
 *Large* *Giant* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The desert troll makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage.
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rattok
+size: Small
+type: Fiend
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 66
+hp_roll: 12d6+24
+ac: 14
+speed: swim 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 90
+---
+
 # Rattok
 
 *Small* *Fiend* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) necrotic damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
 - **Necrotic Rush (Recharge 5-6):** The rattok unleashes a wave of shadowy versions of itself that fan out and rake dark claws across all creatures within 15 feet. Each creature in that area must make a DC 13 Dexterity saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as much damage on a successful one.
-
-

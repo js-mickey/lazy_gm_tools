@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devouring Angel
+size: Large
+type: Aberration
+alignment: neutral
+cr: 12
+xp: 8,400
+hp: 220
+hp_roll: 21d10+105
+ac: 15
+speed: walk 40 ft. climb 40 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 125
+---
+
 # Devouring Angel
 
 *Large* *Aberration* *neutral*
@@ -31,5 +50,3 @@
 - **Claw:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 12 (2d6+5) slashing damage.
 - **Spiked Tongue:** Melee Weapon Attack: +9 to hit, 20 ft., one target, 12 (2d6+5) bludgeoning damage and target is grappled (escape DC 17). Until this grapple ends target is restrained and takes 9 (2d8) piercing damage at the start of each of its turns and angel can pull the creature up to 15 ft. closer to it as a bonus action. Angel can have only one target grappled in this way at a time.
 - **Shed Spines (Recharge 5–6):** Shakes its body sending acid-coated spines outward. Each creature within 10 ft. of it: 18 (4d8) piercing damage and 24 (7d6) acid (DC 17 Dex half).
-
-

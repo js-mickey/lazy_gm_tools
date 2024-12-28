@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sulsha
+size: Large
+type: Humanoid
+alignment: lawful evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 16
+speed: walk 40 ft. climb 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 136
+---
+
 # Sulsha
 
 *Large* *Humanoid* *lawful evil*
@@ -29,5 +48,3 @@
 - **Tail Spur:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Bomb:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage. The target and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 - **Terrifying Display (Recharge 5-6):** The sulsha beats furiously on its chest and hollers with rage. Each creature within 30 feet of the sulsha that can see or hear it must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

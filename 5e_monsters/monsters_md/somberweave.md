@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Somberweave
+size: Medium
+type: Fey
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 78
+hp_roll: 12d8+24
+ac: 14
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 335
+---
+
 # Somberweave
 
 *Medium* *Fey* *neutral evil*
@@ -33,5 +52,3 @@
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +7 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 10; vulnerability to radiant damage; immunity to bludgeoning, piercing, poison, and psychic damage).
 - **Shadow Shift:** The somberweave touches a creature restrained by its webbing and transports itself and the creature into the Shadow Realm or the Material Plane, the somberweave’s choice. The somberweave and the target appear within 5 feet of each other in unoccupied spaces in the chosen plane. The destination location must be within 10 feet of the somberweave’s anchored web. If the target is unwilling, it can make a DC 14 Charisma saving throw. On a success, the somberweave is transported but the target isn’t.
-
-

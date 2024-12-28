@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fey Drake
+size: Small
+type: Dragon
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 82
+hp_roll: 15d6+30
+ac: 17
+speed: fly 80 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 130
+---
+
 # Fey Drake
 
 *Small* *Dragon* *chaotic neutral*
@@ -31,5 +50,3 @@ At will: charm person, color spray, grease
 - **Multiattack:** The fey drake makes three bite attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) piercing damage, and the target must succeed on a DC 16 Constitution saving throw or be poisoned for 1 hour.
 - **Bewildering Breath (Recharge 5-6):** The drake breaths a plume of purple gas in a 15-foot cone. Each creature in that area must succeed on a DC 16 Wisdom saving throw or be charmed for 1 minute. While charmed, the creature can't take bonus actions or reactions, and it makes all Intelligence, Wisdom, and Charisma skill checks and saving throws with disadvantage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Giant
+size: Huge
+type: Giant
+alignment: chaotic evil
+cr: 15
+xp: 13,000
+hp: 209
+hp_roll: 22d20+66
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 173
+---
+
 # Shadow Giant
 
 *Huge* *Giant* *chaotic evil*
@@ -35,5 +54,3 @@ While in the Plane of Shadow, the shadow giant can see and hear 120 feet into th
 - **Multiattack:** The shadow giant makes three attacks with its tenebrous talons.
 - **Tenebrous Talons:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 18 (4d8) necrotic damage.
 - **Cold Shadow (Recharge 5-6):** The shadow giant directs its shadow to stretch out in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw. On a failure, a creature takes 52 (15d6) cold damage and has disadvantage on attack rolls and saving throws until the end of its next turn. On a success, a creature takes half the damage and doesn’t have disadvantage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Efreeti
+size: Large
+type: Elemental
+alignment: 
+cr: 11
+xp: 7,200
+hp: 172
+hp_roll: 15d10+90
+ac: 17
+speed: walk 40 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 221
+---
+
 # Efreeti
 
 *Large* *Elemental*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Fiery Wall (1/Day):** An opaque wall of magical flame rises from the ground within 60 feet. The wall is 6 inches thick and can be up to 20 feet high and 30 feet long. Each creature within the wall when it appears makes a DC 15 Dexterity saving throw, taking 18 (4d8) fire damage on a failed save or half damage on a success. A creature also takes 18 (4d8) fire damage when it enters the wall for the first time on a turn or ends its turn there. The wall disappears when the efreet is killed or incapacitated, or when it uses an action to dismiss it.
-
-

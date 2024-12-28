@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Boggard Bravo
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d8
+ac: 12
+speed: walk 20 ft. swim 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 36
+---
+
 # Boggard Bravo
 
 *Medium* *Humanoid*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Tongue:** Melee Weapon Attack: +3 to hit, reach 15 ft., one creature. Hit: The target must make a DC 11 Strength saving throw. On a failure, the boggard pulls the target up to 10 feet, or knocks the target prone, or forces the target to drop one item it is holding (boggards choice).
-
-

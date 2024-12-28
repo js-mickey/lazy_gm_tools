@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Psoglav
+size: Large
+type: Fiend
+alignment: Chaotic Evil
+cr: 7
+xp: 2,900
+hp: 115
+hp_roll: 55
+ac: 17
+speed: walk 60 ft. fly 40 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 86
+---
+
 # Psoglav
 
 *Large* *Fiend* *Chaotic Evil*

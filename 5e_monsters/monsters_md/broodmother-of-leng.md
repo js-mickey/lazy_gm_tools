@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Broodmother of Leng
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 161
+hp_roll: 17d12+51
+ac: 17
+speed: climb 30 ft. walk 40 ft.
+senses: darkvision 240 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 52
+---
+
 # Broodmother of Leng
 
 *Huge* *Aberration* *chaotic evil*
@@ -40,5 +59,3 @@ At will: charm person, chill touch, comprehend languages, detect magic
 ### Reactions
 
 - **Protect the Future:** When a creature the broodmother can see attacks her, she can call on a spider of Leng within 5 feet of her to protect her. The spider of Leng becomes the target of the attack instead.
-
-

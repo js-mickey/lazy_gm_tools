@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zimwi
+size: Medium
+type: Giant
+alignment: Chaotic Evil
+cr: 5
+xp: 1,800
+hp: 110
+hp_roll: 52
+ac: 16
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 402
+---
+
 # Zimwi
 
 *Medium* *Giant* *Chaotic Evil*

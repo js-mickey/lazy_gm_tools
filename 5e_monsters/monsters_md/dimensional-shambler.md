@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dimensional Shambler
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 102
+hp_roll: 12d10+36
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 107
+---
+
 # Dimensional Shambler
 
 *Large* *Aberration* *neutral evil*
@@ -33,5 +52,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Multiattack:** A dimensional shambler makes two claw attacks. If both attacks hit the same target, the target is grappled (escape DC 16).
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.
 - **Drag Through:** The dimensional shambler shifts through multiple dimensions with a target it is grappling, ending in the same dimension it began. The creature must make a DC 16 Wisdom saving throw, taking 21 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Herald of Blood
+size: Huge
+type: Fiend
+alignment: Neutral Evil
+cr: 12
+xp: 8,400
+hp: 184
+hp_roll: 80
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 240 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 232
+---
+
 # Herald of Blood
 
 *Huge* *Fiend* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Savior Lumen
+size: Large
+type: Celestial
+alignment: chaotic good
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 12d10+48
+ac: 15
+speed: walk 20 ft. burrow 20 ft. fly 50 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 335
+---
+
 # Savior Lumen
 
 *Large* *Celestial* *chaotic good*
@@ -35,5 +54,3 @@
 - **Flurry of Tools:** Melee Weapon Attack: +8 to hit 0' 1 tgt in the swarm’s space. 10 (4d4) bludgeoning damage + 10 (4d4) piercing damage and 10 (4d4) slashing damage or 5 (2d4) bludgeoning damage + 5 (2d4) piercing damage and 4 (2d4) slashing damage if the swarm has half of its hp or fewer.
 - **Dismantle:** Destroys up to a 5 ft. cube of nonmagical debris structure or object that isn’t being worn or carried.
 - **Spellcasting:** Cha (DC 14) no material components: At will: floating disk mending spare the dying3/day ea: gentle repose knock sending1/day ea: locate creature passwall
-
-

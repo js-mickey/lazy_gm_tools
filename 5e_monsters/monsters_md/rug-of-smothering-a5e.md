@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rug of Smothering
+size: Large
+type: Construct
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 12
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 24
+---
+
 # Rug of Smothering
 
 *Large* *Construct*
@@ -28,5 +47,3 @@
 
 - **Smother:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one Large or smaller creature. Hit: The target is grappled (escape DC 13). Until this grapple ends  the target is restrained and can't breathe. When the rug is dealt damage while it is grappling  it takes half the damage (rounded down) and the other half is dealt to the grappled target. The rug can only have one creature grappled at once.
 - **Squeeze:** One creature grappled by the rug takes 10 (2d6 + 3) bludgeoning damage.
-
-

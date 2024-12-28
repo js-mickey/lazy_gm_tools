@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Walking Statue
+size: Large
+type: Construct
+alignment: 
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 7d10+28
+ac: 16
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 24
+---
+
 # Walking Statue
 
 *Large* *Construct*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Smash:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 15 (2d10 + 4) bludgeoning damage.
-
-

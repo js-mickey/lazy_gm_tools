@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hippopotamus, Sacred
+size: Huge
+type: Celestial
+alignment: its deity
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 12d12+36
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 233
+---
+
 # Hippopotamus, Sacred
 
 *Huge* *Celestial* *any alignment (as its deity)*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Protector’s Step:** Magically teleports with any items worn/carried up to 120' to unoccupied space within its sacred site or within 30' of exterior of its site. Golden light swirls or inky shadown tendrils (hippo’s choice) appear at origin and destination.
-
-

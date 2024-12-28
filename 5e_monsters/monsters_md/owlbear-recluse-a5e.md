@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Owlbear Recluse
+size: Large
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 119
+hp_roll: 14d10+42
+ac: 13
+speed: walk 40 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 356
+---
+
 # Owlbear Recluse
 
 *Large* *Monstrosity*
@@ -25,5 +44,3 @@
 - **Multiattack:** The owlbear attacks with its beak and claws.
 - **Beak:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dark Eye
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 71
+hp_roll: 11d8+22
+ac: 16
+speed: walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 72
+---
+
 # Dark Eye
 
 *Medium* *Humanoid* *neutral evil*
@@ -28,5 +47,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 - **Multiattack:** The dark eye makes two attacks with its dagger.
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 4 (1d8) cold damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archon, Siege
+size: Huge
+type: Celestial
+alignment: lawful good
+cr: 13
+xp: 10,000
+hp: 187
+hp_roll: 15d12+90
+ac: 18
+speed: walk 40 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 42
+---
+
 # Archon, Siege
 
 *Huge* *Celestial* *lawful good*
@@ -35,5 +54,3 @@
 - **Stomp:** Melee Weapon Attack: +11 to hit 10 ft. one prone creature. 22 (3d10+6) bludgeoning damage.
 - **Trumpeting Blast:** Ranged Spell Attack: +10 to hit, 120 ft., one target, 19 (4d6+5) thunder.
 - **Sundering Quake (Recharge 5–6):** Slams its forelegs into the ground. Each creature in contact with the ground within 20' of it: 49 (14d6) force (DC 19 Dex half). Each structure in contact with the ground within 20' of archon also takes the damage and collapses if the damage reduces it to 0 hp.
-
-

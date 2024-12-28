@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Titanic Kraken
+size: Titanic
+type: Monstrosity
+alignment: 
+cr: 25
+xp: 75,000
+hp: 888
+hp_roll: 48d20+384
+ac: 20
+speed: walk 20 ft. swim 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 301
+---
+
 # Titanic Kraken
 
 *Titanic* *Monstrosity*

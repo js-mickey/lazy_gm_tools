@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 16
+speed: walk 30 ft. climb 30 ft. fly 60 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 137
+---
+
 # Shadow Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -29,5 +48,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 18 (3d10 + 2) piercing damage.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 15-foot cone. Each creature in that area makes a DC 12 Wisdom saving throw  taking 22 (4d8) necrotic damage on a failed save or half damage on a success.
-
-

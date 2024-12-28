@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Faceless Wanderer
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 58
+hp_roll: 9d8+18
+ac: 13
+speed: fly 30 ft. walk 0 ft. hover True ft.
+senses: blindsight 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 139
+---
+
 # Faceless Wanderer
 
 *Medium* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The faceless wanderer makes two attacks, but it can use its Memory Drain only once.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 7 (2d6) psychic damage.
 - **Memory Drain:** The faceless wanderer drains memories from an adult creature within 30 feet of it. The target must make a DC 13 Intelligence saving throw. On a failure, the target takes 14 (4d6) psychic damage and its Intelligence score is reduced by 1d4. The target dies if this reduces its Intelligence to 0. A humanoid slain in this way rises 1d4 hours later as a new faceless wanderer. Otherwise, the reduction lasts until the target finishes a short or long rest. On a success, the target takes half the damage and its Intelligence score isn’t reduced.
-
-

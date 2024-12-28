@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Void Constructor
+size: Medium
+type: Construct
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 43
+hp_roll: 5d8+20
+ac: 19
+speed: walk 0 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 385
+---
+
 # Void Constructor
 
 *Medium* *Construct* *neutral evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** Two Slam attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage.
 - **Tentacles:** Melee Weapon Attack: +5 to hit, 10 ft., one target, 13 (4d4+3) bludgeoning damage and the target is grappled (escape DC 13). Until this grapple ends the constructor can’t use its tentacles on another target.
-
-

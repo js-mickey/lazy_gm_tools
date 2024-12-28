@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampiric Knight
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 11
+xp: 7,200
+hp: 127
+hp_roll: 15d8+60
+ac: 20
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 369
+---
+
 # Vampiric Knight
 
 *Medium* *Undead* *neutral evil*
@@ -35,5 +54,3 @@ Stake to the Heart. If a piercing weapon made of wood is driven into the vampiri
 ### Reactions
 
 - **Shield:** When a creature makes an attack against an allied vampire, the knight can grant the vampire a +3 bonus to its AC if the knight is within 5 feet of the vampire.
-
-

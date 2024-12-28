@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Unhatched
+size: Small
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 71
+hp_roll: 11d6+33
+ac: 14
+speed: fly 40 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 363
+---
+
 # Unhatched
 
 *Small* *Undead* *chaotic evil*
@@ -34,5 +53,3 @@ At will: chill touch, minor illusion
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 12 (3d6 + 2) slashing damage.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage plus 4 (1d8) necrotic damage.
 - **Desiccating Breath (Recharge 5-6):** The dragon exhales a cloud of choking dust infused with necrotic magic in a 30-foot cone. Each creature in the area must make a DC 14 Dexterity saving throw, taking 16 (3d10) necrotic damage on a failed save, or half as much damage on a successful one. A creature who fails this save can't speak until the end of its next turn as it chokes on the dust.
-
-

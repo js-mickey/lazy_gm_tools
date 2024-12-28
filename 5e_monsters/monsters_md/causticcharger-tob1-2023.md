@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Caustic Charger
+size: Huge
+type: Monstrosity
+alignment: Unaligned
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 42
+ac: 15
+speed: walk 10 ft. burrow 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 51
+---
+
 # Caustic Charger
 
 *Huge* *Monstrosity* *Unaligned*

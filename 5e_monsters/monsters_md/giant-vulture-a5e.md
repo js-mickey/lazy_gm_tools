@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Vulture
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 3d10+6
+ac: 12
+speed: walk 10 ft. fly 60 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 451
+---
+
 # Giant Vulture
 
 *Large* *Beast*
@@ -29,5 +48,3 @@
 ### Reactions
 
 - **Retreat:** When the vulture would be hit by a melee attack, the vulture can move 5 feet away from the attacker. If this moves the vulture out of the attackers reach, the attacker has disadvantage on its attack.
-
-

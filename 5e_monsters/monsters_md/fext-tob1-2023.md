@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fext
+size: Medium
+type: Undead
+alignment: Any Alignment
+cr: 6
+xp: 2,300
+hp: 77
+hp_roll: 14
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. truesight 20 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 171
+---
+
 # Fext
 
 *Medium* *Undead* *Any Alignment*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Minotaur
+size: Large
+type: Monstrosity
+alignment: 
+cr: 4
+xp: 1,100
+hp: 76
+hp_roll: 9d10+27
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 335
+---
+
 # Minotaur
 
 *Large* *Monstrosity*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Roar of Triumph:** If the minotaur reduced a living creature to 0 hit points since the end of its last turn, it roars and gains 10 (3d6) temporary hit points.
-
-

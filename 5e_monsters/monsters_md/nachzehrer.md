@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nachzehrer
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 136
+hp_roll: 16d8+64
+ac: 15
+speed: burrow 15 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 272
+---
+
 # Nachzehrer
 
 *Medium* *Undead* *chaotic evil*
@@ -30,5 +49,3 @@ When an infected creature finishes a long rest, it must succeed on a DC 16 Const
 - **Multiattack:** The nachzehrer makes three attacks: two with its fists and one with its bite.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 7 (1d4 + 5) piercing damage plus 13 (3d8) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the nachzehrer regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. The target must succeed on a DC 16 Constitution saving throw or become infected with the grave pox disease (see the Grave Pox trait).
 - **Fist:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.
-
-

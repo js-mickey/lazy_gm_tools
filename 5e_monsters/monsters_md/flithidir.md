@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flithidir
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 6d6+6
+ac: 13
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 154
+---
+
 # Flithidir
 
 *Small* *Fey* *chaotic neutral*
@@ -33,5 +52,3 @@ At will: minor illusion (auditory only), vicious mockery
 ### Reactions
 
 - **Mocking Retort:** When a creature the flithidir can see misses it with an attack, the flithidir can cast vicious mockery at the attacker.
-
-

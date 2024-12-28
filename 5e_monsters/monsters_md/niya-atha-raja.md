@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Niya-Atha Raja
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 7
+xp: 2,900
+hp: 117
+hp_roll: 18d8+36
+ac: 17
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 290
+---
+
 # Niya-Atha Raja
 
 *Medium* *Fey* *lawful neutral*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Enlarge:** Magically increases in size with anything worn/carried. While enlarged is Large 2× damage dice on weapon attacks (included above) and makes Str checks and Str saves with advantage. Enlarged can no longer use Evasion and Magic Resistance. If it lacks room to become Large this action fails.
-
-

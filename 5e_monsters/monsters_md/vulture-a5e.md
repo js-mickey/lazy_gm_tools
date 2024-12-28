@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vulture
+size: Medium
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 4
+hp_roll: 1d8
+ac: 10
+speed: walk 10 ft. fly 50 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 462
+---
+
 # Vulture
 
 *Medium* *Beast*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Retreat:** When the vulture would be hit by a melee attack, the vulture can move 5 feet away from the attacker. If this moves the vulture out of the attackers reach, the attacker has disadvantage on its attack.
-
-

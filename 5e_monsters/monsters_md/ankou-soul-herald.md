@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ankou Soul Herald
+size: Gargantuan
+type: Dragon
+alignment: neutral
+cr: 21
+xp: 33,000
+hp: 407
+hp_roll: 22d20+176
+ac: 18
+speed: fly 80 ft. walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 28
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 37
+---
+
 # Ankou Soul Herald
 
 *Gargantuan* *Dragon* *neutral*

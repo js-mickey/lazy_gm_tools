@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mimic
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 333
+---
+
 # Mimic
 
 *Medium* *Monstrosity*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Shapeshift:** The mimic changes its form to resemble an inanimate object of its approximate size or changes into its true form, which is an amorphous blob. Objects it is carrying or stuck to are not transformed. While shapeshifted, its statistics are unchanged. It reverts to its true form if it dies.
-
-

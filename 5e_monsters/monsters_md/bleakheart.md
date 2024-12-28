@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bleakheart
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d8+12
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 43
+---
+
 # Bleakheart
 
 *Medium* *Undead* *neutral evil*
@@ -32,5 +51,3 @@ At will: detect thoughts, minor illusion
 
 - **Disheartening Touch:** Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d6) psychic damage.
 - **Steal Joy (Recharge 5-6):** Each creature of the bleakheart’s choice that is within 20 feet of the bleakheart and aware of it must succeed on a DC 13 Wisdom saving throw or its Charisma score is reduced by 1d4. A creature that has taken psychic damage from the bleakheart’s Disheartening Touch within the last minute has disadvantage on this saving throw. A creature that has its Charisma reduced to 0 ends its life at the earliest opportunity, and a new bleakheart rises from its corpse 1d4 hours later. Otherwise, the Charisma reduction lasts until the target finishes a long rest.
-
-

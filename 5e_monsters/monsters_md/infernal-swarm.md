@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Infernal Swarm
+size: Huge
+type: Fiend
+alignment: lawful evil
+cr: 12
+xp: 8,400
+hp: 150
+hp_roll: 20d12+20
+ac: 16
+speed: hover True ft. walk 25 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 215
+---
+
 # Infernal Swarm
 
 *Huge* *Fiend* *lawful evil*
@@ -37,5 +56,3 @@ While in shapeless form, it can occupy another creature’s space and vice versa
 - **Poisonous Barb:** Ranged Weapon Attack: +8 to hit, range 30/120 ft., one target. Hit: 10 (2d6 + 3) piercing damage, and the target must make a DC 17 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one.
 - **Scimitar (Fiend Form Only):** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) slashing damage.
 - **Slam (Fiend Form Only):** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage, and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the infernal swarm can’t slam another target. In addition, at the start of each of the target’s turns, the target takes 14 (4d6) piercing damage.
-
-

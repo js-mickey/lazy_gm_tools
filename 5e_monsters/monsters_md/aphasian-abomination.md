@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aphasian Abomination
+size: Large
+type: Construct
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 170
+hp_roll: 20d10+60
+ac: 15
+speed: walk 0 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 39
+---
+
 # Aphasian Abomination
 
 *Large* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 
 - **Multiattack:** Three Force Blast attacks.
 - **Force Blast:** Melee or Ranged Spell Attack: +9 to hit 5 ft. or range 120' one target 23 (4d8+5) force.
-
-

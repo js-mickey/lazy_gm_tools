@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Matriarch Serpentine Lamia
+size: Large
+type: Monstrosity
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 15
+speed: climb 20 ft. swim 20 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 249
+---
+
 # Matriarch Serpentine Lamia
 
 *Large* *Monstrosity* *neutral evil*
@@ -33,5 +52,3 @@ At will: animal friendship (snakes only), disguise self (any humanoid form), sug
 - **Constrict:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 14). Until this grapple ends, the target is restrained, the matriarch can automatically hit the target with her constrict, and the she can't constrict another target.
 - **Debilitating Touch:** Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: The target is magically cursed for 10 minutes. Until the curse ends, the target has disadvantage on Dexterity and Strength saving throws and ability checks.
 - **Seduce:** One humanoid the matriarch serpentine lamia can see within 30 feet of her must succeed on a DC 15 Charisma saving throw or be magically charmed for 1 day. The charmed target obeys the matriarch's verbal commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect ends on it, the target is immune to the matriarch's Seduce for the next 24 hours. The matriarch can have only one target seduced at a time. If it seduces another, the effect on the previous target ends.
-
-

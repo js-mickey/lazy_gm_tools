@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lamassu
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 10
+xp: 5,900
+hp: 147
+hp_roll: 14d10+70
+ac: 17
+speed: fly 60 ft. walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 18
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 247
+---
+
 # Lamassu
 
 *Large* *Celestial* *lawful good*

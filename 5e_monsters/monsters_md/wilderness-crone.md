@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wilderness Crone
+size: Medium
+type: Fey
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 392
+---
+
 # Wilderness Crone
 
 *Medium* *Fey* *neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Transmigratory Strike:** When she kills a Humanoid can immediately restore it to life as a Beast with CR no higher the Humanoid’s CR or level. Otherwise works as reincarnate spell.
-
-

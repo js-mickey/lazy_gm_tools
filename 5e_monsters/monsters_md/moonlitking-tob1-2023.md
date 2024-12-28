@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moonlit King
+size: Medium
+type: Fey
+alignment: Neutral Good
+cr: 17
+xp: 18,000
+hp: 204
+hp_roll: 96
+ac: 17
+speed: walk 30 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 176
+---
+
 # Moonlit King
 
 *Medium* *Fey* *Neutral Good*

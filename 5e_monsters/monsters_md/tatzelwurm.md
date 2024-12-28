@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tatzelwurm
+size: Medium
+type: Dragon
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 16d8+48
+ac: 15
+speed: walk 40 ft. climb 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 366
+---
+
 # Tatzelwurm
 
 *Medium* *Dragon* *neutral evil*

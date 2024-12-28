@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crusher
+size: Large
+type: Construct
+alignment: 
+cr: 10
+xp: 5,900
+hp: 115
+hp_roll: 11d10+55
+ac: 20
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond that range) 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 53
+---
+
 # Crusher
 
 *Large* *Construct*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Overclock (Recharge 5-6):** The crusher takes the Dash action.
-
-

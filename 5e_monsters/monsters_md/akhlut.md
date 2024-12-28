@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Akhlut
+size: Large
+type: Beast
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 16d10+32
+ac: 14
+speed: walk 40 ft. swim 60 ft.
+senses: blindsight 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 0
+---
+
 # Akhlut
 
 *Large* *Beast* *unaligned*
@@ -29,5 +48,3 @@
 - **Multiattack:** The akhlut makes two attacks: one with its bite and one with its tail slam. It can’t make both attacks against the same target.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) piercing damage.
 - **Tail Slam:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22 (4d8 +4) bludgeoning damage.
-
-

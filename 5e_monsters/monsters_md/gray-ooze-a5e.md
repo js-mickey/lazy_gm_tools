@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gray Ooze
+size: Medium
+type: Ooze
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 3d8+9
+ac: 8
+speed: walk 15 ft. climb 15 ft. swim 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 352
+---
+
 # Gray Ooze
 
 *Medium* *Ooze*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Pseudopod:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 5 (2d4) acid damage. Nonmagical metal armor worn by the target corrodes  taking a permanent -1 penalty to its AC protection per hit. If the penalty reduces the armors AC protection to 10  the armor is destroyed.
-
-

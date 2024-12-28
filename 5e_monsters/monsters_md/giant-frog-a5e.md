@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Frog
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d8
+ac: 11
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 30 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 447
+---
+
 # Giant Frog
 
 *Medium* *Beast*
@@ -25,5 +44,3 @@
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) piercing damage and the target is grappled (escape DC 11). Until this grapple ends  the frog can't bite another target.
 - **Swallow:** The frog makes a bite attack against a Small or smaller creature it is grappling. If the attack hits and the frog has not swallowed another creature  the target is swallowed and the grapple ends. A swallowed creature has total cover from attacks from outside the frog  it is blinded and restrained  and it takes 5 (2d4) acid damage at the beginning of each of the frogs turns. If the frog dies  the target is no longer swallowed.
 - **Vaulting Leap:** The frog jumps up to 10 feet horizontally and 5 feet vertically. If its within 5 feet of a creature that it is not grappling at the end of this movement  it may make a bite attack against that creature with advantage.
-
-

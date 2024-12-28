@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nihileth
+size: Large
+type: Undead
+alignment: Chaotic Evil
+cr: 13
+xp: 10,000
+hp: 157
+hp_roll: 42
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 9
+---
+
 # Nihileth
 
 *Large* *Undead* *Chaotic Evil*

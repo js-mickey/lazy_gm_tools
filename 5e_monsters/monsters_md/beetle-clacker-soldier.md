@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Beetle, Clacker Soldier
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 18
+hp_roll: 4d6+4
+ac: 15
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 30 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 54
+---
+
 # Beetle, Clacker Soldier
 
 *Small* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 0 ft., one creature,. 11 (2d8+2) piercing damage.
 - **Clack:** Clacks its mandibles to create small but dangerous booming noise in 15 ft. cone. Each creature in area: 5 (2d4) thunder (DC 13 Con half). When multiple beetles clack in same turn and create overlapping cones each creature in overlapping cones makes one save with disadvantage vs. total damage from all overlapping cones rather than one save for each.
-
-

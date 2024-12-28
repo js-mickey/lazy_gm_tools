@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Queen of Night and Magic
+size: Medium
+type: Fey
+alignment: Neutral Evil
+cr: 21
+xp: 33,000
+hp: 225
+hp_roll: 90
+ac: 22
+speed: walk 60 ft. fly 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 21
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 178
+---
+
 # Queen of Night and Magic
 
 *Medium* *Fey* *Neutral Evil*

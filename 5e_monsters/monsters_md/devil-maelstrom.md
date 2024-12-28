@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devil, Maelstrom
+size: Large
+type: Fiend
+alignment: lawful evil
+cr: 12
+xp: 8,400
+hp: 195
+hp_roll: 26d10+52
+ac: 17
+speed: walk 30 ft. fly 40 ft. swim 120 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 122
+---
+
 # Devil, Maelstrom
 
 *Large* *Fiend* *lawful evil*
@@ -33,5 +52,3 @@
 - **Tempest Trident:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 16 (2d12+3) piercing damage + 7 (2d6) cold. A creature hit by this: knocked prone (DC 16 Str negates) by a gust of wind channeled through the trident.
 - **Lightning Ray:** Ranged Spell Attack: +8 to hit, 150 ft., one target, 18 (4d8) lightning.
 - **Crown of Water (1/Day):** The water on devil’s head erupts in a geyser. Each creature within 10 ft. of devil: 35 (10d6) cold (DC 16 Con half). For 1 min when a creature enters a space within 10 ft. of the devil for 1st time on a turn or starts its turn there that creature: DC 16 Con save or take 10 (3d6) cold.
-
-

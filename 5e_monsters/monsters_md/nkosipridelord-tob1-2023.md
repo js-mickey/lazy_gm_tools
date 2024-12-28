@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nkosi Pridelord
+size: Medium
+type: Humanoid
+alignment: Shapechanger
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 15
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 286
+---
+
 # Nkosi Pridelord
 
 *Medium* *Humanoid* *Shapechanger)*

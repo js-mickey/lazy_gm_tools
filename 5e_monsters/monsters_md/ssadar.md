@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ssadar
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 71
+hp_roll: 11d8+22
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 337
+---
+
 # Ssadar
 
 *Medium* *Humanoid* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) fire damage.
 - **Longsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 - **Spit Fire:** Ranged Weapon Attack: +4 to hit, range 60 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 2 (1d4) fire damage at the start of each of its turns.
-
-

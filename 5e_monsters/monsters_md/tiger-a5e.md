@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tiger
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 30
+hp_roll: 4d10+8
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 462
+---
+
 # Tiger
 
 *Large* *Beast*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Opportune Bite:** The tiger makes a bite attack against a prone creature.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Liosalfar
+size: Large
+type: Elemental
+alignment: Neutral
+cr: 10
+xp: 5,900
+hp: 132
+hp_roll: 24d10
+ac: 17
+speed: walk 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 256
+---
+
 # Liosalfar
 
 *Large* *Elemental* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Wolf Spirits
+size: Large
+type: Swarm
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 16
+ac: 16
+speed: walk 50 ft. fly 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 358
+---
+
 # Swarm of Wolf Spirits
 
 *Large* *Swarm* *Neutral Evil*

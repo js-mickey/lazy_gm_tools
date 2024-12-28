@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rimewing
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 5d6+5
+ac: 12
+speed: fly 30 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 178
+---
+
 # Rimewing
 
 *Small* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Proboscis:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Frosted Wings (1/Day):** A 20-foot radius cloud of colorful ice crystals extends from the rimewing. Each creature in that area must succeed on a DC 10 Wisdom saving throw or be charmed by the rimewing for 1 minute. While charmed by the rimewing, a creature is incapacitated and must move up to its speed toward the rimewing at the start of its turn, stopping when it is 5 feet away. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

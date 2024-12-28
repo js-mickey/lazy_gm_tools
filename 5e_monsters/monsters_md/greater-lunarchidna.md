@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Lunarchidna
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 58
+hp_roll: 9d8+18
+ac: 16
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 242
+---
+
 # Greater Lunarchidna
 
 *Medium* *Aberration* *neutral evil*
@@ -36,5 +55,3 @@ Cantrips (at will): minor illusion, mage hand, poison spray, ray of frost
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Web (Recharge 5–6):** Ranged Weapon Attack: +5 to hit, ranged 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action the restrained target can make a DC 13 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 - **Wrap Up:** The lunarchidna wraps up a Medium or smaller creature restrained by webbing. The wrapped target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of the lunarchidna’s turns or take 5 (1d4 + 3) bludgeoning damage. The webbing can be attacked and destroyed (AC 10; hp 15; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage). The lunarchidna can have only one creature wrapped at a time.
-
-

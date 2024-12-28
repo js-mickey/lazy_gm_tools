@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pyrrhic Podthrower
+size: Small
+type: Plant
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 127
+hp_roll: 17d6+68
+ac: 13
+speed: walk 20 ft. burrow 20 ft.
+senses: tremorsense 90 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 324
+---
+
 # Pyrrhic Podthrower
 
 *Small* *Plant* *unaligned*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Unstable Bulb:** When podthrower is grappled and removed from the ground while above 0 hp its bulb bursts. Each creature within 10 ft.: 12 (5d4) fire (DC 15 Dex half).
-
-

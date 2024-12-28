@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Elk
+size: Huge
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 42
+hp_roll: 5d12+10
+ac: 13
+speed: walk 60 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 446
+---
+
 # Giant Elk
 
 *Huge* *Beast*
@@ -23,5 +42,3 @@
 ### Bonus Actions
 
 - **Hooves:** Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 9 (2d4+4) bludgeoning damage.
-
-

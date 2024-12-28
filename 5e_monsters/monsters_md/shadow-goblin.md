@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Goblin
+size: Small
+type: Humanoid
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 13
+hp_roll: 3d6+3
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 326
+---
+
 # Shadow Goblin
 
 *Small* *Humanoid* *neutral evil*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Vengeful Jinx:** When the shadow goblin is hit by an attack from a creature it can see, it can curse the attacker. The attacker has disadvantage on attack rolls until the end of its next turn.
-
-

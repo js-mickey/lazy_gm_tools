@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Life Broker
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 13
+xp: 10,000
+hp: 190
+hp_roll: 20d8+100
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 261
+---
+
 # Life Broker
 
 *Medium* *Fey* *lawful neutral*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Quick-Footed:** Takes Dash Disengage or Dodge.
-
-

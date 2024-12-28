@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Oth
+size: Large
+type: Aberration
+alignment: lawful neutral
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d10+42
+ac: 15
+speed: climb 10 ft. walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 292
+---
+
 # Oth
 
 *Large* *Aberration* *lawful neutral*
@@ -35,5 +54,3 @@ Cantrip (at will): fire bolt (2d10), light, thaumaturgy _
 - **Greatsword (Paladin of Shoth Only):** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 17 (4d6 + 3) slashing damage.
 - **Merge:** A shoth who has less than half its maximum hp can merge with any other shoth creature within 10 feet, adding its remaining hp to that creature's. The hp gained this way can exceed the normal maximum of that creature. A shoth can accept one such merger every 24 hours.
 - **Spray (Recharge 6):** The oth sprays acid in a 30-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
-
-

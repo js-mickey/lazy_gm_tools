@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Fire Elemental
+size: Huge
+type: Elemental
+alignment: 
+cr: 9
+xp: 5,000
+hp: 127
+hp_roll: 15d12+30
+ac: 14
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 194
+---
+
 # Giant Fire Elemental
 
 *Huge* *Elemental*
@@ -31,5 +50,3 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 24 (4d8 + 4) fire damage  and the target suffers 5 (1d10) ongoing fire damage. A creature can use an action to end the ongoing damage.
 - **Wildfire (Recharge 4-6):** The elemental moves up to half its Speed without provoking opportunity attacks. It can enter the spaces of hostile creatures but not end this movement there. When a creature shares its space with the elemental for the first time during this movement  the creature is subject to the elementals Fiery Aura and the elemental can make a slam attack against that creature.
-
-

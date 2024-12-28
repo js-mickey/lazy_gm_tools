@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thread-Bound Constrictor Snake
+size: Huge
+type: Construct
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d12+8
+ac: 12
+speed: walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 353
+---
+
 # Thread-Bound Constrictor Snake
 
 *Huge* *Construct* *unaligned*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Constrict:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage and the creature is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
-
-

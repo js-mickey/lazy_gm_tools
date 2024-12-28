@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thin Giant
+size: Huge
+type: Giant
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 175
+---
+
 # Thin Giant
 
 *Huge* *Giant* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The thin giant makes three melee attacks, but it can use its Consuming Bite only once.
 - **Consuming Bite:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage. The target’s hp maximum is reduced by an amount equal to the necrotic damage taken, and the giant regains hp equal to that amount. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
-
-

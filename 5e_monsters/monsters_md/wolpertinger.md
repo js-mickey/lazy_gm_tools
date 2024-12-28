@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wolpertinger
+size: Tiny
+type: Monstrosity
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 9
+hp_roll: 2d4+4
+ac: 13
+speed: burrow 10 ft. fly 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 382
+---
+
 # Wolpertinger
 
 *Tiny* *Monstrosity* *unaligned*
@@ -27,5 +46,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Gore:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Keening (Recharge 6):** The wolpertinger emits a piercing shriek. Each creature within 30 feet that can hear the wolpertinger must succeed on a DC 13 Constitution saving throw or be deafened for 1 minute. A beast with an Intelligence of 4 or lower that is in the area must also succeed on a DC 13 Wisdom saving throw or be frightened until the beginning of its next turn.
-
-

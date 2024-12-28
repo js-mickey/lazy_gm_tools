@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Astral Devourer
+size: Medium
+type: Aberration
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: fly 30 ft. hover True ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 30
+---
+
 # Astral Devourer
 
 *Medium* *Aberration* *chaotic evil*
@@ -36,5 +55,3 @@
 
 - **Divide:** When an astral devourer that is Small or larger takes bludgeoning, piercing, or slashing damage, it can split into two new astral devourers if it has at least 10 hp. Each new devourer has hp equal to half the original creature, rounded down. New astral devourers are one size smaller than the original. While within 1 mile of each other, the new astral devourers share one collective mind.
 - **Recombine:** When one or more astral devourers that are Small or smaller and share a collective mind are within 5 feet of each other, they can combine into a new astral devourer. The new astral devourer is one size larger than the largest original creature, and it has hp equal to the combined total of the original creatures. The new astral devourer’s hp can’t exceed the normal hp maximum of a Medium astral devourer.
-
-

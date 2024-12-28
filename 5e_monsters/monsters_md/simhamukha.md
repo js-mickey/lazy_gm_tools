@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Simhamukha
+size: Huge
+type: Celestial
+alignment: chaotic good
+cr: 8
+xp: 3,900
+hp: 115
+hp_roll: 11d12+44
+ac: 16
+speed: walk 50 ft.
+senses: truesight 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 70
+---
+
 # Simhamukha
 
 *Huge* *Celestial* *chaotic good*
@@ -36,5 +55,3 @@ At will: aid, guidance, spiritual weapon
 - **Kartika:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) slashing damage.
 - **Staff Sweep (Recharge 5-6):** Each creature within 15 feet of the simhamukha must succeed on a DC 16 Strength saving throw. On a failure, a creature takes 13 (3d8) bludgeoning damage and is knocked prone. On a success, it takes half the damage and isn't knocked prone.
 - **Weird (Recharge 6):** The simhamukha draws upon the deepest fears and regrets of the creatures around it, creating illusions visible only to them. Each creature within 40 feet of the simhamukha, must succeed on a DC 15 Charisma saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, taking 11 (2d10) psychic damage on a failure or ending the effect on itself on a success.
-
-

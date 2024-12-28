@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Doom Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 153
+hp_roll: 18d10+54
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Doom Golem
 
 *Large* *Construct* *unaligned*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Doom Upon You:** When a creature the doom golem can see within 60 feet of it hits it with a spell or attack that requires a ranged attack roll, the doom golem strikes the attacker with a doom bolt. The doom bolt is a shadowy reflection of the original attack, using the same attack roll and effects as the original, except it deals necrotic damage.
-
-

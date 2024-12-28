@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wind Witch
+size: Large
+type: Plant
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d8+12
+ac: 13
+speed: walk 30 ft. fly 60 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 393
+---
+
 # Wind Witch
 
 *Large* *Plant* *chaotic evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Bouncy Escape:** When it takes damage from a melee attack can move up to half its fly speed. This move doesn’t provoke opportunity attacks. It releases a captured creature when it uses this.
-
-

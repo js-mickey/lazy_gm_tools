@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Earth Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 17
+speed: walk 30 ft. fly 30 ft. burrow 40 ft.
+senses: darkvision 120 ft. tremorsense 30 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 128
+---
+
 # Earth Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Scouring Breath (Recharge 5-6):** The dragon breathes scouring sand and stones in a 15-foot cone. Each creature in that area makes a DC 12 Dexterity saving throw  taking 10 (3d6) slashing damage on a failed save or half damage on a success.
-
-

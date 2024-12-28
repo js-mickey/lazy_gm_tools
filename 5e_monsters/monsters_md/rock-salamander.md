@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rock Salamander
+size: Tiny
+type: Elemental
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d4+12
+ac: 13
+speed: walk 20 ft. burrow 20 ft. climb 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 333
+---
+
 # Rock Salamander
 
 *Tiny* *Elemental* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) piercing damage.
 - **Manipulate Stone:** If it is touching stone it can manipulate stone contiguous with its location to create one of the following:Rumbling Earth: One creature touching stone within 10 ft. of salamander is knocked prone (DC 12 Dex negates).Softened Earth One creature touching stone within 10 ft. of salamander is restrained by softened mud-like stone until the end of its next turn (DC 12 Str negates).Stone Armor Salamander’s AC +2 until start of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Idolic Deity
+size: Small
+type: Construct
+alignment: Neutral Evil
+cr: 8
+xp: 3,900
+hp: 105
+hp_roll: 56
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 239
+---
+
 # Idolic Deity
 
 *Small* *Construct* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Eonic Savant
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 115
+hp_roll: 16d8+51
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 137
+---
+
 # Eonic Savant
 
 *Medium* *Humanoid* *neutral*
@@ -36,5 +55,3 @@
 
 - **Multiattack:** The eonic savant makes three melee attacks.
 - **Time Warping Staff:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 7 (2d6) force damage.
-
-

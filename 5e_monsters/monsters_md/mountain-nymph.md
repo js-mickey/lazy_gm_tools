@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Nymph
+size: Medium
+type: Fey
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d8+45
+ac: 15
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 261
+---
+
 # Mountain Nymph
 
 *Medium* *Fey* *chaotic neutral*
@@ -31,5 +50,3 @@ At will: hunter’s mark
 
 - **Multiattack:** The mountain nymph makes three longbow attacks.
 - **Longbow:** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
-
-

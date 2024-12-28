@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zeitgeist
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 82
+hp_roll: 11d8+33
+ac: 14
+speed: walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 383
+---
+
 # Zeitgeist
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Rewind (Recharge 4-6):** When the zeitgeist takes damage or when it starts its turn afflicted with a condition, it can rewind time around it, preventing the damage or undoing the condition. It can use this reaction even while paralyzed or stunned.
-
-

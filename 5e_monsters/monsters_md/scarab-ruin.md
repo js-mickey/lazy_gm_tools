@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scarab, Ruin
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 136
+hp_roll: 16d10+48
+ac: 15
+speed: walk 30 ft. bur. 15 ft. climb 15 ft. fly 15 ft.
+senses: blindsight 90 ft. (blind beyond) 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 337
+---
+
 # Scarab, Ruin
 
 *Large* *Undead* *neutral evil*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Relentless Pursuit:** When a creature within 10 ft. of the scarab moves away from it scarab can move up to half its speed toward that creature.
-
-

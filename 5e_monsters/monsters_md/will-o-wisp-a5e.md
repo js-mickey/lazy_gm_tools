@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Will-o-Wisp
+size: Small
+type: Undead
+alignment: 
+cr: 2
+xp: 450
+hp: 28
+hp_roll: 8d6
+ac: 17
+speed: walk 0 ft. fly 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 425
+---
+
 # Will-o-Wisp
 
 *Small* *Undead*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Illumination:** The will-o-wisp alters the radius of its glow (shedding bright light in a 5- to 20-foot radius and dim light for the same number of feet beyond that radius), changes the color of its glow, or extinguishes its glow (making it invisible).
-
-

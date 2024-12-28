@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sootwing
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d6+3
+ac: 11
+speed: fly 30 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 179
+---
+
 # Sootwing
 
 *Small* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Proboscis:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Sooty Wings (1/Day):** A 20-foot radius cloud of smoldering ash disperses from the sootwing. Each creature in that area must make a DC 11 Constitution saving throw. On a failure, a creature takes 4 (1d8) fire damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn't blinded.
-
-

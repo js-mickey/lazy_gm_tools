@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Flea
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 27
+hp_roll: +10
+ac: 14
+speed: walk 30 ft. climb 20 ft.
+senses: blindsight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 197
+---
+
 # Giant Flea
 
 *Small* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Leaping Escape:** Leaps up to 15 ft. with o provoking opportunity attacks.
-
-

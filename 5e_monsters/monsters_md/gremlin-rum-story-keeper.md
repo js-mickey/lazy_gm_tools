@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gremlin, Rum Story Keeper
+size: Tiny
+type: Fey
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 38
+hp_roll: 7d4+21
+ac: 13
+speed: walk 20 ft. climb 10 ft. swim 10 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 220
+---
+
 # Gremlin, Rum Story Keeper
 
 *Tiny* *Fey* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Rum Splash:** Ranged Weapon Attack: +5 to hit 40/80' one target 7 (2d6) poison.
 - **Drinking Stories:** Tells a story of a rum gremlin celebration. Each has initial and additional effect if it takes bonus action on subsequent turns to continue. Can stop any time; story ends if it is incapacitated. Can tell only one story at a time. Chooses among:Tale of Liquid Courage Rum gremlins within 30' of keeper and hear it: +5 temp hp 1 min. While tale continues each rum gremlin that starts turn within 30' of keeper: advantage saves vs. frightened.Tale of the Bar Room Rush Each rum gremlin within 30' of keeper and can hear it can use its reaction to immediately move up to its speed. While tale continues each rum gremlin within 30' of keeper can take Dash or Disengage action as a bonus action on its turn.Tale of the Great Shindig Each rum gremlin within 30' of keeper and can hear it can use its reaction to immediately shove a Med or smaller creature. While tale continues each rum gremlin within 30' of keeper has advantage on Str (Athletics) checks and can shove creatures up to two sizes larger than it.
 - **Spellcasting:** Cha (DC 13) no material components: At will: prestidigitation3/day ea: charm person mirror image
-
-

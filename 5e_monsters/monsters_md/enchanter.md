@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Enchanter
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 7
+xp: 2,900
+hp: 58
+hp_roll: 13d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 143
+---
+
 # Enchanter
 
 *Medium* *Humanoid* *any alignment*
@@ -40,5 +59,3 @@ Enchantment spell of 1st level or higher
 ### Reactions
 
 - **Beguiling Parry (Recharge 4-6):** When a creature within 30 feet that the enchanter can see targets it with an attack, the enchanter can stop the attacker with a glance. The attacker must succeed on a DC 15 Charisma saving throw or immediately stop the attack. The attacker can't attack the enchanter again until the start of its next turn.
-
-

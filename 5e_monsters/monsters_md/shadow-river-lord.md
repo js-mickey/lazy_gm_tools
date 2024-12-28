@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow River Lord
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 135
+hp_roll: 18d8+54
+ac: 16
+speed: swim 60 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 327
+---
+
 # Shadow River Lord
 
 *Medium* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 - **Greenfire Staff:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 - **Shadowfrost Bolt:** Ranged Spell Attack: +8 to hit, range 150 ft., one target. Hit: 9 (2d8) necrotic damage plus 7 (2d6) cold damage.
 - **Shadow Geyser (Recharge 6):** The shadow river lord expels a geyser of shadowy water from its staff in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 21 (6d6) necrotic damage and 21 (6d6) cold damage on a failed save, or half as much damage on a successful one.
-
-

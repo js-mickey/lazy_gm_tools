@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alchemist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 91
+hp_roll: 14d8+28
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 466
+---
+
 # Alchemist
 
 *Medium* *Humanoid*
@@ -43,5 +62,3 @@
 
 - **Desperate Drink (1/Day:** When the alchemist is dealt damage, they drink a potion.
 - **Alchemists brew concoctions with potent magical and chemical properties:** Some alchemists perform dangerous experiments to perfect new alchemical recipes, while others fabricate guardians and other constructs in pursuit of the creation of life itself.
-
-

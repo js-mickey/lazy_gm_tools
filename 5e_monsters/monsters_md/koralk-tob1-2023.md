@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Koralk
+size: Large
+type: Fiend
+alignment: Lawful Evil
+cr: 11
+xp: 7,200
+hp: 136
+hp_roll: 48
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 97
+---
+
 # Koralk
 
 *Large* *Fiend* *Lawful Evil*

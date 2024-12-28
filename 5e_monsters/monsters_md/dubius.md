@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dubius
+size: Small
+type: Fiend
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d6+8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 162
+---
+
 # Dubius
 
 *Small* *Fiend* *neutral evil*
@@ -32,5 +51,3 @@
 
 - **Hesitation:** When a creature the dubius can see attacks it dubius can force creature to roll d6 subtracting result from attack. If this causes attack to miss attacker is stunned until start of dubius’s next turn.
 - **Self-Pity:** If a creature dubius can see within 30' of it regains hp dubius regains hp equal to half that amount.
-
-

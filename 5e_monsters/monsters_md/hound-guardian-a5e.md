@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hound Guardian
+size: Medium
+type: Construct
+alignment: 
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 262
+---
+
 # Hound Guardian
 
 *Medium* *Construct*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Protective Bite:** When a creature within 5 feet hits the guardians owner with a melee attack, the guardian bites the attacker.
-
-

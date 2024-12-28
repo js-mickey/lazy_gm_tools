@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ushabti Royal Guard
+size: Large
+type: Construct
+alignment: Unaligned
+cr: 14
+xp: 11,500
+hp: 168
+hp_roll: 80
+ac: 19
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 377
+---
+
 # Ushabti Royal Guard
 
 *Large* *Construct* *Unaligned*

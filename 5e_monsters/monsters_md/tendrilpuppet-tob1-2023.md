@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tendril Puppet
+size: Medium
+type: Plant
+alignment: Lawful Neutral
+cr: 2
+xp: 450
+hp: 51
+hp_roll: 24
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 389
+---
+
 # Tendril Puppet
 
 *Medium* *Plant* *Lawful Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Void Dragon
+size: Gargantuan
+type: Dragon
+alignment: Chaotic Neutral
+cr: 24
+xp: 62,000
+hp: 429
+hp_roll: 198
+ac: 22
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 26
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 128
+---
+
 # Ancient Void Dragon
 
 *Gargantuan* *Dragon* *Chaotic Neutral*

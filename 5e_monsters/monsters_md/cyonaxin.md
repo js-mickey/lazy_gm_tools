@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cyonaxin
+size: Medium
+type: Celestial
+alignment: chaotic good
+cr: 8
+xp: 3,900
+hp: 117
+hp_roll: 18d8+36
+ac: 16
+speed: walk 50 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 102
+---
+
 # Cyonaxin
 
 *Medium* *Celestial* *chaotic good*
@@ -41,5 +60,3 @@
 ### Bonus Actions
 
 - **Free Runner:** Can take the Dash action.
-
-

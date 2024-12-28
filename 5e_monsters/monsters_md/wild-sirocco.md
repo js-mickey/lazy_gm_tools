@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wild Sirocco
+size: Large
+type: Elemental
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d10+28
+ac: 13
+speed: walk 0 ft. fly 80 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 391
+---
+
 # Wild Sirocco
 
 *Large* *Elemental* *neutral*
@@ -31,5 +50,3 @@
 - **Multiattack:** Two Fiery Wallop attacks.
 - **Fiery Wallop:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage + 7 (2d6) fire.
 - **Scorching Winds (Recharge 5–6):** Whips up scorching winds around it. Each creature within 10 ft. of it: 21 (6d6) fire ignites and is thrown up to 20' in random direction and knocked prone (DC 15 Str negates). If thrown creature strikes solid surface creature takes 3 (1d6) bludgeoning damage per 10 ft. it was thrown. If thrown at another creature that creature must make DC 15 Dex save or take same damage and be knocked prone. Until creature uses action to douse fire ignited creature takes 3 (1d6) fire at start of each of its turns.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Edimmu
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 30
+ac: 15
+speed: walk 60 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 154
+---
+
 # Edimmu
 
 *Medium* *Undead* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Sapphire Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 19
+xp: 22,000
+hp: 304
+hp_roll: 29d12+116
+ac: 19
+speed: walk 40 ft. burrow 30 ft. fly 80 ft.
+senses: darkvision 120 ft. 
+passive_perception: 24
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 150
+---
+
 # Adult Sapphire Dragon
 
 *Huge* *Dragon*

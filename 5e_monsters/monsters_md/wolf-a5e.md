@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wolf
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 463
+---
+
 # Wolf
 
 *Medium* *Beast*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) piercing damage. If the target is a creature  it makes a DC 12 Strength saving throw  falling prone on a failure.
-
-

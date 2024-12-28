@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swampgas Shade
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 13
+speed: walk 0 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 359
+---
+
 # Swampgas Shade
 
 *Medium* *Undead* *neutral evil*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Swampland Stealth:** Takes the Hide action. It must be in swampy terrain to use this bonus action.
-
-

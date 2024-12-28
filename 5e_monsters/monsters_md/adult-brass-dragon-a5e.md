@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Brass Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 16
+xp: 15,000
+hp: 161
+hp_roll: 14d12+70
+ac: 18
+speed: walk 40 ft. burrow 30 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 156
+---
+
 # Adult Brass Dragon
 
 *Huge* *Dragon*

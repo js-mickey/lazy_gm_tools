@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troglodyte
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 11
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 410
+---
+
 # Troglodyte
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) piercing damage  and the target makes a DC 12 Constitution saving throw. On a failure  it is infected with Troglodyte Stench.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Dart:** Melee Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
-
-

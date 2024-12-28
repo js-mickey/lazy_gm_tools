@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Copperkill Slime
+size: Huge
+type: Ooze
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 15d12+45
+ac: 10
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 94
+---
+
 # Copperkill Slime
 
 *Huge* *Ooze* *unaligned*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Stretch Body:** Stretches its body across surface of a Gargantuan or smaller object or across surface of a wall pillar or similar structure no larger than a 20' square within 5 ft. of it sharing the space of the object or structure. Slime can end the stretch as a bonus action occupying nearest unoccupied space to the object or structure.
-
-

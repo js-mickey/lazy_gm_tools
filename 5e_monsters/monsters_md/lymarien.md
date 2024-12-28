@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lymarien
+size: Tiny
+type: Fey
+alignment: neutral good
+cr: 1/8
+xp: 25
+hp: 5
+hp_roll: 2d4
+ac: 13
+speed: walk 5 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 248
+---
+
 # Lymarien
 
 *Tiny* *Fey* *neutral good*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
-
-

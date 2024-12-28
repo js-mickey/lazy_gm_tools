@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Hound
+size: Medium
+type: Construct
+alignment: Unaligned
+cr: 2
+xp: 450
+hp: 71
+hp_roll: 22
+ac: 12
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 61
+---
+
 # Clockwork Hound
 
 *Medium* *Construct* *Unaligned*

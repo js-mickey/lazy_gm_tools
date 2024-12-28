@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ooze, Scintillating
+size: Large
+type: Ooze
+alignment: neutral
+cr: 12
+xp: 8,400
+hp: 165
+hp_roll: 22d8+66
+ac: 15
+speed: walk 30 ft. climb 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 307
+---
+
 # Ooze, Scintillating
 
 *Large* *Ooze* *neutral*

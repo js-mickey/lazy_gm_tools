@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Berstuc
+size: Large
+type: Fiend
+alignment: Chaotic Evil
+cr: 11
+xp: 7,200
+hp: 157
+hp_roll: 75
+ac: 18
+speed: walk 20 ft. burrow 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 83
+---
+
 # Berstuc
 
 *Large* *Fiend* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Catscratch
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 8d12+24
+ac: 13
+speed: climb 15 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 58
+---
+
 # Catscratch
 
 *Huge* *Aberration* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. A felid or feline humanoid that fails this saving throw contracts catscratch fugue.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage.
 - **Vomit (Recharge 5-6):** The catscratch vomits poisonous bile in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 10 (3d6) poison damage on a failed save or half as much damage on a successful one. A felid or feline humanoid that fails this saving throw contracts catscratch fugue.
-
-

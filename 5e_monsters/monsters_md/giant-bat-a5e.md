@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Bat
+size: Large
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 16
+hp_roll: 3d10
+ac: 13
+speed: walk 10 ft. fly 60 ft.
+senses: blindsight 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 445
+---
+
 # Giant Bat
 
 *Large* *Beast*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) piercing damage.
-
-

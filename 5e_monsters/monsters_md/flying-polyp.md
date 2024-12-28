@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flying Polyp
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 171
+hp_roll: 18d12+54
+ac: 17
+speed: fly 60 ft. hover True ft. walk 0 ft.
+senses: blindsight 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 162
+---
+
 # Flying Polyp
 
 *Huge* *Aberration* *chaotic evil*
@@ -41,5 +60,3 @@ At will: invisibility (self only)
 ### Reactions
 
 - **Fist of Wind:** When a creature the flying polyp can see targets it with an attack, the flying polyp can unleash a line of strong wind 60 feet long and 10 feet wide in the direction of the attacker. The wind lasts until the start of the flying polyp's next turn. Each creature in the wind when it appears or that starts its turn in the wind must succeed on a DC 17 Strength saving throw or be pushed 15 feet away from the flying polyp in a direction following the line. Any creature in the line treats all movement as difficult terrain.
-
-

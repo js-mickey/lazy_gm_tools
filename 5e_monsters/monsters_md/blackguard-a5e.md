@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blackguard
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 11d8+33
+ac: 18
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 475
+---
+
 # Blackguard
 
 *Medium* *Humanoid*
@@ -29,5 +48,3 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +4 to hit  range 100/400 ft.  one target. Hit: 6 (1d10 + 1) piercing damage plus 10 (3d6) poison damage.
 - **Vile Curse (1/Day):** The knight utters hellish words that scald the soul. Living creatures of the knights choice within 30 feet that can hear and understand them are magically cursed for 1 minute. A d4 is subtracted from attack rolls and saving throws made by a cursed creature. A creature immune to the frightened condition is immune to this curse.
 - **Blackguards rule baronies and command undead and other sinister forces:** Some are forsworn holy knights  while others are armored brutes who serve supernatural villains.
-
-

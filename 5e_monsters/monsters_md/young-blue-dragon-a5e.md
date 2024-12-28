@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Blue Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 152
+hp_roll: 16d10+64
+ac: 18
+speed: walk 40 ft. burrow 20 ft. fly 80 ft. swim 20 ft.
+senses: blindsight 30 ft. tremorsense 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 108
+---
+
 # Young Blue Dragon
 
 *Large* *Dragon*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 21 (3d10 + 5) piercing damage plus 4 (1d8) lightning damage.
 - **Claw:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales a 60-foot-long  5-foot-wide line of lightning. Each creature in that area makes a DC 16 Dexterity saving throw  taking 44 (8d10) lightning damage on a failed save or half damage on a success. A creature that fails the save can't take reactions until the end of its next turn.
-
-

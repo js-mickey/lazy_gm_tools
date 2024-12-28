@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Red Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 11
+xp: 7,200
+hp: 178
+hp_roll: 17d10+85
+ac: 18
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 119
+---
+
 # Young Red Dragon
 
 *Large* *Dragon*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +10 to hit  reach 10 ft.  one target. Hit: 22 (3d10 + 6) piercing damage plus 4 (1d8) fire damage.
 - **Claw:** Melee Weapon Attack: +10 to hit  reach 5 ft.  one target. Hit: 15 (2d8 + 6) slashing damage.
 - **Fire Breath (Recharge 5-6):** The dragon exhales a blast of fire that fills a 30-foot cone. Each creature in that area makes a DC 17 Dexterity saving throw  taking 52 (15d6) fire damage on a failed save or half damage on a success. A creature that fails the saving throw also takes 5 (1d10) ongoing fire damage. While affected by this ongoing damage  it is frightened of the dragon. A creature can use an action to end the ongoing damage.
-
-

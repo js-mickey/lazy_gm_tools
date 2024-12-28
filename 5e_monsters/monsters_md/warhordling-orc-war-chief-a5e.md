@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Warhordling Orc War Chief
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 497
+---
+
 # Warhordling Orc War Chief
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 - **Aggressive Charge:** The war chief moves up to their Speed towards an enemy they can see or hear.
 - **Whirling Axe:** The war chief attacks with their greataxe.
 - **The generals and elite fighters of a war horde hew through the front lines of battle with broad-bladed axes:** The statistics of a warhordling orc war chief can also be used to represent the leaders of a war horde composed of humans or other heritages.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snatch Bat
+size: Medium
+type: Aberration
+alignment: chaotic neutral
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 15d8+30
+ac: 16
+speed: walk 20 ft. fly 40 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 349
+---
+
 # Snatch Bat
 
 *Medium* *Aberration* *chaotic neutral*
@@ -28,5 +47,3 @@
 - **Multiattack:** Three Claw attacks or two Claw attacks and one Pilfering Bite attack.
 - **Claw:** Melee Weapon Attack: +8 to hit 5.' one target 12 (2d6+5) slashing damage.
 - **Pilfering Bite:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 10 (2d4+5) piercing damage. Instead of dealing damage the snatch bat can steal one item the target is wearing or carrying provided the item weighs no more than 10 pounds isn’t a weapon and isn’t wrapped around or firmly attached to the target. Ex: snatch bat could steal a hat or belt pouch but not a creature’s shirt or armor. Bat holds stolen item in its long neck-arm and must regurgitate that item (no action required) before it can make another Pilfering Bite.
-
-

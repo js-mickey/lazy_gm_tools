@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Demon, Vetala
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 114
+hp_roll: 12d8+60
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 112
+---
+
 # Demon, Vetala
 
 *Medium* *Fiend* *chaotic evil*
@@ -41,5 +60,3 @@
 ### Reactions
 
 - **Corpse Detonation:** When Undead under its control is reduced to 0 hp vetala can force it to explode. Each creature that isn’t Undead or vetala within 5 ft. of exploding Undead: 10 (3d6) bludgeoning damage (if zombie) or slashing (if skeleton) damage and 5 (2d4) poison (DC 15 Dex half).
-
-

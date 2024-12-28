@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Emerald Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 133
+hp_roll: 14d12+42
+ac: 17
+speed: walk 40 ft. burrow 20 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 146
+---
+
 # Young Emerald Dragon
 
 *Large* *Dragon*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) thunder damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Maddening Breath (Recharge 5-6):** The dragon screams  stripping flesh from bone in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 44 (8d10) thunder damage on a failed save or half damage on a success.
-
-

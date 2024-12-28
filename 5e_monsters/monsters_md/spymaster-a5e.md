@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spymaster
+size: Medium
+type: Humanoid
+alignment: 
+cr: 7
+xp: 2,900
+hp: 97
+hp_roll: 15d8+30
+ac: 16
+speed: walk 35 ft.
+senses: blindsight 10 ft. darkvision 30 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 468
+---
+
 # Spymaster
 
 *Medium* *Humanoid*
@@ -36,5 +55,3 @@
 - **Don Disguise:** The spymaster uses a disguise kit, making a Deception check to create the disguise. While the spymaster is wearing a disguise, their true identity can't be determined even if the disguise fails.
 - **Study Adversary:** The spymaster studies the defenses of a creature engaged in combat. The spymaster gains advantage on all attacks and contested ability checks against that creature for 24 hours or until they study a different creature.
 - **Dashing secret agents:** 
-
-

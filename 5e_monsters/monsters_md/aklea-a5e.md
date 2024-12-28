@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aklea
+size: Gargantuan
+type: Celestial
+alignment: 
+cr: 22
+xp: 41,000
+hp: 656
+hp_roll: 32d20+320
+ac: 21
+speed: walk 60 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 405
+---
+
 # Aklea
 
 *Gargantuan* *Celestial*

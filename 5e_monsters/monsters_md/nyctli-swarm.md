@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nyctli Swarm
+size: Large
+type: Fey
+alignment: chaotic evil
+cr: 10
+xp: 5,900
+hp: 110
+hp_roll: 20d10
+ac: 14
+speed: fly 40 ft. hover True ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 271
+---
+
 # Nyctli Swarm
 
 *Large* *Fey* *chaotic evil*
@@ -27,5 +46,3 @@
 
 - **Stingers:** Melee Weapon Attack: +8 to hit, reach 0 ft., one target in the swarm’s space. Hit: 21 (6d6) piercing damage, or 10 (3d6) piercing damage if the swarm has half of its hp or fewer. The target must make a DC 16 Constitution saving throw. On a failure, a creature takes 42 (12d6) necrotic damage and is blinded for 1 minute. On a success, a creature takes half the damage and isn’t blinded. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Douse Light:** As the nyctli, except the swarm can’t dispel light created by a spell of 6th level or higher.
-
-

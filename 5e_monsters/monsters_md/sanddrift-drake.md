@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sanddrift Drake
+size: Large
+type: Dragon
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 102
+hp_roll: 12d10+36
+ac: 16
+speed: climb 20 ft. walk 40 ft. burrow 40 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 127
+---
+
 # Sanddrift Drake
 
 *Large* *Dragon* *neutral*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 15 Constitution saving throw or its speed is halved for 1 minute. If the target’s speed is already halved and it fails the saving throw, it is paralyzed for 1 minute instead. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Heatwave Breath (Recharge 6):** The drake exhales superheated air in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it suffers one level of exhaustion.
-
-

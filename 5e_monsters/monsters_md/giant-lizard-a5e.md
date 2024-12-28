@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Lizard
+size: Large
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 19
+hp_roll: 3d10+3
+ac: 12
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 30 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 448
+---
+
 # Giant Lizard
 
 *Large* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4+2) piercing damage.
-
-

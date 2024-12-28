@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Wind Dragon
+size: Large
+type: Dragon
+alignment: Chaotic Neutral
+cr: 6
+xp: 2,300
+hp: 123
+hp_roll: 52
+ac: 16
+speed: walk 90 ft. fly 30 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 135
+---
+
 # Young Wind Dragon
 
 *Large* *Dragon* *Chaotic Neutral*

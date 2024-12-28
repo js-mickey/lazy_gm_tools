@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shroud
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 1/8
+xp: 25
+hp: 13
+hp_roll: 3d8
+ac: 11
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 327
+---
+
 # Shroud
 
 *Medium* *Undead* *Neutral Evil*

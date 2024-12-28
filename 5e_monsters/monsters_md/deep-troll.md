@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep Troll
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 63
+hp_roll: 6d10+30
+ac: 15
+speed: walk 30 ft. burrow 20 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 352
+---
+
 # Deep Troll
 
 *Large* *Giant* *chaotic evil*
@@ -27,5 +46,3 @@
 - **Multiattack:** The deep troll makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
-
-

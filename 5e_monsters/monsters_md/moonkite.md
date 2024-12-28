@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moonkite
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d10+33
+ac: 15
+speed: fly 120 ft. hover True ft. walk 0 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 260
+---
+
 # Moonkite
 
 *Large* *Celestial* *lawful good*
@@ -33,5 +52,3 @@
 - **Radiant Arrow:** Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) radiant damage.
 - **Wing Buffet:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. If the moonkite scores a critical hit, the target must succeed on a DC 15 Constitution saving throw or be blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Planar Traveler:** The moonkite can transport itself to a different plane of existence. This works like the plane shift spell, except the moonkite can affect only itself and a willing rider, and can’t banish an unwilling creature to another plane.
-
-

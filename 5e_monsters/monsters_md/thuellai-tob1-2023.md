@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thuellai
+size: Huge
+type: Elemental
+alignment: Chaotic Neutral
+cr: 12
+xp: 8,400
+hp: 161
+hp_roll: 70
+ac: 17
+speed: walk 100 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 360
+---
+
 # Thuellai
 
 *Huge* *Elemental* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Compsognathus
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 10
+hp_roll: 3d4+3
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 108
+---
+
 # Compsognathus
 
 *Tiny* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
-

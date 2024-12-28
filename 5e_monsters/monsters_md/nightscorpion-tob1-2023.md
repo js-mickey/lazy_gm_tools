@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Night Scorpion
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 90
+hp_roll: 24
+ac: 14
+speed: walk 40 ft.
+senses: blindsight 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 320
+---
+
 # Night Scorpion
 
 *Large* *Beast* *Unaligned*

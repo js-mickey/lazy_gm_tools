@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mortifera
+size: Large
+type: Aberration
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 135
+hp_roll: 18d10+36
+ac: 16
+speed: walk 30 ft. swim 30 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 278
+---
+
 # Mortifera
 
 *Large* *Aberration* *chaotic neutral*
@@ -31,5 +50,3 @@
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 10 (1d12+4) bludgeoning damage.
 - **Chomp:** One creature grappled by mortifera is pulled up to 5 ft. to mortifera’s central maw which chomps on creature. Target: 10 (3d6) piercing damage and 13 (3d8) poison (DC 15 Str half).
 - **Poison Spray (Recharge 5–6):** Sprays poison from its central maw in a 30' cone. Each creature in that area: 27 (6d8) poison (DC 15 Dex half).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Terror Bird
+size: Large
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 65
+hp_roll: 10d8+20
+ac: 12
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 352
+---
+
 # Terror Bird
 
 *Large* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Serrated Beak:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) slashing damage. The target must succeed on a DC 12 Constitution saving throw or take 7 (2d6) slashing damage at the beginning of its next turn.
-
-

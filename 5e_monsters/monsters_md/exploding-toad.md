@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Exploding Toad
+size: Tiny
+type: Monstrosity
+alignment: chaotic evil
+cr: 1/4
+xp: 50
+hp: 2
+hp_roll: 1d4
+ac: 12
+speed: swim 20 ft. walk 20 ft.
+senses: darkvision 30 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 150
+---
+
 # Exploding Toad
 
 *Tiny* *Monstrosity* *chaotic evil*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Death Leap:** The exploding toad can turn an attack that missed it into a hit or turn a successful saving throw into a failure.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ophidiotaur
+size: Large
+type: Monstrosity
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 10d10+40
+ac: 16
+speed: swim 30 ft. walk 50 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 282
+---
+
 # Ophidiotaur
 
 *Large* *Monstrosity* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 4) piercing damage plus 3 (1d6) poison damage. The target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Poisoned Glaive:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage plus 3 (1d6) poison damage.
 - **Call Serpents (1/Day):** The ophidiotaur magically calls 1d6 poisonous snakes or flying snakes (ophidiotaur’s choice). The called creatures arrive in 1d4 rounds, acting as allies of the ophidiotaur and obeying its spoken commands. The snakes remain for 1 hour, until the ophidiotaur dies, or until the ophidiotaur dismisses them as a bonus action.
-
-

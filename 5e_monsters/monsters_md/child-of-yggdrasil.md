@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Child of Yggdrasil
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d10+30
+ac: 14
+speed: climb 20 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 61
+---
+
 # Child of Yggdrasil
 
 *Large* *Aberration* *neutral evil*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The child of Yggdrasil makes three claw attacks.
 - **Claw:** Melee Weapon Attack. +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) slashing damage plus 7 (2d6) acid damage.
-
-

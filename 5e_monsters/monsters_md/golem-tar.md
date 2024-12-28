@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Golem, Tar
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 119
+hp_roll: 14d8+56
+ac: 14
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 218
+---
+
 # Golem, Tar
 
 *Medium* *Construct* *unaligned*
@@ -39,5 +58,3 @@
 
 - **Quench (Burning Only):** Puts out fire on it deactivating Fire Hazard.
 - **Draw Flames:** Extinguishes up to 10 ft. cube of nonmagical fire within 5 ft. of it drawing fire into itself and activating its Fire Hazard.
-
-

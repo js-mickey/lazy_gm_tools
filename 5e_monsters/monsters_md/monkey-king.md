@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Monkey King
+size: Medium
+type: Celestial
+alignment: neutral
+cr: 21
+xp: 33,000
+hp: 262
+hp_roll: 25d8+150
+ac: 21
+speed: fly 60 ft. walk 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 22
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 337
+---
+
 # Monkey King
 
 *Medium* *Celestial* *neutral*

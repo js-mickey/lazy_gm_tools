@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Oaken Sentinel
+size: Huge
+type: Plant
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 189
+hp_roll: 18d12+72
+ac: 16
+speed: walk 10 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 293
+---
+
 # Oaken Sentinel
 
 *Huge* *Plant* *unaligned*
@@ -30,5 +49,3 @@
 - **Grasping Branch:** Melee Weapon Attack: +10 to hit, 50 ft., one target, 19 (3d8+6) bludgeoning damage and the target is grappled (escape DC 16). Until the grapple ends the target is restrained and takes 4 (1d8) bludgeoning damage at start of each of its turns and sentinel can't use same Grasping Branch on another target.
 - **Rock:** Ranged Weapon Attack: +10 to hit 60/240' one target 22 (3d10+6) bludgeoning damage.
 - **Fling:** One Med or smaller creature grappled by the oaken sentinel is thrown up to 60' in a random direction and knocked prone. If a thrown target strikes a solid surface the target takes 3 (1d6) bludgeoning damage for every 10 ft. it was thrown. If the target is thrown at another creature that creature must make DC 16 Dex save or take the same damage and be knocked prone.
-
-

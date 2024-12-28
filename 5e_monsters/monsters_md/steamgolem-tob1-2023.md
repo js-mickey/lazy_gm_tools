@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Steam Golem
+size: Large
+type: Construct
+alignment: Unaligned
+cr: 13
+xp: 10,000
+hp: 171
+hp_roll: 72
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 220
+---
+
 # Steam Golem
 
 *Large* *Construct* *Unaligned*

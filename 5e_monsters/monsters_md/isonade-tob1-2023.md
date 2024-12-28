@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Isonade
+size: Gargantuan
+type: Monstrosity
+alignment: Chaotic Neutral
+cr: 14
+xp: 11,500
+hp: 222
+hp_roll: 96
+ac: 18
+speed: walk 100 ft.
+senses: darkvision 90 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 240
+---
+
 # Isonade
 
 *Gargantuan* *Monstrosity* *Chaotic Neutral*

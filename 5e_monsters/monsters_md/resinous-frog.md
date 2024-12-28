@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Resinous Frog
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 19
+hp_roll: 3d6+9
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 397
+---
+
 # Resinous Frog
 
 *Small* *Beast* *unaligned*
@@ -30,5 +49,3 @@ As a bonus action, the frog can release one creature or weapon stuck to it. The 
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.
 - **Tongue:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 4 (1d4 + 2) bludgeoning damage. If the creature is Medium or smaller, it is grappled (escape DC 12), and the frog can’t make tongue attacks against other targets.
-
-

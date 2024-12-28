@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Corrupting Ooze
+size: Large
+type: Ooze
+alignment: Neutral Evil
+cr: 5
+xp: 1,800
+hp: 115
+hp_roll: 60
+ac: 12
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 6
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 291
+---
+
 # Corrupting Ooze
 
 *Large* *Ooze* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold, Planes Hunter
+size: Small
+type: Humanoid
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 181
+hp_roll: 33d6+66
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 254
+---
+
 # Kobold, Planes Hunter
 
 *Small* *Humanoid* *neutral*
@@ -40,5 +59,3 @@
 ### Reactions
 
 - **Parry:** + 4 to its AC vs. one melee attack that would hit it if it can see attacker and wielding melee weapon.
-
-

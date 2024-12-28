@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Solar
+size: Large
+type: Celestial
+alignment: 
+cr: 21
+xp: 33,000
+hp: 319
+hp_roll: 22d10+198
+ac: 21
+speed: walk 50 ft. fly 150 ft.
+senses: truesight 120 ft. Passive Perception 27
+passive_perception: -
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 20
+---
+
 # Solar
 
 *Large* *Celestial*

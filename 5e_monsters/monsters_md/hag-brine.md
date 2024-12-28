@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hag, Brine
+size: Medium
+type: Fey
+alignment: lawful evil
+cr: 9
+xp: 5,000
+hp: 150
+hp_roll: +60
+ac: 16
+speed: walk 15 ft. swim 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 225
+---
+
 # Hag, Brine
 
 *Medium* *Fey* *lawful evil*
@@ -33,5 +52,3 @@
 - **Shriek (Recharge 5–6):** Unleashes a painful screeching in a 30' cone. Each creature in the area: 33 (6d10) thunder and is stunned until the end of its next turn (DC 16 Con half damage and isn’t stunned).
 - **Denizens of the Deep (1/Day):** Magically calls 4 reef sharks 2 swarms of quippers or 1 Beast of up to CR 2 with swim speed. Arrive in 1d4 rounds act as hag allies obeying her spoken commands. Beasts stay 1 hr until hag dies or until hag dismisses them as bonus action.
 - **Spellcasting:** Cha (DC 16) no material components: At will: minor illusion  • 3/day ea: charm person major image1/day: control water
-
-

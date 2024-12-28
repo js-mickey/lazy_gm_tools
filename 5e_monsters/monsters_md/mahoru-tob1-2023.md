@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mahoru
+size: Large
+type: Monstrosity
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 105
+hp_roll: 28
+ac: 15
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 260
+---
+
 # Mahoru
 
 *Large* *Monstrosity* *Unaligned*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragonleaf Tree
+size: Large
+type: Plant
+alignment: Unaligned
+cr: 8
+xp: 3,900
+hp: 152
+hp_roll: 64
+ac: 16
+speed: walk 15 ft.
+senses: blindsight 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 137
+---
+
 # Dragonleaf Tree
 
 *Large* *Plant* *Unaligned*

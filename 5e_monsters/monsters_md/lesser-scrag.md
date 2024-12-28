@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lesser Scrag
+size: Medium
+type: Monstrosity
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 13
+speed: swim 40 ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 200
+---
+
 # Lesser Scrag
 
 *Medium* *Monstrosity* *chaotic evil*
@@ -26,5 +45,3 @@
 - **Multiattack:** The lesser scrag makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4)
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4)
-
-

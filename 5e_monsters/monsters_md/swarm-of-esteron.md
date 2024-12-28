@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Esteron
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 54
+hp_roll: 12d8
+ac: 13
+speed: swim 30 ft. fly 30 ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 400
+---
+
 # Swarm of Esteron
 
 *Medium* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half its hp or fewer.
-
-

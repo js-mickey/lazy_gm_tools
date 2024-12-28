@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Forest Gnome Illusionist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 67
+hp_roll: 9d8+27
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 482
+---
+
 # Forest Gnome Illusionist
 
 *Medium* *Humanoid*
@@ -57,5 +76,3 @@
 
 - **Counterspell (3rd-Level; S):** When a creature the mage can see within 60 feet casts a spell, the mage attempts to interrupt it. If the creature is casting a 2nd-level spell or lower, the spell fails. If the creature is casting a 3rd-level or higher spell, the mage makes an Intelligence check against a DC of 10 + the spells level. On a success, the spell fails, and the spellcasting creature can use its reaction to try to cast a second spell with the same casting time so long as it uses a spell slot level equal to or less than half the original spell slot. If the mage casts counterspell with a higher spell slot, the interrupted spell fails if its level is less than that of counterspell.
 - **Shield (1st-Level; V:** When the mage is hit by an attack or targeted by magic missile, they gain a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of their next turn.
-
-

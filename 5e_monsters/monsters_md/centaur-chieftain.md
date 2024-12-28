@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Centaur Chieftain
+size: Large
+type: Monstrosity
+alignment: chaotic neutral
+cr: 5
+xp: 1,800
+hp: 110
+hp_roll: 17d8+34
+ac: 16
+speed: walk 50 ft.
+senses: 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 60
+---
+
 # Centaur Chieftain
 
 *Large* *Monstrosity* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Leadership (Recharges after a Short or Long Rest):** For 1 minute, the centaur chieftain can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the centaur chieftain. A creature can benefit from only one
 - **Leadership die at a time:** This effect ends if the centaur chieftain is incapacitated.
 - **Rearing Strike (Recharge 5-6):** The centaur chieftain rears back on its hind legs and makes a powerful stomp with its hooves. Each creature within 15 feet of the chieftain must make a DC 15 Dexterity saving throw, taking 28 (8d6) bludgeoning damage on a failed save, or half as much damage on a successful one. The attack leaves the centaur chieftain vulnerable, reducing its<br>Armor Class by 2 until the start of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shetani
+size: Medium
+type: Fiend
+alignment: neutral evil
+cr: 14
+xp: 11,500
+hp: 190
+hp_roll: 20d8+100
+ac: 18
+speed: walk 30 ft. fly 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 343
+---
+
 # Shetani
 
 *Medium* *Fiend* *neutral evil*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into a Large or smaller Beast or Humanoid or back into its true form which is a Fiend. Without wings it loses its flying speed. Its statistics other than size and speed are the same in each form. Items worn/carried transformed as desired by the shetani taking whatever color or shape it deems appropriate. Reverts on death.
-
-

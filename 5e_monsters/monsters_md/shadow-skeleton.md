@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Skeleton
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: swim 40 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 326
+---
+
 # Shadow Skeleton
 
 *Medium* *Undead* *neutral evil*
@@ -24,5 +43,3 @@
 - **Multiattack:** The shadow skeleton makes two scimitar attacks.
 - **Scimitar:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) slashing damage.
 - **Finger Darts:** Ranged Weapon Attack: +5 to hit, range 30 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) necrotic damage. If the target is a creature other than an undead or a construct, it must make a DC 12 Constitution saving throw. On a failure, the target is surrounded by a shadowy aura for 1 minute. While surrounded by the aura, the target takes an extra 7 (2d6) necrotic damage when hit by the scimitar attack of a shadow skeleton. Any creature can take an action to extinguish the shadow with a successful DC 12 Intelligence (Arcana) check. The shadow also extinguishes if the target receives magical healing.
-
-

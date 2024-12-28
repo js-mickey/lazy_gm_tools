@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Harefolk
+size: Small
+type: Humanoid
+alignment: chaotic good
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d6+4
+ac: 13
+speed: burrow 10 ft. walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 194
+---
+
 # Harefolk
 
 *Small* *Humanoid* *chaotic good*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
 - **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Sling:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-
-

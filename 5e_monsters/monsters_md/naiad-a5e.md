@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Naiad
+size: Medium
+type: Fey
+alignment: 
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 5d8
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 189
+---
+
 # Naiad
 
 *Medium* *Fey*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Watery Grasp:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is grappled (escape DC 12). While grappling a creature this way  the naiad can't use Watery Grasp on a different target and can swim at full speed.
-
-

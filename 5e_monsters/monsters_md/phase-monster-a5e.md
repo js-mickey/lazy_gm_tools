@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Phase Monster
+size: Large
+type: Monstrosity
+alignment: 
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d10+30
+ac: 13
+speed: walk 30 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 361
+---
+
 # Phase Monster
 
 *Large* *Monstrosity*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Shapeshift:** The phase monster magically changes its form to that of a Small goat or into its true form. While in goat form, it loses its fly speed and Mirror Image trait. Its statistics, other than its size and speed, are unchanged in each form.
-
-

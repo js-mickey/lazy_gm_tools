@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ratatosk
+size: Tiny
+type: Celestial
+alignment: Chaotic Neutral
+cr: 4
+xp: 1,100
+hp: 42
+hp_roll: 12
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 301
+---
+
 # Ratatosk
 
 *Tiny* *Celestial* *Chaotic Neutral*

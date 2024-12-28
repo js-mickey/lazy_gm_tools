@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Goblin Musketeer
+size: Small
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 10
+hp_roll: 3d6
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 250
+---
+
 # Goblin Musketeer
 
 *Small* *Humanoid*
@@ -25,5 +44,3 @@
 ### Bonus Actions
 
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Myling
+size: Small
+type: Undead
+alignment: Chaotic Evil
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10
+ac: 13
+speed: walk 10 ft. burrow 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 281
+---
+
 # Myling
 
 *Small* *Undead* *Chaotic Evil*

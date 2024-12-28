@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mavka
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+cr: 12
+xp: 8,400
+hp: 170
+hp_roll: 80
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 265
+---
+
 # Mavka
 
 *Medium* *Undead* *Chaotic Evil*

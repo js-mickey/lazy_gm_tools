@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gaki
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 390
+---
+
 # Gaki
 
 *Medium* *Undead* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Multiattack:** The gaki makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) acid damage.
 - **Spit Acid:** Ranged Spell Attack: +6 to hit, range 30 ft., one target. Hit: 21 (6d6) acid damage.
-
-

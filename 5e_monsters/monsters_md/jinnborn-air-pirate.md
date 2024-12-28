@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jinnborn Air Pirate
+size: Medium
+type: Humanoid
+alignment: non-lawful
+cr: 1/2
+xp: 100
+hp: 26
+hp_roll: 4d8+8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 246
+---
+
 # Jinnborn Air Pirate
 
 *Medium* *Humanoid* *non-lawful*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Parry:** + 2 to its AC vs. one melee attack that would hit it if it can see attacker and wielding melee weapon.
-
-

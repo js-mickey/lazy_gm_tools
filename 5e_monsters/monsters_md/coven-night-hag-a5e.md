@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Coven Night Hag
+size: Medium
+type: Fey
+alignment: 
+cr: 7
+xp: 2,900
+hp: 120
+hp_roll: 16d8+48
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 270
+---
+
 # Coven Night Hag
 
 *Medium* *Fey*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Steal Magic (3/Day):** When a creature the hag can see within 60 feet casts a spell using a 3rd-level or lower spell slot, the hag attempts to steal its power. The caster makes a DC 14 saving throw using its spellcasting ability. On a failure, the spell fails, and the hag gains 5 (1d10) temporary hit points per level of the spell slot used.
-
-

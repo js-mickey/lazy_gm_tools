@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dipsa
+size: Tiny
+type: Ooze
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 27
+hp_roll: 12
+ac: 15
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 105
+---
+
 # Dipsa
 
 *Tiny* *Ooze* *Unaligned*

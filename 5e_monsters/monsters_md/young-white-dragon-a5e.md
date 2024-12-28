@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young White Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 152
+hp_roll: 16d10+64
+ac: 17
+speed: walk 40 ft. burrow 20 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 123
+---
+
 # Young White Dragon
 
 *Large* *Dragon*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) cold damage.
 - **Claw:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Cold Breath (Recharge 5-6):** The dragon exhales a 30-foot cone of frost. Each creature in that area makes a DC 15 Constitution saving throw  taking 35 (10d6) cold damage on a failed save or half damage on a success.
-
-

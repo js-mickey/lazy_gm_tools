@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Green Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 161
+hp_roll: 19d10+57
+ac: 17
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 114
+---
+
 # Young Green Dragon
 
 *Huge* *Dragon*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) poison damage.
 - **Claw:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Poison Breath (Recharge 5-6):** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 42 (12d6) poison damage on a failed save or half damage on a success.
-
-

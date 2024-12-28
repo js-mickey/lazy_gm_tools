@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Amethyst Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 23
+xp: 50,000
+hp: 313
+hp_roll: 19d20+114
+ac: 20
+speed: walk 40 ft. burrow 40 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 140
+---
+
 # Ancient Amethyst Dragon
 
 *Gargantuan* *Dragon*

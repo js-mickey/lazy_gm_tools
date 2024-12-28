@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Sea Dragon
+size: Large
+type: Dragon
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 190
+hp_roll: 80
+ac: 18
+speed: walk 50 ft. fly 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 127
+---
+
 # Young Sea Dragon
 
 *Large* *Dragon* *Neutral Evil*

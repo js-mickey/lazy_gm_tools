@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dorreq
+size: Medium
+type: Aberration
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 93
+hp_roll: 17
+ac: 15
+speed: walk 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 110
+---
+
 # Dorreq
 
 *Medium* *Aberration* *Neutral Evil*

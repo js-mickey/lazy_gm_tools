@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brain Hood
+size: Tiny
+type: Aberration
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d4+10
+ac: 13
+speed: fly 40 ft. hover True ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 50
+---
+
 # Brain Hood
 
 *Tiny* *Aberration* *neutral evil*
@@ -31,5 +50,3 @@ At will: acid splash, chill touch, fire bolt, ray of frost, shocking grasp
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a beast, the brain hood can attempt to take control of it (see the Merge with Beast trait).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Venom Maw Hydra
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 12
+xp: 8,400
+hp: 231
+hp_roll: 22d12+88
+ac: 15
+speed: swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 370
+---
+
 # Venom Maw Hydra
 
 *Huge* *Monstrosity* *unaligned*

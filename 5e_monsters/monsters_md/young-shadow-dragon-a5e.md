@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Shadow Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 114
+hp_roll: 12d10+48
+ac: 17
+speed: walk 40 ft. climb 40 ft. fly 80 ft. swim 40 ft.
+senses: darkvision 240 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 137
+---
+
 # Young Shadow Dragon
 
 *Large* *Dragon*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) necrotic damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 17 (3d8 + 4) slashing damage.
 - **Anguished Breath (Recharge 5-6):** The dragon exhales a shadowy maelstrom of anguish in a 30-foot cone. Each creature in that area makes a DC 16 Wisdom saving throw  taking 40 (9d8) necrotic damage on a failed save or half damage on a success.
-
-

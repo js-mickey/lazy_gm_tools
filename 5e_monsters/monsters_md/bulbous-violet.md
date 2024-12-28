@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bulbous Violet
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 38
+hp_roll: 7d8+7
+ac: 12
+speed: walk 20 ft. climb 20 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 53
+---
+
 # Bulbous Violet
 
 *Medium* *Plant* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Tendril:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 2 (1d4) acid damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained and takes 2 (1d4) acid damage at the start of each of its turns. The violet has two tendrils strong enough to grapple creatures; each can grapple only one target. If the acid damage reduces the target to 0 hp, the violet regains 7 (2d6) hp.
-
-

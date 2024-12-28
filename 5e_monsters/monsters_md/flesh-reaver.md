@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flesh Reaver
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 12
+speed: walk 40 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 160
+---
+
 # Flesh Reaver
 
 *Medium* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Consume Flesh:** Melee Weapon Attack: +4 to hit, reach 5 ft., one prone creature. Hit: 4 (1d4 + 2) piercing damage, and the creature must make a DC 13 Constitution saving throw, taking 7 (2d6) necrotic damage on a failed save, or half as much damage on a successful one.
-
-

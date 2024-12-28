@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scarecrow
+size: Medium
+type: Construct
+alignment: 
+cr: 1
+xp: 200
+hp: 31
+hp_roll: 7d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 382
+---
+
 # Scarecrow
 
 *Medium* *Construct*
@@ -32,5 +51,3 @@
 - **Slam:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Scare:** Each creature of the scarecrows choice within 30 feet that can see the scarecrow makes a DC 12 Wisdom saving throw. On a failure  it is magically frightened for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If a creatures saving throw is successful or the effect ends for it  it is immune to Scare for 24 hours.
 - **Hat of Illusion (1/Day):** While wearing a hat or other head covering  the scarecrow takes on the illusory appearance of the last living humanoid to wear that hat. It requires a DC 12 Insight or Perception check to recognize the illusion. The illusion ends when the scarecrow is touched  takes damage  attacks  or uses Scare  or when the scarecrow chooses to end it as a bonus action.
-
-

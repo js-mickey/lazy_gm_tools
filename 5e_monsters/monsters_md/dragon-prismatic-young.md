@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Prismatic Young
+size: Large
+type: Dragon
+alignment: neutral
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 15d10+60
+ac: 17
+speed: walk 40 ft. climb 20 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 140
+---
+
 # Dragon, Prismatic Young
 
 *Large* *Dragon* *neutral*
@@ -26,5 +45,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 - **Light Beam (Recharge 5–6):** Emits a beam of white light in a 60' line that is 5 ft. wide. Each creature in that line: 36 (8d8) radiant (DC 15 Dex half). 
 - **Spellcasting:** Int (DC 14) no material components: At will: dancing lights3/day ea: charm person color spray1/day: prismatic spray
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Warmth Thief
+size: Tiny
+type: Fey
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 112
+hp_roll: 15d4+75
+ac: 16
+speed: fly 40 ft. walk 10 ft. hover True ft.
+senses: truesight 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 366
+---
+
 # Warmth Thief
 
 *Tiny* *Fey* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Multiattack:** The warmth thief makes two freezing claw attacks.
 - **Freezing Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 7 (1d6 + 4) slashing damage plus 14 (4d6) cold damage. The warmth thief regains hp equal to half the cold damage dealt. The target must succeed on a DC 16 Constitution saving throw or be chilled for 1 minute. A chilled creature takes 7 (2d6) cold damage at the start of each of its turns. A chilled creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A humanoid slain while chilled rises 24 hours later as a chill haunt, unless the humanoid is restored to life or its body is destroyed.
-
-

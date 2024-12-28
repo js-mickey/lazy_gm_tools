@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Erinyes
+size: Medium
+type: Fiend
+alignment: 
+cr: 12
+xp: 8,400
+hp: 161
+hp_roll: 19d8+76
+ac: 18
+speed: walk 30 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 82
+---
+
 # Erinyes
 
 *Medium* *Fiend*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Parry:** If the erinyes is wielding a longsword and can see its attacker, it adds 4 to its AC against one melee attack that would hit it.
-
-

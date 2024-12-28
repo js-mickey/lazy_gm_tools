@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yali
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 51
+hp_roll: 6d8+24
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 398
+---
+
 # Yali
 
 *Medium* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 - **Tusk:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d6+5) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d4+5) slashing damage.
 - **Trumpeting Blast (Recharge 5–6):** Unleashes a warbling sound in a 15 ft. cone. Each creature in area: 10 (4d4) thunder and is deafened for 1 min (DC 12 Con half damage and not deafened). A deafened creature can re-save at end of each of its turns success ends effect on itself.
-
-

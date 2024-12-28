@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ankheg Spawn
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 13
+speed: walk 30 ft. burrow 10 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 26
+---
+
 # Ankheg Spawn
 
 *Medium* *Monstrosity*
@@ -22,5 +41,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one Medium or smaller creature. Hit: 4 (1d4 + 2) slashing damage  and the target makes a DC 12 Strength check. On a failure  it is knocked prone. If the target is already prone  the ankheg can instead move up to half its Speed  dragging the target with it.
 - **Acid Spit:** Ranged Weapon Attack: +3 to hit  range 30 ft.  one creature. Hit: 4 (1d8) acid damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pugilist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 495
+---
+
 # Pugilist
 
 *Medium* *Humanoid*
@@ -35,5 +54,3 @@
 
 - **Opportune Jab:** If a creature attempts to grapple the pugilist, the pugilist attacks that creature with their fists.
 - **Pugilists include skilled boxers:** They sometimes work as bodyguards or gangsters, though theyre most often found in the ring, challenging all comers.
-
-

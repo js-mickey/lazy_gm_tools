@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Tiger
+size: Large
+type: Construct
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d10+30
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 68
+---
+
 # Clockwork Tiger
 
 *Large* *Construct* *unaligned*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Deflecting Leap:** When the clockwork tiger’s ward is the target of an attack the tiger can see, the tiger can move up to 10 feet toward its ward without provoking opportunity attacks. If it ends this movement within 5 feet of its ward, the tiger becomes the target of the attack instead.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghost Boar
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 68
+hp_roll: 8d10+24
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 169
+---
+
 # Ghost Boar
 
 *Large* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 ### Reactions
 
 - **Tusk Swipe:** When a creature hits the ghost boar with a melee weapon attack, the ghost boar can make one tusk attack against the creature. The ghost boar must see the attacker and be within 5 feet of it.
-
-

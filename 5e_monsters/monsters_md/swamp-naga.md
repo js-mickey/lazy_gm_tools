@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swamp Naga
+size: Large
+type: Monstrosity
+alignment: lawful evil
+cr: 6
+xp: 2,300
+hp: 102
+hp_roll: 12d10+36
+ac: 15
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 342
+---
+
 # Swamp Naga
 
 *Large* *Monstrosity* *lawful evil*
@@ -35,5 +54,3 @@ Cantrips (at will): dancing lights, mage hand, message, poison spray
 
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) piercing damage plus 13 (3d8) poison damage.
 - **Constrict:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the naga can’t constrict another target.
-
-

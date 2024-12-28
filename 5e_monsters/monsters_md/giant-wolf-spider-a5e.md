@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Wolf Spider
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d8
+ac: 13
+speed: walk 40 ft. climb 40 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 451
+---
+
 # Giant Wolf Spider
 
 *Medium* *Beast*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4+1) piercing damage and the target makes a DC 11 Constitution saving throw  taking 5 (2d4) poison damage on a failure or half damage on a success. If the poison damage reduces the target to 0 hit points  the target is made stable but poisoned for 1 hour  even if it regains hit points  and it is paralyzed while poisoned in this way.
-
-

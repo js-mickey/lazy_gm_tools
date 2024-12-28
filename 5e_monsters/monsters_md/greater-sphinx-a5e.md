@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Sphinx
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 17
+xp: 18,000
+hp: 220
+hp_roll: 21d12+84
+ac: 20
+speed: walk 40 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 399
+---
+
 # Greater Sphinx
 
 *Huge* *Monstrosity*
@@ -43,5 +62,3 @@
 - **Different Location or Plane of Existence:** The creatures appear in empty spaces of the sphinxs choice anywhere on the Material Plane or on a different plane altogether.
 - **Demiplane:** The creatures appear in empty spaces of the sphinxs choice on a demiplane. The demiplane can be up to one square mile in size. The demiplane can appear to be inside, outside, or underground, and can contain terrain, nonmagical objects, and magical effects of the sphinxs choosing. The sphinx may populate it with creatures and hazards with a total Challenge Rating equal to or less than the sphinxs Challenge Rating.
 - **Time:** The creatures appear in empty spaces of the sphinxs choosing anywhere on the Material Plane, at any time from 1,000 years in the past to 1,000 years in the future. At the Narrators discretion, changes made in the past may alter the present.
-
-

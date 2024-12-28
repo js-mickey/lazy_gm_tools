@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skeletal Champion
+size: Medium
+type: Undead
+alignment: 
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 393
+---
+
 # Skeletal Champion
 
 *Medium* *Undead*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Shielding Riposte:** When a creature within the skeletons reach misses with a melee attack against the skeleton or a creature within 5 feet, the skeleton makes a longsword attack against the attacker. The skeleton must be wielding a longsword to use this reaction.
-
-

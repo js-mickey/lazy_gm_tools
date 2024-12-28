@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pegasus
+size: Large
+type: Celestial
+alignment: 
+cr: 2
+xp: 450
+hp: 57
+hp_roll: 6d10+24
+ac: 13
+speed: walk 60 ft. fly 80 ft.
+senses: 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 358
+---
+
 # Pegasus
 
 *Large* *Celestial*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Hooves:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Large or smaller creature and the pegasus moves at least 20 feet toward it before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
-
-

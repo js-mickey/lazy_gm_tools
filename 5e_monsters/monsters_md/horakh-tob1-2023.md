@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horakh
+size: Medium
+type: Monstrosity
+alignment: Neutral
+cr: 9
+xp: 5,000
+hp: 161
+hp_roll: 76
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 234
+---
+
 # Horakh
 
 *Medium* *Monstrosity* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cueyatl Moon Priest
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 81
+hp_roll: 18d6+18
+ac: 13
+speed: climb 20 ft. swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 68
+---
+
 # Cueyatl Moon Priest
 
 *Small* *Humanoid* *lawful evil*
@@ -33,5 +52,3 @@ Cantrips (at will): guidance, resistance, sacred flame, spare the dying
 
 - **Morningstar:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) piercing damage plus 7 (2d6) poison damage.
 - **Night's Chill (Recharge 5-6):** The cueyatl moon priest harnesses moonlight, dispelling magical light in a 30-foot radius. In addition, each hostile creature within 30 feet must make a DC 13 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, and half as much damage on a successful one. A creature that has total cover from the moon priest is not affected.
-
-

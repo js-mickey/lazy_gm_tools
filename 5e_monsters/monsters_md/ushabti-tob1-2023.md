@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ushabti
+size: Medium
+type: Construct
+alignment: Unaligned
+cr: 8
+xp: 3,900
+hp: 119
+hp_roll: 56
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 376
+---
+
 # Ushabti
 
 *Medium* *Construct* *Unaligned*

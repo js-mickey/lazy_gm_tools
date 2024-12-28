@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Uraeus
+size: Tiny
+type: Celestial
+alignment: Lawful Neutral
+cr: 2
+xp: 450
+hp: 40
+hp_roll: 18
+ac: 14
+speed: walk 60 ft. fly 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 373
+---
+
 # Uraeus
 
 *Tiny* *Celestial* *Lawful Neutral*

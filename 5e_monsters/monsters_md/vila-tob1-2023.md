@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vila
+size: Medium
+type: Fey
+alignment: Lawful Neutral
+cr: 5
+xp: 1,800
+hp: 77
+hp_roll: 14
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 386
+---
+
 # Vila
 
 *Medium* *Fey* *Lawful Neutral*

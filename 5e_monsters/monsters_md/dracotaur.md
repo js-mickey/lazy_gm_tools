@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dracotaur
+size: Large
+type: Dragon
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 110
+hp_roll: 13d10+39
+ac: 17
+speed: burrow 20 ft. walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 110
+---
+
 # Dracotaur
 
 *Large* *Dragon* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Longbow:** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage.
 - **Lightning Arrow (Recharges after a Short or Long Rest):** The dracotaur shoots an arrow at a point it can see within 150 feet where it explodes into a 20-foot-radius sphere of lightning. Each creature in that area must make a DC 15 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as damage much on a successful one.
 - **Lightning Breath (Recharge 5-6):** The dracotaur exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 33 (6d10) lightning damage on a failed save, or half as much damage on a successful one.
-
-

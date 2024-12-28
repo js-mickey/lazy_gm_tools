@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Werehyena
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 259
+---
+
 # Werehyena
 
 *Medium* *Humanoid* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Bite (Hyena or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werehyena lycanthropy.
 - **Claws (Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.
 - **Scimitar (Gnoll or Hybrid Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
-
-

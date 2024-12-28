@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alke
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 12d10+48
+ac: 14
+speed: walk 50 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 16
+---
+
 # Alke
 
 *Large* *Monstrosity* *unaligned*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Repelling Spikes:** Adds 3 to its AC vs. one melee or ranged weapon attack that would hit it. To do so the alke must see the attacker and not be prone.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Automata Devil
+size: Large
+type: Fiend
+alignment: Lawful Evil
+cr: 10
+xp: 5,900
+hp: 168
+hp_roll: 80
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 92
+---
+
 # Automata Devil
 
 *Large* *Fiend* *Lawful Evil*

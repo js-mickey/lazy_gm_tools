@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Green Abyss Orc
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 1/2
+xp: 100
+hp: 15
+hp_roll: 2d8+6
+ac: 13
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 291
+---
+
 # Green Abyss Orc
 
 *Medium* *Humanoid* *chaotic evil*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Poisoned Spear:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack. If the target is a creature, it must succeed on a DC 13 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hp, the target is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way.
-
-

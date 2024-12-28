@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rime Worm Grub
+size: Medium
+type: Elemental
+alignment: Unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 18
+ac: 13
+speed: walk 20 ft. burrow 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 308
+---
+
 # Rime Worm Grub
 
 *Medium* *Elemental* *Unaligned*

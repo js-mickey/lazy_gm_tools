@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Storm Maiden
+size: Medium
+type: Elemental
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 15
+speed: swim 30 ft. fly 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 340
+---
+
 # Storm Maiden
 
 *Medium* *Elemental* *chaotic evil*
@@ -30,5 +49,3 @@ At will: create or destroy water, ray of frost, misty step, thunderwave
 - **Multiattack:** The storm maiden makes two thunderous slam attacks.
 - **Thunderous Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 7 (2d6) thunder damage.
 - **Throw Lightning:** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 14 (4d6) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be incapacitated until the end of its next turn.
-
-

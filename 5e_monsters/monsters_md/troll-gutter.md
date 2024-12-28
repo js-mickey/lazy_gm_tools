@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troll, Gutter
+size: Medium
+type: Giant
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 373
+---
+
 # Troll, Gutter
 
 *Medium* *Giant* *neutral evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (1d8+4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 9 (2d4+4) slashing damage.
 - **Sticky Tongue:** Melee Weapon Attack: +6 to hit, 20 ft., one target, 7 (1d6+4) bludgeoning damage and the target must make DC 14 Str save or be pulled up to 15 ft. toward the troll.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Musk Deer
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 17
+hp_roll: 5d4+5
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 282
+---
+
 # Musk Deer
 
 *Tiny* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Musk (Recharge: Short/Long Rest):** Emits a pungent musk around itself for 1 min. While musk is active a creature that starts its turn within 10 ft. of deer: poisoned 1 min (DC 11 Con negates). Poisoned creature can re-save at end of each of its turns success ends effect on itself. For 1 hr after creature fails this save others have advantage on Wis (Perception) and Wis (Survival) checks to find or track the creature unless creature spends 10+ min washing off the musk.
 - **Sprinter:** Takes the Dash action.
-
-

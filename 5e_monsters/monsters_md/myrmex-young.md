@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Myrmex, Young
+size: Small
+type: Elemental
+alignment: neutral good
+cr: 1
+xp: 200
+hp: 54
+hp_roll: 12d6+12
+ac: 13
+speed: walk 30 ft. burrow 15 ft. climb 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 283
+---
+
 # Myrmex, Young
 
 *Small* *Elemental* *neutral good*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Earth Manipulation:** Can manipulate and move earth within 30' of it that fits within a 5 ft. cube. This manipulation is limited only by its imagination but it often includes creating caricatures of creatures to tell stories of travels or etching symbols to denote dangerous caverns or similar markers for those in the colony. Can also choose to make ground within 10 ft. of it difficult terrain or to make difficult terrain normal if the ground is earth or stone. Changes caused by Earth Manipulation are permanent.
-
-

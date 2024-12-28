@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Avatar of Shoth
+size: Gargantuan
+type: Aberration
+alignment: lawful neutral
+cr: 21
+xp: 33,000
+hp: 341
+hp_roll: 22d20+110
+ac: 18
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 60 ft. truesight 60 ft. 
+passive_perception: 22
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 332
+---
+
 # Avatar of Shoth
 
 *Gargantuan* *Aberration* *lawful neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Crab
+size: Medium
+type: Beast
+alignment: 
+cr: 1/8
+xp: 25
+hp: 9
+hp_roll: 2d8
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 446
+---
+
 # Giant Crab
 
 *Medium* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Claw:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) bludgeoning damage and the target is grappled (escape DC 11). The crab has two claws and can grapple one creature with each.
-
-

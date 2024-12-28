@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grimmlet
+size: Tiny
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 28
+hp_roll: 8d4+8
+ac: 11
+speed: walk 0 ft. hover True ft. fly 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 186
+---
+
 # Grimmlet
 
 *Tiny* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@ At will: crushing curse, minor illusion
 ### Actions
 
 - **Crystal Edge:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) psychic damage.
-
-

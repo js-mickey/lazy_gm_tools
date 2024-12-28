@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scrofin
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 68
+hp_roll: 8d8+32
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 319
+---
+
 # Scrofin
 
 *Medium* *Fey* *lawful neutral*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Quick to Anger (Recharges after a Short or Long Rest):** If the scrofin is wrestling a foe as part of a challenge and takes damage, or when it is reduced to half its hp maximum, it becomes angry. While angry, the scrofin has advantage on melee attack rolls and on saving throws against spells or effects that would charm or frighten it or make it unconscious, and it has resistance to bludgeoning damage. It remains angry for 1 minute, or until it is knocked unconscious. Alternatively, it can end its anger as a bonus action.
-
-

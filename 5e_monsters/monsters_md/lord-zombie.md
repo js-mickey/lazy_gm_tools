@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lord Zombie
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 11d8+33
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 26
+---
+
 # Lord Zombie
 
 *Medium* *Undead* *neutral evil*

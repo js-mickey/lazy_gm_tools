@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moonchild Naga
+size: Large
+type: Monstrosity
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 75
+hp_roll: 10d10+20
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 273
+---
+
 # Moonchild Naga
 
 *Large* *Monstrosity* *neutral evil*
@@ -32,5 +51,3 @@ At will: charm person, friends, mage hand, message, minor illusion, poison spray
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 18 (4d8) poison damage.
 - **Constrict:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the naga can't constrict another target.
 - **Starry Gaze:** The moonchild naga's bottomless gaze inexorably draws the eye of one target within 30 feet. If the target can see the naga, it must succeed on a DC 15 Wisdom saving throw or be stunned until the end of the naga's next turn. If the target's saving throw is successful, it is immune to the naga's gaze for the next 24 hours.
-
-

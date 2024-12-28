@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ooze, Sinkhole
+size: Gargantuan
+type: Ooze
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 108
+hp_roll: 8d20+24
+ac: 7
+speed: walk 20 ft. burrow 40 ft. climb 20 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 309
+---
+
 # Ooze, Sinkhole
 
 *Gargantuan* *Ooze* *unaligned*
@@ -40,5 +59,3 @@
 ### Reactions
 
 - **Pluck (Stretched Body Only):** When 1+ creature falls down center of its cylinder can try to grab up to 2 of them. Each must make DC 14 Dex save or grappled (escape DC 14) in Pseudopod.
-
-

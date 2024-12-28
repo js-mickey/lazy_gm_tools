@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Harvest Horse
+size: Large
+type: Construct
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 37
+hp_roll: 5d10+10
+ac: 13
+speed: walk 50 ft.
+senses: 
+passive_perception: 6
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 230
+---
+
 # Harvest Horse
 
 *Large* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 7 (2d4+2) bludgeoning damage.
 - **Harvester’s Stampede (Recharge 5–6):** Moves up to its speed in a straight line and can move through the space of any Large or smaller creature. The first time the harvest horse enters a creature’s space during this move that creature must make a DC 12 Dex save. On a failure it takes 7 (2d6) slashing damage and is knocked prone. On a success it takes half damage and isn’t knocked prone. When the harvest horse moves in this way it doesn’t provoke opportunity attacks.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Salt Golem
+size: Large
+type: Construct
+alignment: Unaligned
+cr: 10
+xp: 5,900
+hp: 115
+hp_roll: 55
+ac: 17
+speed: walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 218
+---
+
 # Salt Golem
 
 *Large* *Construct* *Unaligned*

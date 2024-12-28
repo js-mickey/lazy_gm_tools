@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wickerman
+size: Huge
+type: Construct
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 138
+hp_roll: 12d12+60
+ac: 8
+speed: walk 40 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 380
+---
+
 # Wickerman
 
 *Huge* *Construct* *neutral evil*
@@ -31,5 +50,3 @@
 - **Blazing Ray:** Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 27 (5d10) fire damage.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage plus 5 (1d10) fire damage and the target is grappled (escape DC 16). The wickerman has two fists, each of which can grapple only one target.
 - **Imprison:** The wickerman makes one slam attack against a target it is grappling. If the attack hits, the target is imprisoned inside its burning body, and the grapple ends. A creature imprisoned in the wickerman is blinded, restrained, has total cover against attacks and other effects outside the wickerman, and it takes 17 (5d6) fire damage at the start of each of the wickerman's turns. Up to 6 Medium or smaller creatures can fit inside a wickerman's body. If the wickerman takes 25 damage or more from a creature inside of it, the wickerman must succeed on a DC 14 Constitution saving throw or the creature bursts free from it. The creature falls prone in a space within 10 feet of the wickerman. If the wickerman dies, all creatures inside of it are no longer restrained by it and can escape from the burning corpse by using 15 feet of movement, exiting prone.
-
-

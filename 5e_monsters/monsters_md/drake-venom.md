@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Venom
+size: Large
+type: Dragon
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 15d10+60
+ac: 16
+speed: walk 40 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 158
+---
+
 # Drake, Venom
 
 *Large* *Dragon* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) slashing damage.
 - **Spit Venom:** Ranged Weapon Attack: +6 to hit 20/60' one target 16 (3d8+3) poison.
 - **Venom Breath (Recharge 5–6):** Spits venom in a 60' line that is 5 ft. wide. Each creature in that line: 36 (8d8) poison and succumbs to the drake’s venom (see above; DC 16 Con half damage and doesn’t succumb to the venom).
-
-

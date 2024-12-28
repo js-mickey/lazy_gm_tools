@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kalke
+size: Small
+type: Fiend
+alignment: Neutral Evil
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 242
+---
+
 # Kalke
 
 *Small* *Fiend* *Neutral Evil*

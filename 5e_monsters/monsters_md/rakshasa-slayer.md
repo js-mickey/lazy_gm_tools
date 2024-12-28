@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rakshasa, Slayer
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 19d8+57
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 328
+---
+
 # Rakshasa, Slayer
 
 *Medium* *Fiend* *lawful evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Shadow Leap:** When a creature moves into a space within 5 ft. of slayer while slayer is in dim light or darkness slayer can teleport to unoccupied space it can see within 30' of it. Destination must also be in dim light or darkness.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hoard Golem
+size: Huge
+type: Construct
+alignment: Unaligned
+cr: 12
+xp: 8,400
+hp: 161
+hp_roll: 70
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 217
+---
+
 # Hoard Golem
 
 *Huge* *Construct* *Unaligned*

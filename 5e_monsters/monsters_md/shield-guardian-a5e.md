@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shield Guardian
+size: Large
+type: Construct
+alignment: 
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 14d10+56
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 264
+---
+
 # Shield Guardian
 
 *Large* *Construct*
@@ -36,5 +55,3 @@
 
 - **Absorb Damage:** If the guardian is within 60 feet of its master when the master takes damage, half the damage (rounded up) is transferred to the guardian.
 - **Shield:** If the guardian is within 5 feet of its master when the master is attacked, the guardian grants a +3 bonus to its masters AC.
-
-

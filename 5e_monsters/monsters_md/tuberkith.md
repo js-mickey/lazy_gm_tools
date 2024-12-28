@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tuberkith
+size: Small
+type: Plant
+alignment: any alignment
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 4d6+8
+ac: 13
+speed: walk 30 ft. burrow 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 379
+---
+
 # Tuberkith
 
 *Small* *Plant* *any alignment*
@@ -25,5 +44,3 @@
 
 - **Peeler:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) slashing damage.
 - **Masher:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) bludgeoning damage. If the target is a creature it must make DC 12 Str save or be knocked prone.
-
-

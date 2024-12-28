@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sand Spider
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 7
+xp: 2,900
+hp: 135
+hp_roll: 36
+ac: 15
+speed: walk 20 ft. burrow 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 346
+---
+
 # Sand Spider
 
 *Large* *Beast* *Unaligned*

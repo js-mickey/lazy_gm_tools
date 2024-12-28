@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yakirian
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 67
+hp_roll: 9d8+27
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 390
+---
+
 # Yakirian
 
 *Medium* *Humanoid* *lawful neutral*
@@ -28,5 +47,3 @@
 - **Gore:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Ritual Knife:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Consume Heart:** The yakiran consumes the heart of a dead humanoid or giant within 5 feet. If the creature also less than 1 minute ago, the yakirian gains the following benefits: <br>* The yakirian absorbs the dead creature's knowledge and asks two questions. If the dead creature knew the answers in life, the yakirian learns them instantly. <br>* The yakirian's maximum and current hp increase by 10 for 1 hour. <br>* The yakirian has advantage on Strength-based attack rolls and ability checks, as well as on all saving throws for 1 hour.
-
-

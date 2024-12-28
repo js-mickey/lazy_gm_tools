@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gargoyle
+size: Medium
+type: Elemental
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d8+18
+ac: 15
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 214
+---
+
 # Gargoyle
 
 *Medium* *Elemental*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage  or 9 (2d6 + 2) slashing damage if the gargoyle started its turn at least 20 feet above the target.
 - **Rock:** Ranged Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage.
-
-

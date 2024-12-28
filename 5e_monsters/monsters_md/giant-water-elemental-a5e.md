@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Water Elemental
+size: Huge
+type: Elemental
+alignment: 
+cr: 9
+xp: 5,000
+hp: 157
+hp_roll: 15d12+60
+ac: 14
+speed: walk 30 ft. swim 90 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 194
+---
+
 # Giant Water Elemental
 
 *Huge* *Elemental*
@@ -30,5 +49,3 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Whelm:** The elemental targets each Large or smaller creature in its space. Each target makes a DC 15 Strength saving throw. On a failure  the target is grappled (escape DC 15). Until this grapple ends  the target is restrained and unable to breathe air. The elemental can move at full speed while carrying grappled creatures inside its space. It can grapple one Large creature or up to four Medium or smaller creatures.
-
-

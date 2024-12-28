@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Manggus
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 127
+hp_roll: 15d10+45
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 256
+---
+
 # Manggus
 
 *Large* *Giant* *chaotic evil*
@@ -33,5 +52,3 @@ At the end of its turn, the manggus regrows two heads for each of its heads that
 - **Multiattack:** In hydra form, the manggus makes as many bite attacks as it has heads. In giant form, it makes two greataxe attacks.
 - **Bite (Hydra Form Only):** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Greataxe (Giant Form Only):** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
-
-

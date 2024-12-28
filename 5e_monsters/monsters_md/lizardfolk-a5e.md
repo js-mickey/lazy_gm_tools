@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lizardfolk
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d8+4
+ac: 14
+speed: walk 30 ft. swim 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 309
+---
+
 # Lizardfolk
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 - **Club:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 - **Shield:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

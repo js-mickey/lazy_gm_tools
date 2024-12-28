@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pact Drake
+size: Small
+type: Dragon
+alignment: lawful neutral
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 8d6+24
+ac: 14
+speed: fly 60 ft. walk 40 ft.
+senses: darkvision 60 ft. truesight 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 130
+---
+
 # Pact Drake
 
 *Small* *Dragon* *lawful neutral*
@@ -35,5 +54,3 @@ At will: detect magic
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Enforced Diplomacy (Recharge 5-6):** The pact drake breathes a calming haze in a 30-foot cone. Creatures in the cone must make a DC 15 Charisma saving throw or be charmed for 1 minute. While charmed, a creature also can't attack up to five creatures of the pact drake's choice. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.
 - **Punish Transgressor:** The drake targets a single creature within 60 feet that broke the terms of a pact witnessed by the drake. The creature must succeed on a DC 15 Charisma saving throw or be blinded, deafened, and stunned for 1d6 minutes. The conditions can be ended early only with a dispel magic (DC 15) spell or similar magic. When these conditions end, the affected creature has disadvantage on saving throws until it finishes a long rest.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Tactician
+size: Medium
+type: Construct
+alignment: lawful neutral
+cr: 11
+xp: 7,200
+hp: 150
+hp_roll: 20d8+60
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 90
+---
+
 # Clockwork Tactician
 
 *Medium* *Construct* *lawful neutral*
@@ -41,5 +60,3 @@
 ### Reactions
 
 - **Quick Study:** When a creature hits tactician with attack tactician makes DC 13 Int check. Success: it chooses one of:Tactician has advantage on melee attack rolls vs. the attacker.Attacker has disadvantage on attack rolls vs. the tactician.Tactician has resistance to damage type of attack that hit it.Can have more than one benefit active at a time. They end when it attacks a different creature or uses Quick Study on another.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mead Archon
+size: Medium
+type: Celestial
+alignment: chaotic good
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 11d8+33
+ac: 14
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 18
+---
+
 # Mead Archon
 
 *Medium* *Celestial* *chaotic good*
@@ -34,5 +53,3 @@
 - **Drunken Touch:** The mead archon touches a creature within 5 feet of it. The creature must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. If a creature poisoned this way takes damage, it can repeat the saving throw, ending the condition on a success.
 - **Create Potion of Healing (1/Day):** The mead archon touches a container containing 1 pint of alcohol and turns it into a potion of healing. If the potion is not consumed within 24 hours, it reverts back to its original form.
 - **Divine Guzzle (Recharge 4-6):** The mead archon drinks a pint of alcohol and chooses one of the following effects: <br>* The archon belches fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. <br>* The archon has advantage on attack rolls and saving throws until the end of its next turn. <br>* The archon regains 10 hit points.
-
-

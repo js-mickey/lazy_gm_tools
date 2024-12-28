@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Phoenixborn
+size: Medium
+type: Humanoid
+alignment: any
+cr: 1/2
+xp: 100
+hp: 33
+hp_roll: 6d8+6
+ac: 13
+speed: walk 20 ft. fly 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 316
+---
+
 # Phoenixborn
 
 *Medium* *Humanoid* *any*
@@ -26,5 +45,3 @@
 
 - **Talon:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) slashing damage.
 - **Hurl Flame:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 5 (1d6+2) fire.
-
-

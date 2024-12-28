@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rhinoceros
+size: Large
+type: Beast
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 12
+speed: walk 40 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 458
+---
+
 # Rhinoceros
 
 *Large* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Gore:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8+5) bludgeoning damage. If the rhinoceros moves at least 20 feet straight towards the target before the attack  the attack deals an extra 4 (1d8) bludgeoning damage and the target makes a DC 15 Strength saving throw  falling prone on a failure.
-
-

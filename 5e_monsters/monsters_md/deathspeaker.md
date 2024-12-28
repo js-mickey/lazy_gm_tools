@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deathspeaker
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 4
+xp: 1,100
+hp: 97
+hp_roll: 13d8+39
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 82
+---
+
 # Deathspeaker
 
 *Medium* *Undead* *lawful evil*
@@ -28,5 +47,3 @@
 - **Rake:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage.
 - **Necrotic Ray:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 10 (3d6) necrotic damage.
 - **Pronounce Death:** The deathspeaker chooses a creature it can see within 30 feet of it that has been reduced to 0 hp. The target must succeed on a DC 13 Constitution saving throw or immediately die. Creatures cursed by the Deathspeak trait have disadvantage on this saving throw.
-
-

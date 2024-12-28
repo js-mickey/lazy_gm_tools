@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Fire Dancers
+size: Medium
+type: Swarm
+alignment: Neutral Evil
+cr: 7
+xp: 2,900
+hp: 90
+hp_roll: 36
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 354
+---
+
 # Swarm of Fire Dancers
 
 *Medium* *Swarm* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Soldier Squad
+size: Large
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 15d8+30
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 494
+---
+
 # Soldier Squad
 
 *Large* *Humanoid*
@@ -30,5 +49,3 @@
 
 - **Tactical Movement:** Until the end of the squads turn, their Speed is halved and their movement doesnt provoke opportunity attacks.
 - **Soldier squads march to war and garrison fortifications:** 
-
-

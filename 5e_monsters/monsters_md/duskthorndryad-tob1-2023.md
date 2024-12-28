@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Duskthorn Dryad
+size: Medium
+type: Fey
+alignment: Chaotic Neutral
+cr: 3
+xp: 700
+hp: 77
+hp_roll: 14
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 150
+---
+
 # Duskthorn Dryad
 
 *Medium* *Fey* *Chaotic Neutral*

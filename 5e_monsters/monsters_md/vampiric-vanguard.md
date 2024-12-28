@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampiric Vanguard
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 7
+xp: 2,900
+hp: 127
+hp_roll: 15d8+60
+ac: 14
+speed: walk 40 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 383
+---
+
 # Vampiric Vanguard
 
 *Medium* *Undead* *neutral evil*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Fleet of Foot:** Takes the Dash action.
-
-

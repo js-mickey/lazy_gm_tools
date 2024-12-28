@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moonweb
+size: Medium
+type: Aberration
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 97
+hp_roll: 13d8+39
+ac: 16
+speed: walk 0 ft. fly 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 276
+---
+
 # Moonweb
 
 *Medium* *Aberration* *unaligned*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Ethereal Jaunt:** Magically shifts from the Material Plane to the Ethereal Plane or vice versa.
-
-

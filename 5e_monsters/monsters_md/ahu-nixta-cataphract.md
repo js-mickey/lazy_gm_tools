@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ahu-Nixta Cataphract
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 135
+hp_roll: 18d10+36
+ac: 17
+speed: hover True ft. walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 9
+---
+
 # Ahu-Nixta Cataphract
 
 *Large* *Aberration* *neutral evil*
@@ -36,5 +55,3 @@ At will: fear, fire bolt (2d10), telekinesis
 - **Pronged Scepter:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 - **Bashing Rod:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage
 - **Arcane Cannon:** Ranged Spell Attack: +7 to hit, range 100 ft., one target. Hit: 18 (4d8) force damage, and the target must succeed on a DC 15 Strength saving throw or be knocked prone.
-
-

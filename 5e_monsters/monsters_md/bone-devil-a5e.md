@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Devil
+size: Large
+type: Fiend
+alignment: 
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 15d10+60
+ac: 19
+speed: walk 50 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 80
+---
+
 # Bone Devil
 
 *Large* *Fiend*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Sting:** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 13 (2d8 + 4) piercing damage plus 14 (4d6) poison damage, and the target makes a DC 15 Constitution saving throw, becoming poisoned for 1 minute on a failure. The target can repeat this saving throw at the end of each of its turns, ending the effect on a success.
-
-

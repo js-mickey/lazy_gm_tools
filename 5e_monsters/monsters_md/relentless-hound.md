@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Relentless Hound
+size: Medium
+type: Undead
+alignment: chaotic neutral
+cr: 4
+xp: 1,100
+hp: 52
+hp_roll: 8d8+16
+ac: 12
+speed: walk 40 ft. fly 20 ft.
+senses: darkvision 60 ft 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 331
+---
+
 # Relentless Hound
 
 *Medium* *Undead* *chaotic neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Multiply (3/Day):** When it takes damage while below half its hp max it creates a spectral hound. Spectral hound uses the stats of a shadow except it doesn’t have Sunlight Weakness trait and can’t make new shadows when it kills Humanoids. It appears in an unoccupied space within 5 ft. of the relentless hound and acts on same initiative as that hound. After spectral hound finishes a long rest it becomes a relentless hound.
-
-

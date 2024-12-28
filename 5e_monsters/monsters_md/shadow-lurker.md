@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Lurker
+size: Medium
+type: Fey
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 84
+hp_roll: 13d8+26
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 342
+---
+
 # Shadow Lurker
 
 *Medium* *Fey* *chaotic evil*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Shadow’s Embrace:** Dim light/darkness: Hide action.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Bronze Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 18
+xp: 20,000
+hp: 287
+hp_roll: 23d12+138
+ac: 18
+speed: walk 40 ft. fly 80 ft. swim 60 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 161
+---
+
 # Adult Bronze Dragon
 
 *Huge* *Dragon*

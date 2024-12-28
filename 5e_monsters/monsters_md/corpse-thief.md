@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Corpse Thief
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 30
+hp_roll: 4d8+12
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 66
+---
+
 # Corpse Thief
 
 *Medium* *Humanoid* *neutral*
@@ -27,5 +46,3 @@
 - **Multiattack:** The corpse thief makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Steal:** The corpse thief targets one creature within 5 feet of it and attempts to steal one small item. The target must succeed on a DC 13 Dexterity saving throw or lose one non-weapon, non-armor object that is small enough to fit in one hand.
-
-

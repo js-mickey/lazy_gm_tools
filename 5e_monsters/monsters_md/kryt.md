@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kryt
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 120
+hp_roll: 16d8+48
+ac: 15
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 243
+---
+
 # Kryt
 
 *Medium* *Humanoid* *neutral evil*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Haunting Vision:** When a kryt is attacked by a creature it can see within 30 feet of it, the kryt can haunt the creature with a vision of the creature's death. The haunted creature has disadvantage on its next attack roll. Undead creatures and creatures that are unable to be killed are immune to this reaction.
-
-

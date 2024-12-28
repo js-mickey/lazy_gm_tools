@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Uridimmu
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 14
+xp: 11,500
+hp: 150
+hp_roll: 12d10+84
+ac: 18
+speed: walk 30 ft. fly 90 ft.
+senses: truesight 90 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 19
+---
+
 # Uridimmu
 
 *Large* *Celestial* *lawful good*
@@ -35,5 +54,3 @@ At will: detect evil and good, light, protection from evil and good
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.
 - **Mace:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) bludgeoning damage plus 18 (4d8) fire, lightning, or radiant damage.
 - **Heavenly Roar (Recharge 5-6):** The uridimmu can unleash a powerful roar imbued with divine power in a 30-foot cone. A target caught within this cone must make a DC 18 Constitution saving throw, taking 45 (10d8) thunder damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the target is also frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Fiends have disadvantage on this saving throw.
-
-

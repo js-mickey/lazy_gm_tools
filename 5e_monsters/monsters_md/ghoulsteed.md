@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghoulsteed
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 85
+hp_roll: 10d10+30
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 177
+---
+
 # Ghoulsteed
 
 *Large* *Undead* *neutral evil*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** A ghoulsteed makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage and the ghoulsteed gains 5 (1d10) temporary hp. These temporary hp stack with each other, but the ghoulsteed can only have a maximum of 10 temporary hp at one time.
-
-

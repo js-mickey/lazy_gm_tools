@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brownie Beastrider
+size: Tiny
+type: Fey
+alignment: neutral good
+cr: 3
+xp: 700
+hp: 54
+hp_roll: 12d4+24
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 68
+---
+
 # Brownie Beastrider
 
 *Tiny* *Fey* *neutral good*
@@ -30,5 +49,3 @@
 - **Domestic Magic:** Wis no material components: At will: mending and prestidigitation
 - **Invisibility:** Magically turns invisible until it attacks uses Domestic Magic or Beasts of the Forest or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it.
 - **Beasts of the Forest (1/Day):** Magically calls 2d4 hawks or ravens or it calls 1 black bear or wolf. Called creatures arrive in 1d4 rounds acting as allies of brownie and obeying its spoken commands. The Beasts remain for 1 hr until brownie dies or until brownie dismisses them as a bonus action.
-
-

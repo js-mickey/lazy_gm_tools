@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crab, Samurai
+size: Medium
+type: Beast
+alignment: lawful neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 16
+speed: walk 30 ft. swim 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 99
+---
+
 # Crab, Samurai
 
 *Medium* *Beast* *lawful neutral*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Fighting Stance:** Adopts a fighting stance choosing from the options below. The stance lasts until the crab ends it (no action required) or uses this bonus action again.Banded Claw. Adopts a wide grappler’s stance. While the samurai crab is in this stance each creature that starts its turn grappled by the crab takes 3 (1d6) bludgeoning damage.Hard Shell. Defensive stance increasing its AC by 2.Soft Shell. Adopts an offensive stance gaining advantage on the first Crustaceous Sword attack it makes each turn.
-
-

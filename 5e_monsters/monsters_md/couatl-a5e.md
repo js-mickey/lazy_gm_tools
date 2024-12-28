@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Couatl
+size: Medium
+type: Celestial
+alignment: 
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d8+40
+ac: 16
+speed: walk 30 ft. fly 90 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 56
+---
+
 # Couatl
 
 *Medium* *Celestial*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Shielding Wing:** When the couatl or a creature within 5 feet is attacked, the couatl can interpose a wing and impose disadvantage on the attack.
-
-

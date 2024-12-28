@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Simurg
+size: Gargantuan
+type: Celestial
+alignment: neutral good
+cr: 5
+xp: 1,800
+hp: 108
+hp_roll: 8d20+24
+ac: 15
+speed: fly 80 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 339
+---
+
 # Simurg
 
 *Gargantuan* *Celestial* *neutral good*
@@ -33,5 +52,3 @@ At will: detect poison and disease, detect thoughts, spare the dying
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Forceful Gale (Recharge 5-6):** The simurg beats its wings, creating wind in a 30-foot cone. Each creature in that area must make a DC 15 Strength saving throw. On a failure, a creature takes 27 (6d8) bludgeoning damage, is pushed 10 feet away from the simurg and is knocked prone. On a success, a creature takes half the damage and isn't pushed or knocked prone.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wind Eater
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 2
+xp: 450
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 381
+---
+
 # Wind Eater
 
 *Medium* *Undead* *lawful evil*
@@ -34,5 +53,3 @@ At will: silent image
 
 - **Multiattack:** The wind eater makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
-
-

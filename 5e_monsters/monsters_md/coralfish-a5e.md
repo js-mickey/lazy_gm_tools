@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Coralfish
+size: Small
+type: Monstrosity
+alignment: 
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d6+6
+ac: 12
+speed: walk 20 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 55
+---
+
 # Coralfish
 
 *Small* *Monstrosity*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Frenzy (1/Day):** When attacked by a creature it can see within 20 feet, the cockatrice moves up to half its Speed and makes a bite attack against that creature.
-
-

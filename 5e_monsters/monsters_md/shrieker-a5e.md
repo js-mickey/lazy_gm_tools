@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shrieker
+size: Medium
+type: Plant
+alignment: 
+cr: 0
+xp: 25
+hp: 13
+hp_roll: 3d8
+ac: 5
+speed: walk 0 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 6
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 212
+---
+
 # Shrieker
 
 *Medium* *Plant*
@@ -25,5 +44,3 @@
 ### Reactions
 
 - **Shriek:** If the shrieker perceives a creature within 30 feet  or if an area of bright light is within 30 feet  it shrieks loudly and continuously. The shriek is audible within 300 feet. The shrieker continues to shriek for 1 minute after the creature or light has moved away.
-
-

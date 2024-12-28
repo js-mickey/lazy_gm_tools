@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Knight Ab-errant
+size: Large
+type: Humanoid
+alignment: any alignment
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d10+33
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 231
+---
+
 # Knight Ab-errant
 
 *Large* *Humanoid* *any alignment*
@@ -30,5 +49,3 @@
 - **Multiattack:** The knight ab-errant makes two melee attacks: one with its sweeping maul and one with its fist.
 - **Sweeping Maul:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 18 (4d6 + 4) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
 - **Fist:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
-
-

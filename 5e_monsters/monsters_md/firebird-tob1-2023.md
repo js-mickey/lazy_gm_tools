@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Firebird
+size: Small
+type: Celestial
+alignment: Neutral Good
+cr: 4
+xp: 1,100
+hp: 88
+hp_roll: 32
+ac: 16
+speed: walk 60 ft. fly 20 ft.
+senses: truesight 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 187
+---
+
 # Firebird
 
 *Small* *Celestial* *Neutral Good*

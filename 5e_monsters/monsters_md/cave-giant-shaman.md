@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Giant Shaman
+size: Huge
+type: Giant
+alignment: chaotic evil
+cr: 14
+xp: 11,500
+hp: 207
+hp_roll: 18d12+90
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 171
+---
+
 # Cave Giant Shaman
 
 *Huge* *Giant* *chaotic evil*
@@ -36,5 +55,3 @@ Cantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking 
 - **Club:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (3d4 + 8) bludgeoning damage.
 - **Tusks:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 22 (4d6 + 8) slashing damage, and, if the target is a Large or smaller creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
 - **Rock:** Ranged Weapon Attack: +13 to hit, range 60/240 ft., one creature. Hit: 30 (4d10 + 8) bludgeoning damage.
-
-

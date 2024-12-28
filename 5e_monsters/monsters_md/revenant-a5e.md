@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Revenant
+size: Medium
+type: Undead
+alignment: 
+cr: 5
+xp: 1,800
+hp: 110
+hp_roll: 13d8+52
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 371
+---
+
 # Revenant
 
 *Medium* *Undead*
@@ -32,5 +51,3 @@
 - **Multiattack:** The revenant makes two strangle attacks. It can replace one attack with Burning Hatred  if available.
 - **Strangle:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is grappled (escape DC 15) if its a Large or smaller creature. Until this grapple ends  the creature can't breathe  and the revenant can't strangle any other creature.
 - **Burning Hatred (Recharge 4-6):** The revenant targets the focus of its Fearsome Pursuit  assuming the creature is within 30 feet. The target makes a DC 15 Wisdom saving throw. On a failure  it takes 14 (4d6) psychic damage and is paralyzed until the end of its next turn. On a success  it takes half damage and is frightened until the end of its next turn.
-
-

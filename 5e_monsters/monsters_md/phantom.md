@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Phantom
+size: Medium
+type: Undead
+alignment: any alignment
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 5d8
+ac: 11
+speed: fly 40 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 296
+---
+
 # Phantom
 
 *Medium* *Undead* *any alignment*
@@ -28,5 +47,3 @@
 
 - **Ghostly Grasp:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 7 (2d6) necrotic damage.
 - **Chilling Moan (Recharge 5-6):** The phantom emits an eerie moan. Each creature within 30 feet that isn't an undead or a construct must make a DC 13 Wisdom saving throw. On a failure, the target takes 9 (2d8) cold damage and is frightened until the end of the phantom's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. On a success, the target takes half the damage and isn't frightened.
-
-

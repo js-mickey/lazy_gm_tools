@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xiphus
+size: Small
+type: Fey
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 55
+hp_roll: 10d6+20
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 388
+---
+
 # Xiphus
 
 *Small* *Fey* *chaotic evil*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Borrowed Time (Recharges after a Short or Long Rest):** If damage is dealt to a xiphus that would kill it, it can attempt to temporarily borrow time from another creature to avoid death. One creature the xiphus can see within 30 feet of it must succeed on a DC 16 Constitution saving throw or take 10 (3d6) necrotic damage, and the xiphus regains hp equal to the damage taken. The target is stable and doesn't die if this effect reduces its hp to 0. After 2 rounds, the xiphus takes necrotic damage, and the target regains hp, equal to the original amount borrowed.
-
-

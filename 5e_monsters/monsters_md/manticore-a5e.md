@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Manticore
+size: Large
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 68
+hp_roll: 8d10+24
+ac: 14
+speed: walk 30 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 320
+---
+
 # Manticore
 
 *Large* *Monstrosity*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Tail Whip:** If a creature the manticore can see hits it with a melee attack, the manticore attacks the attacker with its tail. If it hits, it can fly up to half its fly speed without provoking opportunity attacks from the attacker.
-
-

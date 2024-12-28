@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sooze
+size: Medium
+type: Aberration
+alignment: lawful neutral
+cr: 1/2
+xp: 100
+hp: 49
+hp_roll: 11d8
+ac: 12
+speed: climb 10 ft. walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 287
+---
+
 # Sooze
 
 *Medium* *Aberration* *lawful neutral*
@@ -29,5 +48,3 @@
 - **Oozing Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage and 2 (1d4) acid damage.
 - **Longsword (Warrior Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 - **Merge:** A shoth who has less than half its maximum hp can merge with any other shoth creature within 10 feet, adding its remaining hp to that creature's. The hp gained this way can exceed the normal maximum of that creature. A shoth can accept one such merger every 24 hours.
-
-

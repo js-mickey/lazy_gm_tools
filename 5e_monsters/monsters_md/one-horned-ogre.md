@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: One-Horned Ogre
+size: Large
+type: Giant
+alignment: evil alignment
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d10+33
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 274
+---
+
 # One-Horned Ogre
 
 *Large* *Giant* *any evil alignment*
@@ -30,5 +49,3 @@
 - **Greatsword:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 19 (4d6 + 5) slashing damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 - **Fiendish Horn Blast:** The one-horned ogre directs the power of its horn at a target it can see within 30 feet of it. The target must make a DC 15 Wisdom saving throw. On a failure, the target takes 10 (3d6) psychic damage and suffers a condition for 1 minute based on the color of the ogre’s horn: blinded (black), charmed (crimson), or frightened (white). On a success, the target takes half the damage and doesn’t suffer the condition. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: King Kobold
+size: Small
+type: Humanoid
+alignment: lawful neutral
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 25d6+25
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 162
+---
+
 # King Kobold
 
 *Small* *Humanoid* *lawful neutral*
@@ -38,5 +57,3 @@ Cantrips (at will): fire bolt, mage hand, minor illusion, poison spray
 ### Reactions
 
 - **Uncanny Dodge:** The king kobold halves the damage from one attack that hits it. To do so, it must see the attacker.
-
-

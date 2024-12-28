@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Frilled Lizard
+size: Large
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d10+28
+ac: 16
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 392
+---
+
 # Giant Frilled Lizard
 
 *Large* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 - **Multiattack:** The giant frilled lizard makes one bite attack and one tail attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 10 (4d4) poison damage.
 - **Tail:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spire Walker
+size: Tiny
+type: Fey
+alignment: Chaotic Neutral
+cr: 3
+xp: 700
+hp: 49
+hp_roll: 22
+ac: 16
+speed: walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 347
+---
+
 # Spire Walker
 
 *Tiny* *Fey* *Chaotic Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampire Patrician
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 10
+xp: 5,900
+hp: 119
+hp_roll: 14d8+56
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 365
+---
+
 # Vampire Patrician
 
 *Medium* *Undead* *lawful evil*
@@ -42,5 +61,3 @@ Sunlight Hypersensitivity. The patrician takes 20 radiant damage when it starts 
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire patrician, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the patrician regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire patrician's control.
 - **Bone-Chilling Gaze:** The vampire patrician targets one humanoid it can see within 30 feet. If the target can see the patrician, the target must succeed on a DC 17 Charisma saving throw or become paralyzed with fear until the end of its next turn.
 - **Release the Hounds! (1/Day):** The vampire patrician calls 4d6 hunting hounds (use mastiff statistics) to its side. While outdoors, the vampire patrician can call 4d6 hunting raptors (use blood hawk statistics) instead. These creatures arrive in 1d4 rounds, helping the patrician and obeying its spoken commands. The beasts remain for 1 hour, until the patrician dies, or until the patrician dismisses them as a bonus action.
-
-

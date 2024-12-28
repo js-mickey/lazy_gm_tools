@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nkosi
+size: Medium
+type: Humanoid
+alignment: Shapechanger
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 5
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 286
+---
+
 # Nkosi
 
 *Medium* *Humanoid* *Shapechanger)*

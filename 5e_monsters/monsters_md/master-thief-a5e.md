@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Master Thief
+size: Medium
+type: Humanoid
+alignment: 
+cr: 17
+xp: 18,000
+hp: 143
+hp_roll: 22d8+44
+ac: 18
+speed: walk 30 ft.
+senses: blindsight 20 ft. darkvision 60 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 469
+---
+
 # Master Thief
 
 *Medium* *Humanoid*
@@ -36,5 +55,3 @@
 - **Cunning Action:** The assassin takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The assassin attacks with their shortsword.
 - **Master thieves pride themselves on being able to steal anything:** Many master thieves avoid killing when possible.
-
-

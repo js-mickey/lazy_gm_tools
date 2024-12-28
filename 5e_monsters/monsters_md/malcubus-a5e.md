@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Malcubus
+size: Medium
+type: Fiend
+alignment: 
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 14
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 319
+---
+
 # Malcubus
 
 *Medium* *Fiend*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Living Shield:** When a creature the malcubus can see hits it with an attack, the malcubus can give an order to a creature charmed by it within 5 feet. The charmed creature uses its reaction, if available, to swap places with the malcubus. The attack hits the charmed creature instead of the malcubus.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nihilethic Dominator
+size: Large
+type: Undead
+alignment: Neutral Evil
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 33
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 10
+---
+
 # Nihilethic Dominator
 
 *Large* *Undead* *Neutral Evil*

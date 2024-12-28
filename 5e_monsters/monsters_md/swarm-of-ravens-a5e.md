@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Ravens
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 17
+hp_roll: 5d8-5
+ac: 12
+speed: walk 10 ft. fly 50 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 461
+---
+
 # Swarm of Ravens
 
 *Medium* *Beast*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Beaks:** Melee Weapon Attack: +4 to hit  reach 0 ft.  one target. Hit: 7 (2d6) piercing damage  or 3 (1d6) piercing damage if the swarm is bloodied.
-
-

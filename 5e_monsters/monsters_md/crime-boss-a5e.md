@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crime Boss
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 127
+hp_roll: 15d8+60
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 496
+---
+
 # Crime Boss
 
 *Medium* *Humanoid*
@@ -28,5 +47,3 @@
 - **Command Bodyguard:** When the boss would be hit by an attack, they command an ally within 5 feet to use its reaction to switch places with the boss. The ally is hit by the attack instead of the boss.
 - **Offhand Dagger:** When missed by an attack, the boss makes a dagger attack.
 - **A crime boss has risen to the top of a criminal gang or guild:** Theyre tough in a fight but too smart to do their own dirty work unless absolutely necessary.
-
-

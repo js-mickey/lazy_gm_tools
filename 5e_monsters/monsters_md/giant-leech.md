@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Leech
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 2d6
+ac: 13
+speed: swim 30 ft. walk 15 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 393
+---
+
 # Giant Leech
 
 *Small* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the leech attaches to the target. While attached, the leech doesn’t attack. Instead, at the start of each of the leech’s turns, the target loses 5 (1d4 + 3) hp due to blood loss.<br><br>The leech can detach itself by spending 5 feet of its movement. It does so after it drains 15 hp of blood from the target or the target dies. A creature, including the target, can use its action to detach the leech.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kallikantzaros
+size: Small
+type: Fey
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 59
+hp_roll: 17d6
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 233
+---
+
 # Kallikantzaros
 
 *Small* *Fey* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Handsaw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage. The handsaw does an extra die of damage against a target that is wearing no armor.
 - **Spear:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 - **Misery Whip:** Two kallikantzaros can combine their actions to move up to their speed with a 5-foot, two-person saw held between them and attack a single creature in their path. The target must succeed on a DC 13 Dexterity saving throw or take 9 (2d6 + 2) slashing damage. If the creature is Large or smaller, it must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is knocked prone, each kallikantzaros may make a handsaw attack against it as a bonus action.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Niya-Atha Sorcerer
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 66
+hp_roll: 12d8+12
+ac: 13
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 290
+---
+
 # Niya-Atha Sorcerer
 
 *Medium* *Fey* *lawful neutral*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Enlarge:** Magically increases in size along with anything it is wearing or carrying. While enlarged it is Large doubles its damage dice on weapon attacks (included above) and makes Str checks and Str saves with advantage. While enlarged it also can no longer use the Summon Iceberg action. If it lacks the room to become Large this action fails.
-
-

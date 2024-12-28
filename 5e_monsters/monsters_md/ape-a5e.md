@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ape
+size: Medium
+type: Beast
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 12
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 438
+---
+
 # Ape
 
 *Medium* *Beast*
@@ -21,5 +40,3 @@
 - **Multiattack:** The ape attacks twice with its fists.
 - **Fists:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 5 (1d4+3) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +5 to hit  range 25/50 ft.  one target. Hit: 6 (1d6+3) bludgeoning damage.
-
-

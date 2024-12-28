@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Warhordling Orc Warrior
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 499
+---
+
 # Warhordling Orc Warrior
 
 *Medium* *Humanoid*
@@ -24,5 +43,3 @@
 
 - **Aggressive Charge:** The warrior moves up to their Speed towards an enemy they can see or hear.
 - **Warhordling orc warriors form the bulk of orc hordes:** When war chiefs whip them into a frenzy, they fearlessly charge any foe.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Azeban
+size: Medium
+type: Fey
+alignment: chaotic neutral
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 16
+speed: climb 30 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 44
+---
+
 # Azeban
 
 *Medium* *Fey* *chaotic neutral*
@@ -34,5 +53,3 @@ At will: dancing lights, disguise self, faerie fire, minor illusion
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Ear-Splitting Yawp (Recharge 5-6):** The azeban emits a piercing yell in a 15-foot cone. Each creature in the area must make a DC 14 Constitution saving throw. On a failure, a target takes 21 (6d6) thunder damage and is deafened for 1 minute. On a success, a creature takes half the damage but isn't deafened. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw. A nonmagical object that isn't being worn or carried also takes the damage if it's in the area.
-
-

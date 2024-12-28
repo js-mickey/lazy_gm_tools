@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shantak
+size: Large
+type: Monstrosity
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 123
+hp_roll: 13d10+52
+ac: 16
+speed: fly 60 ft. walk 10 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 328
+---
+
 # Shantak
 
 *Large* *Monstrosity* *lawful evil*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 5 (1d10) necrotic damage.
 - **Talons:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage plus 5 (1d10) necrotic damage.
 - **Insane Tittering (Recharge 4-6):** The shantak emits a horrific screech. Each non-shantak creature within 60 feet of it that can hear it must succeed on a DC 15 Constitution saving throw or be frightened until the end of the shantak's next turn. The shantak can choose to include or exclude its rider when using this action.
-
-

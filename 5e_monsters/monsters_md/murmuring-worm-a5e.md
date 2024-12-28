@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Murmuring Worm
+size: Huge
+type: Aberration
+alignment: 
+cr: 12
+xp: 8,400
+hp: 195
+hp_roll: 17d12+85
+ac: 16
+speed: walk 40 ft. burrow 20 ft. climb 40 ft. swim 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 245
+---
+
 # Murmuring Worm
 
 *Huge* *Aberration*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Mental Summons:** One creature with an Intelligence score greater than 3 within 120 feet makes a DC 16 Wisdom saving throw. On a failure, it uses its reaction to move up to its Speed towards the worm by the shortest route possible, avoiding hazards but not opportunity attacks. This is a magical charm effect.
-
-

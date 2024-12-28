@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lesser Lunarchidna
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 15
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 242
+---
+
 # Lesser Lunarchidna
 
 *Medium* *Aberration* *neutral evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The lunarchidna makes one bite attack and two claw attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 12 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gold Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 17
+speed: walk 30 ft. fly 60 ft. swim 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 173
+---
+
 # Gold Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -23,5 +42,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten gold in a 15-foot cone. Each creature in the area makes a DC 13 Dexterity saving throw  taking 22 (4d10) fire damage on a failed save or half damage on a success.
 - **Slowing Breath:** The dragon exhales gas in a 15-foot cone. Each creature in the area must succeed on a DC 13 Strength saving throw or suffer disadvantage on weapon attack rolls for 1 minute. A weakened creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
-
-

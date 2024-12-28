@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Barbed Devil
+size: Medium
+type: Fiend
+alignment: 
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 12d8+48
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 78
+---
+
 # Barbed Devil
 
 *Medium* *Fiend*
@@ -33,5 +52,3 @@
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage. If both claw attacks hit the same Medium or smaller creature  it is grappled (escape DC 15). While the target is grappled  this attack may be used only against the grappled creature and has advantage against that creature.
 - **Tail:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target the devil is not grappling. Hit: 10 (2d6 + 3) piercing damage.
 - **Hurl Flame:** Ranged Spell Attack: +6 to hit  range 150 ft.  one target. Hit: 10 (3d6) fire damage. If the target is a creature  it catches on fire  taking 5 (1d10) ongoing fire damage. If the target is an unattended flammable object  it catches on fire. A creature can use an action to extinguish this fire.
-
-

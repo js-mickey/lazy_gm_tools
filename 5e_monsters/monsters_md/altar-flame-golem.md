@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Altar Flame Golem
+size: Large
+type: Construct
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 152
+hp_roll: 16d10+64
+ac: 16
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 193
+---
+
 # Altar Flame Golem
 
 *Large* *Construct* *neutral*
@@ -33,5 +52,3 @@
 - **Multiattack:** The altar flame golem makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 11 (2d10) fire damage.
 - **Flame Breath (Recharge 5-6):** The golem breathes fire in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 36 (8d8) fire damage on a failed save, or half as much damage on a successful one.
-
-

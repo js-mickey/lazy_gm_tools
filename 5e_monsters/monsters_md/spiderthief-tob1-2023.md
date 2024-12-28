@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spider Thief
+size: Small
+type: Construct
+alignment: Unaligned
+cr: 2
+xp: 450
+hp: 66
+hp_roll: 24
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 342
+---
+
 # Spider Thief
 
 *Small* *Construct* *Unaligned*

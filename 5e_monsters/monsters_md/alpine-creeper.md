@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alpine Creeper
+size: Huge
+type: Plant
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 95
+hp_roll: 10d12+30
+ac: 5
+speed: walk 15 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 7
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 19
+---
+
 # Alpine Creeper
 
 *Huge* *Plant* *unaligned*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Lethargic Stupor:** One unconscious Humanoid or Giant in creeper’s space suffers one level of exhaustion. A creature with more than half its hp max can’t suffer more than one level of exhaustion from this. This exhaustion lasts until creature finishes short rest.
-
-

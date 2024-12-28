@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lunar Devil
+size: Large
+type: Fiend
+alignment: Lawful Evil
+cr: 8
+xp: 3,900
+hp: 94
+hp_roll: 45
+ac: 16
+speed: walk 60 ft. fly 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 98
+---
+
 # Lunar Devil
 
 *Large* *Fiend* *Lawful Evil*

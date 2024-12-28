@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troll, Tumor
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 125
+hp_roll: 10d10+70
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 375
+---
+
 # Troll, Tumor
 
 *Large* *Giant* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 7 (1d6+4) piercing damage + 3 (1d6) poison.
 - **Claw:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) piercing damage.
 - **Fling Limb:** Ranged Weapon Attack: +7 to hit 20/60' one target 9 (2d4+4) bludgeoning damage + 7 (2d6) poison. Remove a teratoma from itself if it has one.
-
-

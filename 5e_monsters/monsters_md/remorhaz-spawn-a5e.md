@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Remorhaz Spawn
+size: Large
+type: Monstrosity
+alignment: 
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 10d10+40
+ac: 14
+speed: walk 30 ft. burrow 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 369
+---
+
 # Remorhaz Spawn
 
 *Large* *Monstrosity*
@@ -27,5 +46,3 @@
 - **Multiattack:** The remorhaz makes a bite attack and then a constrict attack.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.
 - **Constrict:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) bludgeoning damage  and the target is subjected to the remorhazs Heated Body trait. The target is grappled (escape DC 15) and restrained while grappled. Until this grapple ends  the remorhaz can't grapple another creature.
-
-

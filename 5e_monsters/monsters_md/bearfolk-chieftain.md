@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bearfolk Chieftain
+size: Medium
+type: Humanoid
+alignment: chaotic good
+cr: 6
+xp: 2,300
+hp: 130
+hp_roll: 20d8+40
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 51
+---
+
 # Bearfolk Chieftain
 
 *Medium* *Humanoid* *chaotic good*
@@ -30,5 +49,3 @@
 - **Battleaxe:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage, or 16 (2d10 + 5) slashing damage if used two-handed.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 - **Leadership (Recharges after a Short or Long Rest):** For 1 minute, the bearfolk chieftain can, as a reaction, utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll, provided it can hear and understand the bearfolk chieftain. A creature can benefit from only one Leadership die at a time. This effect ends if the bearfolk chieftain is incapacitated.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Parzz’val
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 115
+hp_roll: 11d10+55
+ac: 14
+speed: walk 50 ft.
+senses: blindsight 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 292
+---
+
 # Parzz’val
 
 *Large* *Aberration* *chaotic evil*
@@ -36,5 +55,3 @@ The web persists for 1 minute before collapsing. The parzz’val is immune to th
 - **Multiattack:** The parzz’val makes three attacks: one with its oversized maw and two with its oversized fists.
 - **Oversized Fist:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (2d4 + 5) bludgeoning damage.
 - **Oversized Maw:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) piercing damage plus 4 (2d8) acid damage. If the target is a Medium or smaller creature, it must succeed on a DC 16 Dexterity saving throw or be swallowed by the parzz’val. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the parzz’val, and it takes 18 (4d8) acid damage at the start of each of the parzz’val’s turns. A parzz’val can have only one creature swallowed at a time.<br><br>If the parzz’val takes 15 damage or more on a single turn from a creature inside it, the parzz’val must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the parzz’val. If the parzz’val dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.
-
-

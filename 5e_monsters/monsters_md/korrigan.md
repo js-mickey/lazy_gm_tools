@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Korrigan
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d6+24
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 242
+---
+
 # Korrigan
 
 *Small* *Fey* *chaotic neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Catch Me If You Can:** When a creature moves within 5 feet of the korrigan, the korrigan can cast the misty step spell.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Rakshasa
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 15
+xp: 13,000
+hp: 144
+hp_roll: 17d8+68
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 0
+---
+
 # Greater Rakshasa
 
 *Medium* *Fiend* *lawful evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Heavy Cavalry
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 75
+hp_roll: 10d8+30
+ac: 19
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 0
+---
+
 # Heavy Cavalry
 
 *Medium* *Humanoid* *lawful neutral*
@@ -29,5 +48,3 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
 - **Trample (Mounted Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage and the target must succeed on a DC 13 Strength saving throw or be knocked prone.
 - **Fire Breath (Recharges after a Short or Long Rest):** The dragonborn breathes fire in a 15-foot cone. All creatures in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

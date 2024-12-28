@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Necrophage Ghast
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 65
+hp_roll: 10d8+20
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 175
+---
+
 # Necrophage Ghast
 
 *Medium* *Undead* *chaotic evil*
@@ -33,5 +52,3 @@ Cantrips (at will): friends, mage hand, poison spray, prestidigitation
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

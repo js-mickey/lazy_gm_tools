@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grimlock Technical
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 13
+hp_roll: 2d8+4
+ac: 12
+speed: walk 30 ft.
+senses: blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius) 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 258
+---
+
 # Grimlock Technical
 
 *Medium* *Humanoid*
@@ -29,5 +48,3 @@
 - **Sling:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
 - **Silenced Blunderbuss:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 11 (2d8 + 2) piercing damage. The blunderbuss fires with a cloud of smoke and a quiet pop that can be heard from 30 feet away. It requires an action to reload the blunderbuss.
 - **Smoke Bomb (3/Day):** The grimlock throws a vial at a point up to 20 feet away. The area within 30 feet of that point is heavily obscured for 1 minute or until cleared by a strong wind.
-
-

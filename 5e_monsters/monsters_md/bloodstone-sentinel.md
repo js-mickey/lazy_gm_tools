@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bloodstone Sentinel
+size: Large
+type: Construct
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 114
+hp_roll: 11d10+48
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 45
+---
+
 # Bloodstone Sentinel
 
 *Large* *Construct* *neutral evil*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The bloodstone sentinel makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scarsupial
+size: Small
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d6+18
+ac: 13
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 339
+---
+
 # Scarsupial
 
 *Small* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Scrabble:** Takes the Dash or Disengage action
-
-

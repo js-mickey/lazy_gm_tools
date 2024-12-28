@@ -1,3 +1,27 @@
+---
+document-type: statblock
+name: Spawn of Chernobog
+The creature can't speak, and its tongue turns black.
+The creature's eyes turn a deep red, and it gains darkvision 60 feet and the Sunlight Sensitivity trait. 
+The creature secretes black oil from its skin, and it has advantage on ability checks and saving throws made to escape a grapple.
+The creature's veins turn black, slowly working their way up through the body from the appendages over 24 hours. 
+When the blackened veins reach its head after the final long rest, the creature experiences excruciating, stabbing pains in its temples. At sunset, the creature dies as the antlers of an elk burst from its head. The oil secreting from the corpse pools and forms a spawn of Chernobog at midnight.
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 95
+hp_roll: 10d10+40
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 347
+---
+
 # Spawn of Chernobog
 
 *Large* *Fiend* *chaotic evil*
@@ -34,5 +58,3 @@
 - **Multiattack:** The spawn of Chernobog makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) piercing damage, and the creature must succeed on a DC 14 Constitution saving throw or become infected with the night's blood disease (see the Night's Blood trait).
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
-
-

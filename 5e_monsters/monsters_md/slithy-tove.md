@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Slithy Tove
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 91
+hp_roll: 14d6+42
+ac: 15
+speed: walk 40 ft. burrow 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 347
+---
+
 # Slithy Tove
 
 *Small* *Monstrosity* *unaligned*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Hidden Step:** Magically teleports along with any equipment it is wearing or carrying up to 30' to an unoccupied space it can see and takes the Hide action.
-
-

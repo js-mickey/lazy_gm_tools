@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rime Worm
+size: Large
+type: Elemental
+alignment: Unaligned
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 48
+ac: 15
+speed: walk 30 ft. burrow 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 308
+---
+
 # Rime Worm
 
 *Large* *Elemental* *Unaligned*

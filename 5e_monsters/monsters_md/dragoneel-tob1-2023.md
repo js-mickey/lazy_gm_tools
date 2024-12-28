@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon Eel
+size: Huge
+type: Dragon
+alignment: Neutral
+cr: 12
+xp: 8,400
+hp: 195
+hp_roll: 85
+ac: 18
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 111
+---
+
 # Dragon Eel
 
 *Huge* *Dragon* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yathon
+size: Large
+type: Humanoid
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 152
+hp_roll: 16d10+64
+ac: 15
+speed: fly 60 ft. walk 30 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 378
+---
+
 # Yathon
 
 *Large* *Humanoid* *neutral*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Precognition (Recharge 6):** The yathon catches a glimpse of an attack just before it lands, giving it time to react. When a creature the yathon can see hits it with a melee attack, the attacker has disadvantage on the attack roll. Alternatively, when the yathon misses with a melee weapon attack, it can reroll the attack roll with advantage.
-
-

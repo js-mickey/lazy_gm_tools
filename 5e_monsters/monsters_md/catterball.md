@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Catterball
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8d6+16
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 76
+---
+
 # Catterball
 
 *Small* *Fey* *chaotic neutral*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Change Form:** Can extend its body roll up into a ball or return to true form. Each time it extends its body its reach with slam increases by 5 feet max 15 feet and Armor Class decreases by 1.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gearforged Templar
+size: Medium
+type: Construct
+alignment: Lawful Neutral
+cr: 6
+xp: 2,300
+hp: 71
+hp_roll: 22
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 195
+---
+
 # Gearforged Templar
 
 *Medium* *Construct* *Lawful Neutral*

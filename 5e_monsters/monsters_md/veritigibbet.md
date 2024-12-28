@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Veritigibbet
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 4
+xp: 1,100
+hp: 63
+hp_roll: 14d6+14
+ac: 14
+speed: walk 30 ft. fly 60 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 384
+---
+
 # Veritigibbet
 
 *Small* *Fey* *chaotic neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Liar Liar:** When a creature lies while within 30' of the veritigibbet that creature: 3 (1d6) fire and it ignites (DC 14 Dex negates). Until creature uses action to douse the fire target takes 3 (1d6) fire at start of each of its turns.
-
-

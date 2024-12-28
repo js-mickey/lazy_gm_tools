@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Behir Magus
+size: Huge
+type: Monstrosity
+alignment: 
+cr: 12
+xp: 8,400
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 60 ft. climb 40 ft. swim 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 
+---
+
 # Behir Magus
 
 *Huge* *Monstrosity*
@@ -37,5 +56,3 @@
 - **Blindness (1/Day):** When struck by a ranged or area attack by a creature within 60 feet that it can see, the behir forces the attacker to make a DC 13 Constitution saving throw. On a failure, the creature is magically blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns.
 - **Invisibility (1/Day):** When damaged by an attack, the behir magically becomes invisible for 1 minute or until it makes an attack.
 - **Drain Charge (1/Day):** When subjected to lightning damage, the behir takes no damage, and the attacker or caster takes necrotic damage equal to the lightning damage dealt.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Faerie Dragon Familiar
+size: Tiny
+type: Dragon
+alignment: 
+cr: 1
+xp: 200
+hp: 14
+hp_roll: 4d4+4
+ac: 15
+speed: walk 10 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 205
+---
+
 # Faerie Dragon Familiar
 
 *Tiny* *Dragon*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Invisibility:** The dragon and any equipment it wears or carries magically turns invisible. This invisibility ends if the dragon falls unconscious, dismisses the effect, or uses Bite, Euphoria Breath, Prismatic Light, or Beast Form.
-
-

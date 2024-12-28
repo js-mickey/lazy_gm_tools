@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nariphon
+size: Huge
+type: Plant
+alignment: neutral
+cr: 13
+xp: 10,000
+hp: 195
+hp_roll: 17d12+85
+ac: 10
+speed: walk 15 ft.
+senses: tremorsense 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 285
+---
+
 # Nariphon
 
 *Huge* *Plant* *neutral*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Bury:** One creature grappled by nariphon is knocked prone dragged into ground and buried just below surface ending grapple. Victim is restrained unable to breathe or stand up. Creature including victim can use action to free buried creature via DC 18 Str.
-
-

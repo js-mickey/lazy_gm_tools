@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cueyatl
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d6
+ac: 11
+speed: climb 20 ft. swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 68
+---
+
 # Cueyatl
 
 *Small* *Humanoid* *lawful evil*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Spear:** Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage plus 7 (2d6) poison damage or 4 (1d8) piercing damage plus 7 (2d6) poison damage if used with two hands to make a melee attack.
-
-

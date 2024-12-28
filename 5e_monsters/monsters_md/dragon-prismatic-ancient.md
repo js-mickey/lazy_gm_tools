@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Prismatic Ancient
+size: Gargantuan
+type: Dragon
+alignment: neutral
+cr: 21
+xp: 33,000
+hp: 407
+hp_roll: 22d20+176
+ac: 20
+speed: walk 50 ft. climb 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 27
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 140
+---
+
 # Dragon, Prismatic Ancient
 
 *Gargantuan* *Dragon* *neutral*

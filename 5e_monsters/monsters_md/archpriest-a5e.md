@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archpriest
+size: Medium
+type: Humanoid
+alignment: 
+cr: 16
+xp: 15,000
+hp: 150
+hp_roll: 20d8+60
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 487
+---
+
 # Archpriest
 
 *Medium* *Humanoid*
@@ -73,5 +92,3 @@
 - **Fewer than 20 hit points: instantly killed outright:** 
 - **Additionally:** Such a creature does not suffer this effect if it is already on its plane of origin. The archpriest can't cast this spell and a 1st-level or higher spell on the same turn.
 - **Archpriests head religious orders and often serve on a monarchs council:** Sometimes an archpriest is the highest-ranking leader in the land, and they are often considered the direct mouthpieces of their gods by those who worship.
-
-

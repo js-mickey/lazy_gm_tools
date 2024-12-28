@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dretch
+size: Small
+type: Fiend
+alignment: 
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d6+4
+ac: 10
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 67
+---
+
 # Dretch
 
 *Small* *Fiend*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ouroban
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 11
+xp: 7,200
+hp: 209
+hp_roll: 38d8+38
+ac: 18
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 293
+---
+
 # Ouroban
 
 *Medium* *Humanoid* *neutral evil*
@@ -36,5 +55,3 @@
 - **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Fire Breath (Recharge after a Short or Long Rest):** The ouroban exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 - **Abyssal Fires (Recharges after a Short or Long Rest):** The ouroban summons green flames under up to five creatures within 30 feet of it. Each target must succeed on a DC 17 Dexterity saving throw or take 18 (4d8) fire damage and be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.<br><br>The ouroban has advantage on attack rolls and ability checks against a creature poisoned by its Abyssal Fires.
-
-

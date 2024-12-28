@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Fixer
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 407
+---
+
 # Npc: Fixer
 
 *Medium* *Humanoid* *lawful neutral*
@@ -26,5 +45,3 @@
 - **Shortsword:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 5 (1d6+2) piercing damage + 3 (1d6) poison.
 - **Hand Crossbow:** Ranged Weapon Attack: +4 to hit 30/120' one target 5 (1d6+2) piercing damage + 3 (1d6) poison.
 - **Cleaner:** Can cast the prestidigitation and unseen servant spells at will requiring no material components and using Wis as the spellcasting ability
-
-

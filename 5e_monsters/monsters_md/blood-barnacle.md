@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Barnacle
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 25
+hp_roll: 10d4
+ac: 13
+speed: walk 10 ft. swim 30 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 62
+---
+
 # Blood Barnacle
 
 *Tiny* *Beast* *unaligned*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Host Defense:** When a creature damages an attached blood barnacle with anything other than fire creature hosting barnacle must make DC 12 Wis save or use its reaction to protect the barnacle. Barnacle takes half the damage dealt to it and host takes the other half.
-
-

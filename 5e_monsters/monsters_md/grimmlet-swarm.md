@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grimmlet Swarm
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 14
+xp: 11,500
+hp: 152
+hp_roll: 16d10+64
+ac: 15
+speed: fly 30 ft. hover True ft. walk 0 ft.
+senses: blindsight 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 187
+---
+
 # Grimmlet Swarm
 
 *Large* *Monstrosity* *unaligned*
@@ -34,5 +53,3 @@ At will: maddening whispers, crushing curse, minor illusion
 
 - **Multiattack:** The grimmlet swarm makes two attacks with its crystal edges.
 - **Crystal Edges:** Melee Weapon Attack: +8 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 18 (4d8) slashing damage, or 9 (2d8) slashing damage if the swarm has half of its hp or fewer. The target must make a DC 17 Intelligence saving throw, taking 21 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
-
-

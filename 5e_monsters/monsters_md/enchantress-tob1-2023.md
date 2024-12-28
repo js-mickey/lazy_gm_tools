@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Enchantress
+size: Medium
+type: Humanoid
+alignment: Lawful Evil
+cr: 7
+xp: 2,900
+hp: 123
+hp_roll: 38
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 160
+---
+
 # Enchantress
 
 *Medium* *Humanoid* *Lawful Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon Cultist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 473
+---
+
 # Dragon Cultist
 
 *Medium* *Humanoid*
@@ -42,5 +61,3 @@
 - **Blindness/Deafness (2nd-Level; V):** One creature the cult fanatic can see within 30 feet makes a DC 12 Constitution saving throw. On a failure  the creature is blinded or deafened (cult fanatics choice) for 1 minute. The creature repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Hold Person (2nd-Level; V, S, M, Concentration):** One humanoid the cult fanatic can see within 60 feet makes a DC 12 Wisdom saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Some humanoids worship and serve a dragon:** Dragonborn and kobolds are most likely to do so  but any humanoid can be compelled into a dragons service.
-
-

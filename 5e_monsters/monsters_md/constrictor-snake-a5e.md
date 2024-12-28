@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Constrictor Snake
+size: Large
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 2d10+2
+ac: 11
+speed: walk 30 ft. climb 30 ft. swim 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 441
+---
+
 # Constrictor Snake
 
 *Large* *Beast*
@@ -20,5 +39,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8+2) piercing damage.
 - **Constrict:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) bludgeoning damage and the target is grappled (escape DC 14). Until this grapple ends  the target is restrained and the snake can't constrict a different target.
-
-

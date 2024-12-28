@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Merfolk
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/8
+xp: 25
+hp: 11
+hp_roll: 2d8+2
+ac: 11
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 30 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 329
+---
+
 # Merfolk
 
 *Medium* *Humanoid*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Trident:** Melee or Ranged Weapon Attack: +2 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d8) piercing damage if used with two hands to make a melee attack  or 3 (1d6) piercing damage if thrown.
-
-

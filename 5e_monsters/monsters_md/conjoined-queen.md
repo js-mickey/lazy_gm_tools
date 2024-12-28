@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Conjoined Queen
+size: Large
+type: Monstrosity
+alignment: chaotic neutral
+cr: 10
+xp: 5,900
+hp: 168
+hp_roll: 16d10+80
+ac: 18
+speed: burrow 20 ft. climb 30 ft. walk 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 70
+---
+
 # Conjoined Queen
 
 *Large* *Monstrosity* *chaotic neutral*
@@ -38,5 +57,3 @@ Cantrips (at will): acid splash, mage hand, prestidigitation, ray of frost
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Sting:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 14 (4d6) poison damage.
 - **Queen’s Wrathful Clattering (1/Day):** The conjoined queen clacks her long chitinous legs together, inciting rage in her allies. Each ally within 60 feet of the queen who can hear her has advantage on its next attack roll, and its speed is increased by 10 until the end of its next turn.
-
-

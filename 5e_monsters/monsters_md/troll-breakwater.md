@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Troll, Breakwater
+size: Large
+type: Giant
+alignment: chaotic neutral
+cr: 7
+xp: 2,900
+hp: 105
+hp_roll: 10d10+50
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 372
+---
+
 # Troll, Breakwater
 
 *Large* *Giant* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 14 (3d6+4) bludgeoning damage.
 - **Water Blast:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 11 (2d8+2) bludgeoning damage + 3 (1d6) cold. 
 - **Surge (Recharge 5–6):** Pushes water surge in 30' line × 10 ft. wide. Each creature in line: 28 (8d6) bludgeoning damage and pushed up to 15 ft. from troll in direction following line (DC 15 Str half not pushed). Surge lasts until start of troll’s next turn and any creature in line must spend 2 feet of move per 1 foot it moves when moving closer to troll. If troll uses this while underwater creatures in line have disadvantage on the save and any creature in line must spend 4 feet of move per 1 foot it moves when moving closer to troll.
-
-

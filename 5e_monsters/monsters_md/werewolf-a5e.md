@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Werewolf
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 30 ft. (wolf or hybrid form only) 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 315
+---
+
 # Werewolf
 
 *Medium* *Humanoid*
@@ -33,5 +52,3 @@
 
 - **Shapeshift:** The werewolf changes its form to a wolf, a wolf-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in wolf form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The werewolf makes a bite attack.
-
-

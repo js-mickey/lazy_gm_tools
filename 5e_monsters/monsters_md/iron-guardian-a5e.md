@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Iron Guardian
+size: Large
+type: Construct
+alignment: 
+cr: 14
+xp: 11,500
+hp: 210
+hp_roll: 20d10+100
+ac: 20
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 263
+---
+
 # Iron Guardian
 
 *Large* *Construct*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Deflection:** When missed by a ranged attack by a creature the guardian can see, the guardian redirects the attack against a creature within 60 feet that it can see. The original attacker must reroll the attack against the new target.
-
-

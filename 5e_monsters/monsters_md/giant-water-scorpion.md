@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Water Scorpion
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 93
+hp_roll: 11d10+33
+ac: 14
+speed: swim 30 ft. walk 20 ft.
+senses: darkvision 60 ft. blindsight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 393
+---
+
 # Giant Water Scorpion
 
 *Large* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 - **Multiattack:** The giant water scorpion makes two claw attacks. If it is grappling a creature, it can use its proboscis once.
 - **Proboscis:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) piercing damage. The target is grappled (escape DC 13) if it is a Medium or smaller creature and the scorpion doesn’t have another creature grappled.
-
-

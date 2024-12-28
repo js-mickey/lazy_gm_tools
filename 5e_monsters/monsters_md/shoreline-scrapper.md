@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shoreline Scrapper
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 93
+hp_roll: 11d10+33
+ac: 16
+speed: swim 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 43
+---
+
 # Shoreline Scrapper
 
 *Large* *Beast* *unaligned*
@@ -34,5 +53,3 @@ Items made of gold and silver are unaffected by the shoreline scrapper's Magneti
 ### Reactions
 
 - **Shell Protection:** The shoreline scrapper adds 4 to its AC against one melee attack that would hit it as it withdraws into its shell. Until it emerges, it increases its AC by 4, has a speed of 0 ft., and can't use its claws or magnetic pulse. The shoreline scrapper can emerge from its shell as a bonus action.
-
-

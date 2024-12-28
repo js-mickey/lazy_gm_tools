@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Desert Slime
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d10+20
+ac: 8
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 115
+---
+
 # Desert Slime
 
 *Large* *Ooze* *unaligned*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Surging Sands (Recharge 4–6):** Takes the Dash action.
-
-

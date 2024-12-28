@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep One Archimandrite
+size: Large
+type: Humanoid
+alignment: Chaotic Evil
+cr: 8
+xp: 3,900
+hp: 153
+hp_roll: 54
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 240 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 73
+---
+
 # Deep One Archimandrite
 
 *Large* *Humanoid* *Chaotic Evil*

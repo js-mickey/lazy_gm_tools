@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hoarfrost Drake
+size: Medium
+type: Dragon
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 14
+speed: fly 30 ft. walk 20 ft.
+senses: darkvision 90 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 123
+---
+
 # Hoarfrost Drake
 
 *Medium* *Dragon* *chaotic evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Retaliatory Slip:** When a creature grapples the drake, the drake can immediately attempt to escape. If it succeeds, it can make a bite attack against the creature that grappled it.
-
-

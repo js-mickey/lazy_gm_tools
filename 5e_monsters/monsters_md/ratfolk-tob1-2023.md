@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ratfolk
+size: Small
+type: Humanoid
+alignment: Neutral
+cr: 1/4
+xp: 50
+hp: 17
+hp_roll: 5d6
+ac: 14
+speed: walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 302
+---
+
 # Ratfolk
 
 *Small* *Humanoid* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Abbanith Giant
+size: Large
+type: Giant
+alignment: neutral
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 9d10+27
+ac: 13
+speed: burrow 30 ft. walk 40 ft.
+senses: tremorsense 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 170
+---
+
 # Abbanith Giant
 
 *Large* *Giant* *neutral*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Earth Counter (Recharge 6):** When a creature the abbanith can see within 30 feet of it casts a spell, the abbanith counters it. This reaction works like the counterspell spell, except the abbanith can only counter spells that directly affect or create earth or stone, such as stone shape, wall of stone, or move earth, and it doesn’t need to make a spellcasting ability check, regardless of the spell’s level.
-
-

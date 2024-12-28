@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Putrid Haunt
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 296
+---
+
 # Putrid Haunt
 
 *Medium* *Undead* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vexxeh
+size: Huge
+type: Fiend
+alignment: lawful evil
+cr: 6
+xp: 2,300
+hp: 94
+hp_roll: 9d12+36
+ac: 15
+speed: walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 360
+---
+
 # Vexxeh
 
 *Huge* *Fiend* *lawful evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The vexxeh makes three attacks: one with its bite and two with its claws. If both claw attacks hit the same target, the target and each creature within 5 feet of the target must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its next turn as the vexxeh cackles with sadistic glee.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) poison damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage.
-
-

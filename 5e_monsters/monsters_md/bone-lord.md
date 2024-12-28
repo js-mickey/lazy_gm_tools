@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Lord
+size: Huge
+type: Undead
+alignment: neutral evil
+cr: 19
+xp: 22,000
+hp: 285
+hp_roll: 30d12+90
+ac: 20
+speed: walk 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 65
+---
+
 # Bone Lord
 
 *Huge* *Undead* *neutral evil*

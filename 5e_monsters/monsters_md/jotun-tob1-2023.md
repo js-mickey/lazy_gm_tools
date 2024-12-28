@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jotun
+size: Gargantuan
+type: Giant
+alignment: Chaotic Neutral
+cr: 22
+xp: 41,000
+hp: 370
+hp_roll: 160
+ac: 20
+speed: walk 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 209
+---
+
 # Jotun
 
 *Gargantuan* *Giant* *Chaotic Neutral*

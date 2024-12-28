@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Walking Stick
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 76
+hp_roll: 9d10+27
+ac: 14
+speed: walk 30 ft. climb 40 ft. fly 15 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 201
+---
+
 # Giant Walking Stick
 
 *Large* *Beast* *unaligned*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Startling Display:** Each creature within 5 ft. of the stick: DC 13 Int save or be incapacitated until end of its next turn. The walking stick then flies up to its flying speed with o provoking opportunity attacks.
-
-

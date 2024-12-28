@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Beggar Ghoul
+size: Medium
+type: Undead
+alignment: Chaotic Evil
+cr: 1/2
+xp: 100
+hp: 13
+hp_roll: 3d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 200
+---
+
 # Beggar Ghoul
 
 *Medium* *Undead* *Chaotic Evil*

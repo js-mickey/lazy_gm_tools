@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cikavak
+size: Tiny
+type: Fey
+alignment: Neutral
+cr: 1/8
+xp: 25
+hp: 17
+hp_roll: 7d4
+ac: 12
+speed: walk 40 ft. fly 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 57
+---
+
 # Cikavak
 
 *Tiny* *Fey* *Neutral*

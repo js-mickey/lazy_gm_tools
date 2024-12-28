@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horde of Shadows
+size: Large
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 20d8
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 
+---
+
 # Horde of Shadows
 
 *Large* *Undead*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Shadow Sneak:** The horde takes the Hide action even if obscured only by dim light or darkness.
-
-

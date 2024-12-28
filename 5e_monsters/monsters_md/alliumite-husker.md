@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alliumite, Husker
+size: Medium
+type: Plant
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 68
+hp_roll: 8d8+32
+ac: 15
+speed: walk 20 ft. burrow 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 17
+---
+
 # Alliumite, Husker
 
 *Medium* *Plant* *chaotic neutral*
@@ -26,5 +45,3 @@
 - **Multiattack:** Two Gnarly Club attacks or it makes one Gnarly Club attack and uses Taunting Threat.
 - **Gnarly Club:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 6 (1d8+2) bludgeoning damage and the target must make DC 12 Str save or be knocked prone.
 - **Taunting Threat:** The husker throws a series of rude and menacing gestures at one creature it can see within 30' of it. The target must make a DC 13 Cha save. On a failure the target takes 7 (2d6) psychic and has disadvantage on all attacks not made vs. the husker until the end of its next turn. On a success the target takes half the damage and doesn’t have disadvantage on attacks not made vs. the husker.
-
-

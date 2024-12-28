@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Sand Adult
+size: Huge
+type: Dragon
+alignment: neutral evil
+cr: 18
+xp: 20,000
+hp: 270
+hp_roll: 20d12+140
+ac: 20
+speed: walk 40 ft. burrow 30 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 26
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 144
+---
+
 # Dragon, Sand Adult
 
 *Huge* *Dragon* *neutral evil*

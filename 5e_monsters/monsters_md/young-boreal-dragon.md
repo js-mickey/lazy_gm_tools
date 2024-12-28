@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Boreal Dragon
+size: Large
+type: Dragon
+alignment: chaotic neutral
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 15d10+60
+ac: 18
+speed: fly 80 ft. walk 40 ft. swim 30 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 112
+---
+
 # Young Boreal Dragon
 
 *Large* *Dragon* *chaotic neutral*
@@ -25,5 +44,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
 - **Cinder Breath (Recharge 5-6):** The dragon exhales a 30-foot cone of superheated air filled with white-hot embers. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) fire damage on a failed save, or half as much damage on a successful one.
-
-

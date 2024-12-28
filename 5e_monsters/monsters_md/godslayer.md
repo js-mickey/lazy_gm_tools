@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Godslayer
+size: Huge
+type: Construct
+alignment: unaligned
+cr: 30
+xp: 155,000
+hp: 580
+hp_roll: 40d12+320
+ac: 24
+speed: walk 50 ft. fly 60 ft. swim 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 29
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 212
+---
+
 # Godslayer
 
 *Huge* *Construct* *unaligned*

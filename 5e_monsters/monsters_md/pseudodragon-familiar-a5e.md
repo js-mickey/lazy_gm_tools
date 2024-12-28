@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pseudodragon Familiar
+size: Tiny
+type: Dragon
+alignment: 
+cr: 1/4
+xp: 50
+hp: 7
+hp_roll: 2d4+2
+ac: 13
+speed: walk 15 ft. fly 60 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 363
+---
+
 # Pseudodragon Familiar
 
 *Tiny* *Dragon*
@@ -26,5 +45,3 @@
 
 - **Sting:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one creature. Hit: 4 (1d4 + 2) piercing damage  and the target must succeed on a DC 11 Constitution saving throw or become poisoned. At the end of its next turn  it repeats the saving throw. On a success  the effect ends. On a failure  it falls unconscious for 1 hour. If it takes damage  or a creature uses an action to shake it awake  it wakes up  and the effect ends.
 - **Telepathic Static (3/Day):** The pseudodragon targets one creature it can see within 10 feet  forcing it to make a DC 11 Charisma saving throw. On a failure  its stunned until the end of its next turn as it suffers a barrage of telepathic imagery.
-
-

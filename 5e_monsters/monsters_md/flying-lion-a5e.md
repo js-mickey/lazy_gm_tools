@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flying Lion
+size: Large
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 57
+hp_roll: 6d10+24
+ac: 12
+speed: walk 30 ft. fly 80 ft.
+senses: 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 256
+---
+
 # Flying Lion
 
 *Large* *Monstrosity*
@@ -25,5 +44,3 @@
 - **Multiattack:** The griffon attacks once with its beak and once with its talons.
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (2d4 + 4) piercing damage.
 - **Talons:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) slashing damage  or 11 (2d6 + 4) slashing damage if the griffon started its turn at least 20 feet above the target  and the target is grappled (escape DC 14). Until this grapple ends  the griffon can't attack a different target with its talons.
-
-

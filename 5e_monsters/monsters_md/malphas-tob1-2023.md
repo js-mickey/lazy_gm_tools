@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Malphas
+size: Medium
+type: Fey
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 135
+hp_roll: 54
+ac: 16
+speed: walk 30 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 262
+---
+
 # Malphas
 
 *Medium* *Fey* *Neutral Evil*

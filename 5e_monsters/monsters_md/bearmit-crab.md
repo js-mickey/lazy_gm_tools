@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bearmit Crab
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 59
+hp_roll: 7d10+21
+ac: 14
+speed: swim 20 ft. walk 30 ft.
+senses: Passive Perception 13
+passive_perception: -
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 52
+---
+
 # Bearmit Crab
 
 *Large* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Multiattack:** The bearmit crab makes two attacks: one claw attack and one bite attack or two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage and the target is grappled (escape DC 13) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained. The bearmit crab has two claws, each of which can grapple only one target.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
-
-

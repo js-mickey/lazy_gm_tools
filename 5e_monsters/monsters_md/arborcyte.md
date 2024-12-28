@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arborcyte
+size: Large
+type: Plant
+alignment: chaotic neutral
+cr: 8
+xp: 3,900
+hp: 127
+hp_roll: 15d10+45
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 40
+---
+
 # Arborcyte
 
 *Large* *Plant* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** The arborcyte makes two thorn vine attacks plus one animated tendril attack for each tendril it can see that has been created through its Shearing trait.
 - **Thorn Vine:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target takes 7 (2d6) acid damage at the start of each of the arborcyte's turns, and tendril attacks against the target have advantage. The arborcyte can grapple up to two creatures at one time.
 - **Animated Tendril:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 9 (1d8 + 5) piercing damage.
-
-

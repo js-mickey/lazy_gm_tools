@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gremlin, Bilge
+size: Tiny
+type: Fey
+alignment: chaotic evil
+cr: 1/2
+xp: 100
+hp: 36
+hp_roll: 8d4+16
+ac: 13
+speed: walk 20 ft. climb 10 ft. swim 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 219
+---
+
 # Gremlin, Bilge
 
 *Tiny* *Fey* *chaotic evil*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) piercing damage and the target must make DC 13 Con save or contract the sewer plague disease.
 - **Makeshift Weapon:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 20/60' one target 6 (1d6+3) bludgeoning damage P or S
-
-

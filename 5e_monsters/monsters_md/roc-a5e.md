@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Roc
+size: Gargantuan
+type: Beast
+alignment: 
+cr: 13
+xp: 10,000
+hp: 232
+hp_roll: 15d20+75
+ac: 15
+speed: walk 20 ft. fly 120 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 458
+---
+
 # Roc
 
 *Gargantuan* *Beast*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Retributive Strike:** When a creature the roc can see hits it with a melee weapon attack, the roc makes a beak attack against its attacker.
-
-

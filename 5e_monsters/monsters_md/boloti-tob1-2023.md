@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Boloti
+size: Tiny
+type: Fey
+alignment: Neutral Evil
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 20
+ac: 15
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 38
+---
+
 # Boloti
 
 *Tiny* *Fey* *Neutral Evil*

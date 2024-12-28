@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crystalline Monolith
+size: Huge
+type: Aberration
+alignment: lawful neutral
+cr: 7
+xp: 2,900
+hp: 123
+hp_roll: 13d12+39
+ac: 15
+speed: walk 0 ft. hover True ft. fly 30 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 77
+---
+
 # Crystalline Monolith
 
 *Huge* *Aberration* *lawful neutral*

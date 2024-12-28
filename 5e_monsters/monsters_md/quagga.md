@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Quagga
+size: Medium
+type: Monstrosity
+alignment: neutral
+cr: 4
+xp: 1,100
+hp: 84
+hp_roll: 13d8+26
+ac: 16
+speed: walk 50 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 325
+---
+
 # Quagga
 
 *Medium* *Monstrosity* *neutral*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **War Surge:** When the quagga reduces a creature to 0 hp with melee attack on its turn the quagga can move up to half its speed and make a Twin Blade attack.
-
-

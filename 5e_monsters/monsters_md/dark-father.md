@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dark Father
+size: Large
+type: Undead
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 65
+hp_roll: 10d8+18
+ac: 18
+speed: fly 20 ft. hover True ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 71
+---
+
 # Dark Father
 
 *Large* *Undead* *lawful neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Banish Hope:** When a spell from the evocation or necromancy school is cast within 30 feet of the dark father, the dark father can counter the spell with a successful ability check. This works like the counterspell spell with a +5 spellcasting ability check, except the dark father must make the ability check no matter the level of the spell.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hinderling
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d6+3
+ac: 13
+speed: walk 30 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 232
+---
+
 # Hinderling
 
 *Small* *Fey* *chaotic neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Run and Hide:** When a creature hinderling can see targets it with weapon hinderling chooses another creature within 5 ft. as attack's target then moves up to half its speed with o provoking opportunity attacks.
-
-

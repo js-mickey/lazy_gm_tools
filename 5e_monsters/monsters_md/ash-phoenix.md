@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ash Phoenix
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 105
+hp_roll: 14d10+28
+ac: 15
+speed: fly 90 ft. hover True ft. walk 0 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 28
+---
+
 # Ash Phoenix
 
 *Large* *Undead* *neutral evil*
@@ -33,5 +52,3 @@
 - **Multiattack:** The ash phoenix makes two ash talon attacks. If both attacks hit the same target, the phoenix plunges its beak into the target, and the target must succeed on a DC 16 Strength saving throw or take 7 (2d6) necrotic damage. The ash phoenix regains hp equal to half the necrotic damage dealt.
 - **Ash Talons:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 7 (2d6) fire damage.
 - **Ash Storm (Recharge 5-6):** The ash phoenix furiously beats its wings, throwing clinging ash into a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 28 (8d6) necrotic damage and is blinded until the end of its next turn. On a success, a creature takes half the damage and isn’t blinded.
-
-

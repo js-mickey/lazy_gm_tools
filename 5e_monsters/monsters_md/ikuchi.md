@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ikuchi
+size: Gargantuan
+type: Elemental
+alignment: chaotic neutral
+cr: 8
+xp: 3,900
+hp: 116
+hp_roll: 8d20+32
+ac: 16
+speed: walk 20 ft. swim 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 210
+---
+
 # Ikuchi
 
 *Gargantuan* *Elemental* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 16 (2d10 + 5) piercing damage.
 - **Constrict:** Melee Weapon Attack: +8 to hit, reach 20 ft., one Huge or smaller creature. Hit: 14 (2d8 + 5) bludgeoning damage. The target is grappled (escape DC 16) if the ikuchi isn’t already constricting two other creatures. Until this grapple ends, the target is restrained.
 - **Crush (Recharge 4-6):** Each creature grappled by the ikuchi must make a DC 16 Strength saving throw, taking 23 (4d8 + 5) bludgeoning damage on a failed save, or half as much damage on a successful one.
-
-

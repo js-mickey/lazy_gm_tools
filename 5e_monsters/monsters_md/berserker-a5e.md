@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Berserker
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d8+18
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 497
+---
+
 # Berserker
 
 *Medium* *Humanoid*
@@ -28,5 +47,3 @@
 - **Greataxe:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 8 (1d12 + 2) slashing damage.
 - **Handaxe:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft or range 20/60 ft.  one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Berserkers are lightly-armored and heavily-armed shock troops:** In battle  they tend to prefer charges and heroic single combats over formations and disciplined marches.
-
-

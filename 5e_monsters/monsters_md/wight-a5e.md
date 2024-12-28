@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wight
+size: Medium
+type: Undead
+alignment: 
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 6d8+18
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 423
+---
+
 # Wight
 
 *Medium* *Undead*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Life Drain:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) necrotic damage, and the target makes a DC 13 Constitution saving throw. On a failure, the targets hit point maximum is reduced by an amount equal to the necrotic damage dealt. The reduction lasts until the target finishes a long rest. A humanoid or beast reduced to 0 hit points by this attack dies. Its corpse rises 24 hours later as a zombie under the wights control.
-
-

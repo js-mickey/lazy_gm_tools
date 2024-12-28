@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Badger
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 19
+hp_roll: 3d8+6
+ac: 10
+speed: walk 30 ft. burrow 10 ft.
+senses: darkvision 30 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 444
+---
+
 # Giant Badger
 
 *Medium* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) piercing damage.
-
-

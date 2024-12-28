@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Slow Storm
+size: Medium
+type: Elemental
+alignment: Chaotic Neutral
+cr: 15
+xp: 13,000
+hp: 220
+hp_roll: 126
+ac: 19
+speed: walk 60 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 333
+---
+
 # Slow Storm
 
 *Medium* *Elemental* *Chaotic Neutral*

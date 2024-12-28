@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Serpentfolk of Yig
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 40
+hp_roll: 9d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 324
+---
+
 # Serpentfolk of Yig
 
 *Medium* *Humanoid* *neutral evil*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) poison damage.
 - **Scimitar:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

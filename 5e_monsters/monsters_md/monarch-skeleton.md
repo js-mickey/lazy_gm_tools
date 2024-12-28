@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Monarch Skeleton
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 15d8+75
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 249
+---
+
 # Monarch Skeleton
 
 *Medium* *Undead* *neutral evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The monarch skeleton makes two dreadblade attacks.
 - **Dreadblade:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 17 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Grasp of the Grave (Recharge 5-6):** Each non-skeleton creature within 30 feet of the monarch must succeed on a DC 16 Dexterity saving throw or be restrained by ghostly, skeletal hands for 1 minute. A restrained target takes 10 (3d6) necrotic damage at the start of each of its turns. A creature, including the target, can take its action to break the ghostly restraints by succeeding on a DC 16 Strength check.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Light Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: neutral good
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 13
+speed: fly 60 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 113
+---
+
 # Light Dragon Wyrmling
 
 *Medium* *Dragon* *neutral good*
@@ -29,5 +48,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.
 - **Breath Weapon (Recharge 5-6):** The dragon uses one of the following breath weapons:<br>Radiant Breath. The dragon exhales radiant energy in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 16 (3d10) radiant damage on a failed save, or half as much damage on a successful one.<br>Flaring Breath. The dragon emits a flash of dazzling light from its maw in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw or be blinded. Undead within the area of effect must also make a DC 12 Wisdom saving throw or be turned for 1 minute. Undead of CR 1/2 or lower who fail the saving throw are instantly destroyed.
-
-

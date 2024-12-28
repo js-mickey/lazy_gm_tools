@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horde Demon
+size: Medium
+type: Fiend
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 70
+---
+
 # Horde Demon
 
 *Medium* *Fiend*
@@ -38,5 +57,3 @@
 ### Actions
 
 - **Multiattack:** The demon makes two attacks  using any attack granted by its Varied Shapes trait.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: City Watch Captain
+size: Medium
+type: Humanoid
+alignment: Lawful Alignment
+cr: 4
+xp: 1,100
+hp: 91
+hp_roll: 28
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 407
+---
+
 # City Watch Captain
 
 *Medium* *Humanoid* *Any Lawful Alignment*

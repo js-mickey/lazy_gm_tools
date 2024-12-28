@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Virtuoso Lich
+size: Medium
+type: Undead
+alignment: evil alignment
+cr: 12
+xp: 8,400
+hp: 123
+hp_roll: 19d8+38
+ac: 17
+speed: walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 237
+---
+
 # Virtuoso Lich
 
 *Medium* *Undead* *any evil alignment*

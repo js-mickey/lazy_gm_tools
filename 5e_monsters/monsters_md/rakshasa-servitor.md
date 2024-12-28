@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rakshasa, Servitor
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 1/2
+xp: 100
+hp: 32
+hp_roll: 5d8+10
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 328
+---
+
 # Rakshasa, Servitor
 
 *Medium* *Fiend* *lawful evil*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Protecting Pounce:** When a rakshasa the servitor can see within 15 ft. of it is the target of an attack the servitor can move up to half its speed toward that rakshasa with o provoking opportunity attacks. If it ends this movement within 5 ft. of the rakshasa the servitor becomes the target of the attack instead.
-
-

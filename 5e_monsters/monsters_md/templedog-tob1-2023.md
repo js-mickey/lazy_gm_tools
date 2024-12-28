@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Temple Dog
+size: Medium
+type: Celestial
+alignment: Any Good
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 30
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 359
+---
+
 # Temple Dog
 
 *Medium* *Celestial* *Any Good*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: De Ogen
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 45
+hp_roll: 6d8+18
+ac: 15
+speed: walk 0 ft. hover True ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 80
+---
+
 # De Ogen
 
 *Medium* *Undead* *neutral evil*
@@ -33,5 +52,3 @@ Creatures immune to being frightened are immune to the de ogen’s Transfixing G
 ### Actions
 
 - **Burning Touch:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (4d6) fire damage. A creature slain by this attack turns to ash. A humanoid slain by this attack rises 24 hours later as a shadow, unless the humanoid is restored to life or its ashes are doused in holy water. The shadow isn’t under the de ogen’s control, but it follows in the de ogen’s wake and aids the de ogen when possible.
-
-

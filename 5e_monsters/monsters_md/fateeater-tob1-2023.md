@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fate Eater
+size: Medium
+type: Aberration
+alignment: Neutral
+cr: 6
+xp: 2,300
+hp: 130
+hp_roll: 40
+ac: 16
+speed: walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 168
+---
+
 # Fate Eater
 
 *Medium* *Aberration* *Neutral*

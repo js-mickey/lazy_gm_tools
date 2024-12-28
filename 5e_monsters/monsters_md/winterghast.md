@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Winterghast
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 371
+---
+
 # Winterghast
 
 *Medium* *Undead* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The winterghast makes two attacks: one with its bite and one with its claw or two with its claws.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) cold damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or contract the creeping cold disease (see the Creeping Cold trait).
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alligator Turtle
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 15
+speed: walk 20 ft. swim 30 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 387
+---
+
 # Alligator Turtle
 
 *Medium* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) slashing damage and the target is grappled (escape DC 12). Until this grapple ends, the turtle can’t bite another target.
-
-

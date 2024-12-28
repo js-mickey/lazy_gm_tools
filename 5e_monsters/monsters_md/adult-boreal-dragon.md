@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Boreal Dragon
+size: Huge
+type: Dragon
+alignment: chaotic neutral
+cr: 17
+xp: 18,000
+hp: 212
+hp_roll: 17d12+102
+ac: 19
+speed: fly 80 ft. walk 40 ft. swim 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 143
+---
+
 # Adult Boreal Dragon
 
 *Huge* *Dragon* *chaotic neutral*

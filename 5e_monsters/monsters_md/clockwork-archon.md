@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Archon
+size: Gargantuan
+type: Construct
+alignment: unaligned
+cr: 13
+xp: 10,000
+hp: 201
+hp_roll: 13d20+65
+ac: 18
+speed: walk 30 ft. hover True ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 65
+---
+
 # Clockwork Archon
 
 *Gargantuan* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** The clockwork archon makes two attacks with its transforming weapon.
 - **Transforming Weapon:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 7) bludgeoning or slashing damage. As a bonus action, the archon can change its weapon from a sword to a hammer or vice versa, allowing it to change its damage between bludgeoning and slashing.
 - **Fire from Heaven (Recharge 5-6):** The clockwork archon unleashes a brilliant beam in a 90-foot line that is 10-feet wide. Each creature in that line must make a DC 17 Dexterity saving throw, taking 58 (13d8) radiant damage on a failed save, or half as much damage on a successful one.
-
-

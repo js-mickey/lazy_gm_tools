@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lindwurm
+size: Large
+type: Dragon
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 136
+hp_roll: 48
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. tremorsense 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 255
+---
+
 # Lindwurm
 
 *Large* *Dragon* *Neutral Evil*

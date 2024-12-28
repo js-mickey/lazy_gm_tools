@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Heggarna
+size: Tiny
+type: Aberration
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 40
+hp_roll: 9d4+18
+ac: 16
+speed: walk 20 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 196
+---
+
 # Heggarna
 
 *Tiny* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@ The heggarna can detach itself by spending 5 feet of its movement. It does so af
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) psychic damage.
 - **Dream Rift (Recharge 5-6):** The heggarna unleashes a barrage of psychic energy in a 15-foot cone. Each creature in that area must make a DC 13 Wisdom saving throw. On a failure, a creature takes 7 (2d6) psychic damage and is incapacitated until the end of its next turn as it is bombarded with nightmarish images. On a success, a creature takes half the damage and isn’t incapacitated.
 - **Illusory Appearance:** The heggarna covers itself with a magical illusion that makes it look like a Tiny cat. The illusion ends if the heggarna takes a bonus action to end it or if the heggarna dies. The illusion ends immediately if the heggarna attacks or takes damage, but it doesn’t end when the heggarna uses Dream Eating.<br><br>The changes wrought by this effect fail to hold up to physical inspection. For example, the heggarna could appear to have fur, but someone touching it would feel its slippery flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 15 Intelligence (Investigation) check to discern the heggarna is disguised.
-
-

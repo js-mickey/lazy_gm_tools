@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Warrior Band
+size: Large
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d8+10
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 499
+---
+
 # Warrior Band
 
 *Large* *Humanoid*
@@ -26,5 +45,3 @@
 
 - **Spears:** Melee or Ranged Weapon Attack: +3 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 22 (5d6 + 5) piercing damage  or half damage when bloodied.
 - **Warriors who train together are able to fight as one, attacking and retreating as if they share a mind:** 
-
-

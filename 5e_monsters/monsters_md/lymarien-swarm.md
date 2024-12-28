@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lymarien Swarm
+size: Large
+type: Fey
+alignment: neutral good
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d10+24
+ac: 14
+speed: walk 5 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 248
+---
+
 # Lymarien Swarm
 
 *Large* *Fey* *neutral good*
@@ -31,5 +50,3 @@ At will: dancing lights, minor illusion
 
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 21 (6d6) slashing damage, or 10 (3d6) slashing damage if the swarm has half its hp or fewer.
 - **Flight of the Fey (Recharge 4-6):** The lymarien swarm lifts a Large or smaller creature in its space. The target must succeed on a DC 15 Dexterity saving throw or be lifted directly upward to a height up to the swarm’s flying speed. When the swarm moves, the lifted creature moves with it. At the end of the swarm’s turn, the swarm drops the creature, which takes falling damage as normal.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derro Explorer
+size: Small
+type: Humanoid
+alignment: non-good alignment
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d6+16
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 97
+---
+
 # Derro Explorer
 
 *Small* *Humanoid* *any non-good alignment*
@@ -26,5 +45,3 @@
 
 - **Scimitar:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage, and the target must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
 - **Shortbow:** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gremlin, Bilge Bosun
+size: Small
+type: Fey
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 60
+hp_roll: 11d6+22
+ac: 15
+speed: walk 30 ft. climb 20 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 219
+---
+
 # Gremlin, Bilge Bosun
 
 *Small* *Fey* *neutral evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** One Bite and two Makeshift Weapon attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) piercing damage + 5 (2d4) poison and the target must make DC 13 Con save or contract the sewer plague disease.
 - **Makeshift Weapon:** Melee or Ranged Weapon Attack: +6 to hit 5 ft. or range 20/60' one target 6 (1d6+3) bludgeoning damage P or S.
-
-

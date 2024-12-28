@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Infernal Knight
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 16
+xp: 15,000
+hp: 247
+hp_roll: 26d8+130
+ac: 18
+speed: fly 60 ft. walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 20
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 104
+---
+
 # Infernal Knight
 
 *Medium* *Fiend* *lawful evil*
@@ -34,5 +53,3 @@
 - **Hellfire Bolt:** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 10 (3d6) fire damage plus 17 (5d6) necrotic damage. A creature hit must succeed on a DC 18 Constitution saving throw or its hp maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Reave Soul (Recharge 5-6):** The infernal knight targets a creature with 0 hp that it can see within 60 feet of it. If the creature is alive, it must succeed on a DC 18 Constitution saving throw or die and have its soul drawn into the infernal knight's greatsword. If the creature is dead and has been dead for less than 1 minute, its soul is automatically captured. When the infernal knight captures a soul, it regains 30 hp, and Reave Soul recharges at the start of its next turn. While a creature's soul is trapped, that creature can't be returned to life by any means short of a wish spell.<br><br>A banishment spell targeted at the greatsword forces the infernal knight to make a Charisma saving throw against the spell. On a failed save, any souls trapped in the blade are released instead of the spell's normal effect. Trapped souls are also released when the infernal knight dies.
 - **Planar Rift (1/Day):** The infernal knight magically tears a rift in the fabric of the multiverse. The rift is a portal to a plane of the infernal knight's choice. The portal remains open for 1 hour, during which time any creature can pass through it, moving from one plane to the other. A dispel magic spell targeting the rift can destroy it if the caster succeeds on a DC 18 spellcasting ability check.
-
-

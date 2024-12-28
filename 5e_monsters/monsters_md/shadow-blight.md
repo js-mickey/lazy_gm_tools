@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Blight
+size: Small
+type: Plant
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 65
+hp_roll: 10d6+30
+ac: 13
+speed: walk 40 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 326
+---
+
 # Shadow Blight
 
 *Small* *Plant* *neutral evil*
@@ -27,5 +46,3 @@
 
 - **Frozen Shadow Tendril:** Melee Spell Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (2d6) cold damage plus 3 (1d6) necrotic damage.
 - **Animate Plants (Recharges after a Short or Long Rest):** The shadow blight magically animates 1d4 plants within 60 feet of it, turning them into awakened shrubs under its control. These plants' attacks deal an additional 3 (1d6) necrotic damage. If the shrubs are not destroyed before 1 hour passes, they become new shadow blights.
-
-

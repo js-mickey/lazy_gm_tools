@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Qumdaq
+size: Small
+type: Elemental
+alignment: neutral
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d6+4
+ac: 13
+speed: walk 30 ft. burrow 30 ft.
+senses: darkvision 30 ft. tremorsense 30 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 326
+---
+
 # Qumdaq
 
 *Small* *Elemental* *neutral*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) bludgeoning damage.
 - **Desiccation Field (1/Day):** Extends its arms sending sand and grit swirling around itself. Each non-qumdaq creature within 10 ft. of it: 5 (2d4) bludgeoning damage and suffers one level of exhaustion for 1 hr or until it drinks 1+ pint of water (DC 10 Con half damage and isn’t exhausted). A creature can suffer no more than 3 total levels of exhaustion from Desiccation Field regardless of how many qumdaqs use the action.
-
-

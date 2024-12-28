@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Silver Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 157
+hp_roll: 15d10+75
+ac: 18
+speed: walk 40 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 179
+---
+
 # Young Silver Dragon
 
 *Large* *Dragon*
@@ -31,5 +50,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Frost Breath:** The dragon exhales freezing wind in a 30-foot cone. Each creature in the area makes a DC 17 Constitution saving throw  taking 40 (9d8) cold damage on a failed save or half damage on a success.
 - **Paralyzing Breath:** The dragon exhales paralytic gas in a 30-foot cone. Each creature in the area must succeed on a DC 17 Constitution saving throw or be paralyzed until the end of its next turn.
-
-

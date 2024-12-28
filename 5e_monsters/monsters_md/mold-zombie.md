@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mold Zombie
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d8+30
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 394
+---
+
 # Mold Zombie
 
 *Medium* *Undead* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The zombie makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage.
 - **Plague Breath (Recharge 6):** The zombie breathes a cloud of spores in 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or take 10 (3d6) necrotic damage and contract iumenta pox (see Iumenta Pox sidebar).
-
-

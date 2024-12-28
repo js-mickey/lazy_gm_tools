@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Salamander Nymph
+size: Medium
+type: Elemental
+alignment: 
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 5d8+5
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 379
+---
+
 # Salamander Nymph
 
 *Medium* *Elemental*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Tail:** Melee Weapon Attack: +4 to hit  reach 10 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is subjected to the salamanders Heated Body trait.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mamura
+size: Small
+type: Aberration
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 60
+ac: 16
+speed: walk 30 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 263
+---
+
 # Mamura
 
 *Small* *Aberration* *Neutral Evil*

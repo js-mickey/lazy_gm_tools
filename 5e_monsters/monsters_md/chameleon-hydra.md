@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chameleon Hydra
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 184
+hp_roll: 16d12+80
+ac: 15
+speed: climb 40 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 207
+---
+
 # Chameleon Hydra
 
 *Huge* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.
 - **Sticky Tongue:** Melee Weapon Attack: +9 to hit, reach 50 ft., one target. Hit: The target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the hydra can’t use the same sticky tongue on another target.
 - **Reel:** The hydra pulls a creature grappled by it up to 25 feet straight toward it.
-
-

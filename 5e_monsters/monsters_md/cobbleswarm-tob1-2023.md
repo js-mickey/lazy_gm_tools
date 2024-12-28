@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cobbleswarm
+size: Medium
+type: Swarm
+alignment: Unaligned
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d8
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 67
+---
+
 # Cobbleswarm
 
 *Medium* *Swarm* *Unaligned*

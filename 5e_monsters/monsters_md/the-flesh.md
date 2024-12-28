@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: The Flesh
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 14
+speed: walk 30 ft. climb 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 367
+---
+
 # The Flesh
 
 *Medium* *Aberration* *neutral evil*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Assume Form:** Consumes corpse of Med or smaller Humanoid or Beast within 5 ft. and transforms into it. Stats other than size are the same in new form. Any items worn/carried meld into new form. Can’t activate use wield or otherwise benefit from any of its equipment. It reverts to its true aberrant form if it dies makes a Manipulate Flesh attack or uses Assume Form while transformed.
-
-

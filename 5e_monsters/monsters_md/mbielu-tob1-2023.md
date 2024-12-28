@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mbielu
+size: Huge
+type: Beast
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 24
+ac: 15
+speed: walk 20 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 101
+---
+
 # Mbielu
 
 *Huge* *Beast* *Unaligned*

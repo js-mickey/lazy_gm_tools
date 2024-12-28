@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Incandescent One
+size: Medium
+type: Celestial
+alignment: chaotic good
+cr: 9
+xp: 5,000
+hp: 144
+hp_roll: 17d8+68
+ac: 16
+speed: walk 30 ft. fly 60 ft. swim 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 244
+---
+
 # Incandescent One
 
 *Medium* *Celestial* *chaotic good*
@@ -39,5 +58,3 @@
 ### Bonus Actions
 
 - **Celestial Inspiration:** Inspires one creature it can see within 60' of it. Whenever target makes attack roll or save before start of incandescent one’s next turn target can roll a d4 and add number rolled to the attack roll or save.
-
-

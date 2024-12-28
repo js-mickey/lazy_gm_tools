@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mallqui
+size: Medium
+type: Undead
+alignment: Lawful Neutral
+cr: 8
+xp: 3,900
+hp: 120
+hp_roll: 48
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 261
+---
+
 # Mallqui
 
 *Medium* *Undead* *Lawful Neutral*

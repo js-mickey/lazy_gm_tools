@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dau
+size: Small
+type: Fey
+alignment: Chaotic Neutral
+cr: 4
+xp: 1,100
+hp: 49
+hp_roll: 18
+ac: 13
+speed: walk 60 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 69
+---
+
 # Dau
 
 *Small* *Fey* *Chaotic Neutral*

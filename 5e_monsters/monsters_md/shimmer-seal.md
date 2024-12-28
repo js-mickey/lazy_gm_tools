@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shimmer Seal
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d8+42
+ac: 12
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 324
+---
+
 # Shimmer Seal
 
 *Medium* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The shimmer seal makes two tusk attacks.
 - **Tusk:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 14 (3d6 + 4) slashing damage.
-
-

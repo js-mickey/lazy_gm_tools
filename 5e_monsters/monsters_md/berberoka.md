@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Berberoka
+size: Large
+type: Giant
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 114
+hp_roll: 12d10+48
+ac: 16
+speed: walk 40 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 56
+---
+
 # Berberoka
 
 *Large* *Giant* *neutral*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Saturated Expansion:** While in contact with body of water it absorbs water that is a cube up to 10 ft. on a side and becomes saturated as water fills its body. While saturated increases in size along with anything it is wearing or carrying becoming Huge and has advantage on Str checks and Str saves. If it lacks room to become Huge it attains max size possible in space available. Ground exposed by the absorbed water becomes difficult terrain.
-
-

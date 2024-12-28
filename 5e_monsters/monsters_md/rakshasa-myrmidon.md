@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rakshasa, Myrmidon
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 3
+xp: 700
+hp: 51
+hp_roll: 6d8+24
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 328
+---
+
 # Rakshasa, Myrmidon
 
 *Medium* *Fiend* *lawful evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Allied Parry:** When a creature myrmidon can see attacks creature within 5 ft. of it myrmidon can impose disadvantage on attack roll. To do so myrmidon must be wielding a shield.
-
-

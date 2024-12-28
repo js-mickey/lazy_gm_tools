@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gearmass
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 115
+hp_roll: 11d10+55
+ac: 15
+speed: walk 20 ft. swim 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 195
+---
+
 # Gearmass
 
 *Large* *Ooze* *unaligned*
@@ -32,5 +51,3 @@
 - **Gear Slam:** Melee Weapon Attack: +6 to hit, 10 ft., one creature,. 12 (2d8+3) bludgeoning damage.
 - **Cog Toss:** Ranged Weapon Attack: +6 to hit 20/60' one creature. 12 (2d8+3) bludgeoning damage and the target must make DC 14 Str save or be knocked prone.
 - **Engulf:** Engulfs Med or smaller creature grappled by it. Engulfed target is blinded restrained and unable to breathe and it must make DC 14 Con save at start of each of gearmass's turns or take 14 (4d6) acid. Any nonmagical ferrous metal armor weapons or other items target is wearing corrode at start of each of gearmass’s turns. If object is either metal armor or metal shield being worn/carried it takes permanent and cumulative –1 penalty to AC it offers. Armor reduced to AC of 10 or shield that drops to a +0 bonus is destroyed. If object is a metal weapon it rusts as described in the Rust Metal trait. If gearmass moves engulfed target moves with it. Gearmass can have only one creature engulfed at a time.
-
-

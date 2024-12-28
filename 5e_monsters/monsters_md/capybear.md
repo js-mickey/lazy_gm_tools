@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Capybear
+size: Medium
+type: Monstrosity
+alignment: neutral
+cr: 1
+xp: 200
+hp: 60
+hp_roll: 8d8+24
+ac: 13
+speed: walk 30 ft. swim 20 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 72
+---
+
 # Capybear
 
 *Medium* *Monstrosity* *neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Protect the Community:** When another capybear within 5 ft. of this capybear is hit by an attack this capybear can leap in the way becoming the new target of the attack.
-
-

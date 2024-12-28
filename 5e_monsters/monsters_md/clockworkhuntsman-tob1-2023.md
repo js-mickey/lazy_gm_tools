@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Huntsman
+size: Medium
+type: Construct
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 99
+hp_roll: 18
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 62
+---
+
 # Clockwork Huntsman
 
 *Medium* *Construct* *Unaligned*

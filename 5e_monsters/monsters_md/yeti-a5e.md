@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yeti
+size: Large
+type: Monstrosity
+alignment: 
+cr: 4
+xp: 1,100
+hp: 68
+hp_roll: 8d10+24
+ac: 12
+speed: walk 40 ft. climb 40 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 433
+---
+
 # Yeti
 
 *Large* *Monstrosity*
@@ -28,5 +47,3 @@
 - **Multiattack:** The yeti uses Chilling Gaze and makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Chilling Gaze (Gaze):** One creature within 30 feet that is not immune to cold damage makes a DC 13 Constitution saving throw. On a failure  the creature takes 10 (3d6) cold damage and is paralyzed for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on a success. If a creatures saving throw is successful or the effect ends for it  it is immune to any Chilling Gaze for 24 hours.
-
-

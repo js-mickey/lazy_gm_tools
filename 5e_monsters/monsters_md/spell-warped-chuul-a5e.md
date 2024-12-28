@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spell-warped Chuul
+size: Large
+type: Aberration
+alignment: 
+cr: 7
+xp: 2,900
+hp: 127
+hp_roll: 15d10+45
+ac: 16
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 48
+---
+
 # Spell-warped Chuul
 
 *Large* *Aberration*
@@ -33,5 +52,3 @@
 - **Multiattack:** If the chuul is grappling a creature  it uses its tentacle on that creature. It then makes two pincer attacks.
 - **Pincer:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one Large or smaller target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a creature  it is grappled (escape DC 15). When carrying a grappled creature  the chuul can move at full speed. A pincer that is being used to grapple a creature can be used only to attack that creature.
 - **Tentacle:** A grappled creature makes a DC 14 Constitution saving throw. On a failure  it is paralyzed for 1 minute. The creature repeats the saving throw at the end of each of its turns  ending the paralysis on a success.
-
-

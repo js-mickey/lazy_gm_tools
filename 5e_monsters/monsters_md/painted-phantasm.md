@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Painted Phantasm
+size: Medium
+type: Construct
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 97
+hp_roll: 15d8+30
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 312
+---
+
 # Painted Phantasm
 
 *Medium* *Construct* *neutral*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Painting Portal:** Uses 10 ft. of move to step magically into one artwork within reach and emerge from 2nd artwork within 100' of 1st appearing in unoccupied space within 5 ft. of 2nd. If both are Large or larger can bring up to 3 willing creatures.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kitsune
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 49
+hp_roll: 14d6
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 236
+---
+
 # Kitsune
 
 *Small* *Fey* *chaotic neutral*
@@ -30,5 +49,3 @@ At will: detect thoughts, fire bolt (2d10), invisibility (self only), major imag
 - **Bite (Fox Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
 - **Rapier (Humanoid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. Dagger (Humanoid Form Only). Melee or Ranged Weapon
 - **Attack:** +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
-

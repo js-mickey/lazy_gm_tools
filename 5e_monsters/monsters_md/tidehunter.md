@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tidehunter
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: swim 40 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 348
+---
+
 # Tidehunter
 
 *Huge* *Monstrosity* *unaligned*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Entangle Weapon:** When the tidehunter is targeted by a melee weapon attack, the attacker must succeed on a DC 16 Dexterity saving throw or miss the attack as the tidehunter uses its net to interfere with the weapon. The tidehunter must have an empty net to use this reaction.
-
-

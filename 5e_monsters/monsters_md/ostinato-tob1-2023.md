@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ostinato
+size: Medium
+type: Aberration
+alignment: Chaotic Neutral
+cr: 4
+xp: 1,100
+hp: 39
+hp_roll: 12
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 292
+---
+
 # Ostinato
 
 *Medium* *Aberration* *Chaotic Neutral*

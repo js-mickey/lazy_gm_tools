@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bronze Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 39
+hp_roll: 6d8+12
+ac: 16
+speed: walk 30 ft. fly 60 ft. swim 40 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 162
+---
+
 # Bronze Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -27,5 +46,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Lightning Breath:** The dragon exhales lightning in a 30-foot-long  5-foot-wide line. Each creature in the area makes a DC 12 Dexterity saving throw  taking 16 (3d10) lightning damage on a failed save or half damage on a success.
 - **Ocean Surge:** The dragon exhales a torrent of seawater in a 30-foot cone. Each creature in the area must succeed on a DC 12 Strength saving throw or be pushed 15 feet away from the dragon.
-
-

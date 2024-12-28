@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Shrouded
+size: Medium
+type: Celestial
+alignment: chaotic good
+cr: 13
+xp: 10,000
+hp: 161
+hp_roll: 17d8+85
+ac: 18
+speed: walk 40 ft. fly 60 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 29
+---
+
 # Angel, Shrouded
 
 *Medium* *Celestial* *chaotic good*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Executioner's Judgment:** When a creature poisoned by shrouded angel starts its turn angel demands target repent. If it doesn’t repent: DC 17 Con save. Fail: reduced to 0 hp. Success: 22 (5d8) radiant. If target repents its next action is chosen by angel as if it failed a save vs. the command spell: “Draw Nigh” (approach) “Clasp Hands in Prayer” (drop) “Seek Redemption” (flee) “Be Penitent” (grovel) or “In Stillness Hear the Truth” (halt). Once angel uses this reaction it must deal poison to a poisoned target before using it again.
-
-

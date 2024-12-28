@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Copper Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 23
+xp: 50,000
+hp: 367
+hp_roll: 21d20+147
+ac: 21
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 23
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 164
+---
+
 # Ancient Copper Dragon
 
 *Gargantuan* *Dragon*

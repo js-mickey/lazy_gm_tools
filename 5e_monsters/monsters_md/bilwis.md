@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bilwis
+size: Medium
+type: Elemental
+alignment: chaotic evil
+cr: 1
+xp: 200
+hp: 49
+hp_roll: 11d8
+ac: 13
+speed: fly 40 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 53
+---
+
 # Bilwis
 
 *Medium* *Elemental* *chaotic evil*
@@ -27,5 +46,3 @@
 
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
 - **Whirlwind (Recharge 5-6):** Each creature in the bilwis' space and within 5 feet of it must make a DC 12 Strength saving throw. On a failure, a target takes 14 (4d6) bludgeoning damage and is knocked prone. On a success, a target takes half the bludgeoning damage and isn't knocked prone.
-
-

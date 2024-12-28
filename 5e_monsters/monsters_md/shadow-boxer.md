@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Boxer
+size: Small
+type: Fey
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d6+20
+ac: 13
+speed: climb 30 ft. walk 40 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 322
+---
+
 # Shadow Boxer
 
 *Small* *Fey* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 - **Invisibility:** The shadow boxer magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the shadow boxer wears or carries is invisible with it.
-
-

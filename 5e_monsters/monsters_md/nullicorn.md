@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nullicorn
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 14d10+28
+ac: 12
+speed: walk 50 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 292
+---
+
 # Nullicorn
 
 *Large* *Aberration* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) bludgeoning damage.
 - **Void Horn:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 8 (1d8+4) force and target must make DC 13 Con save or contract the nullifying blight disease (above). 
 - **Ripple of darkness:** Each creature within 20' of the nullicorn: 18 (4d8) necrotic and contracts the nullifying blight disease (above; DC 13 Con half and doesn’t contract it).
-
-

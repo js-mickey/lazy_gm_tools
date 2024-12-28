@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sand Silhouette
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 42
+ac: 15
+speed: walk 30 ft. burrow 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 312
+---
+
 # Sand Silhouette
 
 *Medium* *Undead* *Neutral Evil*

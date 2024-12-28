@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shoggoth
+size: Huge
+type: Aberration
+alignment: Chaotic Neutral
+cr: 19
+xp: 22,000
+hp: 325
+hp_roll: 189
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 120 ft. tremorsense 60 ft. 
+passive_perception: 21
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 326
+---
+
 # Shoggoth
 
 *Huge* *Aberration* *Chaotic Neutral*

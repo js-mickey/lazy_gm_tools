@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fraughashar
+size: Small
+type: Fey
+alignment: Neutral Evil
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5
+ac: 15
+speed: walk 25 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 192
+---
+
 # Fraughashar
 
 *Small* *Fey* *Neutral Evil*

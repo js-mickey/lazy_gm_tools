@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sunset Raptor
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 13
+speed: walk 50 ft.
+senses: 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 351
+---
+
 # Sunset Raptor
 
 *Medium* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Multiattack:** The sunset raptor makes two attacks: one with its bite and one with its claw.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage
-
-

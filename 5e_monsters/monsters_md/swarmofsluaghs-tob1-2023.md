@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Sluaghs
+size: Medium
+type: Swarm
+alignment: Chaotic Evil
+cr: 3
+xp: 700
+hp: 54
+hp_roll: 12d8
+ac: 13
+speed: walk 50 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 357
+---
+
 # Swarm of Sluaghs
 
 *Medium* *Swarm* *Chaotic Evil*

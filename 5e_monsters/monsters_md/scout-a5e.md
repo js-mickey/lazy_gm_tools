@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scout
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 490
+---
+
 # Scout
 
 *Medium* *Humanoid*
@@ -26,5 +45,3 @@
 - **Shortsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Longbow:** Ranged Weapon Attack: +5 to hit  range 150/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Scouts are hunters, explorers, and wilderness travelers:** Some act as guides or lookouts  while others hunt to support themselves or their tribes.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Horned Devil
+size: Large
+type: Fiend
+alignment: 
+cr: 11
+xp: 7,200
+hp: 168
+hp_roll: 16d10+80
+ac: 18
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 83
+---
+
 # Horned Devil
 
 *Large* *Fiend*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Pin (1/Day):** When a creature misses the devil with a melee attack, the devil makes a fork attack against that creature. On a hit, the target is impaled by the fork and grappled (escape DC 17). Until this grapple ends, the devil can't make fork attacks or use Inferno, but the target takes 7 (2d6) piercing damage plus 3 (1d6) fire damage at the beginning of each of its turns.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Son of Fenris
+size: Huge
+type: Monstrosity
+alignment: Chaotic Evil
+cr: 12
+xp: 8,400
+hp: 175
+hp_roll: 84
+ac: 17
+speed: walk 30 ft. burrow 60 ft.
+senses: truesight 60 ft. tremorsense 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 335
+---
+
 # Son of Fenris
 
 *Huge* *Monstrosity* *Chaotic Evil*

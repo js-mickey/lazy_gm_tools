@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Diomedian Horse
+size: Large
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 57
+hp_roll: 6d10+24
+ac: 14
+speed: walk 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 130
+---
+
 # Diomedian Horse
 
 *Large* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 - **Multiattack:** One Bite attack and one Claw attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 12 (2d6+5) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, 5 ft., one creature,. 10 (2d4+5) slashing damage.
-
-

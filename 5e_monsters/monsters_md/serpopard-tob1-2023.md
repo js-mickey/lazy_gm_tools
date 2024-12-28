@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Serpopard
+size: Large
+type: Monstrosity
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 30
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 322
+---
+
 # Serpopard
 
 *Large* *Monstrosity* *Unaligned*

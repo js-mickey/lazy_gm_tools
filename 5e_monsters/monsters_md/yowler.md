@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yowler
+size: Tiny
+type: Undead
+alignment: chaotic evil
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d4+12
+ac: 12
+speed: climb 30 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 380
+---
+
 # Yowler
 
 *Tiny* *Undead* *chaotic evil*
@@ -31,5 +50,3 @@ The changes wrought by this illusion fail to hold up to physical inspection. For
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned until the end of its next turn.
 - **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Yowl:** The yowler lets loose a horrid scream. Each hostile creature within 30 feet of the yowler that can hear it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the yowler’s Yowl for the next 24 hours.
-
-

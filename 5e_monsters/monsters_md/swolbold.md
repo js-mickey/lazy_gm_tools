@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swolbold
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d8+20
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 240
+---
+
 # Swolbold
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -27,5 +46,3 @@
 
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 14). Until the grapple ends, the target is restrained and the swolbold can't make slam attacks against other targets.
 - **Crush:** One creature grappled by the swolbold must make a DC 14 Strength saving throw, taking 21 (5d6 + 4) bludgeoning damage on a failed save, or half as much damage on a successful one.
-
-

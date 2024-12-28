@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fallen Planetar
+size: Large
+type: Celestial
+alignment: 
+cr: 16
+xp: 15,000
+hp: 250
+hp_roll: 20d10+140
+ac: 19
+speed: walk 40 ft. fly 120 ft.
+senses: truesight 60 ft. 
+passive_perception: 22
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 19
+---
+
 # Fallen Planetar
 
 *Large* *Celestial*
@@ -41,5 +60,3 @@
 ### Reactions
 
 - **Protective Parry:** When a creature within 5 feet would be hit with a melee attack, the planetar applies disadvantage to the attack roll.
-
-

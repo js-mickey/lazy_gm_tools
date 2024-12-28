@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zmey Headling
+size: Medium
+type: Dragon
+alignment: Chaotic Evil
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 42
+ac: 16
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 404
+---
+
 # Zmey Headling
 
 *Medium* *Dragon* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Offal Walker
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 37
+hp_roll: 5d8+15
+ac: 12
+speed: walk 25 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 296
+---
+
 # Offal Walker
 
 *Medium* *Undead* *neutral evil*
@@ -30,5 +49,3 @@
 - **Lasso:** Melee Weapon Attack: +3 to hit, 30 ft., one target, 3 (1d4+1) bludgeoning damage and the target is grappled (escape DC 13). Until this grapple ends the target is restrained and the offal walker can’t use the same gut lasso on another target.
 - **Slam:** Melee Weapon Attack: +3 reach 5 ft. one target 8 (2d6+1) bludgeoning damage.
 - **Reel:** Pulls one creature grappled by it up to 25 ft. straight toward it.
-
-

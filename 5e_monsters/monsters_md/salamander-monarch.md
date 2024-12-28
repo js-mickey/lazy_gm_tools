@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Salamander Monarch
+size: Large
+type: Elemental
+alignment: neutral evil
+cr: 13
+xp: 10,000
+hp: 161
+hp_roll: 17d10+68
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 311
+---
+
 # Salamander Monarch
 
 *Large* *Elemental* *neutral evil*
@@ -34,5 +53,3 @@
 - **Tail:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, the salamander monarch can automatically hit the target with its tail, and the salamander monarch can’t make tail attacks against other targets.
 - **Trident:** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (2d8 + 5) piercing damage or 16 (2d10 + 5) piercing damage if used with two hands to make a melee attack, plus 7 (2d6) fire damage.
 - **Immolating Crest (Recharge 6):** The salamander monarch causes its crest to flare with brilliant radiance, illuminating everything within 30 feet of it with a blue or green light. Each creature in that area must make a DC 17 Dexterity saving throw. On a failure, a creature takes 28 (8d6) fire damage and catches on fire. On a success, a creature takes half the damage and doesn’t catch on fire. Until a creature on fire takes an action to douse the fire, the creature takes 7 (2d6) fire damage at the start of each of its turns.
-
-

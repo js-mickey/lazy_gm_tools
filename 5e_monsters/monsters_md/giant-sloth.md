@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Sloth
+size: Large
+type: Beast
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 168
+hp_roll: 16d10+80
+ac: 15
+speed: climb 20 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 178
+---
+
 # Giant Sloth
 
 *Large* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) slashing damage. The target is grappled (escape DC 15) if it is a Large or smaller creature and the sloth doesn't have another creature grappled.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.
 - **Sloth's Embrace:** The giant sloth crushes a creature it is grappling by pulling the creature against its fetid, furry chest. The target must make a DC 15 Strength saving throw, taking 27 (6d8) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save is also stunned until the end of its next turn.
-
-

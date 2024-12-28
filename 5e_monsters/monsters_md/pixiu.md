@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pixiu
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d10+30
+ac: 15
+speed: fly 60 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 300
+---
+
 # Pixiu
 
 *Large* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Multiattack:** The pixiu makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage.
-
-

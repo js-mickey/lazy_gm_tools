@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Huecambra
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 136
+hp_roll: 13d10+65
+ac: 17
+speed: swim 30 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 203
+---
+
 # Huecambra
 
 *Large* *Monstrosity* *unaligned*
@@ -26,5 +45,3 @@
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) slashing damage.
 - **Tail:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Gem Explosion (Recharge 6):** The huecambra causes some of the gem-like nodules on its body to detonate. Each creature within 20 feet of the huecambra must make a DC 16 Dexterity saving throw. On a failure, a creature takes 24 (7d6) thunder damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned. A creature cursed by the huecambra’s bite has disadvantage on this saving throw.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Folk of Leng
+size: Medium
+type: Humanoid
+alignment: Neutral Evil
+cr: 2
+xp: 450
+hp: 68
+hp_roll: 32
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 190
+---
+
 # Folk of Leng
 
 *Medium* *Humanoid* *Neutral Evil*

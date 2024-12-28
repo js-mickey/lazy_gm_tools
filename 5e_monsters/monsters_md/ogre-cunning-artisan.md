@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Cunning Artisan
+size: Large
+type: Giant
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d10+42
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 299
+---
+
 # Ogre, Cunning Artisan
 
 *Large* *Giant* *neutral evil*
@@ -29,5 +48,3 @@
 - **Battleaxe:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) slashing damage or 15 (2d10+4) slashing damage if used with two hands + 4 (1d8) force.
 - **Arcane Bolt:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 12 (2d8+3) force.
 - **Curse Item (Recharge 5–6):** Curses one magic item it can see within 60' of it. If item is being worn or carried by a creature creature must make DC 15 Cha save to avoid curse. For 1 min cursed item suffers one curse described below based on type.
-
-

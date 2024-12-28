@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Starving Specter
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 13
+speed: walk 0 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 356
+---
+
 # Starving Specter
 
 *Medium* *Undead* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Multiattack:** One Bite attack and one Bladed Arm attack.
 - **Bite:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (2d4+3) piercing damage + 3 (1d6) necrotic.
 - **Bladed Arm:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 10 (2d6+3) slashing damage. This attack can target a creature on the Ethereal or Material Plane.
-
-

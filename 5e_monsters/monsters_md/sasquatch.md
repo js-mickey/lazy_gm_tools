@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sasquatch
+size: Large
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d10+42
+ac: 14
+speed: climb 40 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 58
+---
+
 # Sasquatch
 
 *Large* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 - **Fist:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Rock:** Melee Weapon Attack: +7 to hit, range 20/60 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage.
 - **Vanishing Tantrum (Recharge 5-6):** The sasquatch roars and stomps, kicking up debris and leaving deep footprints in the ground. Each creature within 20 feet of it must make a DC 14 Dexterity saving throw, taking 14 (4d6) thunder damage on a failed save, or half as much damage on a successful one. The sasquatch can then move up to half its speed without provoking opportunity attacks and take the Hide action as a bonus action.
-
-

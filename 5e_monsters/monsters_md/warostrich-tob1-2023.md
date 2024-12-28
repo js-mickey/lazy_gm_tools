@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: War Ostrich
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 1/2
+xp: 100
+hp: 42
+hp_roll: 15
+ac: 11
+speed: walk 60 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 393
+---
+
 # War Ostrich
 
 *Large* *Beast* *Unaligned*

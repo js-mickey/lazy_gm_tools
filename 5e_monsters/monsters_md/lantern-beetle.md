@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lantern Beetle
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 0
+xp: 25
+hp: 2
+hp_roll: 1d4
+ac: 13
+speed: walk 30 ft. climb 10 ft. fly 10 ft.
+senses: 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 392
+---
+
 # Lantern Beetle
 
 *Tiny* *Beast* *unaligned*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Horn:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
-
-

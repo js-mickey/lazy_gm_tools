@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghost Dwarf
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 81
+hp_roll: 18d8
+ac: 14
+speed: fly 40 ft. hover True ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 171
+---
+
 # Ghost Dwarf
 
 *Medium* *Undead* *neutral evil*
@@ -34,5 +53,3 @@
 - **Hand of the Grave:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 18 (4d8) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0.
 - **Prayers Unanswered (Recharge 5-6):** The ghost dwarf emits a constant whisper consisting of prayers, pleading, cursing, and cryptic phrases. The volume of the whispering intermittently increases, and those within 30 feet of the ghost dwarf that can hear it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Etherealness:** The ghost dwarf enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane. Ghoul, Darakhul Though all darakhul acknowledge dark gods, the priestess holds a closer link than most-always first to the feast, dividing out the choice morsels, intoning the words of hideous praise for the feast.
-
-

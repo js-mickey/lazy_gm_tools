@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bulette
+size: Large
+type: Monstrosity
+alignment: 
+cr: 6
+xp: 2,300
+hp: 95
+hp_roll: 10d10+40
+ac: 17
+speed: walk 40 ft. burrow 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 40
+---
+
 # Bulette
 
 *Large* *Monstrosity*
@@ -31,5 +50,3 @@
 
 - **Jaw Clamp (1/Day):** When an attacker within 5 feet of the bulette misses it with a melee attack, the bulette makes a bite attack against the attacker. On a hit, the attacker is grappled (escape DC 15). Until this grapple ends, the grappled creature is restrained, and the only attack the bulette can make is a bite against the grappled creature.
 - **Hard Carapace (1/Day):** After taking damage from an attack, the bulette lies down and closes its eyes, protecting all vulnerable spots. Until the beginning of its next turn, its AC becomes 21 and it has advantage on saving throws.
-
-

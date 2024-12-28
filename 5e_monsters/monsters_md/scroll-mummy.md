@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scroll Mummy
+size: Medium
+type: Undead
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 0
+---
+
 # Scroll Mummy
 
 *Medium* *Undead* *neutral*
@@ -34,5 +53,3 @@ At will: comprehend languages, fire bolt, mage hand, prestidigitation, ray of si
 
 - **Multiattack:** The scroll mummy makes two spell-siphoning fist attacks.
 - **Spell-Siphoning Fist:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 11 (2d10) force damage. If the target is a spellcaster, it must succeed on a DC 15 Charisma saving throw or lose one random unused spell slot. The scroll mummy inscribes one of the spellcaster’s spells of that slot level onto the parchment wrappings that cover its body (see the Scroll Body trait).
-
-

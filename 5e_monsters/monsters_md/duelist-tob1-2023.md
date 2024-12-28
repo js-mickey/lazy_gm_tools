@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Duelist
+size: Medium
+type: Humanoid
+alignment: Lawful Evil
+cr: 6
+xp: 2,300
+hp: 117
+hp_roll: 36
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 159
+---
+
 # Duelist
 
 *Medium* *Humanoid* *Lawful Evil*

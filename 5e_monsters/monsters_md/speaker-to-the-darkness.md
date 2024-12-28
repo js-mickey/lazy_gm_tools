@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Speaker to the Darkness
+size: Small
+type: Humanoid
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 135
+hp_roll: 18d6+72
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 96
+---
+
 # Speaker to the Darkness
 
 *Small* *Humanoid* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Sling:** Ranged Weapon Attack: +6 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 - **Drawn from Beyond (Recharge 5-6):** The speaker conjures up to 3 ghasts. The ghasts appear in unoccupied spaces within 30 feet of the speaker that the speaker can see. The ghasts follow the speaker's commands, and it is immune to their Stench. It can't have more than 3 ghasts conjured at one time.
 - **Extinguish Light (1/rest):** The speaker creates a 15-foot-radius sphere of magical darkness on a point it can see within 60 feet. This darkness works like the darkness spell, except creatures inside it have disadvantage on saving throws and the speaker and its conjured ghasts are unaffected by the darkness.
-
-

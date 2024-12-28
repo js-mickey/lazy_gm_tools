@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Acolyte
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 10
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 486
+---
+
 # Acolyte
 
 *Medium* *Humanoid*
@@ -34,5 +53,3 @@
 - **Bless (1st-Level; V, S, M, Concentration):** Up to three creatures within 30 feet add a d4 to attack rolls and saving throws for 1 minute.
 - **Cure Wounds (1st-Level; V, S):** The acolyte touches a willing living creature  restoring 6 (1d8 + 2) hit points to it.
 - **An acolyte is a priest in training or an assistant to a more senior member of the clergy:** While acolytes may be found acting as servants or messengers in major temples  an acolyte may also be the only representative of their faith serving a village or roadside shrine.
-
-

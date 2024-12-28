@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Brass Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 153
+hp_roll: 18d10+54
+ac: 17
+speed: walk 40 ft. burrow 20 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 18
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 157
+---
+
 # Young Brass Dragon
 
 *Large* *Dragon*
@@ -31,5 +50,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Molten Breath:** The dragon exhales molten glass in a 40-foot-long  5-foot-wide line. Each creature in the area makes a DC 15 Dexterity saving throw  taking 38 (11d6) fire damage on a failed save or half damage on a success.
 - **Sleep Breath:** The dragon exhales sleep gas in a 30-foot cone. Each creature in the area makes a DC 15 Constitution saving throw. On a failure  a creature falls unconscious for 10 minutes or until it takes damage or someone uses an action to wake it.
-
-

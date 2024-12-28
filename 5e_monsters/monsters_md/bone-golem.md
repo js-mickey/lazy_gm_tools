@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Golem
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 60
+hp_roll: 8d8+24
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Bone Golem
 
 *Medium* *Construct* *unaligned*
@@ -35,5 +54,3 @@ The golem's creator, if within 60 feet of the berserk golem, can calm it by spea
 - **Multiattack:** The bone golem makes two attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
 - **Bone Shard:** Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) necrotic damage.
-
-

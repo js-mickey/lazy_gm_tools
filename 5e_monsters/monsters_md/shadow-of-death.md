@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow of Death
+size: Large
+type: Celestial
+alignment: chaotic evil
+cr: 21
+xp: 33,000
+hp: 250
+hp_roll: 20d10+140
+ac: 18
+speed: walk 50 ft.
+senses: truesight 120 ft. 
+passive_perception: 24
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 323
+---
+
 # Shadow of Death
 
 *Large* *Celestial* *chaotic evil*
@@ -40,5 +59,3 @@ A creature that takes necrotic damage from the shadow death’s weapon must succ
 - **Shortsword:** Melee Weapon Attack: +15 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) piercing damage plus 10 (3d6) necrotic damage.
 - **Vision of Ending:** Each creature that is not undead within 60 feet of the shadow of death that can see it must succeed on a DC 22 Wisdom saving throw or become frightened for 1 minute. While frightened in this way, the creature is also paralyzed as it sees visions of its death. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to this shadow of death’s Vision of Ending for the next 24 hours.
 - **Teleport:** The shadow of death magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
-
-

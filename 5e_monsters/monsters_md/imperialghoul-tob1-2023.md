@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Imperial Ghoul
+size: Medium
+type: Undead
+alignment: Lawful Evil
+cr: 4
+xp: 1,100
+hp: 93
+hp_roll: 17
+ac: 16
+speed: walk 15 ft. burrow 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 203
+---
+
 # Imperial Ghoul
 
 *Medium* *Undead* *Lawful Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wind Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: Chaotic Neutral
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 10
+ac: 15
+speed: walk 80 ft. fly 20 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 135
+---
+
 # Wind Dragon Wyrmling
 
 *Medium* *Dragon* *Chaotic Neutral*

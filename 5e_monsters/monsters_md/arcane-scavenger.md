@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arcane Scavenger
+size: Large
+type: Construct
+alignment: neutral
+cr: 9
+xp: 5,000
+hp: 127
+hp_roll: 17d10+34
+ac: 17
+speed: walk 10 ft. fly 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 41
+---
+
 # Arcane Scavenger
 
 *Large* *Construct* *neutral*
@@ -33,5 +52,3 @@
 - **Grabbing Claw:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 13 (2d8+4) bludgeoning damage + 7 (2d6) force and target is grappled (escape DC 16). Scavenger has eight claws each of which can grapple only one target.
 - **Excavation Beam:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 20 (5d6+3) fire.
 - **Spellcasting:** Int (DC 15) no material components: At will: detect magic locate object3/day ea: counterspell dispel magic
-
-

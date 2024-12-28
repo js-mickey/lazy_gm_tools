@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moon Drake
+size: Medium
+type: Dragon
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 76
+hp_roll: 9d8+36
+ac: 15
+speed: fly 100 ft. walk 25 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 260
+---
+
 # Moon Drake
 
 *Medium* *Dragon* *neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Form of Moonlight:** When the moon drake takes damage or is restrained, it can transmute its physical form into an incorporeal form of pure moonlight until the end of its next turn. While in this form, it has resistance to cold, fire, and lightning damage and immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks. While in this form, the drake can pass through openings at least 1 inch wide and through transparent objects. It takes 5 (1d10) force damage if it ends its turn inside an object.
-
-

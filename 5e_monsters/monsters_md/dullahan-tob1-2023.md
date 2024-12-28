@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dullahan
+size: Large
+type: Fey
+alignment: Lawful Evil
+cr: 11
+xp: 7,200
+hp: 178
+hp_roll: 85
+ac: 17
+speed: walk 60 ft.
+senses: truesight 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 151
+---
+
 # Dullahan
 
 *Large* *Fey* *Lawful Evil*

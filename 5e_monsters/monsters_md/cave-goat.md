@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Goat
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 4d6+8
+ac: 11
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 389
+---
+
 # Cave Goat
 
 *Small* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Ram:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dogmole
+size: Medium
+type: Beast
+alignment: Unaligned
+cr: 1
+xp: 200
+hp: 58
+hp_roll: 18
+ac: 14
+speed: walk 10 ft. burrow 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 107
+---
+
 # Dogmole
 
 *Medium* *Beast* *Unaligned*

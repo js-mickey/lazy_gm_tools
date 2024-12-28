@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dinosaur, Razorfeather Raptor
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 16
+speed: walk 40 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 126
+---
+
 # Dinosaur, Razorfeather Raptor
 
 *Medium* *Monstrosity* *neutral evil*
@@ -27,5 +46,3 @@
 - **Multiattack:** One Bladed Feather attack and one Claw attack.
 - **Bladed Feather:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 30/90' one target 8 (1d10+3) slashing damage and the target’s speed is reduced by 10 ft. until the end of its next turn.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) slashing damage.
-
-

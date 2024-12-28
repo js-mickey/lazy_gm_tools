@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Peryton
+size: Large
+type: Monstrosity
+alignment: 
+cr: 2
+xp: 450
+hp: 34
+hp_roll: 4d10+12
+ac: 13
+speed: walk 30 ft. fly 60 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 359
+---
+
 # Peryton
 
 *Large* *Monstrosity*
@@ -26,5 +45,3 @@
 - **Multiattack:** The peryton attacks with its gore and talons.
 - **Gore:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) piercing damage. This attack scores a critical hit on a roll of 18  19  or 20. If this critical hit reduces a humanoid to 0 hit points  the peryton can use a bonus action to rip the targets heart out with its teeth  killing it.
 - **Talons:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) piercing damage  or 10 (2d6 + 3) damage if the peryton moves at least 20 feet straight towards the target before the attack.
-
-

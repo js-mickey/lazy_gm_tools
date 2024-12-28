@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rock Roach
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 67
+hp_roll: 9d8+27
+ac: 16
+speed: walk 30 ft. burrow 20 ft.
+senses: blindsight 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 308
+---
+
 # Rock Roach
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Multiattack:** The rock roach makes two bite attacks. Alternatively, it can use Acid Spit twice.
 - **Acid Spit:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 5 (1d6 + 2) acid damage, and the target takes 3 (1d6) acid damage at the start of its next turn unless the target immediately uses its reaction to wipe off the spit.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.
-
-

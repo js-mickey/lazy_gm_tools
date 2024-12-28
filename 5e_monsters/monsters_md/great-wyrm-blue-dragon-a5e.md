@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Wyrm Blue Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 25
+xp: 75,000
+hp: 814
+hp_roll: 44d20+352
+ac: 22
+speed: walk 40 ft. burrow 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 60 ft. tremorsense 60 ft. darkvision 120 ft. 
+passive_perception: 24
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 107
+---
+
 # Great Wyrm Blue Dragon
 
 *Gargantuan* *Dragon*

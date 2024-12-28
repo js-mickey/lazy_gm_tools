@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devil, Infernal Tutor
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 13
+xp: 10,000
+hp: 182
+hp_roll: 28d8+56
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 120
+---
+
 # Devil, Infernal Tutor
 
 *Medium* *Fiend* *lawful evil*
@@ -42,5 +61,3 @@
 ### Reactions
 
 - **Str of Character:** When it succeeds on a save tutor responds with scathing magical insult if source of effect is a creature within 60' of tutor. That creature: DC 18 Wis save or take 14 (4d6) psychic and have disadvantage on next save it makes vs. a spell cast by tutor.
-
-

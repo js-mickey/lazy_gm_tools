@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mask Wight
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 13
+xp: 10,000
+hp: 207
+hp_roll: 126
+ac: 19
+speed: walk 40 ft.
+senses: darkvision 60 ft. truesight 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 264
+---
+
 # Mask Wight
 
 *Medium* *Undead* *Neutral Evil*

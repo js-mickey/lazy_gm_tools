@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Peat Mammoth
+size: Huge
+type: Plant
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 172
+hp_roll: 15d12+75
+ac: 16
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 293
+---
+
 # Peat Mammoth
 
 *Huge* *Plant* *neutral*
@@ -30,5 +49,3 @@ If the peat mammoth dies while it is on fire, it explodes in a burst of fire and
 - **Multiattack:** The peat mammoth makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +11 to hit, reach 10 ft., one creature. Hit: 20 (3d8 + 7) bludgeoning damage. If the peat mammoth is on fire, the target also takes 7 (2d6) fire damage.
 - **Engulf:** The peat mammoth moves up to its speed. While doing so, it can enter Large or smaller creatures’ spaces. Whenever the mammoth enters a creature’s space, the creature must make a DC 17 Dexterity saving throw.<br><br>On a successful save, the creature can choose to be pushed 5 feet back or to the side of the mammoth. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.<br><br>On a failed save, the mammoth enters the creature’s space, and the creature takes 22 (5d8) necrotic damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 22 (5d8) necrotic damage at the start of each of the mammoth’s turns. When the mammoth moves, engulfed creatures move with it.<br><br>An engulfed creature can try to escape by taking an action to make a DC 17 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the mammoth. The mammoth can engulf up to two Large or smaller creatures at a time.
-
-

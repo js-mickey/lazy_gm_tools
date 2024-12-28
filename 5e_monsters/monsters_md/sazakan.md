@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sazakan
+size: Medium
+type: Elemental
+alignment: lawful neutral
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 19d8+57
+ac: 16
+speed: walk 30 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 336
+---
+
 # Sazakan
 
 *Medium* *Elemental* *lawful neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** Three Icy Wind Lash attacks.
 - **Icy Wind Lash:** Melee or Ranged Spell Attack: +7 to hit 5 ft. or range 60' one target 8 (1d8+4) slashing damage + 7 (2d6) cold. If sazakan scores a critical hit target is restrained by ice until end of its next turn.
 - **Ice Whirlwind (Recharge 5–6):** Surrounds itself in icy wind. Each creature within 10 ft. of it:  28 (8d6) cold and pushed up to 15 ft. from sazakan and knocked prone (DC 15 Str half damage and not pushed/knocked prone). If save fails by 5+ creature is also restrained as its limbs become encased in ice. Creature including encased creature can break encased creature free via DC 15 Str check. Encased creature also freed if it takes fire damage.
-
-

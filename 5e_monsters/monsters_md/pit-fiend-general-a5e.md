@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pit Fiend General
+size: Huge
+type: Fiend
+alignment: 
+cr: 20
+xp: 25,000
+hp: 600
+hp_roll: 48d10+336
+ac: 19
+speed: walk 30 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 88
+---
+
 # Pit Fiend General
 
 *Huge* *Fiend*
@@ -38,5 +57,3 @@
 
 - **Claw:** Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 19 (2d10 + 8) slashing damage, and the target is grappled (escape DC 22). While the target is grappled, the pit fiend can't use its claw against a different creature.
 - **Tail:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.
-
-

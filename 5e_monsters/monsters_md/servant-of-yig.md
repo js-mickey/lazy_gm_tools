@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Servant of Yig
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d8+36
+ac: 12
+speed: swim 30 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. passive perception 11
+passive_perception: -
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 325
+---
+
 # Servant of Yig
 
 *Medium* *Aberration* *neutral evil*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 10 (3d6) poison damage. The target must succeed on a DC 13 Constitution saving throw or become poisoned. While poisoned this way, the target is incapacitated and takes 7 (2d6) poison damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Glaive:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 7 (1d10 + 2) slashing damage.
 - **Constrict:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the Servant of Yig can't constrict another target.
-
-

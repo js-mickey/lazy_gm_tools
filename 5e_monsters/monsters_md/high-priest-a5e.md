@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: High Priest
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 82
+hp_roll: 11d8+33
+ac: 18
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 489
+---
+
 # High Priest
 
 *Medium* *Humanoid*
@@ -52,5 +71,3 @@
 
 - **Healing Word (1st-Level; V):** The priest or a living creature within 60 feet regains 6 (1d4 + 4) hit points. The priest can't cast this spell and a 1st-level or higher spell on the same turn.
 - **High priests lead major temples and shrines:** Their ability to command angelic forces and return the dead to life make them important political players, whether they seek that role or not. Good high priests protect communities or battle fiends, while evil high priests seek empire or secretly command legions of cultists.
-
-

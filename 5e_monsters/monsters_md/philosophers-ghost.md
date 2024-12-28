@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Philosopher's Ghost
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 77
+hp_roll: 14d8+14
+ac: 13
+speed: walk 40 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 297
+---
+
 # Philosopher's Ghost
 
 *Medium* *Ooze* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The philosopher's ghost makes two burning touch attacks.
 - **Burning Touch:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) fire damage. If the target is a creature, it suffers a burning lesion, taking 2 (1d4) fire damage at the start of each of its turns. Any creature can take an action to soothe the burning lesion with a successful DC 12 Wisdom (Medicine) check. The lesion is also soothed if the target receives magical healing.
-
-

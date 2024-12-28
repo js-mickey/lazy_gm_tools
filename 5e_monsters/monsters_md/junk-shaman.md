@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Junk Shaman
+size: Small
+type: Humanoid
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 42
+hp_roll: 12d6
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 238
+---
+
 # Junk Shaman
 
 *Small* *Humanoid* *lawful neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** The kobold junk shaman makes two junk staff attacks.
 - **Junk Staff:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 3 (1d6) fire damage.
 - **Flame Jet:** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or flammable object that isn't being worn or carried, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the start of each of its turns.
-
-

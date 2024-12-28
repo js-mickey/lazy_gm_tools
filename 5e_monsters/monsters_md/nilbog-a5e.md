@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nilbog
+size: Small
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 14
+hp_roll: 4d6
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 
+---
+
 # Nilbog
 
 *Small* *Humanoid*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Nimble Escape:** The goblin takes the Disengage or Hide action.
-
-

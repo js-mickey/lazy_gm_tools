@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Liminal Drake
+size: Large
+type: Dragon
+alignment: neutral evil
+cr: 14
+xp: 11,500
+hp: 204
+hp_roll: 24d10+72
+ac: 17
+speed: fly 80 ft. walk 0 ft. hover True ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 107
+---
+
 # Liminal Drake
 
 *Large* *Dragon* *neutral evil*
@@ -35,5 +54,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Claw:** Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) slashing damage plus 9 (2d8) cold damage.
 - **Stellar Breath (Recharge 5-6):** The drake exhales star fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 18 (4d8) fire damage and 18 (4d8) radiant damage on a failed save, and half as much damage on a successful one.
 - **Warp Space:** The liminal drake can fold in on itself to travel to a different plane. This works like the plane shift spell, except the drake can only affect itself, not other creatures, and it can’t use the effect to banish an unwilling creature to another plane.
-
-

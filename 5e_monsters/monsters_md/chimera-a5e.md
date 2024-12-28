@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chimera
+size: Large
+type: Monstrosity
+alignment: 
+cr: 7
+xp: 2,900
+hp: 114
+hp_roll: 12d10+48
+ac: 13
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 45
+---
+
 # Chimera
 
 *Large* *Monstrosity*

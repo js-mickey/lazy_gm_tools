@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Baleful Miasma
+size: Medium
+type: Elemental
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 0 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 50
+---
+
 # Baleful Miasma
 
 *Medium* *Elemental* *neutral evil*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Swift Advance:** If a creature in same space as miasma moves miasma can move up to its speed with the creature. This move doesn’t provoke opportunity attacks but miasma must move in same spaces creature moved ending in creature’s space or space nearest to it.
-
-

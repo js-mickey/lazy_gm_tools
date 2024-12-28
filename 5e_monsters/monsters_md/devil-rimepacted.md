@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devil, Rimepacted
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 6
+xp: 2,300
+hp: 91
+hp_roll: 14d8+28
+ac: 15
+speed: walk 30 ft. burrow 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 124
+---
+
 # Devil, Rimepacted
 
 *Medium* *Fiend* *lawful evil*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Fury of the Storm:** When a creature rimepacted can see is knocked prone by Frigid Vortex rimepacted can move up to half its speed toward the creature.
-
-

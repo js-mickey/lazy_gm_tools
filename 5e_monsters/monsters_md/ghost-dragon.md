@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghost Dragon
+size: Large
+type: Undead
+alignment: any alignment
+cr: 11
+xp: 7,200
+hp: 126
+hp_roll: 23d10
+ac: 14
+speed: fly 60 ft. walk 0 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 170
+---
+
 # Ghost Dragon
 
 *Large* *Undead* *any alignment*
@@ -32,5 +51,3 @@
 - **Withering Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage, and the target must succeed on a DC 17 Constitution saving throw or take 18 (4d8) necrotic damage.
 - **Etherealness:** The ghost dragon enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
 - **Horrifying Breath (Recharge 5-6):** The ghost dragon exhales a blast of icy terror in a 30-foot cone. Each living creature in that area must make a DC 16 Wisdom saving throw. On a failure, a creature takes 44 (8d10) psychic damage and is frightened for 1 minute. On a success, it takes half the damage and isn't frightened. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

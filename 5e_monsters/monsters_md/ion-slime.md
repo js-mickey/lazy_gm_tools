@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ion Slime
+size: Small
+type: Ooze
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 15d6+60
+ac: 13
+speed: walk 20 ft. swim 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 7
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 245
+---
+
 # Ion Slime
 
 *Small* *Ooze* *unaligned*
@@ -36,5 +55,3 @@
 
 - **Charged Motion (Supercharged Only):** Dash or Dodge action.
 - **Supercharge (Recharge 5–6):** Gathers ambient electricity to supercharge itself for 3 rounds. While supercharged slime gains +2 bonus to its AC and it gains an additional action on each of its turns. At end of the third round if the slime hasn’t used the Discharge action it suffers feedback taking 18 (4d8) force. Its supercharged state then ends.
-
-

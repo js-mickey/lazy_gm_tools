@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elophar
+size: Large
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 126
+hp_roll: 12d10+60
+ac: 8
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 6
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 149
+---
+
 # Elophar
 
 *Large* *Undead* *chaotic evil*
@@ -39,5 +58,3 @@ At will: acid splash, chill touch, poison spray
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-
-

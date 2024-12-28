@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Darakhul High Priestess
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 9
+xp: 5,000
+hp: 112
+hp_roll: 15d8+45
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 172
+---
+
 # Darakhul High Priestess
 
 *Medium* *Undead* *neutral evil*
@@ -43,5 +62,3 @@ Cantrips (at will): guidance, mending, resistance, sacred flame, spare the dying
 - **Multiattack:** The darakhul high priestess makes two claw attacks and one bite attack.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage plus 9 (2d8) necrotic damage and, if the target is a humanoid, it must succeed on a DC 16 Constitution saving throw or contract darakhul fever.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a humanoid is paralyzed for more than 2 rounds, it contracts darakhul fever.
-
-

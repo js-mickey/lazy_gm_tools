@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nightgaunt
+size: Large
+type: Aberration
+alignment: lawful evil
+cr: 10
+xp: 5,900
+hp: 142
+hp_roll: 15d10+60
+ac: 17
+speed: fly 60 ft. walk 20 ft.
+senses: blindsight 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 277
+---
+
 # Nightgaunt
 
 *Large* *Aberration* *lawful evil*
@@ -32,5 +51,3 @@
 - **Clutching Claws:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, and the target is grappled (escape DC 16) if it is a Medium or smaller creature. Until this grapple ends, the target is restrained. The nightgaunt has two claws, each of which can grapple only one target. While using a claw to grapple, the nightgaunt can't use that claw to attack.
 - **Barbed Tail:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 10 (3d6) poison damage.
 - **Baneful Presence:** Each creature of the nightgaunt's choice that is within 30 feet of the nightgaunt and aware of it must succeed on a DC 16 Wisdom saving throw or have disadvantage on all attack rolls and saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nightgaunt's Baneful Presence for the next 24 hours.
-
-

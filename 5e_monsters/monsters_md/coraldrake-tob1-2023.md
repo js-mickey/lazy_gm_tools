@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Coral Drake
+size: Medium
+type: Dragon
+alignment: Neutral Evil
+cr: 7
+xp: 2,900
+hp: 127
+hp_roll: 60
+ac: 16
+speed: walk 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 140
+---
+
 # Coral Drake
 
 *Medium* *Dragon* *Neutral Evil*

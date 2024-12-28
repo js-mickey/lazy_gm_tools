@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Cave Dragon
+size: Gargantuan
+type: Dragon
+alignment: Neutral Evil
+cr: 25
+xp: 75,000
+hp: 507
+hp_roll: 234
+ac: 20
+speed: walk 40 ft. burrow 40 ft.
+senses: blindsight 60 ft. tremorsense 120 ft. 
+passive_perception: 29
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 113
+---
+
 # Ancient Cave Dragon
 
 *Gargantuan* *Dragon* *Neutral Evil*

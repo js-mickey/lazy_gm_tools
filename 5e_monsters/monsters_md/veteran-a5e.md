@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Veteran
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 494
+---
+
 # Veteran
 
 *Medium* *Humanoid*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Off-Hand Counter:** When the veteran is missed by a melee attack by an attacker they can see within 5 feet, the veteran makes a shortsword attack against the attacker.
-
-

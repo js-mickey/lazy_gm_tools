@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scorpion Cultist
+size: Medium
+type: Humanoid
+alignment: Neutral
+cr: 1/2
+xp: 100
+hp: 26
+hp_roll: 8
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 411
+---
+
 # Scorpion Cultist
 
 *Medium* *Humanoid* *Neutral*

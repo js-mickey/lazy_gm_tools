@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Armory Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 16d10+48
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 40
+---
+
 # Armory Golem
 
 *Large* *Construct* *unaligned*
@@ -33,5 +52,3 @@
 - **Polearm Strike:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (1d12 + 5) piercing damage.
 - **Crossbow Barrage:** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 11 (2d8 + 2) piercing damage.
 - **Shield Wall (Recharge 4-6):** The golem reconfigures its construction, moving shields and armor to encase its body. It regains 10 hp, and its AC increases by 2 until the end of its next turn.
-
-

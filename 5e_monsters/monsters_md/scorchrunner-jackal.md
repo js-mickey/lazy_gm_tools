@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scorchrunner Jackal
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 38
+hp_roll: 7d8+7
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 340
+---
+
 # Scorchrunner Jackal
 
 *Medium* *Monstrosity* *unaligned*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Daylight Skirmish:** While in sunlight the jackal takes the Dash or Dodge action.
-
-

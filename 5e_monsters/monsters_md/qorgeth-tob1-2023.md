@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Qorgeth
+size: Gargantuan
+type: Fiend
+alignment: Chaotic Evil
+cr: 23
+xp: 50,000
+hp: 370
+hp_roll: 160
+ac: 21
+speed: walk 30 ft. burrow 50 ft.
+senses: blindsight 120 ft. tremorsense 120 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 80
+---
+
 # Qorgeth
 
 *Gargantuan* *Fiend* *Chaotic Evil*

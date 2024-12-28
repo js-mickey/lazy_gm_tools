@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Balor
+size: Huge
+type: Fiend
+alignment: 
+cr: 19
+xp: 22,000
+hp: 299
+hp_roll: 26d12+130
+ac: 19
+speed: walk 40 ft. fly 80 ft.
+senses: truesight 120 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 66
+---
+
 # Balor
 
 *Huge* *Fiend*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Instinctive Teleport:** After the balor takes damage, it uses Teleport.
-
-

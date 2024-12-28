@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Eel Hound
+size: Medium
+type: Fey
+alignment: Neutral
+cr: 2
+xp: 450
+hp: 77
+hp_roll: 14
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 155
+---
+
 # Eel Hound
 
 *Medium* *Fey* *Neutral*

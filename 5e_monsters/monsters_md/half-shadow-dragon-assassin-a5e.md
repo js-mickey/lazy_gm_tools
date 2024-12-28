@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Half-Shadow Dragon Assassin
+size: Medium
+type: Humanoid
+alignment: 
+cr: 7
+xp: 2,900
+hp: 97
+hp_roll: 15d8+30
+ac: 16
+speed: walk 35 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 274
+---
+
 # Half-Shadow Dragon Assassin
 
 *Medium* *Humanoid*
@@ -35,5 +54,3 @@
 
 - **Cunning Action:** The assassin takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The assassin attacks with their shortsword.
-
-

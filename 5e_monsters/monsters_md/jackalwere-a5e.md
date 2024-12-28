@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jackalwere
+size: Medium
+type: Fiend
+alignment: 
+cr: 1/2
+xp: 100
+hp: 18
+hp_roll: 4d8
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 291
+---
+
 # Jackalwere
 
 *Medium* *Fiend*
@@ -34,5 +53,3 @@
 
 - **Shapeshift:** The jackalwere magically changes its form, along with its equipment, to that of a specific Medium humanoid or a jackal-human hybrid or its true form, which is a Small jackal. While shapeshifted, its statistics are otherwise unchanged. It reverts to its true form if it dies.
 - **Combat The jackalwere shifts to hybrid form and uses Sleep Gaze on an unsuspecting target:** It then fights with its scimitar, staying next to at least one ally. A jackalwere is fearless when facing enemies armed with mundane weapons, but it retreats if it is outnumbered by enemies capable of bypassing its resistances.
-
-

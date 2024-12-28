@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Old Salt
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 117
+hp_roll: 18d8+36
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 304
+---
+
 # Old Salt
 
 *Medium* *Undead* *neutral evil*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Cunning Action:** Take Dash Disengage or Hide.
-
-

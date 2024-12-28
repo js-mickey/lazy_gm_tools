@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Wharflings
+size: Large
+type: Swarm
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d10
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 395
+---
+
 # Swarm of Wharflings
 
 *Large* *Swarm* *Unaligned*

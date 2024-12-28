@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chaos Raptor
+size: Gargantuan
+type: Monstrosity
+alignment: chaotic neutral
+cr: 13
+xp: 10,000
+hp: 248
+hp_roll: 16d20+80
+ac: 18
+speed: walk 20 ft. burrow 80 ft. fly 120 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 81
+---
+
 # Chaos Raptor
 
 *Gargantuan* *Monstrosity* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** One Beak attack and one Talons attack.
 - **Beak:** Melee Weapon Attack: +14 to hit, 10 ft., one target, 27 (4d8+9) piercing damage.
 - **Talons:** Melee Weapon Attack: +14 to hit, 5 ft., one target, 23 (4d6+9) slashing damage and target is grappled (escape DC 18). Until this grapple ends target is restrained and raptor can’t use its talons on another target.
-
-

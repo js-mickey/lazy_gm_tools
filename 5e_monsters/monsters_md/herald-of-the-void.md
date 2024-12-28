@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Herald of the Void
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 123
+hp_roll: 13d8+65
+ac: 17
+speed: hover True ft. walk 30 ft. fly 50 ft.
+senses: truesight 60 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 199
+---
+
 # Herald of the Void
 
 *Large* *Fiend* *chaotic evil*

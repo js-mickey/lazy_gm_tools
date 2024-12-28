@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dire Pangolin
+size: Large
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 11d10+22
+ac: 16
+speed: walk 30 ft. climb 20 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 133
+---
+
 # Dire Pangolin
 
 *Large* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 - **Claws:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+4) slashing damage.
 - **Tail Slap:** Melee Weapon Attack: +6 to hit, 10 ft., one target, 8 (1d8+4) piercing damage and the target must make DC 14 Str save or be knocked prone.
 - **Tuck In:** Curls its entire body forming an armored ball. While an armored ball it moves by rolling has resistance to B/P/S damage is immune to the prone condition and it can’t make Claw or Tail Slap attacks or climb. The dire pangolin can uncurl its body as a bonus action.
-
-

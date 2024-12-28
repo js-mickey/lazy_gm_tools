@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tigebra
+size: Large
+type: Monstrosity
+alignment: chaotic evil
+cr: 13
+xp: 10,000
+hp: 190
+hp_roll: 20d10+80
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 10 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 369
+---
+
 # Tigebra
 
 *Large* *Monstrosity* *chaotic evil*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Hypnotic Gaze:** Gazes on one creature it can see within 60' of it. If target can see it: paralyzed until end of its next turn (DC 17 Wis negates immune to tigebra’s Hypnotic Gaze 24 hrs).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alseid
+size: Medium
+type: Monstrosity
+alignment: Chaotic Neutral
+cr: 1/2
+xp: 100
+hp: 33
+hp_roll: 6
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 15
+---
+
 # Alseid
 
 *Medium* *Monstrosity* *Chaotic Neutral*

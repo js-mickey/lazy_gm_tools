@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Avalanche Screamer
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: burrow 20 ft. walk 40 ft. climb 30 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 35
+---
+
 # Avalanche Screamer
 
 *Large* *Aberration* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 13 (2d8 + 4) piercing damage plus 7 (2d6) thunder damage.
 - **Leg:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. If the avalanche screamer scores a critical hit against a creature that is Medium or smaller, the creature is impaled on the screamer’s leg and grappled (escape DC 15). Until this grapple ends, the target is restrained and takes 3 (1d6) piercing damage at the start of each of its turns. The avalanche screamer can impale up to four creatures. If it has at least one creature impaled, it can’t move. If it has four creatures impaled, it can’t make leg attacks. It can release all impaled creatures as a bonus action.
 - **Scream (Recharge 5-6):** The avalanche screamer shrieks thunderously in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw. On a failure, a creature takes 27 (6d8) thunder damage and is deafened for 1 hour. On a success, a creature takes half as much damage and isn’t deafened.
-
-

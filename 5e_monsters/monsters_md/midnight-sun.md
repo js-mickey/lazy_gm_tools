@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Midnight Sun
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 16d10+48
+ac: 16
+speed: walk 0 ft. fly 60 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 270
+---
+
 # Midnight Sun
 
 *Large* *Aberration* *neutral evil*
@@ -32,5 +51,3 @@
 - **Multiattack:** Three Energy Blast attacks.
 - **Energy Blast:** Melee or Ranged Spell Attack: +7 to hit 5 ft. or range 120' one target 14 (3d6+4) damage of the type determined by the sun’s current form.
 - **Energy Pulse (Recharge 5–6):** Each creature within 15 ft. of it: 28 (8d6) damage of type determined by sun’s form (DC 15 Con half).
-
-

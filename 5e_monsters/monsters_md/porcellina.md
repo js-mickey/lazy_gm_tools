@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Porcellina
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 28
+hp_roll: 8d4+8
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 317
+---
+
 # Porcellina
 
 *Tiny* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Squeal:** When a porcellina is hit with an attack it can let out a blood-curdling scream. Each creature within 10 ft. of the porcellina must make DC 11 Wis save or become frightened until the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hill Giant Chief
+size: Huge
+type: Giant
+alignment: 
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 12d12+48
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 238
+---
+
 # Hill Giant Chief
 
 *Huge* *Giant*
@@ -34,5 +53,3 @@
 - **Body Slam (1/Day):** The giant jumps up to 15 feet horizontally without provoking opportunity attacks and falls prone in a space containing one or more creatures. Each creature in its space when it lands makes a DC 15 Dexterity saving throw, taking 19 (3d8 + 6) bludgeoning damage and falling prone on a failure. On a success, the creature takes half damage and is pushed 5 feet to an unoccupied space of its choice. If that space is occupied, the creature falls prone.
 - **Muddy Ground (1/Day):** Areas of unworked earth within 60 feet magically become swampy mud for 1 minute or until the giant dies. These areas become difficult terrain. Prone creatures in the area when the mud appears or that fall prone in the area make a DC 15 Strength saving throw. On a failure, the creatures Speed drops to 0 as it becomes stuck in the mud. A creature can use its action to make a DC 15 Strength check, freeing itself on a success.
 - **Stomp (1/Day):** The giant stamps its foot, causing the ground to tremble. Each creature within 60 feet makes a DC 15 Dexterity saving throw. On a failure, it falls prone.
-
-

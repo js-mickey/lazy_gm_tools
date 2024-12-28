@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Haunted Giant
+size: Huge
+type: Giant
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 126
+hp_roll: 12d12+48
+ac: 20
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 183
+---
+
 # Haunted Giant
 
 *Huge* *Giant* *chaotic neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** The giant makes two greatclub attacks.
 - **Greatclub:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.
-
-

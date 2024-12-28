@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Plaresh
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 30
+hp_roll: 4d8+12
+ac: 15
+speed: burrow 30 ft. swim 30 ft. walk 30 ft.
+senses: blindsight 30 ft. (blind beyond this radius) tremorsense 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 89
+---
+
 # Plaresh
 
 *Medium* *Fiend* *chaotic evil*
@@ -29,5 +48,3 @@
 
 - **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 13 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the target is wearing nonmagical armor, the armor takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 is destroyed.
 - **Infest Corpse (Recharges after a Long Rest):** The plaresh targets one dead humanoid in its space. The body is destroyed, and a new plaresh rises from the corpse. The newly created plaresh is free-willed but usually joins its creator.
-
-

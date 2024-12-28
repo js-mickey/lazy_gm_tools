@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Marilith
+size: Large
+type: Fiend
+alignment: 
+cr: 16
+xp: 15,000
+hp: 220
+hp_roll: 21d10+105
+ac: 18
+speed: walk 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 71
+---
+
 # Marilith
 
 *Large* *Fiend*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Reactive Teleport:** When the marilith is hit or missed by a ranged attack, it uses Teleport. If it teleports within 5 feet of a creature, it can attack with its tail.
-
-

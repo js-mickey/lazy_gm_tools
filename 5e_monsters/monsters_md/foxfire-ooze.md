@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Foxfire Ooze
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 126
+hp_roll: 12d10+60
+ac: 9
+speed: climb 20 ft. fly 10 ft. hover True ft. swim 20 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 283
+---
+
 # Foxfire Ooze
 
 *Large* *Ooze* *unaligned*
@@ -31,5 +50,3 @@
 
 - **Multiattack:** The foxfire ooze makes three pseudopod attacks.
 - **Pseudopod:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage plus 4 (1d8) lightning damage.
-
-

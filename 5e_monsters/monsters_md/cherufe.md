@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cherufe
+size: Huge
+type: Elemental
+alignment: chaotic evil
+cr: 14
+xp: 11,500
+hp: 161
+hp_roll: 14d12+70
+ac: 19
+speed: walk 40 ft. burrow 40 ft.
+senses: darkvision 60 ft. tremorsense 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 61
+---
+
 # Cherufe
 
 *Huge* *Elemental* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Magma Ball:** Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage plus 11 (2d10) fire damage. Each creature within 5 feet of the target must succeed on a DC 18 Dexterity saving throw or take 7 (2d6) fire damage.
 - **Fissure:** The cherufe opens a fissure in the ground within 120 feet of it that is 60 feet long, 10 feet wide, and 2d4 x 10 feet deep. Each creature standing on a spot where a fissure opens must succeed on a DC 18 Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure’s edge as it opens. A fissure that opens beneath a structure causes it to automatically collapse as if the structure was in the area of an earthquake spell. The cherufe can have only one fissure open at a time. If it opens another, the previous fissure closes, shunting all creatures inside it to the surface.
 - **Quake (Recharge 6):** The cherufe slams its fists into the ground, shaking the terrain within 60 feet of it. Each creature standing on the ground in that area must make a DC 18 Dexterity saving throw. On a failure, the creature takes 45 (10d8) bludgeoning damage and is knocked prone. On a success, the creature takes half the damage and isn’t knocked prone.
-
-

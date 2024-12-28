@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ettin
+size: Large
+type: Giant
+alignment: 
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d10+30
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. (17 with Two Heads)
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 197
+---
+
 # Ettin
 
 *Large* *Giant*
@@ -30,5 +49,3 @@
 - **Club:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature and the ettin is bloodied  the target makes a DC 15 Strength check and is knocked prone on a failure.
 - **Rock:** Ranged Weapon Attack: +7 to hit  range 30/90 ft.  one target. Hit: 21 (3d10 + 5) bludgeoning damage.
 - **Axe Whirl (1/Day):** The ettin makes a battleaxe attack against each creature within 10 feet.
-
-

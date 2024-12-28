@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Green Dragon Wyrmling
+size: Huge
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d8+10
+ac: 16
+speed: walk 30 ft. fly 60 ft. swim 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 114
+---
+
 # Green Dragon Wyrmling
 
 *Huge* *Dragon*
@@ -27,5 +46,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Poison Breath (Recharge 5-6):** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area makes a DC 11 Constitution saving throw  taking 14 (4d6) poison damage on a failed save or half damage on a success.
-
-

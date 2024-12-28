@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sinstar Thrall
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 58
+hp_roll: 9d8+18
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 345
+---
+
 # Sinstar Thrall
 
 *Medium* *Plant* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Slam:** Melee Weapon Attack: +5 to hit, 5 ft., one creature,. 7 (1d8+3) bludgeoning damage + 3 (1d6) piercing damage.
 - **Shoot Spines (Recharge 5–6):** Sprays spines in a burst around itself. Each creature within 15 ft. of it must make a DC 13 Dex save. On a failure a creature takes 10 (3d6) piercing damage and is paralyzed until the end of its next turn. On a success a creature takes half the damage and isn’t paralyzed.
-
-

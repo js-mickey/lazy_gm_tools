@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Beast
+size: Medium
+type: Fey
+alignment: Chaotic Evil
+cr: 7
+xp: 2,900
+hp: 112
+hp_roll: 45
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 324
+---
+
 # Shadow Beast
 
 *Medium* *Fey* *Chaotic Evil*

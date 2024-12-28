@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dead Mans Fingers
+size: Medium
+type: Plant
+alignment: 
+cr: 10
+xp: 5,900
+hp: 190
+hp_roll: 20d8+100
+ac: 15
+speed: walk 0 ft.
+senses: blindsight 90 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 211
+---
+
 # Dead Mans Fingers
 
 *Medium* *Plant*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Telekinetic Pull (Ethereal or Material Plane):** One creature within 90 feet makes a DC 15 Strength saving throw. On a failure, it is magically pulled up to 60 feet straight towards the dead mans fingers.
-
-

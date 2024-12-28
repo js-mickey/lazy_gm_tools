@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sinstar
+size: Tiny
+type: Plant
+alignment: lawful evil
+cr: 17
+xp: 18,000
+hp: 275
+hp_roll: 50d4+150
+ac: 17
+speed: walk 5 ft.
+senses: tremorsense 120 ft. blindsight 60 ft. (blind beyond) 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 345
+---
+
 # Sinstar
 
 *Tiny* *Plant* *lawful evil*

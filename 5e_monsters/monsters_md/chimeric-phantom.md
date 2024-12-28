@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chimeric Phantom
+size: Medium
+type: Undead
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d8
+ac: 11
+speed: walk 0 ft. hover True ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 62
+---
+
 # Chimeric Phantom
 
 *Medium* *Undead* *chaotic neutral*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The chimeric phantom makes two Maddening Grasp attacks.
 - **Maddening Grasp:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spark
+size: Tiny
+type: Elemental
+alignment: Chaotic Neutral
+cr: 7
+xp: 2,900
+hp: 104
+hp_roll: 64
+ac: 15
+speed: walk 60 ft. fly 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 337
+---
+
 # Spark
 
 *Tiny* *Elemental* *Chaotic Neutral*

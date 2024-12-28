@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pattern Dancer
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d8+6
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 130
+---
+
 # Pattern Dancer
 
 *Medium* *Humanoid* *chaotic evil*
@@ -37,5 +56,3 @@ At will: hold person
 
 - **Shortsword:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Longbow:** Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
-
-

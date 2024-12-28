@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Thorned Sulfurlord
+size: Huge
+type: Fiend
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 171
+hp_roll: 18d12+54
+ac: 17
+speed: walk 20 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 306
+---
+
 # Thorned Sulfurlord
 
 *Huge* *Fiend* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Sulfur Slam:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 9 (2d8) fire damage. The target must succeed on a DC 17 Constitution saving throw or be blinded until the end of its next turn.
 - **Fiery Spike:** Ranged Weapon Attack: +6 to hit, range 60/240 ft., one target. Hit: 12 (3d6 + 2) piercing damage plus 9 (2d8) fire damage.
 - **The World Shall Know Fire (Recharge 5-6):** The thorned sulfurlord targets a creature that has taken fire damage from it within the last minute and causes a burst of fire to expand out from that creature in a 30-foot-radius. Each creature in the area, including the target, must make a DC 17 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.
-
-

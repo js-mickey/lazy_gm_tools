@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yavalnoi
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 126
+hp_roll: 12d10+60
+ac: 16
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 379
+---
+
 # Yavalnoi
 
 *Large* *Aberration* *chaotic evil*
@@ -33,5 +52,3 @@ At will: ray of enfeeblement, silent image
 - **Tail:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.
 - **Luminous Burst (Recharge 5-6):** The anchor-shaped organ atop the yavalnoi’s head emits a burst of blue light. Each hostile creature within 30 feet of the yavalnoi must succeed on a DC 15 Wisdom saving throw or be outlined in blue light for 1 minute. While outlined in blue light, a creature can’t breathe underwater. This effect dispels spells such as water breathing and temporarily suppresses water breathing granted through magic items or a creature’s natural physiology. In addition, the yavalnoi and creatures friendly to the yavalnoi have advantage on attack rolls against creatures outlined in blue light. A creature outlined in blue light can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Call of the Deep (1/Day):** The yavalnoi magically calls 2d4 giant crabs or 1 giant octopus. The called creatures arrive in 1d4 rounds, acting as allies of the yavalnoi and obeying its spoken commands. The beasts remain for 1 hour, until the yavalnoi dies, or until the yavalnoi dismisses them as a bonus action.
-
-

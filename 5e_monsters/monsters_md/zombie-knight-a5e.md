@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zombie Knight
+size: Medium
+type: Undead
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 16
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 437
+---
+
 # Zombie Knight
 
 *Medium* *Undead*
@@ -29,5 +48,3 @@
 - **Greatsword:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Grab:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 6 (1d6 + 3) bludgeoning damage  and the creature is grappled if its Medium or smaller (escape DC 13)  and until the grapple ends  the zombie can't grab another target.
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one creature grappled by a zombie. Hit: 8 (1d10 + 3) piercing damage  and the zombie regains hit points equal to the damage dealt.
-
-

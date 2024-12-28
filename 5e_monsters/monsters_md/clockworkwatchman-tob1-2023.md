@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Watchman
+size: Medium
+type: Construct
+alignment: Unaligned
+cr: 1/2
+xp: 100
+hp: 44
+hp_roll: 8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 64
+---
+
 # Clockwork Watchman
 
 *Medium* *Construct* *Unaligned*

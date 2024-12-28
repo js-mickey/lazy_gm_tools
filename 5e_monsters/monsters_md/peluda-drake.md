@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Peluda Drake
+size: Large
+type: Dragon
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 68
+hp_roll: 8d10+24
+ac: 15
+speed: burrow 20 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 130
+---
+
 # Peluda Drake
 
 *Large* *Dragon* *chaotic neutral*
@@ -28,5 +47,3 @@
 - **Tail:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage.
 - **Quill:** Ranged Weapon Attack: +5 to hit, range 20/80 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 3 (1d6) poison damage.
 - **Breath Weapons (Recharge 5-6):** The peluda uses one of the following breath weapons:<br>Steam Breath. The drake exhales scalding steam in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.<br>Acid Breath. The drake exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 22 (4d10) acid damage on a failed save, or half as much damage on a successful one.
-
-

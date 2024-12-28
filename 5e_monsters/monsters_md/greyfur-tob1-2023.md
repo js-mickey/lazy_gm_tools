@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greyfur
+size: Small
+type: Humanoid
+alignment: Neutral
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 15
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 250
+---
+
 # Greyfur
 
 *Small* *Humanoid* *Neutral*

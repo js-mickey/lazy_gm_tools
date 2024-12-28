@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clay Guardian
+size: Large
+type: Construct
+alignment: 
+cr: 9
+xp: 5,000
+hp: 133
+hp_roll: 14d10+56
+ac: 14
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 261
+---
+
 # Clay Guardian
 
 *Large* *Construct*
@@ -31,5 +50,3 @@
 
 - **Multiattack:** The guardian attacks twice with its slam.
 - **Slam:** Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature  it makes a DC 15 Constitution saving throw. On a failure  its hit point maximum is reduced by an amount equal to the damage dealt. The target dies if its hit point maximum is reduced to 0. A greater restoration spell or similar magic removes the reduction.
-
-

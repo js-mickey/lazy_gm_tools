@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hair Golem
+size: Small
+type: Construct
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d6+3
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 200
+---
+
 # Hair Golem
 
 *Small* *Construct* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Lash:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage. The target must succeed on a DC 11 Dexterity saving throw or be knocked prone.
-
-

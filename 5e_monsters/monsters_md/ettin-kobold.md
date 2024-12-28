@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ettin, Kobold
+size: Medium
+type: Giant
+alignment: lawful evil
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 4d8+16
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 173
+---
+
 # Ettin, Kobold
 
 *Medium* *Giant* *lawful evil*
@@ -29,5 +48,3 @@
 - **Greatclub:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 7 (1d8+3) bludgeoning damage.
 - **Spear:** Melee or Ranged Weapon Attack: +5 to hit 5 ft. or range 20/60' one target 6 (1d6+3) piercing damage or 7 (1d8+3) piercing damage if used with two hands to make a melee attack.
 - **Echoing Burps (Recharge 5–6):** Tries to let loose double roar but instead sends forth a series of obnoxious smelly belches in a 15 ft. cone. Each creature in the area: 10 (4d4) thunder and is incapacitated until end of its next turn (DC 13 Con half damage and isn’t incapacitated).
-
-

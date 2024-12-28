@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bearfolk Thunderstomper
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 53
+---
+
 # Bearfolk Thunderstomper
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -35,5 +54,3 @@
 
 - **Frenzy (Recharges on a Short or Long Rest):** Triggers berserk frenzy for 1 min. It gains resistance to B/P/S damage from nonmagical weapons and has advantage on attacks. Attacks vs. frenzied bearfolk have advantage.
 - **Taunt (2/Day):** Jests at one creature it can see within 30' of it. If target can hear bearfolk target: DC 15 Cha save or disadvantage on ability checks attacks and saves until start of bearfolk’s next turn.
-
-

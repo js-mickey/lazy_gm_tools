@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drider
+size: Large
+type: Monstrosity
+alignment: 
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d10+48
+ac: 17
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 187
+---
+
 # Drider
 
 *Large* *Monstrosity*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one grappled creature. Hit: 2 (1d4) piercing damage plus 13 (3d8) poison damage.
 - **Longsword (wielded two-handed):** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 9 (1d10 + 4) slashing damage.
 - **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Albino Bat
+size: Huge
+type: Monstrosity
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 9d12+18
+ac: 15
+speed: fly 80 ft. walk 10 ft.
+senses: blindsight 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 50
+---
+
 # Giant Albino Bat
 
 *Huge* *Monstrosity* *neutral evil*
@@ -26,5 +45,3 @@
 - **Multiattack:** The bat makes two attacks: one with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the bat can't use its claws against another target.
-
-

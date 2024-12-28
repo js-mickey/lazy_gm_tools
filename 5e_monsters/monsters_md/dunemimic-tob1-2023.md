@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dune Mimic
+size: Huge
+type: Monstrosity
+alignment: Neutral
+cr: 8
+xp: 3,900
+hp: 168
+hp_roll: 64
+ac: 13
+speed: walk 15 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 268
+---
+
 # Dune Mimic
 
 *Huge* *Monstrosity* *Neutral*

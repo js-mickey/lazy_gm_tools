@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cryoceros
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 76
+---
+
 # Cryoceros
 
 *Large* *Monstrosity* *unaligned*
@@ -27,5 +46,3 @@
 - **Gore:** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 13 (2d8 + 4) piercing damage plus 9 (2d8) cold damage.
 - **Stomp:** Melee Weapon Attack: +7 to hit, reach 5 ft., one prone creature. Hit: 20 (3d10 + 4) bludgeoning damage.
 - **Shards of Ice (Recharge 4-6):** The cryoceros exhales razor-sharp ice in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 10 (3d6) cold damage and 10 (3d6) piercing damage on a failed save, or half as much on a successful one.
-
-

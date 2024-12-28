@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mummy, Peat
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 280
+---
+
 # Mummy, Peat
 
 *Medium* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Multiattack:** Two Rabid Bites. If it hits one creature with both target must make DC 15 Con save or be cursed with bog melt.
 - **Rabid Bite:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 11 (2d6+4) piercing damage + 7 (2d6) necrotic.
-
-

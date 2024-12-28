@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Eye of the Gods
+size: Small
+type: Celestial
+alignment: creator deity
+cr: 1
+xp: 200
+hp: 36
+hp_roll: 8d6+8
+ac: 14
+speed: fly 50 ft. hover True ft. walk 0 ft.
+senses: truesight 120 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 16
+---
+
 # Eye of the Gods
 
 *Small* *Celestial* *any alignment (as its creator deity)*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) radiant (good or neutral eyes) or necrotic (evil eyes) damage.
 - **Divine Inspiration (Recharge 5-6):** The eye of the gods inspires all allies within 10 feet. For 1 minute, all inspired creatures have advantage on saving throws against being frightened.
-
-

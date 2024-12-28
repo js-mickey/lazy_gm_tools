@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chaos Creeper
+size: Medium
+type: Plant
+alignment: chaotic neutral
+cr: 9
+xp: 5,000
+hp: 150
+hp_roll: 20d8+60
+ac: 16
+speed: walk 15 ft. climb 10 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 80
+---
+
 # Chaos Creeper
 
 *Medium* *Plant* *chaotic neutral*
@@ -28,5 +47,3 @@
 - **Multiattack:** Three Vine Whip attacks or two Fruit Bomb attacks.
 - **Vine Whip:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 18 (4d6+4) bludgeoning damage.
 - **Fruit Bomb:** Ranged Weapon Attack: +8 to hit 30/120' one target 31 (5d10+4) acid cold fire lightning poison or thunder (creeper’s choice). Instead of dealing damage creeper can choose for fruit to trigger its Wondrous Cornucopia. Treat target as if it ate fruit where applicable.
-
-

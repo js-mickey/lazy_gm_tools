@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Flurry
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 144
+hp_roll: 17d8+68
+ac: 17
+speed: walk 15 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 63
+---
+
 # Blood Flurry
 
 *Medium* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** Two Free Bleeding Cuts attacks.
 - **Free Bleeding Cuts:** Melee Weapon Attack: +9 to hit 0' 1 tgt in the swarm’s space. 27 (6d8) slashing damage or 13 (3d8) slashing damage if flurry has half of its hp or fewer. If target is a creature other than an Undead or a Construct: DC 16 Con save or lose 13 (3d8) hp at start of each of its turns due to a bleeding wound. Any creature can take an action to stanch the wound with successful DC 12 Wis (Medicine) check. Wound also closes if target receives magical healing.
-
-

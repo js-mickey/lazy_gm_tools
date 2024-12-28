@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Miremuck Goblin King
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 62
+hp_roll: 8d8+16
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 
+---
+
 # Miremuck Goblin King
 
 *Medium* *Humanoid*
@@ -28,5 +47,3 @@
 ### Reactions
 
 - **Parry:** The goblin king adds 2 to his AC against onemelee attack that would hit him. To do this the goblinking must see the attacker and be wielding a meleeweapon.
-
-

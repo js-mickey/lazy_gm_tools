@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Backup Holler Spider
+size: Tiny
+type: Beast
+alignment: chaotic neutral
+cr: 1/4
+xp: 50
+hp: 14
+hp_roll: 4d4+4
+ac: 12
+speed: climb 25 ft. walk 25 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 395
+---
+
 # Backup Holler Spider
 
 *Tiny* *Beast* *chaotic neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Tune Up:** When an ally within 15 feet of the backup holler spider casts a spell that deals thunder damage, the backup holler spider chooses one of the spell’s targets. That target has disadvantage on the saving throw against the spell.
-
-

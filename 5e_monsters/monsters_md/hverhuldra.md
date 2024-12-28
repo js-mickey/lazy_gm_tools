@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hverhuldra
+size: Small
+type: Fey
+alignment: neutral good
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 16d6+64
+ac: 15
+speed: swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 206
+---
+
 # Hverhuldra
 
 *Small* *Fey* *neutral good*
@@ -39,5 +58,3 @@ At will: create or destroy water, detect poison and disease, purify food and dri
 ### Reactions
 
 - **Steam Cloud:** When the hverhuldra takes cold damage, it uses the steam from the impact of the cold on its body to magically create a cloud of steam centered on a point it can see within 60 feet of it. This cloud works like the fog cloud spell, except the hverhuldra can dismiss it as a bonus action.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Red Hag
+size: Medium
+type: Fey
+alignment: Neutral Evil
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 64
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 228
+---
+
 # Red Hag
 
 *Medium* *Fey* *Neutral Evil*

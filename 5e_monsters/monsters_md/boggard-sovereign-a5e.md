@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Boggard Sovereign
+size: Large
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d10+18
+ac: 13
+speed: walk 20 ft. swim 40 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 36
+---
+
 # Boggard Sovereign
 
 *Large* *Humanoid*
@@ -27,5 +46,3 @@
 - **Incite Frenzy (1/Day):** Each boggard and frog with a Bite attack within 60 feet may use its reaction to make a Bite attack.
 - **Earthshaking Croak (1/Day):** Each non-frog and non-boggard creature within 30 feet makes a DC 12 Constitution saving throw  taking 14 (4d6) thunder damage and falling prone on a failure  or taking half damage on a success.
 - **Summon Frog Guardians (1/Day):** The boggard magically summons two Medium frog guardians  which wriggle from the ground in an empty space within 30 feet. They follow the boggards orders and disappear after 1 minute. They have the statistics of boggards except they have Intelligence 2  have no spear attack  and can make a bite attack as part of their Vaulting Leap.
-
-

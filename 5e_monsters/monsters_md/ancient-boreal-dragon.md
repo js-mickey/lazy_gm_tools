@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Boreal Dragon
+size: Gargantuan
+type: Dragon
+alignment: chaotic neutral
+cr: 24
+xp: 62,000
+hp: 407
+hp_roll: 22d20+176
+ac: 22
+speed: walk 40 ft. fly 80 ft. swim 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 28
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 143
+---
+
 # Ancient Boreal Dragon
 
 *Gargantuan* *Dragon* *chaotic neutral*

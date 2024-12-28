@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Goreling
+size: Small
+type: Undead
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d6+4
+ac: 12
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 7
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 207
+---
+
 # Goreling
 
 *Small* *Undead* *unaligned*
@@ -27,5 +46,3 @@
 
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 2 (1d4) necrotic damage. ++ Reactions
 - **Multiplying:** When a goreling is hit but not reduced to 0 hp, it splits into two new gorelings. Each new goreling has 1 hp, doesn't have this reaction, and is one size smaller than the original goreling.
-
-

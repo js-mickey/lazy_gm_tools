@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chimera, Royal
+size: Huge
+type: Monstrosity
+alignment: neutral evil
+cr: 15
+xp: 13,000
+hp: 189
+hp_roll: 18d12+72
+ac: 17
+speed: walk 40 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 83
+---
+
 # Chimera, Royal
 
 *Huge* *Monstrosity* *neutral evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sand Ray
+size: Large
+type: Aberration
+alignment: 
+cr: 8
+xp: 3,900
+hp: 97
+hp_roll: 13d10+26
+ac: 13
+speed: walk 10 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 50
+---
+
 # Sand Ray
 
 *Large* *Aberration*
@@ -35,5 +54,3 @@
 
 - **Reactive Tail:** When hit or missed with a melee attack, the cloaker makes a tail attack against the attacker.
 - **Angry Moan:** When the cloaker takes damage, it uses Moan.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Earth Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 161
+hp_roll: 17d10+68
+ac: 18
+speed: walk 40 ft. fly 40 ft. burrow 60 ft.
+senses: darkvision 120 ft. tremorsense 60 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 128
+---
+
 # Young Earth Dragon
 
 *Large* *Dragon*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 22 (4d10 + 4) piercing damage.
 - **Slam:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Scouring Breath (Recharge 5-6):** The dragon exhales scouring sand and stones in a 30-foot cone. Each creature in that area makes a DC 16 Dexterity saving throw  taking 38 (11d6) slashing damage on a failed save or half damage on a success.
-
-

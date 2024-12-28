@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clacking Skeleton
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10d8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 319
+---
+
 # Clacking Skeleton
 
 *Medium* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 - **Glaive:** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 7 (1d10 + 2) slashing damage.
 - **Gore:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
-
-

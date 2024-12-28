@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jackalope
+size: Tiny
+type: Beast
+alignment: 
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d4+30
+ac: 14
+speed: walk 50 ft.
+senses: 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 453
+---
+
 # Jackalope
 
 *Tiny* *Beast*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Uncanny Dodge:** When an attacker the jackalope can see hits it with an attack, the jackalope halves the attacks damage against it.
-
-

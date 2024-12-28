@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Quiet Soul
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 90
+hp_roll: 20d8
+ac: 15
+speed: walk 10 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 309
+---
+
 # Quiet Soul
 
 *Medium* *Undead* *neutral evil*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Psychic Lash:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 21 (6d6) psychic damage. If an unconscious creature is hit by this attack, that creature must make a DC 15 Wisdom saving throw, remaining unconscious on a failed save, or waking on a successful one.
-
-

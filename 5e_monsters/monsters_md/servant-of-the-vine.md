@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Servant of the Vine
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 72
+hp_roll: 16d8
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 144
+---
+
 # Servant of the Vine
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -35,5 +54,3 @@ Cantrips (at will): guidance, light, sacred flame, thaumaturgy
 - **Multiattack:** The servant makes three drunken slash attacks.
 - **Drunken Slash:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage and the target must succeed on a DC 14 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Stuporous Breath (Recharge 5-6):** The servant of the vine exhales potent fumes in a 15-foot cone. Each creature in that area must make a DC 14 Constitution saving throw. On a failure, a creature takes 21 (6d6) poison damage and falls asleep, remaining unconscious for 1 minute. On a success, a creature takes half the damage but doesn't fall asleep. The unconscious target awakens if it takes damage or another creature takes an action to wake it. When the creature wakes, it is poisoned until it finishes a short or long rest. The breath has no effect on constructs or undead.
-
-

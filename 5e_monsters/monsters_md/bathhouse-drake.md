@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bathhouse Drake
+size: Medium
+type: Dragon
+alignment: lawful neutral
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d8+30
+ac: 16
+speed: fly 60 ft. swim 60 ft. walk 30 ft.
+senses: darkvision 60 ft. truesight 10 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 130
+---
+
 # Bathhouse Drake
 
 *Medium* *Dragon* *lawful neutral*
@@ -34,5 +53,3 @@ At will: create or destroy water, misty step, prestidigitation
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Scalding Jet:** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 7 (2d6) fire damage.
 - **Steam Burst (Recharge 5-6):** The bathhouse drake creates a burst of hot steam. Each creature within 20 feet of it must make a DC 14 Constitution saving throw. On a failure, a target takes 14 (4d6) fire damage and is blinded for 1 minute. On a success, a target takes half the damage but isn't blinded. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Erina Tussler
+size: Small
+type: Humanoid
+alignment: neutral
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d6+24
+ac: 14
+speed: walk 20 ft. burrow 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 172
+---
+
 # Erina Tussler
 
 *Small* *Humanoid* *neutral*
@@ -29,5 +48,3 @@
 - **Multiattack:** Two Punching Spines or Throw Spines. If it hits one creature with both Punching Spines target is grappled (escape DC 13). Erina can grapple only one target at a time.
 - **Punching Spines:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 8 (2d4+3) piercing damage.
 - **Throw Spine:** Ranged Weapon Attack: +5 to hit 20/60' one target 8 (2d4+3) piercing damage and spine sticks in target until a creature uses an action to remove it. While spine is stuck target has disadvantage on weapon attacks that use Str.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sandman
+size: Medium
+type: Celestial
+alignment: Chaotic Neutral
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 33
+ac: 14
+speed: walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 313
+---
+
 # Sandman
 
 *Medium* *Celestial* *Chaotic Neutral*

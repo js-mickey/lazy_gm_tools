@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Haladron
+size: Tiny
+type: Celestial
+alignment: lawful good
+cr: 1/2
+xp: 100
+hp: 28
+hp_roll: 8d4+8
+ac: 13
+speed: walk 0 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 23
+---
+
 # Angel, Haladron
 
 *Tiny* *Celestial* *lawful good*
@@ -28,5 +47,3 @@
 
 - **Bolt of Law:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 6 (1d8+2) radiant + 4 (1d8) thunder.
 - **Stitch (3/Day):** The haladron repairs a single break or tear in an object it touches leaving no trace of the former damage. If the haladron uses this feature on a creature the creature regains 3 (1d6) hp.
-
-

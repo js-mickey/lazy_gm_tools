@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: War Machine Golem
+size: Gargantuan
+type: Construct
+alignment: unaligned
+cr: 18
+xp: 20,000
+hp: 232
+hp_roll: 15d20+75
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 205
+---
+
 # War Machine Golem
 
 *Gargantuan* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Slam:** Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22 (4d6 + 8) bludgeoning damage.
 - **Catapult:** The war machine golem hurls a boulder at a point it can see within 120 feet of it. Each creature within 10 feet of that point must make a DC 19 Dexterity saving throw. On a failure, a target takes 16 (3d10) bludgeoning damage and is knocked prone. On a success, a target takes half the damage and isn't knocked prone.
 - **Fire Breath (Recharge 5-6):** The war machine golem breathes fire in a 60-foot cone. Each creature in the area must make a DC 19 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

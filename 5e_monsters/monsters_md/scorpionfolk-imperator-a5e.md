@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scorpionfolk Imperator
+size: Large
+type: Monstrosity
+alignment: 
+cr: 5
+xp: 1,800
+hp: 52
+hp_roll: 7d10+14
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 385
+---
+
 # Scorpionfolk Imperator
 
 *Large* *Monstrosity*
@@ -41,5 +60,3 @@
 ### Bonus Actions
 
 - **Sting:** Melee Weapon Attack: +4 to hit, reach 10 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, and the target makes a DC 12 Constitution saving throw, taking 16 (3d10) poison damage on a failure or half damage on a success.
-
-

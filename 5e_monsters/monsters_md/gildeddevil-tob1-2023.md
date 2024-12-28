@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gilded Devil
+size: Medium
+type: Fiend
+alignment: Lawful Evil
+cr: 7
+xp: 2,900
+hp: 112
+hp_roll: 45
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 95
+---
+
 # Gilded Devil
 
 *Medium* *Fiend* *Lawful Evil*

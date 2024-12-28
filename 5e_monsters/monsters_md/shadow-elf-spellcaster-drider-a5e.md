@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Elf Spellcaster Drider
+size: Large
+type: Monstrosity
+alignment: 
+cr: 6
+xp: 2,300
+hp: 114
+hp_roll: 12d10+48
+ac: 17
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 187
+---
+
 # Shadow Elf Spellcaster Drider
 
 *Large* *Monstrosity*
@@ -34,5 +53,3 @@
 - **Longbow:** Melee Weapon Attack: +6 to hit  range 120/600 ft.  one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) poison damage.
 - **Darkness (2nd-Level; V, S, Concentration):** Magical darkness spreads from a point within 30 feet  filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness and nonmagical light can't illuminate it.
 - **Web (2nd-Level; V, S, Concentration):** Thick  sticky webs fill a 20-foot cube within 60 feet  lightly obscuring it and making it difficult terrain. The webs must either be anchored between two solid masses (such as walls) or layered 5 feet deep over a flat surface. Each creature that starts its turn in the webs or that enters them during its turn makes a DC 14 Dexterity saving throw. On a failure  it is restrained. A creature can escape by using an action to make a DC 14 Strength check. Any 5-foot cube of webs exposed to fire burns away in 1 round  dealing 5 (2d4) fire damage to any creature that starts its turn in the fire. The webs remain for 1 minute.
-
-

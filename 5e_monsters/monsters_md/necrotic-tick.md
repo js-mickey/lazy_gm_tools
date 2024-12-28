@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Necrotic Tick
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 3
+hp_roll: 1d4+1
+ac: 15
+speed: climb 10 ft. walk 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 275
+---
+
 # Necrotic Tick
 
 *Tiny* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Blood Drain:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the tick attaches to the target. While attached, the necrotic tick doesn't attack. Instead, at the start of each of the tick's turns, the target loses 5 (1d4 + 3) hp due to blood loss. The target must make a DC 13 Wisdom saving throw. If it fails, it is affected by the tick's toxins and doesn't attempt to remove the tick. The host will even replace a dislodged tick unless prevented from doing so for 1 minute, after which the tick's influence fades. <br><br>The tick can detach itself by spending 5 feet of its movement. It does so when seeking a new host or if the target dies. A creature, including the target, can use its action to detach the tick. When a necrotic tick detaches, voluntarily or otherwise, its host takes 1 necrotic damage.
-
-

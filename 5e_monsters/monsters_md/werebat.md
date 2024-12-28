@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Werebat
+size: Medium
+type: Humanoid
+alignment: lawful evil
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12d8+12
+ac: 13
+speed: fly 50 ft. walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 258
+---
+
 # Werebat
 
 *Medium* *Humanoid* *lawful evil*
@@ -30,5 +49,3 @@
 - **Bite (Bat or Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebat lycanthropy.
 - **Claws (Hybrid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) slashing damage.
 - **Mace (Humanoid Form Only):** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
-
-

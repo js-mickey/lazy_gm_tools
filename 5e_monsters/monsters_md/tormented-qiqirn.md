@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tormented Qiqirn
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 10
+xp: 5,900
+hp: 133
+hp_roll: 14d10+56
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 301
+---
+
 # Tormented Qiqirn
 
 *Large* *Fiend* *chaotic evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Protective Spirits:** When the qiqirn takes damage, the spirits infusing it rise up to protect it. Roll 2d8 and reduce the damage by the result.
-
-

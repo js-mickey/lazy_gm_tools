@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Oliphaunt
+size: Gargantuan
+type: Beast
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 148
+hp_roll: 9d20+54
+ac: 14
+speed: walk 50 ft.
+senses: 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 280
+---
+
 # Oliphaunt
 
 *Gargantuan* *Beast* *unaligned*
@@ -29,5 +48,3 @@
 - **Stomp:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 35 (5d10 + 8) bludgeoning damage.
 - **Trunk:** Melee Weapon Attack: +11 to hit, reach 15 ft., one creature. Hit: The target is grappled (escape DC 17) if it is a Large or smaller creature. Until the grapple ends, the target is restrained and the oliphaunt can't use its trunk on another target.
 - **Tusk Sweep (Recharge 5-6):** The oliphaunt sweeps its tusks in a wide arc. Each creature in a 20-foot cube must make a DC 17 Dexterity saving throw, taking 35 (10d6) bludgeoning damage on a failed save, or half as much damage on a successful one.
-
-

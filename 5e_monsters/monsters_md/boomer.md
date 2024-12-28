@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Boomer
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d8+4
+ac: 7
+speed: walk 0 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 6
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 157
+---
+
 # Boomer
 
 *Medium* *Plant* *unaligned*
@@ -27,5 +46,3 @@
 ### Reactions
 
 - **Shriek:** If bright light or a creature is within 30 feet of the boomer, it emits a shriek audible within 300 feet of it. The boomer continues to shriek until the disturbance moves out of range and for 1d4 of the boomer’s turns afterward.
-
-

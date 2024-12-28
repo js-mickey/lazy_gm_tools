@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep Gnome Scout
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 491
+---
+
 # Deep Gnome Scout
 
 *Medium* *Humanoid*
@@ -29,5 +48,3 @@
 - **War Pick:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 6 (1d8 + 2) piercing damage.
 - **Blindness (2nd-Level; V):** A creature within 30 feet makes a DC 10 Constitution saving throw. On a failure  the target is blinded for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on a success.
 - **Far underground, deep gnomes use stealth to survive amidst warlike deep dwarves and imperious shadow elves:** Deep gnome scouts hunt and forage  search for gems  and set ambushes for enemies who approach their settlements.
-
-

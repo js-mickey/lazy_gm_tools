@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aziza
+size: Tiny
+type: Fey
+alignment: chaotic good
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d4+6
+ac: 15
+speed: walk 30 ft. climb 30 ft. fly 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 49
+---
+
 # Aziza
 
 *Tiny* *Fey* *chaotic good*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Dazzling Glow:** When a creature the aziza can see targets it with melee attack its skin briefly glows brightly causing the attacker to have disadvantage on the attack roll.
-
-

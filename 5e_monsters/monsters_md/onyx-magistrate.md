@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Onyx Magistrate
+size: Large
+type: Construct
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 123
+hp_roll: 13d10+52
+ac: 16
+speed: fly 30 ft. walk 0 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 276
+---
+
 # Onyx Magistrate
 
 *Large* *Construct* *lawful evil*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Tip the Scales (Recharge 5-6):** The onyx magistrate adds 3 to its AC against one attack that would hit it. Alternatively, the onyx magistrate succeeds on a saving throw it failed.
-
-

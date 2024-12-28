@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archfey
+size: Medium
+type: Fey
+alignment: 
+cr: 12
+xp: 8,400
+hp: 330
+hp_roll: 44d8+132
+ac: 16
+speed: walk 35 ft. fly 60 ft.
+senses: truesight 60 ft. 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 200
+---
+
 # Archfey
 
 *Medium* *Fey*
@@ -44,5 +63,3 @@
 
 - **Riposte:** When the archfey is hit by a melee attack made by a creature it can see, it makes a glittering scimitar attack against the attacker.
 - **Vengeful Eye:** When the archfey is hit by a ranged attack or targeted with a spell by a creature within 60 feet, it uses Evil Eye on the attacker if they can see each other.
-
-

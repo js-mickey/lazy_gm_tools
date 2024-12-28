@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Mantis Shrimp
+size: Large
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 110
+hp_roll: 13d10+39
+ac: 14
+speed: walk 15 ft. burrow 15 ft. swim 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 198
+---
+
 # Giant Mantis Shrimp
 
 *Large* *Beast* *unaligned*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Water Jet:** Each creature within 5 ft. of shrimp is blinded until start of its next turn (DC 14 Dex negates). The shrimp then swims up to half its swimming speed with o provoking opportunity attacks.
-
-

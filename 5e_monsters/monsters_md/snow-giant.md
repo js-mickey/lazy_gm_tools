@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snow Giant
+size: Huge
+type: Giant
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 138
+hp_roll: 12d12+60
+ac: 11
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 174
+---
+
 # Snow Giant
 
 *Huge* *Giant* *neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** The snow giant makes two club attacks.
 - **Club:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (3d4 + 4) bludgeoning damage.
 - **Giant Snowball:** Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage plus 4 (1d8) cold damage, and the target must succeed on a DC 16 Dexterity save or be blinded until the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Suturefly
+size: Tiny
+type: Beast
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 10
+hp_roll: 4d4
+ac: 12
+speed: walk 40 ft. fly 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 353
+---
+
 # Suturefly
 
 *Tiny* *Beast* *Unaligned*

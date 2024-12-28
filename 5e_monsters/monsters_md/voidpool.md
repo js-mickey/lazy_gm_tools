@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Voidpool
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 15d10+30
+ac: 8
+speed: walk 15 ft. climb 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 362
+---
+
 # Voidpool
 
 *Large* *Ooze* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The voidpool makes two pseudopod attacks.
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. The target is grappled (escape DC 13) if it is a Medium or smaller creature and the voidpool doesn’t have two other creatures grappled. Until this grapple ends, the target is restrained, and it risks being pulled into the Void (see the Planar Portal trait).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Map Mimic
+size: Tiny
+type: Monstrosity
+alignment: Neutral
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 10
+ac: 14
+speed: walk 15 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 269
+---
+
 # Map Mimic
 
 *Tiny* *Monstrosity* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zombie Horde
+size: Large
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 8
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 437
+---
+
 # Zombie Horde
 
 *Large* *Undead*
@@ -30,5 +49,3 @@
 
 - **Grab:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 22 (5d6 + 5) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11).
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one grappled target. Hit: 32 (5d10 + 5) piercing damage  and the horde regains the same number of hit points.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deathcap Myconid
+size: Medium
+type: Plant
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 36
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 280
+---
+
 # Deathcap Myconid
 
 *Medium* *Plant* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crab, Razorback
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 58
+hp_roll: 9d8+18
+ac: 17
+speed: walk 30 ft. burrow 15 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 98
+---
+
 # Crab, Razorback
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Multiattack:** One Claw attack and one Shell Bash attack.
 - **Claw:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 6 (1d6+3) bludgeoning damage and the target is grappled (escape DC 13). The crab has two claws each of which can grapple only one target.
 - **Shell Bash:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) bludgeoning damage + 3 (1d6) slashing damage.
-
-

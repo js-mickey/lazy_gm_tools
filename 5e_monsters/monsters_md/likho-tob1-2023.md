@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Likho
+size: Medium
+type: Monstrosity
+alignment: Chaotic Evil
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 42
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 254
+---
+
 # Likho
 
 *Medium* *Monstrosity* *Chaotic Evil*

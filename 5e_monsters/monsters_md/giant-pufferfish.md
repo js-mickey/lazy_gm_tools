@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Pufferfish
+size: Small
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 8d8+16
+ac: 13
+speed: walk 0 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 200
+---
+
 # Giant Pufferfish
 
 *Small* *Beast* *unaligned*
@@ -32,5 +51,3 @@
 
 - **Burst of Speed (Recharges 5–6):** Takes the Dash action.
 - **Puff Up (Recharge: Short/Long Rest):** For 1 min it increases in size by filling its stomach with air or water. While puffed up it is Medium doubles its damage dice on Bite and Spine attacks (included above) and makes Str checks and Str saves with advantage. If pufferfish lacks the room to become Medium it attains the max size possible in space available.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yumerai
+size: Medium
+type: Fey
+alignment: neutral
+cr: 2
+xp: 450
+hp: 65
+hp_roll: 10d8+20
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 381
+---
+
 # Yumerai
 
 *Medium* *Fey* *neutral*
@@ -31,5 +50,3 @@ At will: dancing lights, message, minor illusion
 - **Multiattack:** The yumerai makes two psychic lash attacks.
 - **Psychic Lash:** Melee Spell Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d6) psychic damage.
 - **Somnambulism:** The yumerai targets one sleeping creature it can see within 30 feet of it. The yumerai can issue simple commands to the creature, such as “Attack that creature,” “Run over there,” or “Fetch that object.” If the creature takes damage, receives a suicidal command, is told to move into damaging terrain, such as lava or a pit, or is grappled while carrying out the order, it can make a DC 13 Wisdom saving throw, awakening and ending the yumerai’s control on a success. The yumerai can control only one sleeping creature at a time. If it takes control of another, the effect on the previous target ends.
-
-

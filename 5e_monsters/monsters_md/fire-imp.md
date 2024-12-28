@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fire Imp
+size: Tiny
+type: Fiend
+alignment: lawful evil
+cr: 1/2
+xp: 100
+hp: 14
+hp_roll: 4d4+4
+ac: 13
+speed: fly 40 ft. walk 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 103
+---
+
 # Fire Imp
 
 *Tiny* *Fiend* *lawful evil*
@@ -30,5 +49,3 @@
 
 - **Fire Touch:** Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) fire damage and if the target is a flammable object that isn't being worn or carried, it also catches fire. If the target is a creature, it must succeed on a DC 12 Dexterity saving throw or take another 2 (1d4) fire damage at the start of its next turn.
 - **Hurl Flame:** Ranged Spell Attack: +4 to hit, range 150 ft., one target. Hit: 5 (2d4) fire damage and if the target is a flammable object that isn't being worn or carried, it also catches fire.
-
-

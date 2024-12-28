@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elder Ghost Boar
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 11d12+33
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 169
+---
+
 # Elder Ghost Boar
 
 *Huge* *Monstrosity* *unaligned*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Ghostly Slip:** When it is targeted by an attack or spell or is grappled or restrained, the ghost boar becomes momentarily incorporeal. It gains resistance to any damage that isn't force and ends any grappled or restrained conditions on itself.
-
-

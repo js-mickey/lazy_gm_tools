@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yek
+size: Small
+type: Fiend
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 77
+hp_roll: 14d6+28
+ac: 16
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 0
+---
+
 # Yek
 
 *Small* *Fiend* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The yek makes one bite attack and one claw attack.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage, and, if the target is Large or smaller, the yek demon attaches to it. While attached, the yek demon can make this attack only against the target and has advantage on the attack roll. The yek demon can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the yek demon by succeeding on a DC 13 Strength check.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (3d4 + 3) slashing damage.
-
-

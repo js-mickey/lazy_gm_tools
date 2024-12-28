@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Living Star
+size: Huge
+type: Celestial
+alignment: any alignment
+cr: 19
+xp: 22,000
+hp: 207
+hp_roll: 18d12+90
+ac: 19
+speed: fly 60 ft. walk 0 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 256
+---
+
 # Living Star
 
 *Huge* *Celestial* *any alignment*
@@ -32,5 +51,3 @@
 - **Multiattack:** The living star makes three starflare attacks. It can use its Silvered Ray in place of one starflare attack.
 - **Starflare:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage plus 14 (4d6) radiant damage.
 - **Silvered Ray:** Ranged Spell Attack: +12 to hit, range 150 ft., one target. Hit: 28 (4d10 + 6) radiant damage, and the target must succeed on a DC 19 Charisma saving throw or be stunned until the end of its next turn.
-
-

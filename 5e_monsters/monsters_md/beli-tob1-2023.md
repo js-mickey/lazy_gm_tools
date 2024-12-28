@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Beli
+size: Small
+type: Fey
+alignment: Neutral Evil
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 35
+---
+
 # Beli
 
 *Small* *Fey* *Neutral Evil*

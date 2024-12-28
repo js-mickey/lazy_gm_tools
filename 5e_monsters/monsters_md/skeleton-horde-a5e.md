@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skeleton Horde
+size: Large
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 65
+hp_roll: 10d8+20
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 394
+---
+
 # Skeleton Horde
 
 *Large* *Undead*
@@ -27,5 +46,3 @@
 
 - **Shortsword:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 27 (5d6 + 10) piercing damage  or half damage if the horde is bloodied.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit  range 80/320 ft.  one target. Hit: 27 (5d6 + 10) piercing damage  or half damage if the horde is bloodied.
-
-

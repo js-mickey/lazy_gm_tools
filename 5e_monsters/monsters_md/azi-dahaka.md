@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Azi Dahaka
+size: Huge
+type: Dragon
+alignment: chaotic evil
+cr: 14
+xp: 11,500
+hp: 157
+hp_roll: 15d12+60
+ac: 15
+speed: fly 80 ft. walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 45
+---
+
 # Azi Dahaka
 
 *Huge* *Dragon* *chaotic evil*

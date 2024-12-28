@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Kalkydra
+size: Huge
+type: Celestial
+alignment: lawful good
+cr: 13
+xp: 10,000
+hp: 189
+hp_roll: 14d12+98
+ac: 18
+speed: walk 40 ft. climb 30 ft. fly 90 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 26
+---
+
 # Angel, Kalkydra
 
 *Huge* *Celestial* *lawful good*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Solar Nimbus:** When hit by an attack it surrounds itself in a fiery nimbus searing attacker: 9 (2d8) fire and 9 (2d8) radiant and nimbus sheds bright light in 30' radius and dim light an additional 30'. Until start of kalkydra’s next turn a creature within 5 ft. of kalkydra that hits it with melee attack takes 9 (2d8) fire and 9 (2d8) radiant.
-
-

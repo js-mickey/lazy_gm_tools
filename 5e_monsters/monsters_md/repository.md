@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Repository
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 110
+hp_roll: 13d8+52
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 306
+---
+
 # Repository
 
 *Medium* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** The repository makes two slash attacks.
 - **Slash:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Language Lash (Recharge 5-6):** The repository utters words of power, unleashing psychic energy in a 30-foot cone. Each creature in that area must make a DC 15 Intelligence saving throw. On a failure, a creature takes 14 (4d6) psychic damage and is incapacitated for 1 minute. On a success, a creature takes half the damage and isn’t stunned. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

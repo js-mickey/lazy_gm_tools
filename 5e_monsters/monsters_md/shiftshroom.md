@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shiftshroom
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d8
+ac: 5
+speed: walk 10 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 7
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 159
+---
+
 # Shiftshroom
 
 *Medium* *Plant* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.
-
-

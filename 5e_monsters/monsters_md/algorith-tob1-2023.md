@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Algorith
+size: Medium
+type: Construct
+alignment: Lawful Neutral
+cr: 10
+xp: 5,900
+hp: 153
+hp_roll: 72
+ac: 18
+speed: fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 14
+---
+
 # Algorith
 
 *Medium* *Construct* *Lawful Neutral*

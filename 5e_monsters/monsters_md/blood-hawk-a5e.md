@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Hawk
+size: Small
+type: Beast
+alignment: 
+cr: 1/8
+xp: 25
+hp: 7
+hp_roll: 2d6
+ac: 11
+speed: walk 10 ft. fly 60 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 440
+---
+
 # Blood Hawk
 
 *Small* *Beast*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Beak:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4+1) piercing damage.
-
-

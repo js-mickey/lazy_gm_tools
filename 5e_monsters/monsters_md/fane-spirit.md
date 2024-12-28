@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fane Spirit
+size: Medium
+type: Undead
+alignment: lawful alignment
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 7d8+21
+ac: 13
+speed: walk 20 ft. hover True ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 141
+---
+
 # Fane Spirit
 
 *Medium* *Undead* *any lawful alignment*
@@ -34,5 +53,3 @@ At will: chill touch, spare the dying
 ### Actions
 
 - **Touch of Forgetfulness:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) psychic damage. A target hit by this attack must succeed on a DC 13 Wisdom saving throw or forget any or all events that happened up to 5 minutes prior to this attack, as if affected by the modify memory spell. The GM decides how this affects the target.
-
-

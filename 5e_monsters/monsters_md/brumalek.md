@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brumalek
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 40
+hp_roll: 9d6+9
+ac: 13
+speed: walk 30 ft. burrow 20 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 70
+---
+
 # Brumalek
 
 *Small* *Beast* *unaligned*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Skittish:** Can take the Dash or Disengage action.
-
-

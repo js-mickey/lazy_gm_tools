@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Haakjir
+size: Medium
+type: Monstrosity
+alignment: neutral
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 15
+speed: walk 40 ft. burrow 15 ft. climb 30 ft.
+senses: darkvision 120 ft. tremorsense 30 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 224
+---
+
 # Haakjir
 
 *Medium* *Monstrosity* *neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** One Bite attack and two Claw attacks.
 - **Bite:** Melee Weapon Attack: +5 to hit 5 ft reach one target 10 (2d6+3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit 5 ft one target 8 (2d4+3) slashing damage.
-
-

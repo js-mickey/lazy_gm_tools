@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Edjet
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 14
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 0
+---
+
 # Edjet
 
 *Medium* *Humanoid* *lawful neutral*
@@ -30,5 +49,3 @@
 - **Shortsword:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Fire Breath (Recharges after a Short or Long Rest):** The dragonborn edjet exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

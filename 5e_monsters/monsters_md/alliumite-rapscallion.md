@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alliumite, Rapscallion
+size: Small
+type: Plant
+alignment: chaotic neutral
+cr: 2
+xp: 450
+hp: 38
+hp_roll: 7d6+14
+ac: 15
+speed: walk 30 ft. burrow 20 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 17
+---
+
 # Alliumite, Rapscallion
 
 *Small* *Plant* *chaotic neutral*
@@ -31,5 +50,3 @@
 
 - **Grapplevine Escape:** When a creature rapscallion can see hits it with melee attack can use its whip to swing up to 20' away from attacker provided nearby terrain includes a feature it can use to swing (branch chandelier ledge mast railing or similar). This movement doesn’t provoke opportunity attacks.
 - **Pungent Retort:** When a creature rapscallion can see within 60' of it starts its turn or casts a spell rapscallion issues forth a string of insults cleverly crafted to make a foe cry. If it can hear the rapscallion target: DC 14 Wis save or sob uncontrollably until start of rapscallion’s next turn. A sobbing creature has disadvantage on ability checks and attack rolls and must make DC 14 Con save to cast a spell that requires spellcaster to see its target. Spellcaster doesn’t lose the spell slot on a failure.
-
-

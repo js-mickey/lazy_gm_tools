@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Sand Ancient
+size: Gargantuan
+type: Dragon
+alignment: neutral evil
+cr: 23
+xp: 50,000
+hp: 507
+hp_roll: 26d20+234
+ac: 21
+speed: walk 40 ft. burrow 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 31
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 144
+---
+
 # Dragon, Sand Ancient
 
 *Gargantuan* *Dragon* *neutral evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragonette, Sedge
+size: Tiny
+type: Dragon
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 5d4+15
+ac: 13
+speed: walk 20 ft. swim 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 149
+---
+
 # Dragonette, Sedge
 
 *Tiny* *Dragon* *neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Prickly Defense:** When a creature dragonette can see hits dragonette with melee attack while within 5 ft. of it dragonette can make one Spines attack vs. the creature.
-
-

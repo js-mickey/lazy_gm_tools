@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chill Haunt
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 39
+hp_roll: 6d8+12
+ac: 13
+speed: walk 0 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 62
+---
+
 # Chill Haunt
 
 *Medium* *Undead* *neutral evil*
@@ -28,5 +47,3 @@
 ### Actions
 
 - **Shivering Touch:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) cold damage plus 3 (1d6) necrotic damage. The target must succeed on a DC 12 Constitution saving throw or take 3 (1d6) cold damage at the start of each of its turns. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target takes fire damage, the effect ends.
-
-

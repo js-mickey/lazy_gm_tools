@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Strider
+size: Large
+type: Monstrosity
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 4d10+12
+ac: 12
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 261
+---
+
 # Mountain Strider
 
 *Large* *Monstrosity* *chaotic neutral*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Revenge for the Fallen:** When an ally the mountain strider can see is reduced to 0 hp within 30 feet of the mountain strider, the strider can move up to half its speed and make a headbutt attack.
-
-

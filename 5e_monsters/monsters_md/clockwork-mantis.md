@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Mantis
+size: Large
+type: Construct
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 68
+hp_roll: 8d10+24
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 67
+---
+
 # Clockwork Mantis
 
 *Large* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Serrated Blade:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Invisibility:** The clockwork mantis turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the mantis wears or carries is invisible with it.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Bombardier Beetle
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 2d8+4
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 39
+---
+
 # Giant Bombardier Beetle
 
 *Medium* *Beast* *unaligned*
@@ -22,5 +41,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Spray:** Ranged Weapon Attack: +4 to hit, range 15/30 ft., one target. Hit: 7 (2d4 + 2) fire damage.
-
-

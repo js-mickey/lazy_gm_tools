@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Primal Oozer
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d8+45
+ac: 14
+speed: walk 30 ft. climb 10 ft. swim 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 297
+---
+
 # Primal Oozer
 
 *Medium* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@
 
 - **Multiattack:** The primal oozer makes two bite attacks. If both attacks hit the same target, the target must make a DC 15 Constitution saving throw. On a failure, the target takes 7 (2d6) acid damage and contracts a disease (see the Ooze Plague trait). On a success, the target takes half the damage and doesn’t contract a disease.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
-
-

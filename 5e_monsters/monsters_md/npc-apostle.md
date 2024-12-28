@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Apostle
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 6
+xp: 2,300
+hp: 117
+hp_roll: 18d8+36
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 403
+---
+
 # Npc: Apostle
 
 *Medium* *Humanoid* *any alignment*
@@ -29,5 +48,3 @@
 - **Divine Bolt:** Ranged Spell Attack: +7 to hit, 120 ft., one target, 13 (2d8+4) necrotic or radiant (apostle’s choice). 
 - **Destroy Undead (2/Day):** Presents its holy symbol and intones a prayer. Each undead within 30' of apostle that can see or hear it: 28 (8d6) radiant (DC 15 Wis half).
 - **Spellcasting:** Wis (DC 15): At will: guidance spare the dying thaumaturgy3/day ea: bless cure wounds (3rd-level) hold person lesser restoration1/day ea: bestow curse daylight freedom of movement mass cure wounds revivify
-
-

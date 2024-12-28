@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Manastorm Golem
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 90
+hp_roll: 12d10+24
+ac: 14
+speed: fly 60 ft. walk 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 203
+---
+
 # Manastorm Golem
 
 *Medium* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 - **Multiattack:** The golem makes two slam attacks. If both attacks hit a single living creature, the creature is stunned until the end of its next turn.
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) force damage.
 - **Force Bolt:** Ranged Spell Attack: +6 to hit, range 120/480 ft., one target. Hit: 25 (4d10 + 3) force damage.
-
-

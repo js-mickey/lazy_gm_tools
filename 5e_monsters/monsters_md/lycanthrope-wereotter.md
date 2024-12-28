@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lycanthrope, Wereotter
+size: Medium
+type: Humanoid
+alignment: chaotic good
+cr: 2
+xp: 450
+hp: 44
+hp_roll: +8
+ac: 13
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. (otter &amp hybrid forms only) 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 266
+---
+
 # Lycanthrope, Wereotter
 
 *Medium* *Humanoid* *chaotic good*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into a Med otter-humanoid hybrid or into Large otter or back into true form: Humanoid. Stats other than size are same in each form. Items worn/ carried not transformed. Reverts to its true form if it dies.
-
-

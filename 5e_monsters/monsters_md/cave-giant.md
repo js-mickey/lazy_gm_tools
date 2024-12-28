@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Giant
+size: Huge
+type: Giant
+alignment: chaotic evil
+cr: 10
+xp: 5,900
+hp: 200
+hp_roll: 16d12+96
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 182
+---
+
 # Cave Giant
 
 *Huge* *Giant* *chaotic evil*
@@ -27,5 +46,3 @@
 - **Handaxe:** Melee Weapon Attack: +12 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 18 (3d6 + 8) slashing damage.
 - **Tusks:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 22 (4d6 + 8) slashing damage, and if the target is a Large or smaller creature it must succeed on a DC 20 Strength saving throw or be knocked prone.
 - **Rock:** Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.
-
-

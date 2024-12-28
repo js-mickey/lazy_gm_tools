@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xorn
+size: Medium
+type: Elemental
+alignment: 
+cr: 5
+xp: 1,800
+hp: 73
+hp_roll: 7d8+42
+ac: 19
+speed: walk 20 ft. burrow 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 431
+---
+
 # Xorn
 
 *Medium* *Elemental*
@@ -28,5 +47,3 @@
 - **Multiattack:** The xorn makes three claw attacks and then makes a bite attack if it can.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 8 (1d8 + 4) slashing damage.
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one creature that was hit by the xorns claws at least twice this turn. Hit: 13 (2d8 + 4) piercing damage  and the xorn consumes one of the following nonmagical objects in the targets possession: a worn set of metal armor or a carried metal weapon or shield  a piece of metal equipment  a gem  or up to 1 000 coins. For 1 minute after an item is consumed  a creature can retrieve it from the gullet of a willing  incapacitated  or dead xorn  taking 7 (2d6) acid damage in the process.
-
-

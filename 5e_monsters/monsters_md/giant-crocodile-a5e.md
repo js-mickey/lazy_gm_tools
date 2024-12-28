@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Crocodile
+size: Huge
+type: Beast
+alignment: 
+cr: 5
+xp: 1,800
+hp: 85
+hp_roll: 9d12+27
+ac: 14
+speed: walk 30 ft. swim 50 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 446
+---
+
 # Giant Crocodile
 
 *Huge* *Beast*
@@ -25,5 +44,3 @@
 - **Multiattack:** The crocodile attacks with its bite and its tail.
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 16 (2d10+5) piercing damage and the target is grappled (escape DC 15). Until this grapple ends  the target is restrained and the crocodile can't bite a different target.
 - **Tail:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one creature not grappled by the crocodile. Hit: 14 (2d8+5) bludgeoning damage and the target makes a DC 18 Strength saving throw  falling prone on a failure.
-
-

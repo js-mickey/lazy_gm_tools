@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Overshadow
+size: Large
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 289
+---
+
 # Overshadow
 
 *Large* *Undead* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The overshadow makes two strength drain attacks.
 - **Strength Drain:** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) necrotic damage, and the target’s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 - **Bringer of Darkness:** The overshadow dims the light around it. The radius of each light source within 60 feet of it is halved for 1 minute. The overshadow can’t use this action while in sunlight.
-
-

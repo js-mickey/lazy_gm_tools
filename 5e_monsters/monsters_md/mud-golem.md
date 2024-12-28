@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mud Golem
+size: Small
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 6d6+6
+ac: 10
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Mud Golem
 
 *Small* *Construct* *unaligned*
@@ -29,5 +48,3 @@
 - **Multiattack:** The mud golem makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
 - **Mud Ball:** Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. Hit: 3 (1d6) bludgeoning damage, and the target is blinded until the end of its next turn.
-
-

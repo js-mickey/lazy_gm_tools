@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Cave Dragon
+size: Huge
+type: Dragon
+alignment: Neutral Evil
+cr: 19
+xp: 22,000
+hp: 270
+hp_roll: 140
+ac: 18
+speed: walk 40 ft. burrow 40 ft.
+senses: blindsight 60 ft. tremorsense 120 ft. 
+passive_perception: 24
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 114
+---
+
 # Adult Cave Dragon
 
 *Huge* *Dragon* *Neutral Evil*

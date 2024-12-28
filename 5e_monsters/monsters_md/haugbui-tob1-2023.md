@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Haugbui
+size: Medium
+type: Undead
+alignment: Lawful Neutral
+cr: 13
+xp: 10,000
+hp: 153
+hp_roll: 72
+ac: 15
+speed: walk 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 231
+---
+
 # Haugbui
 
 *Medium* *Undead* *Lawful Neutral*

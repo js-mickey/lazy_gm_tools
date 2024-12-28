@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snake with a Hundred Mage Hands
+size: Small
+type: Monstrosity
+alignment: neutral
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 15d6+15
+ac: 14
+speed: swim 30 ft. walk 30 ft. climb 30 ft.
+senses: blindsight 10 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 333
+---
+
 # Snake with a Hundred Mage Hands
 
 *Small* *Monstrosity* *neutral*
@@ -26,5 +45,3 @@
 - **Multiattack:** The snake with a hundred mage hands makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft. creature. Hit: 9 (2d4 + 4) piercing damage.
 - **Flying Fists (Recharge 5-6):** The snake unleashes a flurry of spectral punches in a 30-foot cone. Each creature in the area must make a DC 14 Dexterity saving throw. On a failure, a creature takes 10 (3d6) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone.
-
-

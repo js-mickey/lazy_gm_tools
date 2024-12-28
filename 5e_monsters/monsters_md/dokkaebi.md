@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dokkaebi
+size: Medium
+type: Fey
+alignment: chaotic good
+cr: 2
+xp: 450
+hp: 78
+hp_roll: 12d8+24
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 137
+---
+
 # Dokkaebi
 
 *Medium* *Fey* *chaotic neutral or chaotic good*
@@ -27,5 +46,3 @@
 - **Multiattack:** Three attacks with its club.
 - **Dokkaebi Bangmangi:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 5 (1d4+3) bludgeoning damage. See below..
 - **Invisibility:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Items wears or carries are invisible with it. Can’t use this if it doesn’t have its hat.
-
-

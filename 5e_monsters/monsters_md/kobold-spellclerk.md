@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold Spellclerk
+size: Small
+type: Humanoid
+alignment: lawful neutral
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d6
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 232
+---
+
 # Kobold Spellclerk
 
 *Small* *Humanoid* *lawful neutral*
@@ -30,5 +49,3 @@ Cantrips (at will): fire bolt, message, minor illusion
 
 - **Multiattack:** The kobold spellclerk makes two melee attacks.
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-
-

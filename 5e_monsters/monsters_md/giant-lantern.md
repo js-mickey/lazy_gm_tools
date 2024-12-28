@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant, Lantern
+size: Huge
+type: Giant
+alignment: neutral
+cr: 12
+xp: 8,400
+hp: 225
+hp_roll: 18d12+108
+ac: 16
+speed: walk 40 ft. swim 60 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 204
+---
+
 # Giant, Lantern
 
 *Huge* *Giant* *neutral*
@@ -31,5 +50,3 @@
 - **Trident:** Melee or Ranged Weapon Attack: +12 to hit 10 ft. or range 20/60' 1 target. 18 (3d6+8) piercing damage or 21 (3d8+8) piercing damage if used with two hands to make a melee attack.
 - **Crush of the Deep (Recharge 5–6):** Summons pressure of ocean depths in 40' cube of water centered on point it can see within 120' of it. Each creature in cube: 44 (8d10) bludgeoning damage (DC 17 Con half).
 - **Spellcasting:** Cha (DC 15) no material components:At will: detect magic identify (as an action)3/day ea: control water freedom of movement water breathing
-
-

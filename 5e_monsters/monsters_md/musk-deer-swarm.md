@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Musk Deer, Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 282
+---
+
 # Musk Deer, Swarm
 
 *Medium* *Beast* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Musk (Recharge: Short/Long Rest):** As musk deer but save DC 12.
 - **Sprinter:** Takes the Dash action.
-
-

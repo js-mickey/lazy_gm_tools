@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Owl Harpy
+size: Medium
+type: monstrosity
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 45
+ac: 14
+speed: walk 80 ft. fly 20 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 230
+---
+
 # Owl Harpy
 
 *Medium* *monstrosity* *neutral evil*

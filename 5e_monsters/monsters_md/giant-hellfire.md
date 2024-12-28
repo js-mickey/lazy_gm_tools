@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant, Hellfire
+size: Huge
+type: Giant
+alignment: neutral good
+cr: 9
+xp: 5,000
+hp: 168
+hp_roll: 16d12+64
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 203
+---
+
 # Giant, Hellfire
 
 *Huge* *Giant* *neutral good*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Runic Shield:** Adds 4 to its AC vs. one attack that would hit it as green runes encircle the giant. To do so giant must see the attacker and can’t be invisible
-
-

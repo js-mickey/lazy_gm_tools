@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Weeping Treant
+size: Huge
+type: Plant
+alignment: Neutral
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 40
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 369
+---
+
 # Weeping Treant
 
 *Huge* *Plant* *Neutral*

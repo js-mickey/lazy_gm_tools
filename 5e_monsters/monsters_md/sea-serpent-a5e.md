@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sea Serpent
+size: Gargantuan
+type: Monstrosity
+alignment: 
+cr: 16
+xp: 15,000
+hp: 247
+hp_roll: 15d20+90
+ac: 17
+speed: walk 10 ft. swim 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 386
+---
+
 # Sea Serpent
 
 *Gargantuan* *Monstrosity*
@@ -35,5 +54,3 @@
 
 - **Reactive Bite:** If the serpent takes 15 damage or more from a melee attack made by a creature it can see, it bites the attacker.
 - **Reactive Tail:** If the serpent takes 15 damage or more from an attack made by a creature or object it can see, it makes a tail attack against the attacker.
-
-

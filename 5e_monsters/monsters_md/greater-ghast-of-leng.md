@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Ghast of Leng
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 8
+xp: 3,900
+hp: 153
+hp_roll: 18d10+54
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 52
+---
+
 # Greater Ghast of Leng
 
 *Large* *Aberration* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The greater ghast of Leng makes three attacks: one with its bite and two with its claws. If both claw attacks hit a Medium or smaller target, the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, the greater ghast can automatically hit the target with its claws, and the greater ghast can’t make claw attacks against other targets.
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) necrotic damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) slashing damage.
-
-

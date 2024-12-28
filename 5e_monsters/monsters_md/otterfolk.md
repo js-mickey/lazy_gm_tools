@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Otterfolk
+size: Small
+type: Humanoid
+alignment: chaotic good
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d6+4
+ac: 14
+speed: swim 30 ft. walk 25 ft. climb 15 ft.
+senses: darkvision 30 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 288
+---
+
 # Otterfolk
 
 *Small* *Humanoid* *chaotic good*
@@ -27,5 +46,3 @@
 - **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Atlatl Dart:** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Secrete Oil (Recharge 4-6):** The otterfolk secretes an oil that makes it slippery until the end of its next turn. It has advantage on ability checks and saving throws made to escape a grapple. If it is grappled when it takes this action, it can take a bonus action to escape the grapple.
-
-

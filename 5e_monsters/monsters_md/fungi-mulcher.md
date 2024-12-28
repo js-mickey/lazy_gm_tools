@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fungi, Mulcher
+size: Gargantuan
+type: Plant
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 139
+hp_roll: 9d20+45
+ac: 15
+speed: walk 10 ft. burrow 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 191
+---
+
 # Fungi, Mulcher
 
 *Gargantuan* *Plant* *unaligned*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Emergent Stalk:** When reduced below half hp max or creature scores critical hit vs. it immediately uses Expose Stalk.
-
-

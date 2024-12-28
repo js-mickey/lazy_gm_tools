@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ramag Portal Master
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 71
+hp_roll: 13d8+13
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 313
+---
+
 # Ramag Portal Master
 
 *Medium* *Humanoid* *neutral*
@@ -33,5 +52,3 @@ Cantrips (at will): fire bolt, light, prestidigitation, shocking grasp
 - **Lightning Stroke:** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 14 (4d6) lightning damage. If the target is a creature, it can't take reactions until the start of the ramag's next turn.
 - **Dimensional Seal (Recharges after a Short or Long Rest):** The ramag magically empowers its gate seal to dampen teleportation, planar gates, and portals within 60 feet of it. A creature that attempts to teleport while within or into the area must succeed on a DC 15 Charisma saving throw or the teleport fails. Spells and abilities that conjure creatures or objects automatically fail, and portals or gates are suppressed while they remain in the area. The seal lasts 1 hour, or until the ramag loses concentration on it as if concentrating on a spell.
 - **Weave Dimensions:** The ramag creates two magical gateways in unoccupied spaces it can see within 100 feet of it. The gateways appear as shimmering, opaque ovals in the air. A creature that moves into one gateway appears at the other immediately. The gateways last for 1 minute, or until the ramag loses concentration on them as if concentrating on a spell.
-
-

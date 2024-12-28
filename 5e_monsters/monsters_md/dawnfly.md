@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dawnfly
+size: Gargantuan
+type: Beast
+alignment: unaligned
+cr: 19
+xp: 22,000
+hp: 261
+hp_roll: 18d20+72
+ac: 21
+speed: walk 20 ft. climb 20 ft. fly 90 ft.
+senses: blindsight 90 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 104
+---
+
 # Dawnfly
 
 *Gargantuan* *Beast* *unaligned*

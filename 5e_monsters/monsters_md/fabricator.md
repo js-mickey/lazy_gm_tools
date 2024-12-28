@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fabricator
+size: Large
+type: Construct
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 147
+hp_roll: 14d10+70
+ac: 13
+speed: climb 15 ft. walk 30 ft. swim 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 138
+---
+
 # Fabricator
 
 *Large* *Construct* *neutral*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The fabricator makes two disassembling slam attacks.
 - **Disassembling Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage plus 10 (3d6) force damage. A creature reduced to 0 hp by this attack immediately dies and its body and nonmagical equipment is disassembled and absorbed into the fabricator. The creature can be restored to life only by means of a true resurrection or a wish spell. The fabricator can choose to not disassemble a creature or its equipment after reducing it to 0 hp.
-
-

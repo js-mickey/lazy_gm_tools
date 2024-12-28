@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Citrullus
+size: Medium
+type: Plant
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 85
+hp_roll: 30
+ac: 15
+speed: walk 15 ft.
+senses: blindsight 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 58
+---
+
 # Citrullus
 
 *Medium* *Plant* *Unaligned*

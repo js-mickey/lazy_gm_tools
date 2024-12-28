@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Compsognathus
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8d8+8
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 108
+---
+
 # Swarm of Compsognathus
 
 *Medium* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hp or fewer.
-
-

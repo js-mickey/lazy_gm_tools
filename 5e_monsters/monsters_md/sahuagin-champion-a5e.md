@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sahuagin Champion
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: walk 40 ft. swim 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 377
+---
+
 # Sahuagin Champion
 
 *Medium* *Humanoid*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
-
-

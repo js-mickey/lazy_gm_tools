@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Merfolk Knight
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 8d8+16
+ac: 15
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 30 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 329
+---
+
 # Merfolk Knight
 
 *Medium* *Humanoid*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Trident:** The knight makes a trident attack.
-
-

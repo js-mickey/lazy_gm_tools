@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Cultist Psychophant
+size: Medium
+type: Humanoid
+alignment: non-good alignment
+cr: 9
+xp: 5,000
+hp: 149
+hp_roll: 23d8+46
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 405
+---
+
 # Npc: Cultist Psychophant
 
 *Medium* *Humanoid* *any non-good alignment*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Appeal to the Fervent:** When a creature psychophant can see targets it with attack psychophant calls for aid from its followers switching places with friendly creature within 5 ft. of it. Friendly creature becomes target of the attack instead.
-
-

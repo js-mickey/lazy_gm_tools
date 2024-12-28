@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Yaga Goo
+size: Small
+type: Ooze
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 85
+hp_roll: 10d6+50
+ac: 14
+speed: climb 20 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 389
+---
+
 # Yaga Goo
 
 *Small* *Ooze* *neutral evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Puddle Splash:** When a creature the Yaga goo can see targets it with a melee attack while within 5 feet of the goo, the goo can teleport to a puddle created by its Foul Transit, if that puddle's space is unoccupied, negating the damage from the attack. If it does, the attacker must succeed on a DC 16 Constitution saving throw or take 10 (3d6) necrotic damage and become poisoned until the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crystallite
+size: Large
+type: Giant
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 100
+---
+
 # Crystallite
 
 *Large* *Giant* *lawful neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Calcify:** When it takes 5+ damage on a single turn it can reduce its hp max by an amount equal to damage taken and gains a +1 bonus to AC. Reduction and bonus last until it finishes a long rest. Can’t increase its AC above 20 using this.
-
-

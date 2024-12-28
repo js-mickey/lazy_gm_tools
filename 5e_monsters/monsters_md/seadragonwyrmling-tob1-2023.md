@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sea Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: Neutral Evil
+cr: 3
+xp: 700
+hp: 52
+hp_roll: 16
+ac: 17
+speed: walk 40 ft. fly 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 127
+---
+
 # Sea Dragon Wyrmling
 
 *Medium* *Dragon* *Neutral Evil*

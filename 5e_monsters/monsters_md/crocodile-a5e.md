@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crocodile
+size: Large
+type: Beast
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d10+3
+ac: 12
+speed: walk 20 ft. swim 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 442
+---
+
 # Crocodile
 
 *Large* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 7 (1d10+2) piercing damage and the target is grappled (escape DC 12). Until this grapple ends  the target is restrained and the crocodile can't bite a different target.
-
-

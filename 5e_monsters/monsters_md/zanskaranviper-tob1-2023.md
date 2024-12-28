@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zanskaran Viper
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 12
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 334
+---
+
 # Zanskaran Viper
 
 *Large* *Beast* *Unaligned*

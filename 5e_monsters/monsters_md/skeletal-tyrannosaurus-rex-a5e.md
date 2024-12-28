@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skeletal Tyrannosaurus Rex
+size: Huge
+type: Undead
+alignment: 
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 11d12+55
+ac: 13
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 394
+---
+
 # Skeletal Tyrannosaurus Rex
 
 *Huge* *Undead*
@@ -28,5 +47,3 @@
 - **Multiattack:** The skeleton makes a bite attack and a tail attack against two different targets.
 - **Bite:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 25 (3d12 + 6) piercing damage. If the target is a creature  it is grappled (escape DC 17). Until this grapple ends  the skeleton can't bite a different creature and it has advantage on bite attacks against the grappled creature.
 - **Tail:** Melee Weapon Attack: +9 to hit  reach 10 ft.  one target. Hit: 19 (3d8 + 6) bludgeoning damage.
-
-

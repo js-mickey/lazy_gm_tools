@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tosculi Hive Queen
+size: Large
+type: Monstrosity
+alignment: Lawful Evil
+cr: 12
+xp: 8,400
+hp: 189
+hp_roll: 90
+ac: 17
+speed: walk 60 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 366
+---
+
 # Tosculi Hive Queen
 
 *Large* *Monstrosity* *Lawful Evil*

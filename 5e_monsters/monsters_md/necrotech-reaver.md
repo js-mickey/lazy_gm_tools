@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Necrotech Reaver
+size: Huge
+type: Undead
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 126
+hp_roll: 12d12+48
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 287
+---
+
 # Necrotech Reaver
 
 *Huge* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** Two Chain Lash attacks.
 - **Chain Lash:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 18 (4d6+4) slashing damage and the target is grappled (escape DC 15). The reaver has four chains each of which can grapple only one target.
 - **Bladed Sweep (Recharge 5–6):** Swings its chains in a wide arc. Each creature within 15 ft. of the reaver must make a DC 15 Dex save. On a failure a creature takes 21 (6d6) slashing damage and is knocked prone. On a success a creature takes half the damage and isn’t knocked prone. A creature that fails the save by 5 or more is pushed up to 15 ft. away from the reaver and knocked prone.
-
-

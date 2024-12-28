@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chronomatic Enhancer
+size: Large
+type: Construct
+alignment: unaligned
+cr: 12
+xp: 8,400
+hp: 152
+hp_roll: 16d10+64
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. tremorsense 10 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 64
+---
+
 # Chronomatic Enhancer
 
 *Large* *Construct* *unaligned*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Alter Timeline:** When a friendly creature within 15 feet of the chronomatic enhancer takes damage, the enhancer can modify time to protect the creature, changing all damage dice rolled to 1s.
-
-

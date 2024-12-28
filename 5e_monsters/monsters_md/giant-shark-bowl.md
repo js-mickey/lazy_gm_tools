@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Shark Bowl
+size: Huge
+type: Ooze
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 172
+hp_roll: 15d12+75
+ac: 6
+speed: swim 20 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 284
+---
+
 # Giant Shark Bowl
 
 *Huge* *Ooze* *unaligned*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.
 - **Pseudopod:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.
 - **Engulf:** The giant shark bowl moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the bowl enters a creature's space, the creature must make a DC 16 Dexterity saving throw. <br><br>On a successful save, the creature can choose to be pushed 5 feet back or to the side of the bowl. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. <br><br>On a failed save, the bowl enters the creature's space, and the creature takes 22 (3d10 + 6) piercing damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 22 (3d10 + 6) piercing damage at the start of each of the bowl's turns. When the bowl moves, the engulfed creature moves with it. <br><br>An engulfed creature can try to escape by taking an action to make a DC 15 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the bowl.
-
-

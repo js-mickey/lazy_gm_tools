@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Accursed Defiler
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 30
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 12
+---
+
 # Accursed Defiler
 
 *Medium* *Undead* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bonepowder Ghoul
+size: Small
+type: Undead
+alignment: Neutral Evil
+cr: 12
+xp: 8,400
+hp: 180
+hp_roll: 96
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 201
+---
+
 # Bonepowder Ghoul
 
 *Small* *Undead* *Neutral Evil*

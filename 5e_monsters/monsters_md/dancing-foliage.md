@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dancing Foliage
+size: Medium
+type: Plant
+alignment: chaotic good
+cr: 4
+xp: 1,100
+hp: 66
+hp_roll: 12d8+12
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 79
+---
+
 # Dancing Foliage
 
 *Medium* *Plant* *chaotic good*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Shower of Petals:** When a creature the dancing foliage can see targets it with an attack, it releases a shower of flower petals, giving the attacker disadvantage on that attack roll.
-
-

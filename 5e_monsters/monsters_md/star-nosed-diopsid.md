@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Star-Nosed Diopsid
+size: Large
+type: Aberration
+alignment: lawful evil
+cr: 9
+xp: 5,000
+hp: 153
+hp_roll: 18d10+54
+ac: 16
+speed: walk 30 ft. burrow 15 ft. fly 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 355
+---
+
 # Star-Nosed Diopsid
 
 *Large* *Aberration* *lawful evil*
@@ -29,5 +48,3 @@
 - **Tentacle:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 17 (3d8+4) bludgeoning damage. Target is grappled (escape DC 16) if it is an up to Large creature and diopsid doesn't have 2 grappled.
 - **Share Senses:** While within 300' of an envenomed Humanoid diopsid sees through target’s eyes and hears what target hears until start of its next turn gaining benefits of any special senses target has. On subsequent turns diopsid can use a bonus action to extend duration of this effect until start of its next turn.
 - **Control Envenomed (3/Day):** While within 300' of an envenomed Humanoid diopsid can telepathically suggest course of activity to it. Humanoid must make DC 16 Wis save or pursue the activity suggested to it. Success: Humanoid takes 11 (2d10) psychic and has disadvantage next time it makes this save. Works like suggestion spell and Humanoid unaware of diopsid’s influence.
-
-

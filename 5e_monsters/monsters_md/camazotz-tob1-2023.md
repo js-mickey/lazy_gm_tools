@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Camazotz
+size: Large
+type: Fiend
+alignment: Chaotic Evil
+cr: 22
+xp: 41,000
+hp: 537
+hp_roll: 301
+ac: 19
+speed: walk 80 ft. fly 30 ft.
+senses: blindsight 120 ft. truesight 30 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 76
+---
+
 # Camazotz
 
 *Large* *Fiend* *Chaotic Evil*

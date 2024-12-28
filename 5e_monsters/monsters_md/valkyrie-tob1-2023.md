@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Valkyrie
+size: Medium
+type: Celestial
+alignment: Neutral
+cr: 11
+xp: 7,200
+hp: 150
+hp_roll: 60
+ac: 18
+speed: walk 60 ft. fly 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 379
+---
+
 # Valkyrie
 
 *Medium* *Celestial* *Neutral*

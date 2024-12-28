@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cutthroat
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 6d8
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 468
+---
+
 # Cutthroat
 
 *Medium* *Humanoid*
@@ -31,5 +50,3 @@
 - **Cunning Action:** The cutthroat takes the Dash, Disengage, Hide, or Use an Object action.
 - **Rapid Attack:** The cutthroat attacks with their shortsword.
 - **Cutthroats range from back-alley murderers to guild thieves to dungeon delvers:** They prefer a surprise attack to a frontal assault.
-
-

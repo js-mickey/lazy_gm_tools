@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Garlicle
+size: Small
+type: Plant
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 31
+hp_roll: 7d6+7
+ac: 12
+speed: walk 20 ft. burrow 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 162
+---
+
 # Garlicle
 
 *Small* *Plant* *chaotic neutral*
@@ -29,5 +48,3 @@ At will: guidance, shillelagh
 
 - **Walking Staff:** Melee Weapon Attack: +0 to hit (+6 to hit with shillelagh), reach 5 ft., one target. Hit: 1 (1d6 – 2) bludgeoning damage, 2 (1d8 – 2) bludgeoning damage if wielded with two hands, or 8 (1d8 + 4) bludgeoning damage with shillelagh.
 - **Cloves of Fate (Recharge 4-6):** The garlicle plucks cloves from its head and throws them at up to three creatures it can see within 30 feet of it. Roll a d4 for each creature. The garlicles allies have +1 on the roll while its enemies have a -1 on the roll. Determine the result and consult the following table. <br>| d4 | Fate |<br>|----|------|<br>| 0 | Worst Fortune. Whatever the target is holding slips from its grasp into a random space within 5 feet of the target, and the target falls prone as it trips over a rock, rain-dampened grass, its shoelaces, or similar. |<br>| 1 | Bad Fortune. The target takes 10 (3d6) poison damage and must succeed on a DC 14 Constitution saving throw or be poisoned until the end of its next turn. |<br>| 2 | Adverse Fortune. The target has disadvantage on its next attack roll. |<br>| 3 | Favorable Fortune. The target has advantage on its next attack roll. |<br>| 4 | Good Fortune. The target regains 5 (2d4) hp. |<br>| 5 | Best Fortune. The target’s next successful hit is critical. |
-
-

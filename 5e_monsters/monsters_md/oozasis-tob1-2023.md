@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Oozasis
+size: Gargantuan
+type: Ooze
+alignment: Unaligned
+cr: 9
+xp: 5,000
+hp: 217
+hp_roll: 70
+ac: 7
+speed: walk 20 ft. burrow 20 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 290
+---
+
 # Oozasis
 
 *Gargantuan* *Ooze* *Unaligned*

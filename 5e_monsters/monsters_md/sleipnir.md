@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sleipnir
+size: Large
+type: Monstrosity
+alignment: neutral good
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 10d10+50
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 344
+---
+
 # Sleipnir
 
 *Large* *Monstrosity* *neutral good*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Eight Hooves (3/Day):** When a creature moves within 5 feet of the sleipnir, the sleipnir can move up to its speed without provoking opportunity attacks.
-
-

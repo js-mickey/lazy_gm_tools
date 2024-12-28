@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Salt Devil
+size: Medium
+type: Fiend
+alignment: Lawful Evil
+cr: 6
+xp: 2,300
+hp: 93
+hp_roll: 44
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 100
+---
+
 # Salt Devil
 
 *Medium* *Fiend* *Lawful Evil*

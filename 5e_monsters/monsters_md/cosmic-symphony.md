@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cosmic Symphony
+size: Large
+type: Celestial
+alignment: unaligned
+cr: 15
+xp: 13,000
+hp: 200
+hp_roll: 16d10+112
+ac: 18
+speed: walk 0 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 96
+---
+
 # Cosmic Symphony
 
 *Large* *Celestial* *unaligned*

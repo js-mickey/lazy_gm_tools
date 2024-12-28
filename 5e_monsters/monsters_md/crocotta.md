@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crocotta
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 39
+hp_roll: 6d8+12
+ac: 14
+speed: walk 50 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 75
+---
+
 # Crocotta
 
 *Medium* *Monstrosity* *neutral evil*
@@ -32,5 +51,3 @@ Canines are immune to the crocotta’s Paralyzing Gaze, and canine-like humanoid
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
-
-

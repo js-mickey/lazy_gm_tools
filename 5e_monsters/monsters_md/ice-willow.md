@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Willow
+size: Large
+type: Plant
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 142
+hp_roll: 15d10+60
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 240
+---
+
 # Ice Willow
 
 *Large* *Plant* *neutral*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Melting Icicles:** When the ice willow takes fire it can immediately use Icicle Drop if available.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Green Knight of the Woods
+size: Medium
+type: Fey
+alignment: lawful neutral
+cr: 6
+xp: 2,300
+hp: 78
+hp_roll: 12d8+24
+ac: 20
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 209
+---
+
 # Green Knight of the Woods
 
 *Medium* *Fey* *lawful neutral*
@@ -38,5 +57,3 @@ On its turn, the affected creature must move towards the green knight and make a
 ### Reactions
 
 - **Knight's Rebuke:** When the green knight is hit by a melee attack from a creature it has successfully challenged, it can make one battle axe attack with advantage against the attacker.
-
-

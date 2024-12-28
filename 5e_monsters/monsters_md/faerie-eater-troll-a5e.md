@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Faerie Eater Troll
+size: Large
+type: Giant
+alignment: 
+cr: 6
+xp: 2,300
+hp: 84
+hp_roll: 8d10+40
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 413
+---
+
 # Faerie Eater Troll
 
 *Large* *Giant*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 11 (2d6 + 4) piercing damage.
 - **Claw:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Charming Murmur:** One creature within 60 feet that can hear the troll makes a DC 12 Charisma saving throw. On a failure  it is charmed for 1 minute. While charmed  its Speed is 0. The creature repeats the saving throw whenever it takes damage.
-
-

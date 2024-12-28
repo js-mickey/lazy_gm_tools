@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lich Hound
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 40
+ac: 14
+speed: walk 50 ft. fly 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 253
+---
+
 # Lich Hound
 
 *Medium* *Undead* *Neutral Evil*

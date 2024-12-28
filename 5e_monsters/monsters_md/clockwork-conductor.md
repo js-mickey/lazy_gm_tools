@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Conductor
+size: Small
+type: Construct
+alignment: lawful neutral
+cr: 1/2
+xp: 100
+hp: 28
+hp_roll: 8d6
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 87
+---
+
 # Clockwork Conductor
 
 *Small* *Construct* *lawful neutral*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Concerted Effort:** Inspires itself or one friendly creature it can see within 30' of it until start of conductor’s next turn. When target makes an attack roll or a Con save to maintain concentration on a spell target can roll d4 and add result to attack or save.
-
-

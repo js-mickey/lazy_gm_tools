@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Rockchewer
+size: Huge
+type: Giant
+alignment: lawful neutral
+cr: 5
+xp: 1,800
+hp: 126
+hp_roll: 12d12+48
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 302
+---
+
 # Ogre, Rockchewer
 
 *Huge* *Giant* *lawful neutral*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Rock Catching:** If a rock or similar object is hurled at the rockchewer ogre the ogre can with successful DC 10 Dex save catch the missile and take no bludgeoning from it.
-
-

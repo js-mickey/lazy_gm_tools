@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: River Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 16
+speed: walk 50 ft. fly 60 ft. swim 60 ft.
+senses: darkvision 120 ft. tremorsense 90 ft. (only detects vibrations in water) 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 133
+---
+
 # River Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Torrential Breath (Recharge 5-6):** The dragon exhales water in a 15-foot-long  5-foot-wide line. Each creature in the area makes a DC 11 Dexterity saving throw  taking 14 (4d6) bludgeoning damage on a failed save or half damage on a success.
-
-

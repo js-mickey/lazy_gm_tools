@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lost Minotaur
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 114
+hp_roll: 12d10+48
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 169
+---
+
 # Lost Minotaur
 
 *Large* *Undead* *neutral evil*
@@ -33,5 +52,3 @@
 - **Multiattack:** The minotaur makes two twilight greataxe attacks.
 - **Twilight Greataxe:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage and 9 (2d8) necrotic damage.
 - **Gore:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.
-
-

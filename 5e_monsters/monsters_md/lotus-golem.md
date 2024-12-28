@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lotus Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 82
+hp_roll: 11d10+22
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Lotus Golem
 
 *Large* *Construct* *unaligned*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Arcane Absorption:** When a spell is cast within 30 feet of it, the golem absorbs some of the spell's potency. If it is a spell that forces a saving throw, the DC to succeed drops by 2. If it is a spell with an attack roll, the attack roll has disadvantage. The golem regains 20 hp and gains 1 charge point in its Arcane Pool.
-
-

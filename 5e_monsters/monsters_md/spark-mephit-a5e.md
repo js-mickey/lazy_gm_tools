@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spark Mephit
+size: Small
+type: Elemental
+alignment: 
+cr: 1/2
+xp: 100
+hp: 17
+hp_roll: 5d6
+ac: 12
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 327
+---
+
 # Spark Mephit
 
 *Small* *Elemental*
@@ -28,5 +47,3 @@
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) lightning damage.
 - **Spark Form (Recharge 6):** The mephit transforms into an arc of lightning and flies up to 20 feet without provoking opportunity attacks. During this movement  the mephit can pass through other creatures spaces. Whenever it moves through another creatures space for the first time during this movement  that creature makes a DC 12 Dexterity saving throw  taking 5 (2d4) lightning damage on a failed save or half damage on a success. The mephit then reverts to its original form.
 - **Faerie Flame (1/Day):** Each creature within 10 feet of the mephit makes a DC 11 Dexterity saving throw. On a failure  the creature is magically outlined in blue light for 1 minute. While outlined  the creature gains no benefit from being invisible and attack rolls against it are made with advantage.
-
-

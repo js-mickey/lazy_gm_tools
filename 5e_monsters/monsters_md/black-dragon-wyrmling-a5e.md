@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+6
+ac: 17
+speed: walk 30 ft. fly 60 ft. swim 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 103
+---
+
 # Black Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -26,5 +45,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 13 (2d10 + 2) piercing damage.
 - **Acid Breath (Recharge 5-6):** The dragon exhales sizzling acid in a 20-foot-long  5-foot-wide line. Each creature in that area makes a DC 11 Dexterity saving throw  taking 13 (3d8) acid damage on a failed save or half damage on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brownie Mystic
+size: Tiny
+type: Fey
+alignment: neutral good
+cr: 5
+xp: 1,800
+hp: 82
+hp_roll: 15d4+45
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 68
+---
+
 # Brownie Mystic
 
 *Tiny* *Fey* *neutral good*
@@ -29,5 +48,3 @@
 - **Mystic Blast:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 10 (2d6+3) psychic.
 - **Invisibility:** Magically turns invisible until it attacks or uses Spellcasting or until its concentration ends (as if concentrating on a spell). Any equipment brownie wears or carries is invisible with it.
 - **Spellcasting:** Wis (DC 13) no material components: At will: mending minor illusion prestidigitation3/day ea: entangle mirror image1/day ea: confusion conjure animals dimension door
-
-

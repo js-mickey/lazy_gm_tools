@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Divi Noble
+size: Large
+type: Elemental
+alignment: 
+cr: 11
+xp: 7,200
+hp: 345
+hp_roll: 30d10+180
+ac: 18
+speed: walk 30 ft. burrow 30 ft. fly 30 ft.
+senses: darkvision 120 ft. tremorsense 30 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 218
+---
+
 # Divi Noble
 
 *Large* *Elemental*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Stone Wall (1/Day):** A permanent stone wall magically rises from an earth or stone surface within 60 feet. The wall is 6 inches thick and can be up to 20 feet high and 30 feet long. If it appears in a creatures space, the creature can choose which side of the wall to move to. Each 10-foot-by-10-foot section of the wall is an object with AC 18 and 30 hit points.
-
-

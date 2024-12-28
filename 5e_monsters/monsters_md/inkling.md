@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Inkling
+size: Tiny
+type: Construct
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 10
+hp_roll: 4d4
+ac: 12
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 227
+---
+
 # Inkling
 
 *Tiny* *Construct* *unaligned*
@@ -32,5 +51,3 @@ At will: fire bolt, mending, minor illusion, prestidigitation
 ### Reactions
 
 - **Redirect Spell:** If a spell attack hits the inkling, it can force the attacker to make a DC 12 Intelligence saving throw. If the attacker fails the saving throw, the spell is redirected to hit another creature of the inkling's choice within 30 feet.
-
-

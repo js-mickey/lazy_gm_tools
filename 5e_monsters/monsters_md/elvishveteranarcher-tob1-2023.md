@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elvish Veteran Archer
+size: Medium
+type: Humanoid
+alignment: Any Alignment
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 410
+---
+
 # Elvish Veteran Archer
 
 *Medium* *Humanoid* *Any Alignment*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ahu-Nixta Drudge
+size: Medium
+type: Aberration
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 26
+hp_roll: 4d8+8
+ac: 13
+speed: fly 30 ft. hover True ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 10
+---
+
 # Ahu-Nixta Drudge
 
 *Medium* *Aberration* *neutral evil*
@@ -29,5 +48,3 @@ At will: fire bolt  (1d10)
 ### Actions
 
 - **Whirring Blades:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.
-
-

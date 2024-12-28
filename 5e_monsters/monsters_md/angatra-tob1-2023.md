@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angatra
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 6
+xp: 2,300
+hp: 85
+hp_roll: 40
+ac: 17
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 17
+---
+
 # Angatra
 
 *Medium* *Undead* *Neutral Evil*

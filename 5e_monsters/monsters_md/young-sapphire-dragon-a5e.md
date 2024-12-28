@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Sapphire Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 10
+xp: 5,900
+hp: 161
+hp_roll: 19d10+57
+ac: 18
+speed: walk 40 ft. burrow 20 ft. fly 80 ft.
+senses: darkvision 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 151
+---
+
 # Young Sapphire Dragon
 
 *Large* *Dragon*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 20 (3d10 + 4) piercing damage plus 4 (1d8) psychic damage.
 - **Claws:** Melee Weapon Attack: +8 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) slashing damage.
 - **Discognitive Breath (Recharge 5-6):** The dragon unleashes psychic energy in a 30-foot cone. Each creature in that area makes a DC 15 Intelligence saving throw  taking 49 (9d10) psychic damage on a failed save or half damage on a success.
-
-

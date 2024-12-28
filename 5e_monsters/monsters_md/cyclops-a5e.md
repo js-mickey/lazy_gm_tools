@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cyclops
+size: Huge
+type: Giant
+alignment: 
+cr: 7
+xp: 2,900
+hp: 126
+hp_roll: 11d12+55
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 58
+---
+
 # Cyclops
 
 *Huge* *Giant*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Big Windup:** When a creature hits the cyclops with a melee attack, the cyclops readies a powerful strike against its attacker. The cyclops has advantage on the next club attack it makes against the attacker before the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dream Wraith
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 60
+hp_roll: 8d8+24
+ac: 14
+speed: fly 60 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 135
+---
+
 # Dream Wraith
 
 *Medium* *Undead* *neutral evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Dreamer's Gaze:** When a creature the dream wraith can see starts its turn within 30 feet of the dream wraith, the dream wraith can create the illusion that it looks like that creature's most recently departed loved one. If the creature can see the dream wraith, it must succeed on a DC 14 Wisdom saving throw or be stunned until the end of its turn.
-
-

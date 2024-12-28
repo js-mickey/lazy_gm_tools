@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bar Brawl
+size: Huge
+type: Humanoid
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d12+9
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 48
+---
+
 # Bar Brawl
 
 *Huge* *Humanoid* *unaligned*
@@ -30,5 +49,3 @@
 - **Barstool:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 14 (4d6) bludgeoning damage, or 7 (2d6) if the bar brawl has half its hit points or fewer.
 - **Broken Bottles:** Melee Weapon Attack: +4 to hit, range 0 ft., one target in the bar brawl's space. Hit: 10 (4d4) slashing damage, or 5 (2d4) if the bar brawl has half its hit points or fewer.
 - **Darts:** Ranged Weapon Attack: +3 to hit, range 20/40 ft. Hit: 10 (4d4) piercing damage, or 5 (2d4) if the bar brawl has half its hit points or fewer.
-
-

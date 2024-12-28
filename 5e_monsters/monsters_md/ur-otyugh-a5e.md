@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ur-Otyugh
+size: Large
+type: Aberration
+alignment: 
+cr: 10
+xp: 5,900
+hp: 144
+hp_roll: 17d10+51
+ac: 14
+speed: walk 50 ft. swim 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 354
+---
+
 # Ur-Otyugh
 
 *Large* *Aberration*

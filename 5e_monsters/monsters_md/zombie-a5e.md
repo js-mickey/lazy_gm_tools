@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zombie
+size: Medium
+type: Undead
+alignment: 
+cr: 1/4
+xp: 50
+hp: 15
+hp_roll: 2d8+6
+ac: 8
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 434
+---
+
 # Zombie
 
 *Medium* *Undead*
@@ -27,5 +46,3 @@
 
 - **Grab:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) bludgeoning damage. If the target is a Medium or smaller creature  it is grappled (escape DC 11). Until the grapple ends  the zombie can't grab another target.
 - **Bite:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one grappled target. Hit: 6 (1d10 + 1) piercing damage  and the zombie regains the same number of hit points.
-
-

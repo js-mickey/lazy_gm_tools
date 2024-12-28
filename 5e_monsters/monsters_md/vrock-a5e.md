@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vrock
+size: Large
+type: Fiend
+alignment: 
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 11d10+44
+ac: 15
+speed: walk 40 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 76
+---
+
 # Vrock
 
 *Large* *Fiend*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Stunning Screech (1/Day):** The vrock screeches. Each non-demon creature within 20 feet that can hear it makes a DC 14 Constitution saving throw. On a failure, it is stunned until the end of the vrocks next turn.
-
-

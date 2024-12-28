@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ink Devil
+size: Small
+type: Fiend
+alignment: Lawful Evil
+cr: 2
+xp: 450
+hp: 54
+hp_roll: 12
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 96
+---
+
 # Ink Devil
 
 *Small* *Fiend* *Lawful Evil*

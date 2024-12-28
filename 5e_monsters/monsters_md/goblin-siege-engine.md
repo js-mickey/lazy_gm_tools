@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Goblin Siege Engine
+size: Huge
+type: Construct
+alignment: unaligned
+cr: 11
+xp: 7,200
+hp: 178
+hp_roll: 17d10+85
+ac: 20
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 211
+---
+
 # Goblin Siege Engine
 
 *Huge* *Construct* *unaligned*
@@ -33,5 +52,3 @@
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +10 to hit, 10 ft., one target, 22 (3d10+6) bludgeoning damage.
 - **Acid Jet (Recharge 5–6):** Sprays jet of acid in 30' line by 5 ft. wide. Each creature in line: 40 (9d8) acid (DC 17 Dex half).
-
-

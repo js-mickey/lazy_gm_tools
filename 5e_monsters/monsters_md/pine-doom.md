@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pine Doom
+size: Huge
+type: Plant
+alignment: neutral
+cr: 9
+xp: 5,000
+hp: 172
+hp_roll: 15d12+75
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 295
+---
+
 # Pine Doom
 
 *Huge* *Plant* *neutral*
@@ -30,5 +49,3 @@
 - **Slam:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage.
 - **Sap-filled Pinecone:** Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 10 (2d4 + 5) slashing damage. The target and each creature within 5 feet of it must succeed on a DC 16 Dexterity saving throw or be restrained by sap. A creature can be free if it or another creature takes an action to make a DC 16 Strength check and succeeds.
 - **Flurry of Pinecones (Recharge 6):** Each creature within 30 feet of the pine doom must make a DC 16 Dexterity saving throw, taking 15 (6d4) slashing damage on a failed save, or half as much damage on a successful one.
-
-

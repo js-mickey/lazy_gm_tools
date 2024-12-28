@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Plesiosaurus
+size: Large
+type: Beast
+alignment: 
+cr: 7
+xp: 2,900
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: walk 20 ft. swim 40 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 90
+---
+
 # Plesiosaurus
 
 *Large* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 15 (2d10 + 4) piercing damage. The target makes a DC 14 Strength saving throw. On a failure  it is pulled up to 5 feet towards the plesiosaurus.
-
-

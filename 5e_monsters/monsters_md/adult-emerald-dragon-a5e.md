@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Emerald Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 17
+xp: 18,000
+hp: 241
+hp_roll: 23d12+92
+ac: 18
+speed: walk 40 ft. burrow 30 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 146
+---
+
 # Adult Emerald Dragon
 
 *Huge* *Dragon*

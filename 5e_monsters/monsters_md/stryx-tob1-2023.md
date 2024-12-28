@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stryx
+size: Tiny
+type: Monstrosity
+alignment: Neutral
+cr: 1/8
+xp: 25
+hp: 10
+hp_roll: 4d4
+ac: 12
+speed: walk 60 ft. fly 10 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 350
+---
+
 # Stryx
 
 *Tiny* *Monstrosity* *Neutral*

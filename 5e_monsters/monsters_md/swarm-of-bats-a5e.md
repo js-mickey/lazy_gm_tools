@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Bats
+size: Medium
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d8
+ac: 12
+speed: walk 5 ft. fly 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 460
+---
+
 # Swarm of Bats
 
 *Medium* *Beast*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +4 to hit  reach 0 ft.  one target. Hit: 7 (2d6) piercing damage  or 3 (1d6) piercing damage if the swarm is bloodied.
-
-

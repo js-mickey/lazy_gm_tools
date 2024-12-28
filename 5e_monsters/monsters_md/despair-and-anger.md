@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Despair And Anger
+size: Large
+type: Celestial
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 161
+hp_roll: 17d10+68
+ac: 16
+speed: walk 40 ft. fly 40 ft.
+senses: truesight 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 116
+---
+
 # Despair And Anger
 
 *Large* *Celestial* *neutral evil*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Change Aspect:** Changes aspect in control. Only one active at a time. Creature grappled by despair no longer grappled by anger.
-
-

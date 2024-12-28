@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sea Hag
+size: Medium
+type: Fey
+alignment: 
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 7d8+21
+ac: 14
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 271
+---
+
 # Sea Hag
 
 *Medium* *Fey*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Horrific Transformation:** The hag briefly takes on a terrifying form or reveals its true form. Each creature within 30 feet that can see the hag makes a DC 11 Wisdom saving throw. A creature under the hags curse automatically fails this saving throw. On a failure, the creature is frightened until the end of its next turn. If a creatures saving throw is successful, it is immune to the hags Horrific Transformation for 24 hours.
-
-

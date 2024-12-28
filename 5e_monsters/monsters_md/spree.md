@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spree
+size: Small
+type: Fiend
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 84
+hp_roll: 13d6+39
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 91
+---
+
 # Spree
 
 *Small* *Fiend* *chaotic evil*
@@ -29,5 +48,3 @@
 
 - **Multiattack:** The spree demon makes two claw attacks. If both attacks hit the same target, the target must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. While frightened this way, the creature believes it has shrunk to half its normal size. All attacks against the creature do an extra 7 (2d6) psychic damage, and the creature's attacks do half damage. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 10 (3d6) poison damage, and the creature must make a DC 14 Constitution saving throw. On a failure, the target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn for 1 minute. This works like the confusion spell. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to this effect for the next 24 hours.
-
-

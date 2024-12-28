@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Copper Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 144
+hp_roll: 17d10+51
+ac: 17
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 167
+---
+
 # Young Copper Dragon
 
 *Large* *Dragon*
@@ -31,5 +50,3 @@
 - **Breath Weapons (Recharge 5-6):** The dragon uses one of the following breath weapons:
 - **Acid Breath:** The dragon exhales acid in a 40-foot-long  5-foot wide-line. Each creature in the area makes a DC 15 Dexterity saving throw  taking 45 (10d8) acid damage on a failed save or half damage on a success.
 - **Slowing Breath:** The dragon exhales toxic gas in a 30-foot cone. Each creature in the area makes a DC 15 Constitution saving throw  becoming slowed for 1 minute on a failure. A creature repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Acid Ant
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d6+3
+ac: 13
+speed: walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 8
+---
+
 # Acid Ant
 
 *Small* *Monstrosity* *unaligned*
@@ -26,5 +45,3 @@
 
 - **Acid Spit:** Ranged Weapon Attack: +3 to hit, range 20/60 ft., one target. Hit: 5 (2d4) acid damage and the target takes 1 acid damage at the start of its next turn unless the target immediately uses its reaction to wipe off the spit.
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 2 (1d4) acid damage.
-
-

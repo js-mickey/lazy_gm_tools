@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragon, Sand Young
+size: Large
+type: Dragon
+alignment: neutral evil
+cr: 11
+xp: 7,200
+hp: 189
+hp_roll: 18d10+90
+ac: 19
+speed: walk 40 ft. burrow 20 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 144
+---
+
 # Dragon, Sand Young
 
 *Large* *Dragon* *neutral evil*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, 10 ft., one target, 16 (2d10+5) piercing damage.
 - **Claw:** Melee Weapon Attack: +9 to hit, 5 ft., one target, 12 (2d6+5) slashing damage.
 - **Breath Weapon (Recharge 5–6):** Uses one of the following:Sand Blast. Exhales superheated sand in a 30' cone. Each creature in area: 22 (4d10) piercing damage and 22 (4d10) fire (DC 17 Dex half). If a creature fails its save by 5+ it suffers one level of exhaustion as it dehydrates.Blinding Sand. Breathes fine sand in a 30' cone. Each creature in area: blinded for 1 min (DC 17 Con negates). Blinded creature can take an action to clear its eyes of sand ending effect for it.
-
-

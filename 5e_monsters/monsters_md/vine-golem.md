@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vine Golem
+size: Medium
+type: Construct
+alignment: neutral
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d8+27
+ac: 14
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 181
+---
+
 # Vine Golem
 
 *Medium* *Construct* *neutral*
@@ -33,5 +52,3 @@
 - **Multiattack:** The vine golem makes two thorned vine attacks.
 - **Thorned Vine:** Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 8 (1d8 + 4) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be pulled up to 10 feet toward the vine golem.
 - **Thorned Embrace:** Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller creature. Hit: 13 (2d8 + 4) piercing damage, and the target is grappled (escape DC 11). Until the grapple ends, the target is restrained, and the vine golem can’t embrace another target.
-
-

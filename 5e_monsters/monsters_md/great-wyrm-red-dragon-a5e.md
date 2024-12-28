@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Wyrm Red Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 26
+xp: 90,000
+hp: 897
+hp_roll: 46d20+414
+ac: 22
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 24
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 117
+---
+
 # Great Wyrm Red Dragon
 
 *Gargantuan* *Dragon*

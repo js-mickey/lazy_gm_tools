@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Merchant Captain
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 19d8+19
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 410
+---
+
 # Npc: Merchant Captain
 
 *Medium* *Humanoid* *any alignment*
@@ -28,5 +47,3 @@
 ### Reactions
 
 - **Inspiration (4/Day):** When a creature within 30' of the merchant captain fails an attack roll ability check or save the captain can force it to reroll the die. The target must use the new roll.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arboreal Grappler
+size: Medium
+type: Aberration
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 36
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 24
+---
+
 # Arboreal Grappler
 
 *Medium* *Aberration* *Neutral Evil*

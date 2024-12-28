@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Locksmith
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 102
+hp_roll: 12d8+48
+ac: 18
+speed: walk 40 ft.
+senses: blindsight 90 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 240
+---
+
 # Locksmith
 
 *Medium* *Construct* *unaligned*
@@ -32,5 +51,3 @@ At will: mending
 - **Multiattack:** The locksmith makes two key blade attacks.
 - **Key Blade:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) slashing damage.
 - **Acid Wash (Recharge 5-6):** The locksmith emits a cloud of rust in a 60-foot cone. Each creature in that area must succeed on a DC 16 Dexterity saving throw, taking 35 (10d6) acid damage on a failed save, or half as much damage on a successful one.
-
-

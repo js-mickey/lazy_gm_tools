@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Guardian
+size: Large
+type: Humanoid
+alignment: Neutral Evil
+cr: 4
+xp: 1,100
+hp: 110
+hp_roll: 39
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 162
+---
+
 # Guardian
 
 *Large* *Humanoid* *Neutral Evil*

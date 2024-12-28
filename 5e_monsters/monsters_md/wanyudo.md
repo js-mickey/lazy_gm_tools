@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wanyudo
+size: Large
+type: Fiend
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 115
+hp_roll: 11d10+55
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 364
+---
+
 # Wanyudo
 
 *Large* *Fiend* *lawful evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The wanyudo makes two bite attacks.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) piercing damage plus 7 (2d6) fire damage.
 - **Flaming Breath (Recharge 5-6):** The wanyudo exhales fire in a 20-foot cone from one of its heads. Each creature in the area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

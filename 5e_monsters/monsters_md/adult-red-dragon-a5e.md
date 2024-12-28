@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Red Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 20
+xp: 25,000
+hp: 310
+hp_roll: 23d12+161
+ac: 19
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 22
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 118
+---
+
 # Adult Red Dragon
 
 *Huge* *Dragon*

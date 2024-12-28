@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Djinni
+size: Large
+type: Elemental
+alignment: 
+cr: 11
+xp: 7,200
+hp: 172
+hp_roll: 15d10+90
+ac: 16
+speed: walk 30 ft. fly 90 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 219
+---
+
 # Djinni
 
 *Large* *Elemental*
@@ -34,5 +53,3 @@
 - **Giant Form (1/Day:** The djinni magically becomes a Huge, semi-substantial creature of billowing cloud. In this form, it gains resistance to nonmagical damage, and its scimitar attacks gain a reach of 10 feet. The effect ends after 1 minute, when the djinni is incapacitated, or if the djinn becomes bloodied.
 - **Whirlwind (1/Day):** A magical, 5-foot-wide, 30-foot-tall whirlwind appears in a space the djinni can see within 60 feet. The whirlwind may appear in another creatures space. If the whirlwind appears in another creatures space, or when it enters a creatures space for the first time on a turn, the creature makes a DC 18 Strength check, becoming restrained by the whirlwind on a failure. The whirlwind may restrain one creature at a time. A creature within 5 feet of the whirlwind (including the restrained creature) can use an action to make a DC 18 Strength check, freeing the restrained creature on a success. A freed creature can move to an unoccupied space within 5 feet of the whirlwind.
 - **As a bonus action:** The whirlwind disappears if the djinni loses sight of it, if the djinni dies or is incapacitated, or if the djinni dismisses it as an action.
-
-

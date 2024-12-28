@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ahuizotl
+size: Small
+type: Monstrosity
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 71
+hp_roll: 13d6+26
+ac: 14
+speed: swim 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 10
+---
+
 # Ahuizotl
 
 *Small* *Monstrosity* *unaligned*
@@ -27,5 +46,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 - **Tail Grab:** The ahuizotl grabs a creature or item. If the target is a Medium or smaller creature, it must succeed on a DC 14 Strength saving throw or be grappled (escape DC 14). The ahuizotl can then move up to its speed as a bonus action. The grappled creature must succeed on a DC 14 Strength saving throw or be pulled along 5 feet behind the ahuizotl. A creature being dragged by the ahuizotl makes attack rolls and Dexterity saving throws with disadvantage.<br><br>If the target is an object or weapon being held by another creature, that creature must succeed on a DC 14 Strength saving throw, or the ahuizotl pulls the object away from the creature. After stealing an object or weapon, the ahuizotl can move up to its speed as a bonus action. The ahuizotl can only grapple one creature or hold one weapon or object at a time. If holding a weapon, it can use its Tail Grab action to make one attack with the weapon with no proficiency bonus
-
-

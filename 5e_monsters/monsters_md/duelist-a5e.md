@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Duelist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 497
+---
+
 # Duelist
 
 *Medium* *Humanoid*
@@ -26,5 +45,3 @@
 
 - **Riposte:** When the duelist is missed by a melee attack by an attacker they can see within 5 feet, the duelist makes a rapier attack against the attacker with advantage.
 - **In cities and royal courts:** 
-
-

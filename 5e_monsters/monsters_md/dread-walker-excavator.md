@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dread Walker Excavator
+size: Large
+type: Construct
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 75
+hp_roll: 10d10+20
+ac: 16
+speed: climb 30 ft. walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 129
+---
+
 # Dread Walker Excavator
 
 *Large* *Construct* *neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** The excavator makes two foreleg attacks.
 - **Foreleg:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Excavation Beam:** Ranged Weapon Attack: +7 to hit, range 30/60 ft., one target. Hit: 17 (5d6) force damage.
-
-

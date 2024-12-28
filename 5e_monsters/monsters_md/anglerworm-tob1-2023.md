@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angler Worm
+size: Huge
+type: Monstrosity
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 104
+hp_roll: 33
+ac: 14
+speed: walk 20 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 20
+---
+
 # Angler Worm
 
 *Huge* *Monstrosity* *Unaligned*

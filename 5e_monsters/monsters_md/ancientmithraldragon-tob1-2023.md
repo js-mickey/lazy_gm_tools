@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Mithral Dragon
+size: Gargantuan
+type: Dragon
+alignment: Neutral
+cr: 22
+xp: 41,000
+hp: 490
+hp_roll: 196
+ac: 20
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 29
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 120
+---
+
 # Ancient Mithral Dragon
 
 *Gargantuan* *Dragon* *Neutral*

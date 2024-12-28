@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moss Lurker
+size: Small
+type: Humanoid
+alignment: Chaotic Neutral
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 10
+ac: 15
+speed: walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 278
+---
+
 # Moss Lurker
 
 *Small* *Humanoid* *Chaotic Neutral*

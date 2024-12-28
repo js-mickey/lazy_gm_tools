@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stone Guardian
+size: Large
+type: Construct
+alignment: 
+cr: 10
+xp: 5,900
+hp: 178
+hp_roll: 17d10+85
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 265
+---
+
 # Stone Guardian
 
 *Large* *Construct*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Slow (Recharge 5-6):** The guardian targets one or more creatures within 30 feet. Each target makes a DC 17 Wisdom saving throw. On a failure, the target is slowed for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

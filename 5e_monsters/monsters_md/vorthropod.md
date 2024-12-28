@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vorthropod
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 127
+hp_roll: 15d8+60
+ac: 15
+speed: walk 30 ft. swim 30 ft. climb 20 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 387
+---
+
 # Vorthropod
 
 *Medium* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Multiattack:** Two Claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 8 (2d4+3) bludgeoning damage + 7 (2d6) fire. 
 - **Molten Tail Slap (Recharge 4–6):** Unfurls its tail and slaps it down showering area with searing sparks and superheated rock. Each creature within 15 ft. of it: 28 (8d6) fire (DC 14 Dex half).
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Coven Green Hag
+size: Medium
+type: Fey
+alignment: 
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 15d8+30
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 269
+---
+
 # Coven Green Hag
 
 *Medium* *Fey*
@@ -33,5 +52,3 @@
 - **3:** Ill Fortune Hex. The hag magically divines the targets activities. Whenever the target attempts a long-duration task such as a craft or downtime activity  the hag can cause the activity to fail.
 - **4:** Sleep Hex. The target falls unconscious. The curse ends early if the target takes damage or if a creature uses an action to shake it awake.
 - **Invisibility (2nd-Level; V, S, Concentration):** The hag is invisible for 1 hour. The spell ends if the hag attacks  uses Hex  or casts a spell.
-
-

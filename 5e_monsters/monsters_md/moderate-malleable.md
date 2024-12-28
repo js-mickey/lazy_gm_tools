@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Moderate Malleable
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 136
+hp_roll: 16d10+48
+ac: 12
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 254
+---
+
 # Moderate Malleable
 
 *Large* *Aberration* *chaotic evil*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Sudden Separation:** When the moderate malleable takes 10 damage or more from a single attack, it can choose to immediately use Separate Malleables. If it does so, the damage is divided evenly among the separate malleables it becomes.
-
-

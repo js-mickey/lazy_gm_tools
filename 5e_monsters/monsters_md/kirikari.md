@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kirikari
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 15d12+45
+ac: 16
+speed: walk 30 ft. swim 30 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 230
+---
+
 # Kirikari
 
 *Huge* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Slam:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage plus 9 (2d8) acid damage.
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 31 (4d12 + 5) piercing damage plus 10 (3d6) poison damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the kirikari can’t bite another target.
 - **Blinding Veil (Recharge 5-6):** The kirikari expels a cloud of intensified mist, heavily obscuring everything within 30 feet of it. The mist thins back to lightly obscuring the area at the end of the kirikari’s next turn.
-
-

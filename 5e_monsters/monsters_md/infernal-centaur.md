@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Infernal Centaur
+size: Medium
+type: Fiend
+alignment: lawful evil
+cr: 4
+xp: 1,100
+hp: 60
+hp_roll: 8d8+24
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 214
+---
+
 # Infernal Centaur
 
 *Medium* *Fiend* *lawful evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The infernal centaur makes two dagger attacks.
 - **Dagger:** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Fiery Breath (Recharge 5-6):** The infernal centaur exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

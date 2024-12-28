@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Gray Owl
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 10
+hp_roll: 3d6
+ac: 13
+speed: walk 5 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 284
+---
+
 # Great Gray Owl
 
 *Small* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Talons:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brachyura Shambler
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 71
+hp_roll: 11d8+22
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 49
+---
+
 # Brachyura Shambler
 
 *Medium* *Monstrosity* *neutral evil*
@@ -26,5 +45,3 @@
 - **Multiattack:** The brachyura shambler makes two claw attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 13). Until this grapple ends, the target is restrained.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 11 (2d8 + 2) piercing damage.
 - **Diseased Spit:** Ranged Weapon Attack: +3 to hit, range 20/60 ft., one creature. Hit: 7 (2d4 + 2) acid damage. The creature must succeed on a DC 11 Constitution saving throw or contract sewer plague. It takes 1d4 days for sewer plague’s symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of exhaustion, and it regains only half the normal number of hp from spending Hit Dice and no hp from finishing a long rest. At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of exhaustion. On a successful save, the character’s exhaustion level decreases by 1 level. If a successful saving throw reduces the infected creature’s level of exhaustion below 1, the creature recovers from the disease.
-
-

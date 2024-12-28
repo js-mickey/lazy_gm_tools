@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rageipede
+size: Small
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 55
+hp_roll: 10d6+20
+ac: 15
+speed: walk 30 ft.
+senses: blindsight 30 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 310
+---
+
 # Rageipede
 
 *Small* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Multiattack:** The rageipede makes one bite attack and two claw attacks.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage plus 3 (1d6) poison damage and the target must succeed on a DC 12 Wisdom saving throw or be overcome with a fit of rage for 1 minute. While in a fit of rage, a creature has advantage on melee attack rolls and its melee weapon attacks deal an extra 3 (1d6) damage. The creature is unable to distinguish friend from foe and must attack the nearest creature other than the rageipede. If no other creature is near enough to move to and attack, the victim stalks off in a random direction, seeking a target for its rage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

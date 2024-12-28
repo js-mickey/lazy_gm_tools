@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Insects
+size: Medium
+type: Beast
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 12
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 10 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 460
+---
+
 # Swarm of Insects
 
 *Medium* *Beast*
@@ -26,5 +45,3 @@
 
 - **Bites:** Melee Weapon Attack: +4 to hit  reach 0 ft.  one target. Hit: 11 (2d10) piercing damage  or 5 (1d10) piercing damage if the swarm is bloodied.
 - **Venom:** Melee Weapon Attack: +4 to hit  reach 0 ft.  one target. Hit: 5 (2d4) piercing damage plus 7 (2d6) poison damage  or 2 (1d4) piercing damage plus 3 (1d6) poison damage if the swarm is bloodied.
-
-

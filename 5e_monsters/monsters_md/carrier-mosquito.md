@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Carrier Mosquito
+size: Large
+type: Beast
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 75
+hp_roll: 10d10+20
+ac: 13
+speed: walk 20 ft. fly 40 ft.
+senses: blindsight 60 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 389
+---
+
 # Carrier Mosquito
 
 *Large* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Impaling Proboscis:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 14 (2d10 + 3) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 13). Until the grapple ends, the target is restrained, the mosquito can automatically hit the target with its impaling proboscis, and the mosquito can’t make impaling proboscis attacks against other targets.
-
-

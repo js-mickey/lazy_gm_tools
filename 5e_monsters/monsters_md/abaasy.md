@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Abaasy
+size: Huge
+type: Giant
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 11d12+55
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 8
+---
+
 # Abaasy
 
 *Huge* *Giant* *neutral evil*
@@ -30,5 +49,3 @@
 - **Shield Shove:** Melee Weapon Attack: +8 to hit, 10 ft., one target, 15 (4d4+5) bludgeoning damage and target: DC 16 Str save or be knocked prone or pushed up to 15 ft. away from abaasy (abaasy’s choice).
 - **Spear:** Melee or Ranged Weapon Attack: +8 to hit 15 ft. or range 20/60' one target 15 (3d6+5) piercing damage or 18 (3d8+5) piercing damage if used with two hands to make a melee attack.
 - **Eyebeam (Recharge 5–6):** Fires a beam of oscillating energy from its eye in a 90' line that is 5 ft. wide. Each creature in the line: 27 (5d10) radiant (DC 16 Dex half).
-
-

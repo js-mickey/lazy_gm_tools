@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Shuck
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 11
+xp: 7,200
+hp: 157
+hp_roll: 15d10+75
+ac: 17
+speed: walk 50 ft.
+senses: darkvision 90 ft. truesight 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 59
+---
+
 # Black Shuck
 
 *Large* *Fiend* *chaotic evil*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Mist Stalker:** In dim light fog or mist it takes the Hide action.
-
-

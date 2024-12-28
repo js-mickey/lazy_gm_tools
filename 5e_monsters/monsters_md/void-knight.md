@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Void Knight
+size: Medium
+type: Construct
+alignment: lawful evil
+cr: 10
+xp: 5,900
+hp: 153
+hp_roll: 18d8+72
+ac: 18
+speed: walk 20 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 386
+---
+
 # Void Knight
 
 *Medium* *Construct* *lawful evil*
@@ -33,5 +52,3 @@
 - **Void Gauntlet:** Melee Weapon Attack: +10 to hit, 5 ft., one target, 13 (2d6+6) slashing damage + 18 (4d8) force. If the target is a Med or smaller creature it must make DC 16 Str save or be knocked prone. 
 - **Void Bolt:** Ranged Spell Attack: +7 to hit, 120 ft., one target, 21 (4d8+3) force.
 - **Pull of the Void (Recharge 5–6):** Sends Void tendrils at up to three creatures it can see within 60' of it that are not behind total cover. Each target must make DC 16 strength Saving throw or be pulled up to 30' toward the knight. Then each creature within 5 ft. of knight takes 36 (8d8) force.
-
-

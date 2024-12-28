@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bucca
+size: Tiny
+type: Fey
+alignment: Neutral Evil
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 15
+ac: 14
+speed: walk 30 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 44
+---
+
 # Bucca
 
 *Tiny* *Fey* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Serpentine Lamia
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 36
+hp_roll: 8d8
+ac: 13
+speed: climb 20 ft. swim 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 249
+---
+
 # Serpentine Lamia
 
 *Medium* *Monstrosity* *neutral evil*
@@ -30,5 +49,3 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 - **Scimitar:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
 - **Constrict:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the serpentine lamia can't constrict another target.
 - **Shortbow:** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

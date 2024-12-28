@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mithral Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: Neutral
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8
+ac: 14
+speed: walk 60 ft. fly 50 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 123
+---
+
 # Mithral Dragon Wyrmling
 
 *Medium* *Dragon* *Neutral*

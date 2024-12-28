@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hallowed Reed
+size: Medium
+type: Celestial
+alignment: neutral good
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 13
+speed: walk 10 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 305
+---
+
 # Hallowed Reed
 
 *Medium* *Celestial* *neutral good*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Searing Grasp:** Melee Weapon Attack: +4 to hit, reach 15 ft., one creature. Hit: 4 (1d4 + 2) radiant damage, and the target is grappled (escape DC 12). Until this grapple ends, the creature is restrained, it takes 2 (1d4) radiant damage at the start of each of its turns, and the hallowed reed can't grasp another target. Undead and fiends have disadvantage on ability checks made to escape the grapple.
-
-

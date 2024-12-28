@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hoard Drake
+size: Large
+type: Dragon
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 147
+hp_roll: 14d10+70
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 258
+---
+
 # Hoard Drake
 
 *Large* *Dragon* *neutral evil*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage.
 - **Midas Breath (Recharge 6):** The hoard drake spits molten gold in a 30-foot cone. Each creature in the area must make a DC 16 Dexterity saving throw. On a failure, a creature takes 36 (8d8) fire damage and the gold clings to it. On a success, a creature takes half the damage and the gold doesn’t cling to it. A creature with gold clinging to it has its speed halved until it takes an action to scrape off the gold.<br><br>The gold produced by Midas Breath can be collected once it has cooled, providing roughly 50 gp worth of gold dust and scraps each time it spits molten gold.
-
-

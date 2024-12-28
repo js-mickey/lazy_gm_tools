@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Walled Horror
+size: Large
+type: Undead
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 114
+hp_roll: 12d8+60
+ac: 17
+speed: walk 0 ft.
+senses: truesight 60 ft. (blind beyond this radius) 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 363
+---
+
 # Walled Horror
 
 *Large* *Undead* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Spectral Claw:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 4 (1d8) psychic damage, and the target is grappled (escape DC 15).
 - **Spectral Scream:** Ranged Spell Attack: +7 to hit, range 60 ft., one creature. Hit: 18 (4d8) psychic damage, and the target must succeed on a DC 15 Charisma saving throw or be frightened until the end of its next turn as it is assaulted by images of being buried alive or entombed. While frightened, the creature’s speed is reduced to 0.
 - **Entomb:** The walled horror makes one spectral claw attack against a Medium or smaller creature it is grappling. If the attack hits, the creature is partially entombed in the wall, and the grapple ends. The entombed target is blinded and restrained, and it takes 9 (2d8) psychic damage at the start of each of the walled horror’s turns. A walled horror can have only one creature entombed at a time. <br><br>A creature, including the entombed target, can take its action to free the entombed target by succeeding on a DC 15 Strength check.<br><br>A creature slain while entombed is pulled fully into the wall and can be restored to life only by means of a true resurrection or a wish spell.
-
-

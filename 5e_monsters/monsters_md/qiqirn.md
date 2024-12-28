@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Qiqirn
+size: Small
+type: Monstrosity
+alignment: neutral
+cr: 2
+xp: 450
+hp: 38
+hp_roll: 7d6+14
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 301
+---
+
 # Qiqirn
 
 *Small* *Monstrosity* *neutral*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Horrifying Wail:** When the qiqirn takes damage, the spirits infusing it cry out, afraid of losing their host. If the creature that dealt the damage can hear the qiqirn, it must succeed on a DC 12 Wisdom saving throw or be frightened until the end of its next turn.
-
-

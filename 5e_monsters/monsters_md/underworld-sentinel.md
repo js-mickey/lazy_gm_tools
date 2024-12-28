@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Underworld Sentinel
+size: Huge
+type: Undead
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 126
+hp_roll: 12d12+48
+ac: 17
+speed: walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 381
+---
+
 # Underworld Sentinel
 
 *Huge* *Undead* *neutral*
@@ -32,5 +51,3 @@
 - **Scythe:** Melee Weapon Attack: +10 to hit, 15 ft., one target, 17 (2d10+6) slashing damage + 10 (3d6) necrotic.
 - **Death Knell:** Ranged Spell Attack: +7 to hit, 60 ft., one target, 16 (3d8+3) necrotic or 22 (3d12+3) necrotic if the target is missing any of its hp.
 - **Grim Reaping (Recharge 5–6):** Spins with its scythe extended and makes one Scythe attack vs. each creature within its reach. A creature that takes necrotic from this attack can’t regain hp until the end of its next turn.
-
-

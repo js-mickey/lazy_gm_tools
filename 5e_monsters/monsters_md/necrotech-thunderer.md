@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Necrotech Thunderer
+size: Huge
+type: Undead
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 11d12+55
+ac: 14
+speed: walk 20 ft.
+senses: blindsight 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 287
+---
+
 # Necrotech Thunderer
 
 *Huge* *Undead* *neutral evil*
@@ -32,5 +51,3 @@
 - **Trample:** Melee Weapon Attack: +8 to hit, 5 ft., one target, 21 (3d10+5) bludgeoning damage.
 - **Ballista Shot:** Chooses up to two points it can see within 120' of it. The thunderer can’t choose a point within 10 ft. of it. Each creature within 5 ft. of a point must make a DC 15 Con save taking 14 (4d6) necrotic on a failed save and half damage if made. If a creature is within 5 ft. of both points it has disadvantage on the save but it takes damage from only one effect not both.
 - **Concentrated Shot (Recharge 5–6):** Picks a point it can see within 120' of it. Each creature within 20' of that point must make a DC 15 Con save. On a failure a creature takes 35 (10d6) necrotic and suffers one level of exhaustion. On a success a creature takes half the damage and doesn’t suffer a level of exhaustion.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Buraq
+size: Medium
+type: Celestial
+alignment: Lawful Good
+cr: 11
+xp: 7,200
+hp: 152
+hp_roll: 80
+ac: 17
+speed: walk 90 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 46
+---
+
 # Buraq
 
 *Medium* *Celestial* *Lawful Good*

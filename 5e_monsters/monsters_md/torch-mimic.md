@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Torch Mimic
+size: Tiny
+type: Monstrosity
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d4+6
+ac: 12
+speed: walk 0 ft. fly 30 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 370
+---
+
 # Torch Mimic
 
 *Tiny* *Monstrosity* *neutral*
@@ -27,5 +46,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) piercing damage.
 - **Fire Blast:** Ranged Weapon Attack: +4 to hit 20/60' one target 7 (2d4+2) fire.
-
-

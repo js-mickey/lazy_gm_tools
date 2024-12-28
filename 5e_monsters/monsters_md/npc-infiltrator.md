@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Infiltrator
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 2
+xp: 450
+hp: 55
+hp_roll: 10d8+10
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 410
+---
+
 # Npc: Infiltrator
 
 *Medium* *Humanoid* *neutral*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Cunning Action:** Takes the Dash Disengage or Hide action.
-
-

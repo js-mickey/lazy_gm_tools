@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Edjet Initiate
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 1/4
+xp: 50
+hp: 19
+hp_roll: 3d8+6
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 131
+---
+
 # Edjet Initiate
 
 *Medium* *Humanoid* *lawful neutral*
@@ -26,5 +45,3 @@
 
 - **Shortsword:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
-
-

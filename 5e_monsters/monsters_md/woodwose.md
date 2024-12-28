@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Woodwose
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d8
+ac: 13
+speed: climb 20 ft. walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 383
+---
+
 # Woodwose
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -29,5 +48,3 @@ At will: shillelagh
 
 - **Club:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage with shillelagh.
 - **Shortbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 5 (2d4) poison damage.
-
-

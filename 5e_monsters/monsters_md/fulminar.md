@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fulminar
+size: Large
+type: Elemental
+alignment: neutral
+cr: 9
+xp: 5,000
+hp: 112
+hp_roll: 15d10+30
+ac: 15
+speed: fly 90 ft. hover True ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 165
+---
+
 # Fulminar
 
 *Large* *Elemental* *neutral*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage and 7 (2d6) lightning damage and the target can't take reactions until the end of the fulminar's next turn.
 - **Claw:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage and 7 (2d6) lightning damage.
 - **Lightning Shackles (Recharge 5-6):** The fulminar magically creates three sets of shackles of lightning, each of which can strike a creature the fulminar can see within 60 feet of it. A target must make a DC 16 Dexterity saving throw. On a failure, the target takes 18 (4d8) lightning damage and is restrained for 1 minute. On a success, the target takes half the damage but isn't restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Steam Mephit
+size: Small
+type: Elemental
+alignment: 
+cr: 1/4
+xp: 50
+hp: 21
+hp_roll: 6d6
+ac: 10
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 327
+---
+
 # Steam Mephit
 
 *Small* *Elemental*
@@ -28,5 +47,3 @@
 - **Claws:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 - **Blurred Form (1/Day, Bloodied Only):** The mephit uses magical illusion to blur its form. For 1 minute  attacks against the mephit are made with disadvantage.
 - **Steam Breath (1/Day):** The mephit exhales a 15-foot cone of steam. Each creature in the area makes a DC 10 Constitution saving throw  taking 4 (1d8) fire damage on a failed save or half damage on a success.
-
-

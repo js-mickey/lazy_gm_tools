@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Earth Elemental
+size: Large
+type: Elemental
+alignment: 
+cr: 9
+xp: 5,000
+hp: 157
+hp_roll: 15d12+60
+ac: 17
+speed: walk 30 ft. burrow 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 194
+---
+
 # Giant Earth Elemental
 
 *Large* *Elemental*
@@ -32,5 +51,3 @@
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 22 (4d8 + 4) bludgeoning damage.
 - **Earths Embrace:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one Large or smaller creature. Hit: 17 (2d12 + 4) bludgeoning damage  and the target is grappled (escape DC 15). Until this grapple ends  the elemental can't burrow or use Earths Embrace and its slam attacks are made with advantage against the grappled target.
 - **Rock:** Ranged Weapon Attack: +7 to hit  range 30/90 ft.  one target. Hit: 15 (2d10 + 4) bludgeoning damage.
-
-

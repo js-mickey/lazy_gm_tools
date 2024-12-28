@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Fey
+size: Medium
+type: Humanoid
+alignment: Lawful Evil
+cr: 1/4
+xp: 50
+hp: 31
+hp_roll: 7d8
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 158
+---
+
 # Shadow Fey
 
 *Medium* *Humanoid* *Lawful Evil*

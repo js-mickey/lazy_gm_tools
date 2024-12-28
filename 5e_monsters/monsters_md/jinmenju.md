@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Jinmenju
+size: Huge
+type: Plant
+alignment: chaotic neutral
+cr: 9
+xp: 5,000
+hp: 126
+hp_roll: 12d12+48
+ac: 14
+speed: walk 0 ft.
+senses: darkvision 60 ft. tremorsense 120 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 232
+---
+
 # Jinmenju
 
 *Huge* *Plant* *chaotic neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Albino Death Weasel
+size: Large
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: burrow 30 ft. walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 374
+---
+
 # Albino Death Weasel
 
 *Large* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage. The target is also grappled (escape DC 13) if it is a Medium or smaller creature and the albino weasel isn't already grappling a creature. Until this grapple ends, the target is restrained and the albino death weasel can't claw another target.
 - **Musk Spray (Recharge 5-6):** The weasel unleashes a spray of foul musk in a 20-foot cone. Each creature in that area must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

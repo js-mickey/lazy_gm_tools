@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Narshark
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 25
+hp_roll: 3d10+9
+ac: 14
+speed: fly 40 ft. walk 10 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 266
+---
+
 # Narshark
 
 *Large* *Monstrosity* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage. If the creature isn’t an undead or a construct, it must succeed on a DC 13 Constitution saving throw or lose 2 (1d4) hp at the start of each of its turns as one of the shark’s teeth chips off into the wound. Any creature can take an action to stanch the wound by removing the tooth. The wound also closes and the tooth pops out if the target receives magical healing.
-
-

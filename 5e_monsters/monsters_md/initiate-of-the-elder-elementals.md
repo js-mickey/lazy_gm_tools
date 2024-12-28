@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Initiate of the Elder Elementals
+size: Small
+type: Humanoid
+alignment: evil alignment
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d6+12
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 216
+---
+
 # Initiate of the Elder Elementals
 
 *Small* *Humanoid* *any evil alignment*
@@ -33,5 +52,3 @@ Cantrips (at will): pummelstone, light, mage hand, ray of frost
 
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Gift of the Elder Elementals:** Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 7 (2d6) acid, cold, fire, or lightning damage, and the target has disadvantage on its next saving throw against any of the initiate’s spells that deal the chosen type of damage.
-
-

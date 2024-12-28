@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Kadag
+size: Large
+type: Giant
+alignment: neutral evil
+cr: 7
+xp: 2,900
+hp: 133
+hp_roll: 14d10+56
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 300
+---
+
 # Ogre, Kadag
 
 *Large* *Giant* *neutral evil*
@@ -27,5 +46,3 @@
 - **Multiattack:** Three Spear attacks.
 - **Spear:** Melee or Ranged Weapon Attack: +7 to hit 10 ft. or range 20/60' one target 12 (2d6+5) piercing damage or 14 (2d8+5) piercing damage if used with two hands to make a melee attack.
 - **Master of Death (Recharge 5–6):** Empowers up to three friendly Undead it can see within 30' of it. Each can use a reaction to move up to half its speed and make one melee weapon attack. In addition an empowered Undead gains 5 (2d4) temp hp for 1 min. The kadag ogre can’t empower Undead with Int score of 10 or higher.
-
-

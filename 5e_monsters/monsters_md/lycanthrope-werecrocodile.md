@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lycanthrope, Werecrocodile
+size: Medium
+type: Humanoid
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 12
+speed: walk 30 ft. swim 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 265
+---
+
 # Lycanthrope, Werecrocodile
 
 *Medium* *Humanoid* *neutral evil*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into a Large crocodile or into a crocodile-humanoid hybrid or back into its true form which is Humanoid. Its stats other than size are the same in each form. Any equipment worn/carried isn't transformed. Reverts to its true form if it dies.
-
-

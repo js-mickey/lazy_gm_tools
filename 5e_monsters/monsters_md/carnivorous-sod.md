@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Carnivorous Sod
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 33
+hp_roll: 6d8+6
+ac: 12
+speed: walk 20 ft. burrow 20 ft.
+senses: blindsight 30 ft. tremorsense 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 57
+---
+
 # Carnivorous Sod
 
 *Medium* *Plant* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.
 - **Grass Trip:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: The target is knocked prone.
-
-

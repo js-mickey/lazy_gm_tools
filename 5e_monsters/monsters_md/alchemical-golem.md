@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alchemical Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 147
+hp_roll: 14d10+70
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 192
+---
+
 # Alchemical Golem
 
 *Large* *Construct* *unaligned*
@@ -35,5 +54,3 @@ Salt: The golem takes 17 (5d6) necrotic damage when it activates this infusion. 
 - **Multiattack:** The golem makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Poison Breath (Brimstone Infusion Only; Recharge 5-6):** The golem exhales poisonous fumes in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.
-
-

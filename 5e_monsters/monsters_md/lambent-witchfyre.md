@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lambent Witchfyre
+size: Large
+type: Aberration
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 110
+hp_roll: 13d10+39
+ac: 15
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 234
+---
+
 # Lambent Witchfyre
 
 *Large* *Aberration* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Multiattack:** The lambent witchfyre makes three blazing touch attacks.
 - **Blazing Touch:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns. If a creature is slain by this attack, the lambent witchfyre regains hp equal to the damage dealt. The body of a creature slain by this attack turns to ash, along with any nonmagical items it was wearing or carrying. The creature can be restored to life only by means of a resurrection or wish spell.
-
-

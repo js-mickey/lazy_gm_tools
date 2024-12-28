@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cauldronborn
+size: Small
+type: Construct
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 13
+hp_roll: 3d6+3
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 59
+---
+
 # Cauldronborn
 
 *Small* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Multiattack:** The cauldronborn makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.
 - **Call Potion (Recharge 5-6):** The cauldronborn releases a hungry screech, magically reaching out to nearby potions. All potions within 10 feet of the cauldronborn magically move toward the cauldronborn by rolling out of backpacks, hopping off of belts, unburying themselves, etc. A creature wearing or carrying a potion must succeed on a DC 13 Dexterity saving throw or its potion moves to within 5 feet of the cauldronborn. The target must make a separate saving throw for each potion it is attempting to keep in its possession.
-
-

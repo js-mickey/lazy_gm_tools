@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gear Spider
+size: Tiny
+type: Construct
+alignment: 
+cr: 1/2
+xp: 100
+hp: 28
+hp_roll: 8d4+8
+ac: 13
+speed: walk 30 ft. climb 20 ft.
+senses: blindsight 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 53
+---
+
 # Gear Spider
 
 *Tiny* *Construct*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Photograph:** The gear spider stores a black and white image of what it can see. The gear spider can hold up to 10 images at a time. Retrieving the image storage device inside the gear spider requires 1 minute. Once the device is accessed, viewing a stored image requires a DC 12 Investigation check to make out any details.
-
-

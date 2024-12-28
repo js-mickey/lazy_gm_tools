@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Wyrm White Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 22
+xp: 41,000
+hp: 740
+hp_roll: 40d20+320
+ac: 20
+speed: walk 40 ft. burrow 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 23
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 121
+---
+
 # Great Wyrm White Dragon
 
 *Gargantuan* *Dragon*

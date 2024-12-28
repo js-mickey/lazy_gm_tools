@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Three-Headed Clockwork Dragon
+size: Huge
+type: Construct
+alignment: unaligned
+cr: 14
+xp: 11,500
+hp: 275
+hp_roll: 22d12+132
+ac: 18
+speed: fly 60 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 20
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 111
+---
+
 # Three-Headed Clockwork Dragon
 
 *Huge* *Construct* *unaligned*
@@ -38,5 +57,3 @@ Each circlet is a magic item that must be attuned.
 - **Fire Breath (Recharge 6):** The dragon exhales fire in three separate 60-foot cones. Each creature in one of these cones must make a DC 19 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one. A creature in overlapping cones has disadvantage on the saving throw, but it takes damage from only one breath.
 - **Oil Spray:** The dragon sprays oil in a 30-foot-cone. Each creature in the area must succeed on a DC 19 Dexterity saving throw or become vulnerable to fire damage until the end of the dragon's next turn.
 - **Tail Sweep:** The dragon swings its bladed tail. Each creature within 15 feet of the dragon must make a DC 19 Dexterity saving throw. On a failure, a creature takes 16 (2d8 + 7) slashing damage and is knocked prone. On a success, a creature takes half the damage but isn't knocked prone.
-
-

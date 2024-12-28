@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm, Biting Gnat
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 16
+hp_roll: 3d8+3
+ac: 13
+speed: walk 10 ft. climb 10 ft. fly 30 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 360
+---
+
 # Swarm, Biting Gnat
 
 *Medium* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +5 to hit 0' 1 tgt in the swarm’s space. 5 (2d4) piercing damage or 2 (1d4) piercing damage if the swarm has half its hp or fewer. The target must make DC 11 Con save or become blinded for 1 min. The target can re-save at end of each of its turns success ends effect on itself. Alternatively target can use action to clear its eyes of the insects ending effect.
-
-

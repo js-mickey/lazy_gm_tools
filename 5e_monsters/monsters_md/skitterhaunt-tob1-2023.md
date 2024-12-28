@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skitterhaunt
+size: Large
+type: Ooze
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 95
+hp_roll: 40
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 332
+---
+
 # Skitterhaunt
 
 *Large* *Ooze* *Unaligned*

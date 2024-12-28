@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lamia
+size: Large
+type: Monstrosity
+alignment: 
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d10+30
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 303
+---
+
 # Lamia
 
 *Large* *Monstrosity*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Misty Step (2nd-Level; V):** The lamia teleports to an unoccupied space it can see within 30 feet. The lamia can't cast this spell and a 1st-level or higher spell on the same turn.
-
-

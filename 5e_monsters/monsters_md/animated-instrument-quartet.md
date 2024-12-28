@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Animated Instrument, Quartet
+size: Large
+type: Construct
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 102
+hp_roll: 12d10+36
+ac: 14
+speed: walk 30 ft. fly 50 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 7
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 34
+---
+
 # Animated Instrument, Quartet
 
 *Large* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Trouble Clef:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 13 (4d4+3) bludgeoning damage.
 - **Orchestra Hit:** Ranged Spell Attack: +6 to hit, 60 ft., one target, 18 (4d6+4) thunder.
 - **Musical Arrangement:** The quartet plays one of the following songs:Dreadful Dirge. The quartet plays a hair-raising tune that evokes terror. Each hostile creature within 30' of the quartet must make DC 14 Wis save or be frightened until the end of its next turn.Oppressive Overture. The quartet plays a heavy melody that reverberates through nearby creatures. Each hostile creature within 30' of the quartet must make DC 14 Str save or be knocked prone.Seditious Sonata. The quartet plays a song that incites disobedience and rebellion. Each hostile creature within 30' of the quartet must make DC 14 Cha save
-
-

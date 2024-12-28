@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Leech Swarm
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 32
+hp_roll: 5d8+10
+ac: 13
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 396
+---
+
 # Leech Swarm
 
 *Medium* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half its hp or fewer. If the target is a creature other than a construct or an undead, it must succeed on a DC 13 Dexterity saving throw or lose 2 (1d4) hp at the start of each of its turns as leeches attach to it and drain its blood. Any creature can take an action to find and remove the leeches with a successful DC 13 Wisdom (Perception) check. The leeches also detach if the target takes fire damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grivid
+size: Large
+type: Aberration
+alignment: neutral
+cr: 11
+xp: 7,200
+hp: 180
+hp_roll: 19d10+76
+ac: 17
+speed: walk 50 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 221
+---
+
 # Grivid
 
 *Large* *Aberration* *neutral*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Consume Worms:** Consumes up to 3 cheek worms regaining 5 (2d4) hp for each worm consumed.
-
-

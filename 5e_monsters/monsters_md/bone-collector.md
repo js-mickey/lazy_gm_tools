@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Collector
+size: Small
+type: Undead
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d6
+ac: 13
+speed: walk 15 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 64
+---
+
 # Bone Collector
 
 *Small* *Undead* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Talons:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 9 (2d6+2) slashing damage. If target is a creature: DC 11 Con save or contract a disease. Until disease is cured target can’t regain hp except by magical means and target’s hp max decreases by 3 (1d6) every 24 hrs. If target’s hp max drops to 0 as a result of this disease target dies.
 - **Bad Omen (1/Day):** Places a bad omen on a creature it can see within 20' of it. Target: DC 10 Wis save or be cursed for 1 min. While cursed target has disadvantage on attack rolls vs. bone collector. Target can re-save at end of each of its turns success ends effect on itself.
-
-

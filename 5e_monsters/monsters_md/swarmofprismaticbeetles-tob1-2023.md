@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Prismatic Beetles
+size: Medium
+type: Swarm
+alignment: Unaligned
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 11
+ac: 13
+speed: walk 30 ft. fly 5 ft. burrow 20 ft.
+senses: blindsight 10 ft. darkvision 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 356
+---
+
 # Swarm of Prismatic Beetles
 
 *Medium* *Swarm* *Unaligned*

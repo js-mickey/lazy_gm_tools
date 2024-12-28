@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Graknork
+size: Gargantuan
+type: Monstrosity
+alignment: unaligned
+cr: 14
+xp: 11,500
+hp: 201
+hp_roll: 13d20+65
+ac: 20
+speed: swim 30 ft. walk 50 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 182
+---
+
 # Graknork
 
 *Gargantuan* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 - **Claw:** Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) slashing damage.
 - **Eye Ray:** Ranged Weapon Attack: +9 to hit, range 30/120 ft., one target. Hit: 17 (5d6) cold damage.
 - **Freezing Eye (Recharge 5-6):** The graknork’s blue eye flares open and releases a beam of icy energy in a line that is 120-feet long and 10 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw. On a failure, a creature takes 35 (10d6) cold damage and is restrained for 1 minute as its limbs freeze. On a success, a creature takes half the damage and isn’t restrained. A restrained creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Alternatively, the restrained creature can be freed if it takes at least 10 fire damage.
-
-

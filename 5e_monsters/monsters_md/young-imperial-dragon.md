@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Imperial Dragon
+size: Large
+type: Dragon
+alignment: neutral
+cr: 11
+xp: 7,200
+hp: 210
+hp_roll: 20d10+100
+ac: 18
+speed: swim 40 ft. walk 40 ft. fly 80 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 117
+---
+
 # Young Imperial Dragon
 
 *Large* *Dragon* *neutral*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
 - **Claw:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 17 Dexterity saving throw, taking 44 (8d10) lightning damage on a failed save, or half as much damage on a successful one.
-
-

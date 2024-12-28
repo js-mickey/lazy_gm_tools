@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Siren
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 1
+xp: 200
+hp: 38
+hp_roll: 7d8+7
+ac: 11
+speed: walk 20 ft. swim 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 276
+---
+
 # Siren
 
 *Medium* *Monstrosity*
@@ -29,5 +48,3 @@
 ### Bonus Actions
 
 - **Luring Song:** The harpy sings a magical song. Each humanoid and giant within 300 feet that can hear it makes a DC 12 Wisdom saving throw. On a failure, a creature becomes charmed until the harpy fails to use its bonus action to continue the song. While charmed by the harpy, a creature is incapacitated and ignores other harpy songs. On each of its turns, the creature moves towards the harpy by the most direct route, not avoiding opportunity attacks or hazards. The creature repeats its saving throw whenever it is damaged and before it enters damaging terrain such as lava. If a saving throw is successful or the effect ends on it, it is immune to any harpys song for the next 24 hours.
-
-

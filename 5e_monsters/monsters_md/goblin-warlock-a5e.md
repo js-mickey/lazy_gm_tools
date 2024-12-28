@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Goblin Warlock
+size: Small
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 21
+hp_roll: 6d6
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 251
+---
+
 # Goblin Warlock
 
 *Small* *Humanoid*
@@ -25,5 +44,3 @@
 ### Reactions
 
 - **Quick Switch:** When the warlock is hit by an attack, it magically teleports, switching places with a goblin ally within 30 feet. The goblin ally is hit by the triggering attack and suffers its effects.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Emerald Eye
+size: Tiny
+type: Construct
+alignment: Neutral
+cr: 1
+xp: 200
+hp: 54
+hp_roll: 24
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 163
+---
+
 # Emerald Eye
 
 *Tiny* *Construct* *Neutral*

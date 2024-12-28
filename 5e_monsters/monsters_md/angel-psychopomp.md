@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Psychopomp
+size: Medium
+type: Celestial
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 68
+hp_roll: 8d8+32
+ac: 14
+speed: walk 40 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 28
+---
+
 # Angel, Psychopomp
 
 *Medium* *Celestial* *lawful neutral*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Spirit Usher (3/Day):** Wards a creature with divine power for 1 hr. While warded Celestials Fiends and Undead have disadvantage on attack rolls vs. the creature and creature can’t be charmed frightened or possessed by them. Warded creature gains 11 temp hp and if slain can’t be raised as an Undead for 1 year.
-
-

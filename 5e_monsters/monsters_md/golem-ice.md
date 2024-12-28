@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Golem, Ice
+size: Large
+type: Construct
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 114
+hp_roll: 12d10+48
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 216
+---
+
 # Golem, Ice
 
 *Large* *Construct* *unaligned*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Freeze or Liquefy Cavity:** Freezes/liquefies its Ice Cavity.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Mithral Dragon
+size: Huge
+type: Dragon
+alignment: Neutral
+cr: 18
+xp: 20,000
+hp: 253
+hp_roll: 110
+ac: 18
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 26
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 122
+---
+
 # Adult Mithral Dragon
 
 *Huge* *Dragon* *Neutral*

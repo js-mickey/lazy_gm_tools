@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghast
+size: Medium
+type: Undead
+alignment: 
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d8
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 230
+---
+
 # Ghast
 
 *Medium* *Undead*
@@ -29,5 +48,3 @@
 
 - **Paralyzing Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 7 (1d8 + 3) slashing damage. If the target is a living creature  it makes a DC 10 Constitution saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of its turns  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to any Paralyzing Claw for 24 hours.
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one incapacitated creature. Hit: 8 (1d10 + 3) piercing damage.
-
-

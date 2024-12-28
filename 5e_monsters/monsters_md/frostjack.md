@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Frostjack
+size: Medium
+type: Fey
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 135
+hp_roll: 18d8+54
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 189
+---
+
 # Frostjack
 
 *Medium* *Fey* *neutral evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Hoarfrost Warding (3/Day):** When it takes fire it gains resistance to fire including triggering attack until end of its next turn.
-
-

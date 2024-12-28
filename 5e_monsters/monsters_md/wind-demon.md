@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wind Demon
+size: Small
+type: Fiend
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 28
+hp_roll: 8d6
+ac: 15
+speed: fly 60 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 381
+---
+
 # Wind Demon
 
 *Small* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Swift as Frost:** After a creature the wind demon can see damages it with an attack, the wind demon can move up to its speed without provoking opportunity attacks.
-
-

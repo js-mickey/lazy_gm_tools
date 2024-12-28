@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Herald of Darkness
+size: Large
+type: Fiend
+alignment: Neutral Evil
+cr: 7
+xp: 2,900
+hp: 105
+hp_roll: 50
+ac: 15
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 240 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 233
+---
+
 # Herald of Darkness
 
 *Large* *Fiend* *Neutral Evil*

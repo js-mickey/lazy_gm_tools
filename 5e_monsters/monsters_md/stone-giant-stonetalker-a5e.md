@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stone Giant Stonetalker
+size: Huge
+type: Giant
+alignment: 
+cr: 8
+xp: 3,900
+hp: 126
+hp_roll: 11d12+55
+ac: 17
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 241
+---
+
 # Stone Giant Stonetalker
 
 *Huge* *Giant*
@@ -39,5 +58,3 @@
 ### Reactions
 
 - **Rock Catching:** If a rock or other Small or larger projectile is hurled or fired at the giant, the giant makes a DC 10 Dexterity saving throw. On a success, the giant catches the projectile, takes no bludgeoning or piercing damage from it, and is not pushed or knocked prone by it.
-
-

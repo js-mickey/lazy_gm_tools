@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampire Priestess
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 8
+xp: 3,900
+hp: 105
+hp_roll: 14d8+42
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 18
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 367
+---
+
 # Vampire Priestess
 
 *Medium* *Undead* *lawful evil*
@@ -46,5 +65,3 @@ Sunlight Hypersensitivity. The priestess takes 20 radiant damage when she starts
 - **Scourge:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, and the creature must succeed on a DC 16 Constitution saving throw or bleed profusely from the wound. A bleeding creature takes 7 (2d6) slashing damage at the start of each of its turns. A creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire priestess, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the priestess regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the priestess' control.
 - **Bewitching Gaze:** The vampire priestess targets one humanoid she can see within 30 feet. If the target can see her, the target must succeed on a DC 16 Wisdom saving throw or be charmed by the priestess for 1 minute. While charmed, the creature is incapacitated and has a speed of 0. Each time the vampire priestess or her allies do anything harmful to the target, it can repeat the saving throw, ending the effect on a success. The target can also repeat the saving throw if another creature uses an action to shake the target out of its stupor.
-
-

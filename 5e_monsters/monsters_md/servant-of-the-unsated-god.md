@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Servant of the Unsated God
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 11d8+33
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 321
+---
+
 # Servant of the Unsated God
 
 *Medium* *Undead* *neutral evil*
@@ -38,5 +57,3 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 - **Mace of the Devourer:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage. The mace is magical and infused with the Unsated God’s power while in the servant’s hands.
 - **Light Crossbow:** Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
 - **Hungering Strike (Recharge 5-6):** A shadowy jaw superimposes over the servant of the Unsated God’s mouth and reaches out to a creature within 30 feet of it. The target must make a DC 13 Constitution saving throw, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
-
-

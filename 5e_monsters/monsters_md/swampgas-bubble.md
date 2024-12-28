@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swampgas Bubble
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 59
+hp_roll: 7d8+28
+ac: 8
+speed: fly 30 ft. hover True ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 343
+---
+
 # Swampgas Bubble
 
 *Medium* *Ooze* *unaligned*
@@ -28,5 +47,3 @@
 
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 4 (1d8) poison damage.
 - **Suffocating Grasp:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage. If the target is Medium or smaller, the swampgas bubble attaches to the target’s head, and the target is blinded while the bubble is attached. While attached, the bubble can’t make pseudopod attacks against the target. At the start of each of the bubble’s turns, the target takes 9 (2d8) poison damage and begins suffocating as it breathes in the poisonous gases within the bubble. A creature is affected even if it holds its breath, but creatures that don’t need to breathe aren’t affected.<br><br>The bubble can detach itself by spending 5 feet of its movement. It does so if its target falls unconscious or dies. A creature, including the target, can take its action to detach the bubble by succeeding on a DC 13 Strength check.
-
-

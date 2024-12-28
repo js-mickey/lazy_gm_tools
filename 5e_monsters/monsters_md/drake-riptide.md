@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Riptide
+size: Large
+type: Dragon
+alignment: lawful evil
+cr: 11
+xp: 7,200
+hp: 231
+hp_roll: 22d10+110
+ac: 17
+speed: walk 20 ft. swim 60 ft.
+senses: blindsight 120 ft. darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 155
+---
+
 # Drake, Riptide
 
 *Large* *Dragon* *lawful evil*
@@ -37,5 +56,3 @@
 ### Bonus Actions
 
 - **Manipulate Currents:** While underwater changes water flow within 60' of it. Chooses one of below which lasts until start of its next turn.A 20' cube of rushing water forms on a point drake can see in the water. The cube’s space is difficult terrain and a creature that starts its turn swimming in the area must make DC 17 Str save or be pushed out of the cube directly away from drake.The current shoots in a 60' long 10 ft. wide line from drake in a direction it chooses. Each creature in area: pushed up to 15 ft. away from drake in a direction following the line (DC 17 Str negates).The drake takes the Dash action.
-
-

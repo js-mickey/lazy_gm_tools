@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Elf Warrior
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft.
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 498
+---
+
 # Shadow Elf Warrior
 
 *Medium* *Humanoid*
@@ -25,5 +44,3 @@
 - **Shortsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) piercing damage.
 - **Hand Crossbow:** Ranged Weapon Attack: +3 to hit  range 30/120 ft.  one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature  it makes a DC 13 Constitution saving throw. On a failure  the target is poisoned for 1 hour. If it fails the saving throw by 5 or more  it falls unconscious until it is no longer poisoned  it takes damage  or a creature takes an action to shake it awake.
 - **Shadow elf warriors conduct their raids in silence, using darkness to cloak their movements and illuminating their enemies with magical light:** 
-
-

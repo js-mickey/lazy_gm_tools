@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Luck Leech
+size: Medium
+type: Fey
+alignment: neutral evil
+cr: 10
+xp: 5,900
+hp: 150
+hp_roll: 20d8+60
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 241
+---
+
 # Luck Leech
 
 *Medium* *Fey* *neutral evil*
@@ -34,5 +53,3 @@
 - **Multiattack:** The luck leech makes two biting arm attacks.
 - **Biting Arms:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) piercing damage plus 9 (2d8) necrotic damage.
 - **Feast of Fortune (Recharge 6):** Each creature the luck leech can see within 30 feet of it must make a DC 16 Charisma saving throw. On a failure, the creature takes 27 (6d8) psychic damage, becomes blinded until the end of its next turn, and is cursed with falling fortunes. On a success, a creature takes half the damage and isn’t blinded or cursed. For each creature that fails this saving throw, the luck leech gains 1 luck point.
-
-

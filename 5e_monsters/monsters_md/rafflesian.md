@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rafflesian
+size: Small
+type: Plant
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 16d6+80
+ac: 17
+speed: walk 15 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 327
+---
+
 # Rafflesian
 
 *Small* *Plant* *unaligned*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Last Resort:** When host dies rafflesian can reanimate it up to 10 days if body is still intact. During this time host protected from decay and can’t become undead. Rafflesian can use bonus action to cause host to move as in life but host can’t take other actions. If host could speak in life rafflesian can speak with host’s voice. Host reanimated this way can be restored to life by any spell capable of that.
-
-

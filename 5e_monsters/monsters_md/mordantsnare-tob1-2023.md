@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mordant Snare
+size: Gargantuan
+type: Aberration
+alignment: Chaotic Evil
+cr: 15
+xp: 13,000
+hp: 248
+hp_roll: 80
+ac: 18
+speed: walk 30 ft. burrow 10 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 276
+---
+
 # Mordant Snare
 
 *Gargantuan* *Aberration* *Chaotic Evil*

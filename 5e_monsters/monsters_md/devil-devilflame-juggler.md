@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Devil, Devilflame Juggler
+size: Large
+type: Fiend
+alignment: lawful evil
+cr: 13
+xp: 10,000
+hp: 178
+hp_roll: 17d10+85
+ac: 18
+speed: walk 40 ft. climb 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 119
+---
+
 # Devil, Devilflame Juggler
 
 *Large* *Fiend* *lawful evil*
@@ -41,5 +60,3 @@
 ### Reactions
 
 - **Uncanny Dodge:** When an attacker it can see hits it with an attack can choose to take half dmg instead.
-
-

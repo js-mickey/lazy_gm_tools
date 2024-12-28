@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Werebear
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 135
+hp_roll: 18d8+54
+ac: 11
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 312
+---
+
 # Werebear
 
 *Medium* *Humanoid*
@@ -34,5 +53,3 @@
 
 - **Shapeshift:** The werebear changes its form to a Large bear, a Large bear-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged except for its size. It can't speak in bear form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The werebear makes a bite attack.
-
-

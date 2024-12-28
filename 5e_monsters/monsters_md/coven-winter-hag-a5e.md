@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Coven Winter Hag
+size: Medium
+type: Fey
+alignment: 
+cr: 9
+xp: 5,000
+hp: 135
+hp_roll: 18d8+54
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 272
+---
+
 # Coven Winter Hag
 
 *Medium* *Fey*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Ice Shield:** The hag adds 3 to its AC against one melee attack that would hit it made by a creature it can see. If the attack misses, the attacker takes 14 (4d6) cold damage.
-
-

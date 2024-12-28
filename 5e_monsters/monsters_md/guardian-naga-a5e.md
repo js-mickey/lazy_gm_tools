@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Guardian Naga
+size: Large
+type: Monstrosity
+alignment: 
+cr: 10
+xp: 5,900
+hp: 136
+hp_roll: 16d10+48
+ac: 18
+speed: walk 40 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 342
+---
+
 # Guardian Naga
 
 *Large* *Monstrosity*
@@ -51,5 +70,3 @@
 ### Bonus Actions
 
 - **Shapeshift:** The naga changes its form to that of a specific Medium humanoid, a Medium snake-human hybrid with the lower body of a snake, or its true form, which is a Large snake. While shapeshifted, its statistics are unchanged except for its size. It reverts to its true form if it dies.
-
-

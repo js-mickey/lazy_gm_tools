@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Khalkos Spawn
+size: Medium
+type: Aberration
+alignment: 
+cr: 2
+xp: 450
+hp: 71
+hp_roll: 11d8+22
+ac: 16
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 295
+---
+
 # Swarm of Khalkos Spawn
 
 *Medium* *Aberration*
@@ -23,5 +42,3 @@
 
 - **Sting:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one creature. Hit: 13 (4d4+3) piercing damage plus 14 (4d6) poison damage  or 8 (2d4+3) piercing damage plus 7 (2d6) poison damage if the swarm is bloodied.
 - **Chaos Pheromones:** The swarm emits a cloud of pheromones in the air in a 10-foot-radius. The cloud spreads around corners. Each non-khalkos creature in the area makes a DC 12 Intelligence saving throw. On a failure  the creature is confused for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success. If the creature makes its saving throw or the condition ends for it  it is immune to the chaos pheromones of khalkos spawn for the next 24 hours.
-
-

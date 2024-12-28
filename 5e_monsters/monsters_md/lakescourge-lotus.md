@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lakescourge Lotus
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 15
+speed: walk 30 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 258
+---
+
 # Lakescourge Lotus
 
 *Medium* *Undead* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Tainted Claw:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d6+3) slashing damage + 9 (2d8) poison and target poisoned 1 min (DC 15 Con negates poison). A poisoned creature can re-save at end of each of its turns success ends effect on itself.
 - **Poisonous Water Jet:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 15 (3d8+2) poison.
 - **Enter Reflection:** Touches a body of water large enough to hold it and becomes a reflection on water's surface. While in this form has immunity to B/P/S damage from nonmagical attacks and resistance to B/P/S from magical attacks. While a reflection speed is 5 ft. can’t use Tainted Claw and can revert to its true form as a bonus action. If it takes damage that isn’t bludgeoning piercing or slashing while a reflection forced back into its true form.
-
-

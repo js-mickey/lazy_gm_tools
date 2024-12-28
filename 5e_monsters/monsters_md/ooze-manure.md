@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ooze, Manure
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d8+18
+ac: 7
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 306
+---
+
 # Ooze, Manure
 
 *Medium* *Ooze* *unaligned*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Split:** When a Med or larger manure ooze is subjected to slashing damagesplits into 2 new oozes if it has 10+ hp. Each new ooze has half original’s hp rounded down. New oozes are one size smaller than original.
-
-

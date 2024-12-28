@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gulon
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 110
+hp_roll: 13d10+39
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 212
+---
+
 # Gulon
 
 *Large* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Too Full (Recharge 5-6):** The gulon belches a 15-foot-radius cloud of toxic gas around itself. Each creature in the area must make a DC 16 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Radiant Spark Swarm
+size: Medium
+type: Elemental
+alignment: neutral
+cr: 3
+xp: 700
+hp: 38
+hp_roll: 7d8+7
+ac: 16
+speed: hover True ft. walk 0 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 305
+---
+
 # Radiant Spark Swarm
 
 *Medium* *Elemental* *neutral*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Radiant Sparks:** Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm’s space. Hit: 9 (2d8) radiant damage plus 9 (2d8) fire damage, or 4 (1d8) radiant damage plus 4 (1d8) fire damage if the swarm has half of its hp or fewer.
-
-

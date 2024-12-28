@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gray Orc
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 1/4
+xp: 50
+hp: 15
+hp_roll: 2d8+6
+ac: 13
+speed: climb 30 ft. walk 40 ft. burrow 20 ft.
+senses: blindsight 30 ft. darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 162
+---
+
 # Gray Orc
 
 *Medium* *Humanoid* *neutral*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.
-
-

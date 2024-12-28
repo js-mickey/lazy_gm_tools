@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drake, Shepherd
+size: Medium
+type: Dragon
+alignment: lawful neutral
+cr: 5
+xp: 1,800
+hp: 110
+hp_roll: 13d8+52
+ac: 16
+speed: walk 25 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 156
+---
+
 # Drake, Shepherd
 
 *Medium* *Dragon* *lawful neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Shepherd’s Safeguard:** When a Beast within 30' of the drake would be hit by an attack drake can chirp and beast adds 3 to its AC vs. the attack. To do so drake must see attacker and Beast.
-
-

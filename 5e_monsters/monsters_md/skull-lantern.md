@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skull Lantern
+size: Tiny
+type: Undead
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 14
+hp_roll: 4d4+4
+ac: 13
+speed: fly 30 ft. hover True ft. walk 0 ft.
+senses: 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 343
+---
+
 # Skull Lantern
 
 *Tiny* *Undead* *unaligned*
@@ -29,5 +48,3 @@
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
 - **Fire Beam (Recharge 6):** The skull lantern opens its mouth, releasing a searing beam of light in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

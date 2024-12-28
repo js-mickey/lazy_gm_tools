@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rochade
+size: Small
+type: Fey
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 27
+hp_roll: 6d6+6
+ac: 14
+speed: walk 30 ft. climb 20 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 332
+---
+
 # Rochade
 
 *Small* *Fey* *neutral*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Switch:** When a creature rochade can see targets it with attack rochade can switch places with any creature it can see within 15 ft. of it. An unwilling creature must make DC 14 Dex save to avoid the switch. If the switch is successful switched creature becomes attack's target instead.
-
-

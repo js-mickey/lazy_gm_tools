@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghoul
+size: Medium
+type: Undead
+alignment: 
+cr: 1
+xp: 200
+hp: 22
+hp_roll: 5d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 229
+---
+
 # Ghoul
 
 *Medium* *Undead*
@@ -28,5 +47,3 @@
 
 - **Paralyzing Claw:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage. If the target is a living creature other than an elf  it makes a DC 10 Constitution saving throw. On a failure  the target is paralyzed for 1 minute. The target repeats the saving throw at the end of its turns  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to any Paralyzing Claw for 24 hours.
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one incapacitated creature. Hit: 6 (1d8 + 2) piercing damage.
-
-

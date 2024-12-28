@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fungi, Mush Marcher
+size: Large
+type: Plant
+alignment: neutral
+cr: 3
+xp: 700
+hp: 85
+hp_roll: 10d10+30
+ac: 13
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 192
+---
+
 # Fungi, Mush Marcher
 
 *Large* *Plant* *neutral*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Recall Harpoon:** Pulls on the mycelial threads connecting it to its harpoon returning the harpoon to its empty hand. If harpoon is stuck in a creature that creature must make DC 13 Str save or be pulled up to 15 ft. toward marcher.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Climbing Vine
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 13
+hp_roll: 2d8+4
+ac: 11
+speed: walk 10 ft. climb 10 ft.
+senses: blindsight 20 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 85
+---
+
 # Climbing Vine
 
 *Medium* *Plant* *unaligned*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Grasping Retaliation:** When a creature hits the climbing vine with melee attack while within 5 ft. of the vine the vine can make one Dewvine attack vs. it.
-
-

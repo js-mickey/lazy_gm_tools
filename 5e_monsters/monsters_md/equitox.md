@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Equitox
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 13
+xp: 10,000
+hp: 178
+hp_roll: 17d10+85
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. truesight 30 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 171
+---
+
 # Equitox
 
 *Large* *Fiend* *chaotic evil*

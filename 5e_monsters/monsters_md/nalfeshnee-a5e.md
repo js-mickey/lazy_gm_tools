@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nalfeshnee
+size: Large
+type: Fiend
+alignment: 
+cr: 13
+xp: 10,000
+hp: 184
+hp_roll: 16d10+96
+ac: 18
+speed: walk 20 ft. fly 30 ft.
+senses: truesight 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 72
+---
+
 # Nalfeshnee
 
 *Large* *Fiend*
@@ -36,5 +55,3 @@
 
 - **Horror Nimbus (1/Day):** The nalfeshnee glows with an unholy, multicolored radiance. Each creature within 15 feet of the nalfeshnee that can see it makes a DC 16 Wisdom saving throw. On a failure, a creature is frightened for 1minute. A creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Teleport:** The nalfeshnee magically teleports up to 120 feet to an unoccupied space it can see.
-
-

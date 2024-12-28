@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Wind Dragon
+size: Huge
+type: Dragon
+alignment: Chaotic Neutral
+cr: 16
+xp: 15,000
+hp: 187
+hp_roll: 90
+ac: 17
+speed: walk 90 ft. fly 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 22
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 134
+---
+
 # Adult Wind Dragon
 
 *Huge* *Dragon* *Chaotic Neutral*

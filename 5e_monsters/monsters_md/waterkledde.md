@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Waterkledde
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 123
+hp_roll: 13d10+52
+ac: 14
+speed: walk 40 ft. fly 40 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 390
+---
+
 # Waterkledde
 
 *Large* *Fiend* *chaotic evil*
@@ -33,5 +52,3 @@
 
 - **Change Shape:** Magically transforms into a Small or Med Beast or back into its true fiendish form. Without wings it loses its flying speed. Its statistics other than its size and speed are the same in each form. No matter the form its eyes are always an unnatural green. Any equipment it is wearing or carrying isn’t transformed. Reverts on death.
 - **Supernatural Speed:** Takes Dash or Disengage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alligator
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 1/4
+xp: 50
+hp: 11
+hp_roll: 2d8+2
+ac: 13
+speed: swim 30 ft. walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 387
+---
+
 # Alligator
 
 *Medium* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the alligator can’t bite another target.
-
-

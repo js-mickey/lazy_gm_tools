@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Merrow Mage
+size: Large
+type: Monstrosity
+alignment: 
+cr: 4
+xp: 1,100
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: walk 10 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 331
+---
+
 # Merrow Mage
 
 *Large* *Monstrosity*
@@ -34,5 +53,3 @@
 - **Shapeshift:** The mage changes its form to that of a Medium merfolk or back into its true form. While shapeshifted, it can't use its Bite attack but its statistics are otherwise unchanged except for its size. It reverts to its true form if it dies.
 - **Darkness (2nd-Level; V:** Magical darkness spreads from a point within 60 feet of the mage, filling a 15-foot-radius sphere and spreading around corners. It remains for 1 minute. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.
 - **Invisibility (2nd-Level; V:** The mage is invisible for 1 hour or until it attacks, uses Mage Bolt, or casts a spell.
-
-

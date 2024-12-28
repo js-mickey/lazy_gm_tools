@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Wyrm Green Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 24
+xp: 62,000
+hp: 840
+hp_roll: 48d20+336
+ac: 21
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 23
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 112
+---
+
 # Great Wyrm Green Dragon
 
 *Gargantuan* *Dragon*

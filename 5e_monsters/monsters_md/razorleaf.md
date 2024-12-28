@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Razorleaf
+size: Medium
+type: Plant
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 15d8+45
+ac: 14
+speed: walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 317
+---
+
 # Razorleaf
 
 *Medium* *Plant* *neutral evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The razorleaf makes two lacerating leaves attacks.
 - **Lacerating Leaves:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 12 (3d6 + 2) slashing damage.
 - **Shower of Razors (Recharge 5-6):** The razorleaf shakes loose a deadly shower of slicing leaves. Each creature within 10 feet of the razorleaf must make a DC 14 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one.
-
-

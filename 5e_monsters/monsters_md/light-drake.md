@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Light Drake
+size: Tiny
+type: Dragon
+alignment: neutral good
+cr: 1/2
+xp: 100
+hp: 24
+hp_roll: 7d4+7
+ac: 13
+speed: fly 60 ft. walk 20 ft. hover True ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 231
+---
+
 # Light Drake
 
 *Tiny* *Dragon* *neutral good*
@@ -28,5 +47,3 @@ At will: dancing lights, light, guiding star, starburst
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Breath Weapon (Recharge 6):** A light drake can breathe a 30-foot line of brilliant white light. Each creature in that line must make a DC 13 Dexterity saving throw. On a failure, a creature takes 5 (2d4) radiant damage and is blinded for 1 minute. On a success, a creature takes half the damage and isn’t blinded. A blinded creature can make a DC 13 Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gnoll
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 247
+---
+
 # Gnoll
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 ### Bonus Actions
 
 - **Rampaging Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one bloodied creature. Hit: 4 (1d4 + 2) piercing damage.
-
-

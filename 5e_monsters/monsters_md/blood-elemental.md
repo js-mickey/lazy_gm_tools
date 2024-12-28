@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Elemental
+size: Large
+type: Elemental
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 10d10+40
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 138
+---
+
 # Blood Elemental
 
 *Large* *Elemental* *neutral*
@@ -31,5 +50,3 @@
 - **Multiattack:** The elemental makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
 - **Blood Drain (Recharge 4-6):** Each creature in the elemental's space must make a DC 15 Constitution saving throw. On a failure, a creature takes 10 (3d6) necrotic damage and, if it is Large or smaller, it is grappled (escape DC 13). A grappled creature is restrained and unable to breathe. If the saving throw is successful, the creature is pushed out of the elemental's space. The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time.<br><br>At the start of the elemental's turn, each target grappled by it takes 10 (3d6) necrotic damage. A creature within 5 feet of the elemental can use its action to make a DC 15 Strength check, freeing a grappled creature on a success. When Blood Drain deals 30 or more necrotic damage, the elemental grows in size as though affected by an enlarge/reduce spell. This increase in size lasts until the blood elemental finishes a long rest.
-
-

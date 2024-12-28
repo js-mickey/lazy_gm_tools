@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Mithral Dragon
+size: Large
+type: Dragon
+alignment: Neutral
+cr: 7
+xp: 2,900
+hp: 170
+hp_roll: 60
+ac: 16
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 123
+---
+
 # Young Mithral Dragon
 
 *Large* *Dragon* *Neutral*

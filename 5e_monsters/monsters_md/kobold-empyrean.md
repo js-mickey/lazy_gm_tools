@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold, Empyrean
+size: Small
+type: Celestial
+alignment: neutral
+cr: 10
+xp: 5,900
+hp: 150
+hp_roll: 20d6+80
+ac: 18
+speed: walk 30 ft. fly 90 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 253
+---
+
 # Kobold, Empyrean
 
 *Small* *Celestial* *neutral*
@@ -38,5 +57,3 @@
 ### Reactions
 
 - **Draconic Ascension:** When a kobold it can see is reduced to 0 hp empyrean can reincarnate the kobold as a wyrmling dragon of a type befitting that kobold and its virtues. Empyrean can provide ascension to up to two kobolds each hr with this reaction.
-
-

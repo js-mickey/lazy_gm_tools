@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ravenala
+size: Large
+type: Plant
+alignment: Neutral
+cr: 5
+xp: 1,800
+hp: 126
+hp_roll: 60
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 303
+---
+
 # Ravenala
 
 *Large* *Plant* *Neutral*

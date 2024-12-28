@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vines of Nemthyr
+size: Large
+type: Plant
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 133
+hp_roll: 14d10+56
+ac: 15
+speed: burrow 30 ft. walk 30 ft.
+senses: blindsight 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 371
+---
+
 # Vines of Nemthyr
 
 *Large* *Plant* *neutral evil*
@@ -31,5 +50,3 @@
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 - **Thorny Lash:** Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 15 (2d10 + 4) slashing damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained. The vines of Nemthyr has two thorny lashes, each of which can grapple only one target.
 - **Thorn Spray (Recharge 6):** The vines of Nemthyr shoots poisonous thorns in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 35 (10d6) poison damage on a failed save, or half as much damage on a successful one.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Drake
+size: Large
+type: Dragon
+alignment: neutral
+cr: 3
+xp: 700
+hp: 95
+hp_roll: 10d10+40
+ac: 13
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 55
+---
+
 # Cave Drake
 
 *Large* *Dragon* *neutral*
@@ -31,5 +50,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Claw:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.
 - **Blinding Spit (Recharge 5-6):** Ranged Weapon Attack: +4 to hit, range 30 ft., one target. Hit: The target is poisoned for 1 minute and must succeed on a DC 13 Constitution saving throw or be blinded while poisoned in this way.
-
-

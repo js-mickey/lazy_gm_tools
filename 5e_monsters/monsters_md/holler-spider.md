@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Holler Spider
+size: Tiny
+type: Beast
+alignment: chaotic neutral
+cr: 1/4
+xp: 50
+hp: 14
+hp_roll: 4d4+4
+ac: 12
+speed: climb 25 ft. walk 25 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 395
+---
+
 # Holler Spider
 
 *Tiny* *Beast* *chaotic neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Sound Alarm:** When the holler spider detects a creature within 60 feet of it, the spider can emit a hoot or trumpet audible within 300 feet of it. The noise continues until the creature moves out of range, the spider’s handler uses an action to soothe it, or the spider ends the alarm (no action required).
-
-

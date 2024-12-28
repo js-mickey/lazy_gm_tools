@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gorgon
+size: Large
+type: Monstrosity
+alignment: 
+cr: 6
+xp: 2,300
+hp: 110
+hp_roll: 13d10+39
+ac: 19
+speed: walk 50 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 253
+---
+
 # Gorgon
 
 *Large* *Monstrosity*
@@ -26,5 +45,3 @@
 ### Bonus Actions
 
 - **Trample Underfoot:** The gorgon attacks a prone creature with its hooves.
-
-

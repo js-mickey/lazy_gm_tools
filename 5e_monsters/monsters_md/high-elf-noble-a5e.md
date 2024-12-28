@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: High Elf Noble
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/4
+xp: 50
+hp: 13
+hp_roll: 3d8
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 485
+---
+
 # High Elf Noble
 
 *Medium* *Humanoid*
@@ -25,5 +44,3 @@
 
 - **Parry:** If the noble is wielding a melee weapon and can see their attacker, they add 2 to their AC against one melee attack that would hit them.
 - **High elf nobles pride themselves on the cultural accomplishments of their waning or extinct empires:** Highly educated, many high elf nobles see themselves as peacemakers, leaders, or preservers of ancient traditions.
-
-

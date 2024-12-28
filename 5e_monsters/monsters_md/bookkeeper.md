@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bookkeeper
+size: Tiny
+type: Construct
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 5
+hp_roll: 2d4
+ac: 12
+speed: fly 30 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 55
+---
+
 # Bookkeeper
 
 *Tiny* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 - **Ink Splash:** Ranged Weapon Attack: +4 to hit, range 20 ft., one target. Hit: 3 (1d6) poison damage and the target must succeed on a DC 13 Dexterity saving throw or be blinded until the end of its next turn.
 - **Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 1 poison damage.
 - **Elusive Pages:** While inside its book, the bookkeeper magically turns its book invisible until it attacks, or until its concentration ends (as if concentrating on a spell). The bookkeeper is also invisible while inside the invisible book
-
-

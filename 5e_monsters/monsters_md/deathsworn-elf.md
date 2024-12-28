@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deathsworn Elf
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 82
+hp_roll: 15d8+15
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 142
+---
+
 # Deathsworn Elf
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -32,5 +51,3 @@
 - **Scimitar:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
 - **Longbow:** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 - **Volley (Recharge 5-6):** The deathsworn shoots a rain of fiery arrows in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 18 (4d8) piercing damage and 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

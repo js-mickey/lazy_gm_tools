@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ember Glider
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 15
+speed: walk 40 ft. climb 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 170
+---
+
 # Ember Glider
 
 *Medium* *Monstrosity* *unaligned*
@@ -32,5 +51,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, 5 ft., one target, 12 (2d8+3) piercing damage.
 - **Brimstone Acorn:** Ranged Weapon Attack: +5 to hit 20/60' one target 10 (2d6+3) fire. If the target is a creature or a flammable object it ignites. Until a creature takes an action to douse the fire the target takes 3 (1d6) fire at the start of each of its turns.
 - **Blazing Tail (Recharge 5–6):** Lashes its tail releasing an arc of fire. Each creature in a 15 ft. cone: 14 (4d6) fire (DC 13 Dex half). The fire ignites flammable objects in  area that aren’t being worn or carried.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Astri
+size: Small
+type: Celestial
+alignment: chaotic good
+cr: 8
+xp: 3,900
+hp: 112
+hp_roll: 15d6+60
+ac: 15
+speed: burrow 30 ft. walk 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 31
+---
+
 # Astri
 
 *Small* *Celestial* *chaotic good*
@@ -39,5 +58,3 @@ At will: create or destroy water, detect poison and disease, produce flame, puri
 ### Reactions
 
 - **Defensive Counter:** When a creature within 5 feet of the astri makes an attack against a creature other than the astri, the astri can bite the attacker. To do so, the astri must be able to see the attacker.
-
-

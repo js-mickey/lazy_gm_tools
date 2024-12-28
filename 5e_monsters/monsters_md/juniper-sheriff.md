@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Juniper Sheriff
+size: Small
+type: Fey
+alignment: lawful neutral
+cr: 1/2
+xp: 100
+hp: 31
+hp_roll: 7d6+7
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 248
+---
+
 # Juniper Sheriff
 
 *Small* *Fey* *lawful neutral*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Hop Away:** Takes the Dash or Disengage action.
-
-

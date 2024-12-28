@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mi-Go
+size: Medium
+type: Plant
+alignment: Neutral Evil
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 50
+ac: 17
+speed: walk 60 ft. fly 30 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 266
+---
+
 # Mi-Go
 
 *Medium* *Plant* *Neutral Evil*

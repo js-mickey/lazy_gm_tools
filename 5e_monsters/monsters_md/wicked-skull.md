@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wicked Skull
+size: Tiny
+type: Monstrosity
+alignment: chaotic neutral
+cr: 1/8
+xp: 25
+hp: 7
+hp_roll: 2d4+2
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 368
+---
+
 # Wicked Skull
 
 *Tiny* *Monstrosity* *chaotic neutral*
@@ -26,5 +45,3 @@
 
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
 - **Petty Mockery:** The wicked skull unleashes a string of insults laced with subtle enchantments at a creature it can see within 60 feet. If the target can hear the wicked skull (though it does not have to understand it), the target must succeed on a DC 11 Wisdom saving throw or have disadvantage on the next attack roll it makes before the end of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mangrove Treant
+size: Huge
+type: Plant
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 13d12+52
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 350
+---
+
 # Mangrove Treant
 
 *Huge* *Plant* *neutral*
@@ -28,5 +47,3 @@
 - **Multiattack:** The mangrove treant makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.
 - **Mangrove Mosquitos:** The mangrove treant calls a swarm of mosquitos from its branches. The swarm of mosquitos uses the statistics of a swarm of insects, except it has a flying speed of 30 feet. The swarm acts an ally of the treant and obeys its spoken commands. The swarm remains for 1 day, until the treant dies, or until the treant dismisses it as a bonus action.<br><br>The treant can have only one swarm of mosquitos at a time. If it calls another, the previous swarm disperses.
-
-

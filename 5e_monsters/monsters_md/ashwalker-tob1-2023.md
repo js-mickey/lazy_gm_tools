@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ashwalker
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 1
+xp: 200
+hp: 31
+hp_roll: 7d8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 28
+---
+
 # Ashwalker
 
 *Medium* *Undead* *Neutral Evil*

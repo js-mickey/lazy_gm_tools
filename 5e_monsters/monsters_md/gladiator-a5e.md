@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gladiator
+size: Medium
+type: Humanoid
+alignment: 
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 474
+---
+
 # Gladiator
 
 *Medium* *Humanoid*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Shield Block:** If the gladiator is wielding a shield and can see their attacker, they add 3 to their AC against one melee or ranged attack that would hit them.
-
-

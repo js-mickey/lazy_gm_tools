@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elementalist
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 121
+---
+
 # Elementalist
 
 *Medium* *Humanoid* *lawful neutral*
@@ -31,5 +50,3 @@ Cave (Earth): The dragonborn has resistance to poison damage. It can cast the bl
 - **Multiattack:** The dragonborn makes two scimitar attacks.
 - **Scimitar:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 - **Fire Breath (Recharges after a Short or Long Rest):** The dragonborn breathes elemental energy in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (3d6) damage of the elementalist's elemental focus type on a failed save, or half as much damage on a successful one.
-
-

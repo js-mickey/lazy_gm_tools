@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blink Dog
+size: Medium
+type: Fey
+alignment: 
+cr: 1/4
+xp: 50
+hp: 22
+hp_roll: 4d8+4
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 440
+---
+
 # Blink Dog
 
 *Medium* *Fey*
@@ -27,5 +46,3 @@
 ### Bonus Actions
 
 - **Teleport (Recharge 4-6):** The blink dog magically teleports up to 40 feet to an unoccupied space it can see.
-
-

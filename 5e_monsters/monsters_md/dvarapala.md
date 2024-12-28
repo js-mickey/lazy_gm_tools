@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dvarapala
+size: Huge
+type: Giant
+alignment: patron deity
+cr: 5
+xp: 1,800
+hp: 136
+hp_roll: 13d12+52
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 137
+---
+
 # Dvarapala
 
 *Huge* *Giant* *any alignment (as its patron deity)*
@@ -34,5 +53,3 @@ At will: sacred flame (2d8)
 - **Gada:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 25 (6d6 + 4) bludgeoning damage and if the target is Large or smaller it must succeed on a DC 16 Strength saving throw or be pushed up to 15 feet away from the dvarapala.
 - **Javelin:** Melee or Ranged Weapon Attack: +7 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage.
 - **Sweeping Strike (Recharge 4-6):** The dvarapala targets one or more creatures it can see within 10 feet of it. Each target must make a DC 16 Strength saving throw, taking 24 (7d6) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature who fails its save is pushed 5 feet away from the dvarapala.
-
-

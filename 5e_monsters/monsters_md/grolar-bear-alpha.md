@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Grolar Bear Alpha
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 8
+xp: 3,900
+hp: 152
+hp_roll: 16d10+64
+ac: 16
+speed: walk 40 ft. swim 30 ft. climb 20 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 222
+---
+
 # Grolar Bear Alpha
 
 *Large* *Monstrosity* *unaligned*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Versatile Coat:** White fur white to brown vice versa.
-
-

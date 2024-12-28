@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arx
+size: Large
+type: Fiend
+alignment: Lawful Evil
+cr: 9
+xp: 5,000
+hp: 171
+hp_roll: 72
+ac: 17
+speed: walk 20 ft. fly 30 ft.
+senses: darkvision 90 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 26
+---
+
 # Arx
 
 *Large* *Fiend* *Lawful Evil*

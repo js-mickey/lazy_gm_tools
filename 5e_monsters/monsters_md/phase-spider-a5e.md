@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Phase Spider
+size: Large
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 39
+hp_roll: 6d10+6
+ac: 14
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 456
+---
+
 # Phase Spider
 
 *Large* *Monstrosity*
@@ -29,5 +48,3 @@
 ### Bonus Actions
 
 - **Ethereal Jaunt:** The spider magically shifts from the Material Plane to the Ethereal Plane or vice versa.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Urchin
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d10+12
+ac: 14
+speed: walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 239
+---
+
 # Ice Urchin
 
 *Large* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@
 
 - **Ice Spine:** Melee Weapon Attack: +4 to hit reach 5 ft. one target 9 (2d6+2) piercing damage + 2 (1d4) cold
 - **Venomous Spine:** Ranged Weapon Attack: +3 to hit range 20/60' one target 3 (1d4+1) piercing damage + 2 (1d4) cold and 7 (2d6) poison.
-
-

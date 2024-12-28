@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wrackwraith
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 6d8+18
+ac: 13
+speed: walk 30 ft. fly 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 395
+---
+
 # Wrackwraith
 
 *Medium* *Undead* *neutral evil*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Wrack Jump (Recharge 4–6):** Leaves current pile magically teleports to another within 60' of it and uses Animate Wrack.
-
-

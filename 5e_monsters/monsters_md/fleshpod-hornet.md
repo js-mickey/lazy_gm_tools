@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fleshpod Hornet
+size: Large
+type: Beast
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 16d10+32
+ac: 14
+speed: fly 60 ft. hover True ft. walk 10 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 161
+---
+
 # Fleshpod Hornet
 
 *Large* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 - **Multiattack:** The fleshpod hornet makes two attacks: one with its slam and one with its stinger.
 - **Slam:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Stinger:** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 13 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one. On a failed saving throw, the target is also infected with the eggs of the fleshpod hornet. <br><br>The injected eggs form a circular lotus pod tumor, roughly half a foot in diameter, on the target within 1 minute of injection. While carrying this tumor, the target has disadvantage on skill checks and saving throws. Exactly 24 hours after the lotus pod appears, a young fleshpod hornet (use giant wasp statistics) erupts from the tumor, dealing does 33 (6d10) slashing damage to the target. <br><br>The tumor can be excised with a DC 15 Wisdom (Medicine) check, causing 16 (3d10) slashing damage to the host. If it is cut out without the check, the patient must succeed on a DC 15 Constitution saving throw or take 22 (4d10) slashing damage.
-
-

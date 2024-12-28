@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Drainpipe Gargoyle
+size: Medium
+type: Elemental
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d8+18
+ac: 15
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 215
+---
+
 # Drainpipe Gargoyle
 
 *Medium* *Elemental*
@@ -32,5 +51,3 @@
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6 + 2) slashing damage  or 9 (2d6 + 2) slashing damage if the gargoyle started its turn at least 20 feet above the target.
 - **Rock:** Ranged Weapon Attack: +4 to hit  range 20/60 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage.
 - **Spit (Recharge 5-6):** The gargoyle spits a steam of water 5 feet wide and 30 feet long. Each creature in the area makes a DC 12 Strength saving throw  taking 10 (3d6) bludgeoning damage and being pushed up to 15 feet from the gargoyle on a failure. On a success  a creature takes half damage.
-
-

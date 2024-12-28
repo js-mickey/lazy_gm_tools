@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fire Giant
+size: Huge
+type: Giant
+alignment: 
+cr: 11
+xp: 7,200
+hp: 162
+hp_roll: 13d12+78
+ac: 18
+speed: walk 30 ft.
+senses: 
+passive_perception: 16
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 234
+---
+
 # Fire Giant
 
 *Huge* *Giant*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Kick:** When hit by a melee attack by a Medium or smaller creature the giant can see within 10 feet, the giant kicks its attacker. The attacker makes a DC 19 Dexterity saving throw. On a failure, it takes 14 (3d4 + 7) bludgeoning damage, is pushed up to 20 feet from the giant, and falls prone.
-
-

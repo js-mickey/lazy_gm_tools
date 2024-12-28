@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Forest Emperor
+size: Huge
+type: Aberration
+alignment: neutral evil
+cr: 15
+xp: 13,000
+hp: 161
+hp_roll: 14d12+70
+ac: 18
+speed: walk 30 ft. climb 30 ft. fly 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 155
+---
+
 # Forest Emperor
 
 *Huge* *Aberration* *neutral evil*
@@ -30,5 +49,3 @@
 - **Acidic Claw:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage plus 7 (2d6) acid damage.
 - **Tail:** Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 17 (2d10 + 6) bludgeoning damage.
 - **Toxic Nectar Spray (Recharge 5-6):** The forest emperor sprays a 60-foot cone of acid from its flower-ringed eye pits. Creatures in the path of this cone must make a DC 18 Dexterity saving throw, taking 42 (12d6) acid damage on a failed save, or half as much damage on a successful one.
-
-

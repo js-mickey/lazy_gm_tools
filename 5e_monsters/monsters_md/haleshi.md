@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Haleshi
+size: Large
+type: Fey
+alignment: lawful neutral
+cr: 7
+xp: 2,900
+hp: 123
+hp_roll: 13d10+52
+ac: 17
+speed: swim 40 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 191
+---
+
 # Haleshi
 
 *Large* *Fey* *lawful neutral*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Water Shield (Recharge 5-6):** The haleshi adds 3 to its AC against one attack that would hit it. To do so, the haleshi must be within 5 feet of a gallon or more of water. Alternatively, if the haleshi would take fire damage from an attack or spell, it can negate that damage if it is within 5 feet of a gallon or more of water.
-
-

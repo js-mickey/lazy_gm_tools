@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Shaman
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 357
+---
+
 # Trollkin Shaman
 
 *Medium* *Humanoid* *neutral*
@@ -32,5 +51,3 @@ Cantrips (at will): druidcraft, produce flame, shillelagh
 - **Multiattack:** The trollkin shaman makes two staff attacks.
 - **Staff:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
 - **Inspire Ferocity (1/Day):** The trollkin shaman inspires ferocity in up to three trollkin it can see. Those trollkin have advantage on attack rolls and saving throws until the end of the shaman's next turn and gain 10 temporary hp.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kappa
+size: Small
+type: Fey
+alignment: chaotic evil
+cr: 2
+xp: 450
+hp: 49
+hp_roll: 11d6+11
+ac: 16
+speed: swim 40 ft. walk 25 ft.
+senses: 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 234
+---
+
 # Kappa
 
 *Small* *Fey* *chaotic neutral or chaotic evil*
@@ -30,5 +49,3 @@ Normal movement and combat do not cause water to spill from the bowl, but an opp
 
 - **Multiattack:** The kappa makes two claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the kappa doesn't already have another creature grappled.
-
-

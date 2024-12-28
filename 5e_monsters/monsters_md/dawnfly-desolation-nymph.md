@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dawnfly, Desolation Nymph
+size: Large
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 68
+hp_roll: 8d10+24
+ac: 13
+speed: walk 30 ft. burrow 15 ft. climb 15 ft. swim 30 ft.
+senses: tremorsense 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 104
+---
+
 # Dawnfly, Desolation Nymph
 
 *Large* *Beast* *unaligned*
@@ -29,5 +48,3 @@
 ### Bonus Actions
 
 - **Water Jet:** Takes the Disengage action and each creature within 5 ft. of nymph: DC 13 Dex save or be blinded until end of its next turn.
-
-

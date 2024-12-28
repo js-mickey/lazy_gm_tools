@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ashen Custodian
+size: Medium
+type: Fey
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 99
+hp_roll: 18d8+18
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 29
+---
+
 # Ashen Custodian
 
 *Medium* *Fey* *neutral*
@@ -34,5 +53,3 @@ At will: druidcraft, produce flame
 
 - **Multiattack:** The ashen custodian makes two cleansing strike attacks.
 - **Cleansing Strike:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage plus 9 (2d8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
-
-

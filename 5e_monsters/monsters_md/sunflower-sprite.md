@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sunflower Sprite
+size: Small
+type: Fey
+alignment: neutral good
+cr: 1/2
+xp: 100
+hp: 14
+hp_roll: 4d6
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 358
+---
+
 # Sunflower Sprite
 
 *Small* *Fey* *neutral good*
@@ -28,5 +47,3 @@
 - **Radiant Leaf:** Melee Weapon Attack: +4 to hit, 5 ft., one target, 4 (1d4+2) slashing damage + 5 (2d4) radiant.
 - **Light Ray:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 8 (2d4+3) radiant.
 - **Healing Radiance (Recharge: Short/Long Rest):** Radiates a warm light. Each friendly creature within 10 ft. of the sprite regains 5 (2d4) hp. It can’t use this action if it hasn’t been exposed to sunlight in the past 24 hrs.
-
-

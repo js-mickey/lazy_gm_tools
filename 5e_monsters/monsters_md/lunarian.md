@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lunarian
+size: Medium
+type: Fey
+alignment: chaotic neutral
+cr: 5
+xp: 1,800
+hp: 97
+hp_roll: 15d8+30
+ac: 16
+speed: fly 40 ft. climb 15 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 245
+---
+
 # Lunarian
 
 *Medium* *Fey* *chaotic neutral*
@@ -29,5 +48,3 @@
 
 - **Multiattack:** The lunarian makes two halberd attacks.
 - **Halberd:** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) slashing damage plus 4 (1d8) radiant damage.
-
-

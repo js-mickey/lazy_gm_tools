@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chernomoi
+size: Tiny
+type: Fey
+alignment: Neutral
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 20
+ac: 14
+speed: walk 20 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 54
+---
+
 # Chernomoi
 
 *Tiny* *Fey* *Neutral*

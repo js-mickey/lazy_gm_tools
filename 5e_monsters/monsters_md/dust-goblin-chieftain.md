@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dust Goblin Chieftain
+size: Small
+type: Humanoid
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 44
+hp_roll: 8d6+16
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 136
+---
+
 # Dust Goblin Chieftain
 
 *Small* *Humanoid* *neutral evil*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Parry:** The dust goblin chieftain adds 2 to its AC against one melee attack that would hit it. To do so, the chieftain must see the attacker and be wielding a melee weapon.
-
-

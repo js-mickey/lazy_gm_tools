@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Storm Giant Monarch
+size: Huge
+type: Giant
+alignment: 
+cr: 14
+xp: 11,500
+hp: 460
+hp_roll: 40d12+200
+ac: 16
+speed: walk 50 ft. swim 50 ft.
+senses: 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 243
+---
+
 # Storm Giant Monarch
 
 *Huge* *Giant*
@@ -35,5 +54,3 @@
 ### Bonus Actions
 
 - **Stomp:** Melee Weapon Attack: +14 to hit, reach 5 ft., one Medium or smaller prone target. Hit: 19 (3d6 + 9) bludgeoning damage.
-
-

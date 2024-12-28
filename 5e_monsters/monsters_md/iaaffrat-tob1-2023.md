@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ia’Affrat
+size: Large
+type: Swarm
+alignment: Lawful Evil
+cr: 15
+xp: 13,000
+hp: 170
+hp_roll: 60
+ac: 17
+speed: walk 40 ft. fly 20 ft.
+senses: blindsight 10 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 91
+---
+
 # Ia’Affrat
 
 *Large* *Swarm* *Lawful Evil*

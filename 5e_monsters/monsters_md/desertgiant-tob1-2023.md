@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Desert Giant
+size: Huge
+type: Giant
+alignment: Neutral
+cr: 9
+xp: 5,000
+hp: 175
+hp_roll: 84
+ac: 17
+speed: walk 40 ft.
+senses: 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 205
+---
+
 # Desert Giant
 
 *Huge* *Giant* *Neutral*

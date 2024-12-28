@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ibexian
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 119
+hp_roll: 14d10+42
+ac: 15
+speed: walk 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 238
+---
+
 # Ibexian
 
 *Large* *Fiend* *chaotic evil*
@@ -33,5 +52,3 @@
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 9 (2d4+4) bludgeoning damage + 7 (2d6) fire.
 - **Spit Fire:** Ranged Spell Attack: +5 to hit, 60 ft., one target, 16 (4d6+2) fire.
 - **Pyroclasm (1/Day):** Moves up to 30' in straight line to creature and can move through space of any Med or smaller creature stopping when it moves within 5 ft. of target. Each friendly ibexian within 50' of ibexian can use its reaction to also move up to its speed in straight line to target stopping when it moves within 5 ft. of target. This move doesn’t provoke opportunity attacks. Target and each creature within 20' of it: 14 (4d6) fire (DC 15 Dex half damage). For each ibexian in Pyroclasm after 1st fire increases by 3 (1d6) max (28) 8d6.
-
-

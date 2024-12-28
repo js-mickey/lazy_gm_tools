@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crypt Spider
+size: Medium
+type: Beast
+alignment: lawful evil
+cr: 2
+xp: 450
+hp: 38
+hp_roll: 7d8+7
+ac: 15
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 133
+---
+
 # Crypt Spider
 
 *Medium* *Beast* *lawful evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage, and the creature must make a DC 13 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the creature to 0 hp, the creature is stable but poisoned for 1 hour, even after regaining hp, and is paralyzed while poisoned in this way.
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 30/60 ft., one creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 13 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hp, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 - **Create Zombie:** The crypt spider creates a swarm of spiders statistics). The crypt spider can have no more than four zombies under its control at one time.
-
-

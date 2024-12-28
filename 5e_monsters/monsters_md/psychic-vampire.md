@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Psychic Vampire
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 13
+xp: 10,000
+hp: 144
+hp_roll: 17d8+68
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 0
+---
+
 # Psychic Vampire
 
 *Medium* *Undead* *lawful evil*

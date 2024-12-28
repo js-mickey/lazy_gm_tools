@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rum Lord
+size: Small
+type: Fey
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d6+36
+ac: 15
+speed: climb 10 ft. walk 20 ft. swim 10 ft.
+senses: darkvision 120 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 185
+---
+
 # Rum Lord
 
 *Small* *Fey* *chaotic evil*
@@ -34,5 +53,3 @@ At will: prestidigitation
 - **Broken Bottle Shiv:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Rotgut Belch (Recharge 6):** The rum lord vomits green bile in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw. On a failure, a target takes 18 (4d8) poison damage and is covered in green bile for 1 minute. On a success, a target takes half the damage and isn’t covered in bile. A creature, including the target, can take an action to wipe off the bile. Rum gremlins have advantage on attack rolls against creatures covered in a rum lord’s green bile.
 - **Bring Me Another Round! (1/Day):** The rum lord lets out a thunderous belch, calling 1d4 rum gremlins. The called rum gremlins arrive in 1d4 rounds, acting as allies of the lord and obeying its spoken commands. The rum gremlins remain for 1 hour, until the lord dies, or until the lord dismisses them as a bonus action.
-
-

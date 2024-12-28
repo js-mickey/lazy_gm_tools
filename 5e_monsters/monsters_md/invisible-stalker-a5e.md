@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Invisible Stalker
+size: Medium
+type: Elemental
+alignment: 
+cr: 6
+xp: 2,300
+hp: 104
+hp_roll: 16d8+32
+ac: 14
+speed: walk 50 ft. fly 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 289
+---
+
 # Invisible Stalker
 
 *Medium* *Elemental*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Gust (Recharge 6):** The stalker briefly turns into a gust of wind and moves up to its Speed without provoking opportunity attacks. It is able to pass through an opening as narrow as 1 inch wide without squeezing.
-
-

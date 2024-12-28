@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Pudding
+size: Large
+type: Ooze
+alignment: 
+cr: 4
+xp: 1,100
+hp: 85
+hp_roll: 10d10+30
+ac: 7
+speed: walk 20 ft. climb 20 ft. swim 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 350
+---
+
 # Black Pudding
 
 *Large* *Ooze*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Split:** When a Medium or larger pudding with at least 10 hit points is subjected to lightning or slashing damage, it splits into two puddings that are each one size smaller. Each new pudding has half the originals hit points (rounded down).
-
-

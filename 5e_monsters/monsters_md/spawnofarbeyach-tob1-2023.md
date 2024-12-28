@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spawn of Arbeyach
+size: Medium
+type: Fiend
+alignment: Lawful Evil
+cr: 5
+xp: 1,800
+hp: 78
+hp_roll: 24
+ac: 17
+speed: walk 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 356
+---
+
 # Spawn of Arbeyach
 
 *Medium* *Fiend* *Lawful Evil*

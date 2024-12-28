@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Flesh Guardian
+size: Medium
+type: Construct
+alignment: 
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 9
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 262
+---
+
 # Flesh Guardian
 
 *Medium* *Construct*
@@ -34,5 +53,3 @@
 - **Slam:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 - **Hurl Object:** Ranged Weapon Attack: +7 to hit  range 20/60 ft.  one target. Hit: 18 (4d6 + 4) bludgeoning damage.
 - **Lightning Bolt (1/Day, While Bloodied):** An 80-foot-long  5-foot-wide lightning bolt springs from the guardians chest. Each creature in the area makes a DC 15 Dexterity saving throw  taking 28 (8d6) lightning damage on a failed save or half damage on a success.
-
-

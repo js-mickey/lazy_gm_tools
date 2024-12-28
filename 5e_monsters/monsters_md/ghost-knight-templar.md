@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghost Knight Templar
+size: Medium
+type: Undead
+alignment: lawful evil
+cr: 10
+xp: 5,900
+hp: 127
+hp_roll: 17d8+51
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 196
+---
+
 # Ghost Knight Templar
 
 *Medium* *Undead* *lawful evil*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Ghostly Mount:** Can summon or dismiss a ghostly mount mounting or dismounting it as part of this bonus action with o spending movement. Mount uses the stats of a warhorse skeleton except it has the Incorporeal Movement trait a flying speed of 60 feet 40 hp and resistance to cold and necrotic and B/P/S damage from nonmagical attacks. If mount is slain it disappears leaving behind no physical form and templar must wait 1 hr before summoning it again.
-
-

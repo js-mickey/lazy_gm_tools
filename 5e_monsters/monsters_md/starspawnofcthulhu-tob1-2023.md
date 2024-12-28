@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Star Spawn of Cthulhu
+size: Large
+type: Fiend
+alignment: Chaotic Evil
+cr: 15
+xp: 13,000
+hp: 212
+hp_roll: 119
+ac: 17
+speed: walk 50 ft. fly 30 ft.
+senses: darkvision 300 ft. 
+passive_perception: 24
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 348
+---
+
 # Star Spawn of Cthulhu
 
 *Large* *Fiend* *Chaotic Evil*

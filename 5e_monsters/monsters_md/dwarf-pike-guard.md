@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dwarf, Pike Guard
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 1/2
+xp: 100
+hp: 30
+hp_roll: 4d8+12
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 166
+---
+
 # Dwarf, Pike Guard
 
 *Medium* *Humanoid* *lawful neutral*
@@ -28,5 +47,3 @@
 ### Reactions
 
 - **Brace Pike:** When a creature enters the pike guard’s reach the pike guard can brace its pike. If it does so it has advantage on its next attack roll vs. that creature.
-
-

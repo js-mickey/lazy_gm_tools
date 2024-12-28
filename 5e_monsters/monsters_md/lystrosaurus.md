@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lystrosaurus
+size: Medium
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d8+18
+ac: 14
+speed: burrow 5 ft. walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 108
+---
+
 # Lystrosaurus
 
 *Medium* *Beast* *unaligned*
@@ -25,5 +44,3 @@
 
 - **Ram:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.
-
-

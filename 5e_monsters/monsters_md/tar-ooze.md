@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Tar Ooze
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 120
+hp_roll: 15d10+45
+ac: 9
+speed: walk 20 ft. climb 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 280
+---
+
 # Tar Ooze
 
 *Large* *Ooze* *unaligned*
@@ -28,5 +47,3 @@
 - **Multiattack:** The tar ooze makes two pseudopod attacks. If both attacks hit the same target, the target is covered in tar (see Sticky Situation).
 - **Pseudopod:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 14 (4d6) necrotic damage.
 - **Hurl Tar:** Ranged Weapon Attack: +2 to hit, range 60 ft., one target. Hit: 14 (4d6) necrotic damage and the target must succeed on a DC 14 Dexterity saving throw or be covered in tar (see Sticky Situation).
-
-

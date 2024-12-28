@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Incarnate Gloom
+size: Gargantuan
+type: Undead
+alignment: neutral evil
+cr: 13
+xp: 10,000
+hp: 184
+hp_roll: 16d20+16
+ac: 16
+speed: walk 0 ft. hover True ft. fly 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 213
+---
+
 # Incarnate Gloom
 
 *Gargantuan* *Undead* *neutral evil*
@@ -32,5 +51,3 @@
 - **Multiattack:** The incarnate gloom makes three attacks with its despairing touch.
 - **Despairing Touch:** Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: 19 (4d6 + 5) psychic damage.
 - **Engulf in Shadow:** The incarnate gloom moves up to its speed. While doing so, it can enter Huge or smaller creatures’ spaces. Whenever the gloom enters a creature’s space, the creature must make a DC 18 Dexterity saving throw.<br><br>On a successful save, the creature can choose to sidestep to just outside the gloom’s space. A creature that chooses not to sidestep suffers the consequences of a failed saving throw.<br><br>On a failed save, the gloom enters the creature’s space, the creature takes 18 (4d8) necrotic damage, suffers one level of exhaustion, and is engulfed in shadow. The engulfed creature is blinded and restrained, it has total cover against attacks and other effects outside the gloom, and it takes 18 (4d8) necrotic damage at the start of each of the gloom’s turns. When the gloom moves, the engulfed creature doesn’t move with it.<br><br>An engulfed creature can try to escape by taking an action to make a DC 18 Wisdom check. On a success, the creature escapes the gloom and enters a space of its choice within 5 feet of the gloom.
-
-

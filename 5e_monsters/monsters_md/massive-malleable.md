@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Massive Malleable
+size: Gargantuan
+type: Aberration
+alignment: chaotic evil
+cr: 16
+xp: 15,000
+hp: 248
+hp_roll: 16d20+80
+ac: 14
+speed: climb 40 ft. walk 40 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 254
+---
+
 # Massive Malleable
 
 *Gargantuan* *Aberration* *chaotic evil*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Sudden Separation:** When the massive malleable takes 30 damage or more from a single attack, it can choose to immediately use Separate Malleables. If it does so, the damage is divided evenly among the separate malleables it becomes.
-
-

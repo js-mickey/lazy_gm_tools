@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Herd Skulker
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 6d10+12
+ac: 15
+speed: walk 50 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 231
+---
+
 # Herd Skulker
 
 *Medium* *Monstrosity* *neutral evil*
@@ -31,5 +50,3 @@
 
 - **Change Shape:** Transforms into a Large or smaller domesticated herd animal it can see such as a cow horse sheep or chicken or back into its true canine form. Its statistics other than its size are the same in each form. Reverts on death.
 - **Nimble Escape:** Takes the Disengage or Hide action.
-
-

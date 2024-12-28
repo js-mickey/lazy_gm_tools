@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Centaur
+size: Large
+type: Fey
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d10+12
+ac: 13
+speed: walk 50 ft.
+senses: 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 44
+---
+
 # Centaur
 
 *Large* *Fey*
@@ -23,5 +42,3 @@
 - **Hooves:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4 + 3) bludgeoning damage. If this attack deals damage  the centaurs movement doesnt provoke opportunity attacks from the target for the rest of the centaurs turn.
 - **Shortbow:** Ranged Weapon Attack: +5 to hit  range 80/320 ft.  one target. Hit: 10 (2d6 + 3) piercing damage.
 - **Deadeye Shot (1/Day):** The centaur makes a shortbow attack with advantage.
-
-

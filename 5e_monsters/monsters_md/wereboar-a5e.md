@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wereboar
+size: Medium
+type: Humanoid
+alignment: 
+cr: 4
+xp: 1,100
+hp: 78
+hp_roll: 12d8+24
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 313
+---
+
 # Wereboar
 
 *Medium* *Humanoid*
@@ -32,5 +51,3 @@
 
 - **Shapeshift:** The wereboar changes its form to a boar, a boar-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in boar form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Tusks (While Bloodied:** The wereboar attacks with its tusks.
-
-

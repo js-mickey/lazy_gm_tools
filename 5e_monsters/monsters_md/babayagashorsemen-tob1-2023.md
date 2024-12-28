@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Baba Yaga’s Horsemen
+size: Medium
+type: Fey
+alignment: Lawful Neutral
+cr: 11
+xp: 7,200
+hp: 171
+hp_roll: 90
+ac: 20
+speed: walk 30 ft.
+senses: 
+passive_perception: 18
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 30
+---
+
 # Baba Yaga’s Horsemen
 
 *Medium* *Fey* *Lawful Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sapphire Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: 
+cr: 3
+xp: 700
+hp: 58
+hp_roll: 9d8+18
+ac: 17
+speed: walk 30 ft. burrow 15 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 151
+---
+
 # Sapphire Dragon Wyrmling
 
 *Medium* *Dragon*
@@ -26,5 +45,3 @@
 
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Discognitive Breath (Recharge 5-6):** The dragon unleashes psychic energy in a 15-foot cone. Each creature in that area makes a DC 12 Intelligence saving throw  taking 22 (4d10) psychic damage on a failed save or half damage on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ratfolk Mercenary
+size: Small
+type: Humanoid
+alignment: neutral
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 13d6
+ac: 15
+speed: swim 10 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 315
+---
+
 # Ratfolk Mercenary
 
 *Small* *Humanoid* *neutral*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Guard the Big Cheese:** When a creature makes an attack against the ratfolk mercenary's current employer, the mercenary grants a +2 bonus to the employer's AC if the mercenary is within 5 feet of the employer.
-
-

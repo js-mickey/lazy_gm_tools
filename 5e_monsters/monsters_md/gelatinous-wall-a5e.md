@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gelatinous Wall
+size: Huge
+type: Ooze
+alignment: 
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 13d12+52
+ac: 6
+speed: walk 30 ft. swim 15 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 351
+---
+
 # Gelatinous Wall
 
 *Huge* *Ooze*
@@ -30,5 +49,3 @@
 - **Engulf:** The cube moves up to its Speed. While doing so  it can enter Large or smaller creatures spaces. Whenever the cube enters a creatures space  the creature makes a DC 13 Dexterity saving throw. If the creature is unaware of the cubes presence  it makes its saving throw against Engulf with disadvantage. On a success  the creature may use its reaction  if available  to move up to half its Speed without provoking opportunity attacks. If the creature doesnt move  it is engulfed by the cube.
 - **A creature engulfed by the cube takes 10 (3d6) acid damage plus 9 (2d6 + 2) bludgeoning damage, can't breathe, is restrained, and takes 10 (3d6) acid damage plus 9 (2d6 + 2) bludgeoning damage at the start of each of the cubes turns:** It can be seen but has total cover. It moves with the cube. The cube can hold as many creatures as fit in its space without squeezing.
 - **An engulfed creature can escape by using an action to make a DC 13 Strength check:** On a success  the creature moves to a space within 5 feet of the cube. A creature within 5 feet can take the same action to free an engulfed creature  but takes 10 (3d6) acid damage plus 9 (2d6 + 2) bludgeoning damage in the process.
-
-

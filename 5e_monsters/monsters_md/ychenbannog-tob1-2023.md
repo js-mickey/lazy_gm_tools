@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ychen Bannog
+size: Gargantuan
+type: Beast
+alignment: Unaligned
+cr: 11
+xp: 7,200
+hp: 186
+hp_roll: 60
+ac: 17
+speed: walk 50 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 401
+---
+
 # Ychen Bannog
 
 *Gargantuan* *Beast* *Unaligned*

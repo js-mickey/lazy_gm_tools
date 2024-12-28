@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Zirnitran
+size: Huge
+type: Celestial
+alignment: neutral good
+cr: 20
+xp: 25,000
+hp: 325
+hp_roll: 26d12+156
+ac: 19
+speed: walk 30 ft. fly 80 ft.
+senses: truesight 120 ft. 
+passive_perception: 23
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 30
+---
+
 # Angel, Zirnitran
 
 *Huge* *Celestial* *neutral good*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Storm Lord
+size: Huge
+type: Elemental
+alignment: neutral
+cr: 13
+xp: 10,000
+hp: 161
+hp_roll: 17d12+51
+ac: 17
+speed: fly 50 ft. hover True ft. walk 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 139
+---
+
 # Storm Lord
 
 *Huge* *Elemental* *neutral*
@@ -34,5 +53,3 @@ Each creature that starts its turn within 30 feet of the storm lord must succeed
 - **Slam:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 29 (7d6 + 5) bludgeoning damage.
 - **Lightning Bolt:** Ranged Spell Attack: +9 to hit, range 60 ft., one target. Hit: 31 (7d8) lightning damage.
 - **Thunder Clap (Recharge 5-6):** The storm lord creates a peal of ear-splitting thunder. Each creature within 30 feet of the storm lord must make a DC 17 Constitution saving throw. On a failure, a target takes 54 (12d8) thunder damage and is deafened. On a success, a target takes half the damage but isn't deafened. The deafness lasts until it is lifted by the lesser restoration spell or similar magic.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Khamaseen
+size: Tiny
+type: Elemental
+alignment: neutral
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 6d4+12
+ac: 13
+speed: walk 0 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 250
+---
+
 # Khamaseen
 
 *Tiny* *Elemental* *neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Shock:** If a creature wearing metal armor or wielding a metal weapon or shield moves within 5 ft. of khamaseen it takes 5 (2d4) lightning (DC 12 Dex negates).
-
-

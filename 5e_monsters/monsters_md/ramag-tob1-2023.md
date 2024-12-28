@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ramag
+size: Medium
+type: Humanoid
+alignment: Neutral
+cr: 1/4
+xp: 50
+hp: 27
+hp_roll: 6d8
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 299
+---
+
 # Ramag
 
 *Medium* *Humanoid* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Keg Golem
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 45
+hp_roll: 6d8+18
+ac: 11
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 201
+---
+
 # Keg Golem
 
 *Medium* *Construct* *unaligned*
@@ -30,5 +49,3 @@
 
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 - **Ale Blast (Recharge 5-6):** The keg golem shoots a 1 gallon jet of ale in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Constitution saving throw. On a failure, a target takes 9 (2d8) poison damage and is poisoned for 1 minute. On a success, a target takes half the damage and isn't poisoned. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

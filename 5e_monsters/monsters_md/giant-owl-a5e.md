@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Owl
+size: Large
+type: Beast
+alignment: 
+cr: 1/4
+xp: 50
+hp: 19
+hp_roll: 3d10+3
+ac: 12
+speed: walk 5 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 448
+---
+
 # Giant Owl
 
 *Large* *Beast*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Talons:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6+1) slashing damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Deep Drake
+size: Large
+type: Dragon
+alignment: Chaotic Evil
+cr: 9
+xp: 5,000
+hp: 150
+hp_roll: 40
+ac: 17
+speed: walk 80 ft. fly 30 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 142
+---
+
 # Deep Drake
 
 *Large* *Dragon* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogrepede
+size: Huge
+type: Undead
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 142
+hp_roll: 15d12+45
+ac: 13
+speed: walk 40 ft. climb 20 ft.
+senses: darkvision 90 ft. 
+passive_perception: 7
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 275
+---
+
 # Ogrepede
 
 *Huge* *Undead* *chaotic evil*
@@ -29,5 +48,3 @@
 - **Multiattack:** The ogrepede makes two attacks: one with its bite and one with its slam.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.
 - **Slam:** Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 12 (2d6 + 5) bludgeoning damage, or 8 (1d6 + 5) bludgeoning damage if the ogrepede has half its hp or fewer. If the ogrepede scores a critical hit, it rolls the damage dice three times, instead of twice.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sewer Weird
+size: Large
+type: Elemental
+alignment: neutral evil
+cr: 8
+xp: 3,900
+hp: 136
+hp_roll: 16d10+48
+ac: 15
+speed: walk 30 ft. swim 60 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 341
+---
+
 # Sewer Weird
 
 *Large* *Elemental* *neutral evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** Three Slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) bludgeoning damage and the target must make DC 15 Con save or be poisoned until end of its next turn.
 - **Sewer Overflow (Recharge 5–6):** Emits a tide of filth and water from itself in a 15 ft. cube. Each creature in this cube: 18 (4d8) bludgeoning damage and 18 (4d8) poison and is infected with sewer plague (DC 15 Con half damage and isn’t infected).
-
-

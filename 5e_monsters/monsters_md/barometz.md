@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Barometz
+size: Large
+type: Plant
+alignment: chaotic neutral
+cr: 6
+xp: 2,300
+hp: 95
+hp_roll: 10d10+40
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 38
+---
+
 # Barometz
 
 *Large* *Plant* *chaotic neutral*
@@ -31,5 +50,3 @@
 - **Multiattack:** The barometz makes two attacks: one with its gore and one with its hooves.
 - **Gore:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage. If the target is Medium or smaller, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 - **Hooves:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) bludgeoning damage.
-
-

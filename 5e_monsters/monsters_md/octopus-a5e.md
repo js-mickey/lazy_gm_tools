@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Octopus
+size: Tiny
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 3
+hp_roll: 1d6
+ac: 12
+speed: walk 5 ft. swim 30 ft.
+senses: darkvision 30 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 455
+---
+
 # Octopus
 
 *Tiny* *Beast*
@@ -28,5 +47,3 @@
 ### Bonus Actions
 
 - **Ink Cloud (1/Day):** If underwater, the octopus exudes a cloud of ink in a 5-foot-radius sphere, extending around corners. The area is heavily obscured for 1 minute unless dispersed by a strong current.
-
-

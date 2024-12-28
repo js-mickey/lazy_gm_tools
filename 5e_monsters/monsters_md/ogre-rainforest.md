@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ogre, Rainforest
+size: Large
+type: Giant
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 90
+hp_roll: 12d10+24
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 301
+---
+
 # Ogre, Rainforest
 
 *Large* *Giant* *chaotic evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Transforms into a Large boar or back into its true ogre form. Its stats are the same in each form. Any equipment it is wearing or carrying isn’t transformed. Reverts on death.
-
-

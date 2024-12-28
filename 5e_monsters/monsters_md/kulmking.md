@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Külmking
+size: Large
+type: Undead
+alignment: chaotic evil
+cr: 9
+xp: 5,000
+hp: 127
+hp_roll: 15d10+45
+ac: 14
+speed: walk 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 18
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 244
+---
+
 # Külmking
 
 *Large* *Undead* *chaotic evil*
@@ -35,5 +54,3 @@ On a success, a creature is immune to the külmking's Corruption for the next 24
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature that is not undead, it must make a DC 16 Constitution saving throw or take 12 (2d8 + 3) necrotic damage. The külmking regains hp equal to the amount of necrotic damage dealt.
 - **Claws:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is not undead, it must succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Hooves:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) bludgeoning damage.
-
-

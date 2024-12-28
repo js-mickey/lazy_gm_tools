@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lemure Band
+size: Large
+type: Fiend
+alignment: 
+cr: 2
+xp: 450
+hp: 67
+hp_roll: 15d8
+ac: 7
+speed: walk 15 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 86
+---
+
 # Lemure Band
 
 *Large* *Fiend*
@@ -31,5 +50,3 @@
 ### Actions
 
 - **Fists:** Melee Weapon Attack: +2 to hit  reach 5 ft.  one target. Hit: 12 (5d4) bludgeoning damage.
-
-

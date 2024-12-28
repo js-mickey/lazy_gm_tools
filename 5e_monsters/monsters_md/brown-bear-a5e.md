@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Brown Bear
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 34
+hp_roll: 4d10+12
+ac: 11
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 440
+---
+
 # Brown Bear
 
 *Large* *Beast*
@@ -24,5 +43,3 @@
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6+4) piercing damage.
 - **Claws:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 9 (2d4+4) slashing damage. If the target is a Medium or smaller creature  it is grappled (escape DC 14). Until this grapple ends  the bear can't attack a different target with its claws.
-
-

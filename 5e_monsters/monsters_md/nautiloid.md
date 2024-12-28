@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Nautiloid
+size: Gargantuan
+type: Elemental
+alignment: neutral good
+cr: 13
+xp: 10,000
+hp: 216
+hp_roll: 16d20+48
+ac: 18
+speed: walk 0 ft. swim 90 ft.
+senses: blindsight 60 ft. darkvision 300 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 286
+---
+
 # Nautiloid
 
 *Gargantuan* *Elemental* *neutral good*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Withdraw:** When a creature the nautiloid can see targets it with an attack the nautiloid can pull its body into its shell gaining a +5 bonus to AC until the start of its next turn.
-
-

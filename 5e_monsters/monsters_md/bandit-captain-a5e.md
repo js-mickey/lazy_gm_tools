@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bandit Captain
+size: Medium
+type: Humanoid
+alignment: 
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d8+20
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 470
+---
+
 # Bandit Captain
 
 *Medium* *Humanoid*
@@ -27,5 +46,3 @@
 
 - **Parry:** If the bandit captain is wielding a melee weapon and can see their attacker, they add 2 to their AC against one melee attack that would hit them.
 - **Bandits are outlaws who live by violence:** Most are highway robbers, though a few are principled exiles or freedom fighters.
-
-

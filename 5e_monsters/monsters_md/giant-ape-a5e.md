@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Giant Ape
+size: Huge
+type: Beast
+alignment: 
+cr: 7
+xp: 2,900
+hp: 115
+hp_roll: 11d12+44
+ac: 14
+speed: walk 40 ft. climb 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 444
+---
+
 # Giant Ape
 
 *Huge* *Beast*
@@ -21,5 +40,3 @@
 - **Multiattack:** The ape attacks twice with its fists.
 - **Fists:** Melee Weapon Attack: +8 to hit  reach 10 ft.  one target. Hit: 21 (3d10+5) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +8 to hit  range 50/100 ft.  one target. Hit: 26 (6d6+5) bludgeoning damage.
-
-

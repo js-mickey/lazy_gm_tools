@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Púca
+size: Large
+type: Fey
+alignment: neutral evil
+cr: 7
+xp: 2,900
+hp: 142
+hp_roll: 19d10+38
+ac: 12
+speed: walk 50 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 321
+---
+
 # Púca
 
 *Large* *Fey* *neutral evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** Two Chain Whip attacks and one Hooves attack.
 - **Chain Whip:** Melee Weapon Attack: +7 to hit, 15 ft., one target, 15 (2d10+4) bludgeoning damage and target grappled (escape DC 15) if it is a Med or smaller creature and púca doesn’t have 2 others grappled. Until grapple ends target restrained.
 - **Hooves:** Melee Weapon Attack: +7 to hit, 5 ft., one target, 13 (2d8+4) bludgeoning damage and target must make DC 15 Str save or be knocked prone.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wererat
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d8+6
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. (rat or hybrid form only) 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 314
+---
+
 # Wererat
 
 *Medium* *Humanoid*
@@ -33,5 +52,3 @@
 
 - **Shapeshift:** The wererat changes its form to a giant rat, a rat-humanoid hybrid, or into its true form, which is a humanoid. While shapeshifted, its statistics are unchanged. It can't speak in rat form. Its equipment is not transformed. It reverts to its true form if it dies.
 - **Frenzied Bite (While Bloodied:** The wererat makes a bite attack.
-
-

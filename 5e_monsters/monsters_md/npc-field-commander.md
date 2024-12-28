@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Field Commander
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 10
+xp: 5,900
+hp: 170
+hp_roll: 20d8+80
+ac: 19
+speed: walk 30 ft.
+senses: 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 406
+---
+
 # Npc: Field Commander
 
 *Medium* *Humanoid* *any alignment*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Bolster Soldier:** When a friendly creature the field commander can see is hit with weapon attack the commander calls out encouragement and creature gains 5 (1d10) temp hp.
-
-

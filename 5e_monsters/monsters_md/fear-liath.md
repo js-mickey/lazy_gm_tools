@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fear Liath
+size: Large
+type: Undead
+alignment: neutral evil
+cr: 2
+xp: 450
+hp: 33
+hp_roll: 6d10
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 152
+---
+
 # Fear Liath
 
 *Large* *Undead* *neutral evil*
@@ -28,5 +47,3 @@ Unless surprised, a creature can avert its eyes to avoid looking directly at the
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage. The target must succeed on a DC 13 Constitution saving throw or be blinded for 1 minute. It can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

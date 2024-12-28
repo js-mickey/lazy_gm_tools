@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Golem, Origami
+size: Large
+type: Construct
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 114
+hp_roll: 12d10+48
+ac: 15
+speed: walk 30 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 217
+---
+
 # Golem, Origami
 
 *Large* *Construct* *unaligned*
@@ -40,5 +59,3 @@
 ### Bonus Actions
 
 - **Fold:** Reshape papery body to resemble Large dragon Large swan or Med frog. Use again to unfold into Large flat piece of fabric/paper. Stats except size same in each form. Unfolded if it dies.
-
-

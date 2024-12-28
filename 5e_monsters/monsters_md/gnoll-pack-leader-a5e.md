@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gnoll Pack Leader
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 10d8
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 247
+---
+
 # Gnoll Pack Leader
 
 *Medium* *Humanoid*
@@ -29,5 +48,3 @@
 ### Bonus Actions
 
 - **Rampaging Bite:** Melee Weapon Attack: +4 to hit, reach 5 ft., one bloodied creature. Hit: 4 (1d4 + 2) piercing damage.
-
-

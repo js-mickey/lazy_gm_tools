@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Apprentice Mage
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 11
+hp_roll: 2d8+2
+ac: 10
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 478
+---
+
 # Apprentice Mage
 
 *Medium* *Humanoid*
@@ -37,5 +56,3 @@
 
 - **Shield (1st-Level; V:** When the mage is hit by an attack or targeted by magic missile, they gain a +5 bonus to AC (including against the triggering attack) and immunity to magic missile. These benefits last until the start of their next turn.
 - **Whether a student attending a wizard college or serving a crotchety master:** Apprentice mage statistics can also be used to represent an older hedge wizard of limited accomplishments.
-
-

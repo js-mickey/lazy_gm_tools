@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spider Drake
+size: Large
+type: Dragon
+alignment: lawful evil
+cr: 9
+xp: 5,000
+hp: 136
+hp_roll: 16d10+48
+ac: 18
+speed: climb 40 ft. fly 80 ft. walk 40 ft.
+senses: blindsight 30 ft. darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 348
+---
+
 # Spider Drake
 
 *Large* *Dragon* *lawful evil*
@@ -30,5 +49,3 @@
 - **Claw:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
 - **Poison Breath (Recharge 5-6):** The drake exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failure, a creature takes 42 (12d6) poison damage and is poisoned. On a success, a creature takes half the damage and isn't poisoned. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 60/120 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 16 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
-
-

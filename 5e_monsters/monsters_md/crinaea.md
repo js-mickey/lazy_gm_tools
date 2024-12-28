@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crinaea
+size: Medium
+type: Fey
+alignment: neutral
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 13
+speed: swim 60 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 74
+---
+
 # Crinaea
 
 *Medium* *Fey* *neutral*
@@ -32,5 +51,3 @@ At will: poison spray
 ### Actions
 
 - **Dagger:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) cold damage.
-
-

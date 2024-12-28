@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gbahali
+size: Huge
+type: Beast
+alignment: Unaligned
+cr: 6
+xp: 2,300
+hp: 126
+hp_roll: 48
+ac: 15
+speed: walk 50 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 195
+---
+
 # Gbahali
 
 *Huge* *Beast* *Unaligned*

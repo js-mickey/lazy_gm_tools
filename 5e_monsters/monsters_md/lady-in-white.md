@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lady in White
+size: Medium
+type: Undead
+alignment: any alignment
+cr: 2
+xp: 450
+hp: 49
+hp_roll: 11d8
+ac: 12
+speed: fly 30 ft. hover True ft. walk 0 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 246
+---
+
 # Lady in White
 
 *Medium* *Undead* *any alignment*
@@ -29,5 +48,3 @@
 - **Inflict Sorrow:** The lady in white makes one grasp attack against the target to which it is attached. If the attack hits, the target's Charisma score is reduced by 1d4. The target dies if this reduces its Charisma to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a female humanoid dies from this attack, a new lady in white rises from the corpse 1d4 hours later.
 - **Invisibility:** The lady in white turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell).
 - **Corpse Revealed:** The lady in white does away with her living disguise and reveals her undead state. Each non-undead creature within 50 feet of the lady that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lady's Corpse Revealed for the next 24 hours.
-
-

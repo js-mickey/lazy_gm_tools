@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ettercap
+size: Medium
+type: Monstrosity
+alignment: 
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d8+8
+ac: 13
+speed: walk 30 ft. climb 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 196
+---
+
 # Ettercap
 
 *Medium* *Monstrosity*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Web (Recharge 5-6):** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one Large or smaller creature. Hit: The creature is restrained by webs. As an action, a creature can make a DC 11 Strength check, breaking the webs on a success. The effect also ends if the webs are destroyed. They have AC 10, 1 hit point, and immunity to all damage except slashing, fire, and force.
-
-

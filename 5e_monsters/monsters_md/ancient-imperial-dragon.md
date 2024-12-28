@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Imperial Dragon
+size: Gargantuan
+type: Dragon
+alignment: neutral
+cr: 26
+xp: 90,000
+hp: 546
+hp_roll: 28d20+252
+ac: 22
+speed: swim 40 ft. walk 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 30
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 117
+---
+
 # Ancient Imperial Dragon
 
 *Gargantuan* *Dragon* *neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sarsaok
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 13d12+52
+ac: 17
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 313
+---
+
 # Sarsaok
 
 *Huge* *Monstrosity* *unaligned*
@@ -32,5 +51,3 @@
 - **Gore:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) piercing damage plus 3 (1d6) fire damage.
 - **Hooves:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 3 (1d6) fire damage.
 - **Immolating Purge (Recharge 5-6):** The sarsaok spews burning blood in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

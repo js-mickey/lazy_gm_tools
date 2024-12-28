@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Corrupted Unicorn
+size: Large
+type: Celestial
+alignment: 
+cr: 5
+xp: 1,800
+hp: 85
+hp_roll: 9d10+36
+ac: 14
+speed: walk 80 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 416
+---
+
 # Corrupted Unicorn
 
 *Large* *Celestial*
@@ -34,5 +53,3 @@
 - **Luck: During the next 24 hours, the creature can roll a d12 and add the result to one ability check, attack roll, or saving throw after seeing the result:** 
 - **Protection: A glowing mote of light orbits the creatures head:** The mote lasts 24 hours. When the creature fails a saving throw  it can use its reaction to expend the mote and succeed on the saving throw.
 - **Resolution: The creature is immune to being charmed or frightened for 24 hours:** 
-
-

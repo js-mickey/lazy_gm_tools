@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Banshee
+size: Medium
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 58
+hp_roll: 13d8
+ac: 13
+speed: walk 30 ft. fly 40 ft.
+senses: darkvision 60 ft. Passive Perception 10
+passive_perception: -
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 30
+---
+
 # Banshee
 
 *Medium* *Undead*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Wounded Warning:** When the banshee takes damage from a creature within 60 feet, it uses Presage Death on the attacker.
-
-

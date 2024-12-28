@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Broodiken
+size: Tiny
+type: Construct
+alignment: Unaligned
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 24
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 43
+---
+
 # Broodiken
 
 *Tiny* *Construct* *Unaligned*

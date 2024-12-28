@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hundun
+size: Large
+type: Celestial
+alignment: Chaotic Good
+cr: 12
+xp: 8,400
+hp: 153
+hp_roll: 54
+ac: 18
+speed: walk 40 ft. fly 40 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 237
+---
+
 # Hundun
 
 *Large* *Celestial* *Chaotic Good*

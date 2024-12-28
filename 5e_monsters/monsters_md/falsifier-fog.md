@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Falsifier Fog
+size: Huge
+type: Undead
+alignment: chaotic evil
+cr: 4
+xp: 1,100
+hp: 52
+hp_roll: 8d12
+ac: 13
+speed: hover True ft. walk 0 ft. fly 60 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 140
+---
+
 # Falsifier Fog
 
 *Huge* *Undead* *chaotic evil*
@@ -31,5 +50,3 @@
 - **Multiattack:** The falsifier fog makes two chill attacks.
 - **Chill:** Melee Spell Attack: +5 to hit, reach 5 ft., one target in the fog’s space. Hit: 10 (3d6) cold damage.
 - **Reaching Phantasms (Recharge 5-6):** The phantasmal images within the falsifier fog reach outward. Each creature within 10 feet of the fog must make a DC 13 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. Creatures in the fog’s space have disadvantage on the saving throw.
-
-

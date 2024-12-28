@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young Amethyst Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 133
+hp_roll: 14d10+56
+ac: 17
+speed: walk 40 ft. burrow 20 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 142
+---
+
 # Young Amethyst Dragon
 
 *Large* *Dragon*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 19 (3d10 + 3) piercing damage plus 4 (1d8) force damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.
 - **Concussive Breath (Recharge 5-6):** The dragon psionically unleashes telekinetic energy in a 30-foot cone. Each creature in that area makes a DC 15 Constitution saving throw  taking 44 (8d10) force damage on a failed save or half damage on a success.
-
-

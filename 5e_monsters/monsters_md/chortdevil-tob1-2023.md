@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chort Devil
+size: Medium
+type: Fiend
+alignment: Lawful Evil
+cr: 12
+xp: 8,400
+hp: 187
+hp_roll: 120
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 93
+---
+
 # Chort Devil
 
 *Medium* *Fiend* *Lawful Evil*

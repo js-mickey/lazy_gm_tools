@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: First Servant
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 12
+xp: 8,400
+hp: 162
+hp_roll: 25d8+50
+ac: 17
+speed: walk 30 ft.
+senses: 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 407
+---
+
 # Npc: First Servant
 
 *Medium* *Humanoid* *any alignment*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Healing Hands (Recharge 5–6):** Touches a creature within 5 ft. of it: creature regains 14 (4d6) hp.
-
-

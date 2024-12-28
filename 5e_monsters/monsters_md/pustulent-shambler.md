@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pustulent Shambler
+size: Gargantuan
+type: Ooze
+alignment: unaligned
+cr: 13
+xp: 10,000
+hp: 232
+hp_roll: 15d20+75
+ac: 10
+speed: climb 30 ft. walk 30 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 299
+---
+
 # Pustulent Shambler
 
 *Gargantuan* *Ooze* *unaligned*
@@ -32,5 +51,3 @@
 - **Multiattack:** The pustulent shambler makes three pseudopod attacks.
 - **Pseudopod:** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage plus 11 (2d10) acid damage, and the target must succeed on a DC 18 Constitution saving throw or contract the bonerot disease (see the Bonerot trait).
 - **Absorb Flesh:** The pustulent shambler feeds on a corpse within 5 feet of it. It regains 1d8 hp per size category of the creature it consumes. For example, the shambler regains 1d8 hp when consuming a Tiny creature’s corpse or 4d8 hp when consuming a Large creature’s corpse. The shambler can’t use Absorb Flesh on a corpse if it or another pustulent shambler has already used Absorb Flesh on the corpse. If the corpse has intact bones, the shambler loses its Amorphous trait for 1 minute.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Forgotten God
+size: Large
+type: Celestial
+alignment: 
+cr: 10
+xp: 5,900
+hp: 161
+hp_roll: 17d8+85
+ac: 17
+speed: walk 40 ft. fly 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 19
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 209
+---
+
 # Forgotten God
 
 *Large* *Celestial*
@@ -33,5 +52,3 @@
 - **Divine Wrath (1/Day, While Bloodied):** Each creature of the gods choice within 60 feet makes a DC 17 Constitution saving throw  taking 28 (8d6) radiant damage on a failure or half damage on a success.
 - **Spirit Guardians (3rd-Level; V, S, Concentration):** Spirits of former divine servants surround the god in a 10-foot radius for 10 minutes. The god can choose creatures they can see to be unaffected by the spell. Other creatures treat the area as difficult terrain  and when a creature enters the area for the first time on a turn or starts its turn there  it makes a DC DC 17 Wisdom saving throw  taking 10 (3d6) radiant damage on a failed save or half damage on a success.
 - **Flame Strike (5th-Level; V, S):** A 10-foot-radius  40-foot-high column of divine flame appears centered on a point the god can see within 60 feet. Each creature in the area makes a DC 17 Dexterity saving throw  taking 14 (4d6) fire damage and 14 (4d6) radiant damage on a failed save  or half damage on a success.
-
-

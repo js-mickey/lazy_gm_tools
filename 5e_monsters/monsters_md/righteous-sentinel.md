@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Righteous Sentinel
+size: Large
+type: Construct
+alignment: lawful good
+cr: 9
+xp: 5,000
+hp: 104
+hp_roll: 11d10+44
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 307
+---
+
 # Righteous Sentinel
 
 *Large* *Construct* *lawful good*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Reflective Retribution:** The sentinel adds 3 to its AC against one melee attack that would hit it. To do so, the sentinel must see the attacker. If the attack misses, the attacker takes 11 (2d10) psychic damage.
-
-

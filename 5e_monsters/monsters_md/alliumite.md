@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alliumite
+size: Small
+type: Plant
+alignment: chaotic neutral
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d6+4
+ac: 14
+speed: burrow 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 13
+---
+
 # Alliumite
 
 *Small* *Plant* *chaotic neutral*
@@ -25,5 +44,3 @@
 
 - **Thorn Dart:** Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
 - **Grass Blade:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
-
-

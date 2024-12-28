@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blemmyes
+size: Large
+type: Monstrosity
+alignment: Chaotic Evil
+cr: 8
+xp: 3,900
+hp: 168
+hp_roll: 80
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 37
+---
+
 # Blemmyes
 
 *Large* *Monstrosity* *Chaotic Evil*

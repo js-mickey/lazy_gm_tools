@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Living Shade
+size: Medium
+type: Fey
+alignment: neutral
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d8
+ac: 12
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 255
+---
+
 # Living Shade
 
 *Medium* *Fey* *neutral*
@@ -29,5 +48,3 @@
 ### Actions
 
 - **Shadow Touch:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2 (1d4) cold damage.
-
-

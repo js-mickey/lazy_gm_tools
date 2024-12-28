@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cueyatl Warchief
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 7
+xp: 2,900
+hp: 117
+hp_roll: 18d6+54
+ac: 16
+speed: walk 30 ft. climb 20 ft. swim 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 101
+---
+
 # Cueyatl Warchief
 
 *Small* *Humanoid* *lawful evil*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Mounted Parry:** Adds 3 to its AC or its mount’s AC vs. one melee attack that would hit it or its mount. To do so warchief must see attacker and be wielding a melee weapon.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Light Dragon
+size: Huge
+type: Dragon
+alignment: neutral good
+cr: 16
+xp: 15,000
+hp: 212
+hp_roll: 17d12+102
+ac: 17
+speed: fly 80 ft. walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 170
+---
+
 # Adult Light Dragon
 
 *Huge* *Dragon* *neutral good*

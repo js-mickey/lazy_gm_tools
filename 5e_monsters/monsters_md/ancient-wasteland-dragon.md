@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Wasteland Dragon
+size: Gargantuan
+type: Dragon
+alignment: chaotic evil
+cr: 23
+xp: 50,000
+hp: 333
+hp_roll: 18d20+144
+ac: 22
+speed: burrow 30 ft. climb 40 ft. fly 80 ft. walk 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 118
+---
+
 # Ancient Wasteland Dragon
 
 *Gargantuan* *Dragon* *chaotic evil*

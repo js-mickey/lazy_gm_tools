@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Derro, Hellforged
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d6+60
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 113
+---
+
 # Derro, Hellforged
 
 *Small* *Humanoid* *lawful evil*
@@ -35,5 +54,3 @@
 ### Reactions
 
 - **Voice of Authority (Recharge 5–6):** When a creature hits hellforged with an attack hellforged shrieks a one-word command. Attacker must make DC 15 Wis save or carry out this command on its next turn. This reaction works like the command spell except the attacker doesn’t have to understand the hellforged’s language. Hellforged must see the attacker and be able to speak to use this reaction.
-
-

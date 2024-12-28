@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gugalanna
+size: Huge
+type: Celestial
+alignment: chaotic good
+cr: 21
+xp: 33,000
+hp: 253
+hp_roll: 22d12+110
+ac: 18
+speed: fly 80 ft. walk 60 ft.
+senses: truesight 60 ft. 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 212
+---
+
 # Gugalanna
 
 *Huge* *Celestial* *chaotic good*

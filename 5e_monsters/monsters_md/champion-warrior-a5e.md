@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Champion Warrior
+size: Medium
+type: Humanoid
+alignment: 
+cr: 5
+xp: 1,800
+hp: 90
+hp_roll: 12d8+36
+ac: 16
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 497
+---
+
 # Champion Warrior
 
 *Medium* *Humanoid*
@@ -22,5 +41,3 @@
 - **Multiattack:** The warrior attacks twice.
 - **Greataxe:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 10 (1d12 + 4) slashing damage. If the warrior has moved this turn  this attack is made with advantage.
 - **Champion warriors are the champions and chiefs who lead lightly-armed warriors on skirmishes and raids:** 
-
-

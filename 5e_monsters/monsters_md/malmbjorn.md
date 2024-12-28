@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Malmbjorn
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 15
+xp: 13,000
+hp: 218
+hp_roll: 19d12+95
+ac: 18
+speed: walk 40 ft. burrow 10 ft. swim 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 267
+---
+
 # Malmbjorn
 
 *Huge* *Monstrosity* *unaligned*
@@ -40,5 +59,3 @@
 ### Reactions
 
 - **Ironhide:** When hit by a metal weapon fur-like metal spikes grow out of its hide until end of its next turn. While spikes remain its AC increases 2 and any critical hit vs. it becomes a normal hit.
-
-

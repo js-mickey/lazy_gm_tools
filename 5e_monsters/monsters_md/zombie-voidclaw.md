@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Zombie, Voidclaw
+size: Small
+type: Undead
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 143
+hp_roll: 26d6+52
+ac: 14
+speed: walk 40 ft. climb 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 401
+---
+
 # Zombie, Voidclaw
 
 *Small* *Undead* *chaotic evil*
@@ -34,5 +53,3 @@
 ### Bonus Actions
 
 - **Nimble Fighter:** Takes Dash or Disengage action.
-
-

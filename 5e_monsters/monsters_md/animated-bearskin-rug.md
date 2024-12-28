@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Animated Bearskin Rug
+size: Large
+type: Construct
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 65
+hp_roll: 10d10+10
+ac: 13
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 6
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 24
+---
+
 # Animated Bearskin Rug
 
 *Large* *Construct* *unaligned*
@@ -31,5 +50,3 @@
 - **Claws:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target not grappled by the bearskin rug. Hit: 11 (2d6 + 4) slashing damage.
 - **Envelop:** Melee Weapon Attack: +6 to hit, reach 5 ft., one Medium or smaller creature. Hit: The creature is grappled (escaped DC 14). Until this grapple ends, the target is restrained, and the rug can’t envelop another target.
 - **Menacing Roar (Recharge 6):** The bearskin rug lets out a hideous, supernatural howl. Each creature within 20 feet of the rug that can hear the roar must succeed on a DC 13 Wisdom saving throw or become frightened for 1 minute. A creature frightened this way must spend its turns trying to move as far away from the rug as it can. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there’s nowhere to move, the creature can use the Dodge action. At the end of each of its turns and when it takes damage, the creature can repeat the saving throw, ending the effect on itself on a success.
-
-

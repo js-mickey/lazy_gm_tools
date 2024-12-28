@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Gorao-Ka
+size: Tiny
+type: Fey
+alignment: neutral good
+cr: 1/8
+xp: 25
+hp: 17
+hp_roll: 5d4+5
+ac: 13
+speed: walk 20 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 221
+---
+
 # Gorao-Ka
 
 *Tiny* *Fey* *neutral good*
@@ -25,5 +44,3 @@
 
 - **Sack of Coins:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 - **Find a Penny (Recharge 5-6):** The gorao-ka throws a copper piece into a space within 5 feet of it. A creature that is not hostile to the gorao-ka that picks up the copper piece is blessed with good luck. At any point within the next 1 hour, the creature can roll a d6 and add the number rolled to one attack roll, ability check, or saving throw.<br><br>Alternatively, the bearer of the coin can pass it to another creature of its choice. At any point within the next 8 hours, the new bearer of the coin can roll 2d6 and add the higher result to one attack roll, ability check, or saving throw.
-
-

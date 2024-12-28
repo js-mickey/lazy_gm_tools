@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Scarecrow Harvester
+size: Medium
+type: Construct
+alignment: 
+cr: 4
+xp: 1,100
+hp: 67
+hp_roll: 9d8+27
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 383
+---
+
 # Scarecrow Harvester
 
 *Medium* *Construct*
@@ -32,5 +51,3 @@
 - **Fire Breath (Recharge 4-6):** The scarecrow exhales fire in a 30-foot cone. Each creature in the area makes a DC 13 Dexterity saving throw  taking 14 (4d6) fire damage on a failed save or half damage on a success.
 - **Pumpkin Head (1/Day):** The scarecrow throws its head up to 60 feet. Each creature within 20 feet of the head makes a DC 13 Dexterity saving throw  taking 21 (6d6) fire damage on a failed save or half damage on a success. After using this action  the scarecrow no longer has a head. It can still use its senses but can no longer use Fire Breath. It can create a new head when it finishes a long rest.
 - **Invisibility (1/Day):** The scarecrow  along with any mount it is riding  is invisible for 1 hour or until it attacks or uses Scare  Fire Breath  or Pumpkin Head.
-
-

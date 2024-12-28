@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bone Swarm
+size: Large
+type: Swarm
+alignment: Chaotic Evil
+cr: 10
+xp: 5,900
+hp: 198
+hp_roll: 36d10
+ac: 17
+speed: walk 60 ft. fly 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 41
+---
+
 # Bone Swarm
 
 *Large* *Swarm* *Chaotic Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pech Lithlord
+size: Small
+type: Elemental
+alignment: neutral good
+cr: 7
+xp: 2,900
+hp: 104
+hp_roll: 16d6+48
+ac: 17
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 295
+---
+
 # Pech Lithlord
 
 *Small* *Elemental* *neutral good*
@@ -32,5 +51,3 @@ At will: mending, thunderwave (4d8)
 - **Multiattack:** The pech lithlord makes three attacks: two with its pick and one with its hammer. If the pech lithlord hits the same target with two attacks, the target must succeed on a DC 15 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 - **Pick:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 - **Hammer:** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage.
-
-

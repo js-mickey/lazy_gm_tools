@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sharkjaw Skeleton
+size: Large
+type: Undead
+alignment: Lawful Evil
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 12
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. blindsight 30 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 329
+---
+
 # Sharkjaw Skeleton
 
 *Large* *Undead* *Lawful Evil*

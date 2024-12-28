@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Assassin
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 99
+hp_roll: 18d8+18
+ac: 16
+speed: climb 30 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 64
+---
+
 # Clockwork Assassin
 
 *Medium* *Construct* *unaligned*
@@ -34,5 +53,3 @@
 - **Multiattack:** The clockwork assassin makes two rapier attacks.
 - **Rapier:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage and the target must succeed on a DC 15 Constitution saving throw or take 11 (2d10) poison damage and be poisoned for 1 minute.
 - **Disassembly:** The assassin breaks its body down into a snakelike, segmented cylinder, which allows it to move through a space as narrow as 6 inches wide. It can reassemble itself into its true form by using this action again. While disassembled into its snake form, the assassin can't attack and attack rolls against it have advantage.
-
-

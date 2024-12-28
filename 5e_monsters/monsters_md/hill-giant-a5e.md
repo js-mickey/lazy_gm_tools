@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hill Giant
+size: Huge
+type: Giant
+alignment: 
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 10d12+40
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 238
+---
+
 # Hill Giant
 
 *Huge* *Giant*
@@ -31,5 +50,3 @@
 ### Bonus Actions
 
 - **Grab:** One creature within 5 feet makes a DC 10 Dexterity saving throw. On a failure, it is grappled (escape DC 16). Until this grapple ends, the giant can't grab another target, and it makes greatclub attacks with advantage against the grappled target.
-
-

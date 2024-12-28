@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Skeletal Warhorse
+size: Large
+type: Undead
+alignment: 
+cr: 1/2
+xp: 100
+hp: 30
+hp_roll: 4d10+8
+ac: 11
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 9
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 394
+---
+
 # Skeletal Warhorse
 
 *Large* *Undead*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Hooves:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 7 (1d6 + 4) bludgeoning damage. If the skeleton moves at least 20 feet straight towards the target before the attack  the target makes a DC 14 Strength saving throw  falling prone on a failure.
-
-

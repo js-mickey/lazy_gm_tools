@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stegosaurus
+size: Huge
+type: Beast
+alignment: 
+cr: 3
+xp: 700
+hp: 63
+hp_roll: 6d12+24
+ac: 16
+speed: walk 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 90
+---
+
 # Stegosaurus
 
 *Huge* *Beast*
@@ -19,5 +38,3 @@
 ### Actions
 
 - **Tail:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 17 (3d8 + 4) piercing damage. If the target is a Large or smaller creature  it makes a DC 14 Strength saving throw. On a failure  it is knocked prone.
-
-

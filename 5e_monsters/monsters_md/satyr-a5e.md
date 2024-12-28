@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Satyr
+size: Medium
+type: Fey
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 5d8
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 380
+---
+
 # Satyr
 
 *Medium* *Fey*
@@ -27,5 +46,3 @@
 - **Shortbow:** Ranged Weapon Attack: +4 to hit  range 80/320 ft.  one target. Hit: 5 (1d6 + 2) piercing damage.
 - **Dance Tune:** Each humanoid  fey  or giant within 30 feet that can hear the satyr makes a DC 13 Wisdom saving throw. On a failure  it must dance until the beginning of the satyrs next turn. While dancing  its movement speed is halved  and it has disadvantage on attack rolls. Satyrs dont suffer the negative consequences of dancing. If a creatures saving throw is successful or the effect ends for it  it is immune to any satyrs Dance Tune for 24 hours. This is a magical charm effect.
 - **Lullaby:** Each humanoid or giant within 30 feet that can hear the satyr makes a DC 13 Constitution saving throw. On a failure  it falls asleep. It wakes up if a creature uses an action to wake it or if the satyr ends a turn without using its action to continue the lullaby. If a creatures saving throw is successful or the effect ends for it  it is immune to any satyrs Lullaby for 24 hours. This is a magical charm effect.
-
-

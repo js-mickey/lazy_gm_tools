@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shockwing
+size: Small
+type: Beast
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 5d6+10
+ac: 12
+speed: fly 30 ft. walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 179
+---
+
 # Shockwing
 
 *Small* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 - **Multiattack:** The shockwing makes two proboscis attacks.
 - **Proboscis:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage and 2 (1d4) lightning damage.
 - **Fulminating Wings (1/Day):** A 20-foot radius burst of electricity releases from the shockwing. Each creature in that area must succeed on a DC 12 Constitution saving throw or be stunned until the end of its next turn.
-
-

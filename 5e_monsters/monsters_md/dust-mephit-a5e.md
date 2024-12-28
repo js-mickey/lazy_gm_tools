@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dust Mephit
+size: Small
+type: Elemental
+alignment: 
+cr: 1/2
+xp: 100
+hp: 17
+hp_roll: 5d6
+ac: 12
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 325
+---
+
 # Dust Mephit
 
 *Small* *Elemental*
@@ -30,5 +49,3 @@
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) slashing damage.
 - **Blinding Breath (1/Day):** The mephit exhales a 15-foot cone of dust. Each creature in the area makes a DC 10 Constitution saving throw. On a failure  the creature is blinded for 1 minute. It repeats the saving throw at the end of each of its turns  ending the effect on itself on a success.
 - **Sleep Sand (1/Day):** The closest creature within 60 feet with 20 hit points or fewer falls asleep for 1 minute. It awakens early if it takes damage or a creature uses an action to shake it awake. Constructs and undead are immune to this effect.
-
-

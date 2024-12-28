@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Akaasit
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 91
+hp_roll: 14d8+28
+ac: 15
+speed: walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 11
+---
+
 # Akaasit
 
 *Medium* *Construct* *unaligned*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Time-Assisted Counterattack:** The akaasit’s awareness of the near future allows it to see attacks before they happen. When a creature the akaasit can see attacks it while within 5 feet of it, the akaasit can attack the creature before the creature’s attack hits. The akaasit makes a single arm blade attack against the creature. If the creature is reduced to 0 hp as a result of the akaasit’s attack, the creature’s attack doesn’t hit the akaasit.
-
-

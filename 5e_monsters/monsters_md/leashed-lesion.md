@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Leashed Lesion
+size: Large
+type: Aberration
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d10+10
+ac: 15
+speed: walk 40 ft.
+senses: blindsight 120 ft. 
+passive_perception: 9
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 259
+---
+
 # Leashed Lesion
 
 *Large* *Aberration* *chaotic evil*
@@ -27,5 +46,3 @@
 ### Bonus Actions
 
 - **Life Tether:** Attaches a symbiotic tether to a creature sitting in the recess in its back. A creature in the recess that isn’t attached to the tether takes 7 (2d6) piercing damage at the end of the lesion’s turn and the lesion regains hp equal to the damage dealt. While the tether is attached the creature is grappled by the lesion. The lesion or the creature can detach the tether as a bonus action. Lesion can have its symbiotic tether attached to only one creature at a time.
-
-

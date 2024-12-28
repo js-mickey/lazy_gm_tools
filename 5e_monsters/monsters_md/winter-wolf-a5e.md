@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Winter Wolf
+size: Large
+type: Monstrosity
+alignment: 
+cr: 3
+xp: 700
+hp: 67
+hp_roll: 9d10+18
+ac: 13
+speed: walk 50 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 463
+---
+
 # Winter Wolf
 
 *Large* *Monstrosity*
@@ -27,5 +46,3 @@
 
 - **Bite:** Melee Weapon Attack: +6 to hit  reach 5 ft.  one target. Hit: 11 (2d6+4) piercing damage. If the target is a creature  it makes a DC 14 Strength saving throw  falling prone on a failure.
 - **Cold Breath (Recharge 5-6):** The wolf exhales frost in a 15-foot cone. Each creature in the area makes a DC 12 Dexterity saving throw  taking 18 (4d8) cold damage on a failure or half damage on a success.
-
-

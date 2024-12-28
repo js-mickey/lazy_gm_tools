@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Awakened Tree
+size: Huge
+type: Plant
+alignment: 
+cr: 2
+xp: 450
+hp: 51
+hp_roll: 6d12+12
+ac: 13
+speed: walk 20 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 438
+---
+
 # Awakened Tree
 
 *Huge* *Plant*
@@ -25,5 +44,3 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +6 to hit  reach 10 ft.  one target. Hit: 14 (3d6+4) bludgeoning damage.
-
-

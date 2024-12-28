@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Animal Lord, Mammoth Queen
+size: Huge
+type: Fey
+alignment: chaotic good
+cr: 18
+xp: 20,000
+hp: 250
+hp_roll: 20d12+120
+ac: 20
+speed: walk 40 ft.
+senses: truesight 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 32
+---
+
 # Animal Lord, Mammoth Queen
 
 *Huge* *Fey* *chaotic good*

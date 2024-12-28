@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Vampire Warrior
+size: Medium
+type: Undead
+alignment: 
+cr: 12
+xp: 8,400
+hp: 142
+hp_roll: 15d8+75
+ac: 18
+speed: walk 40 ft. climb 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 421
+---
+
 # Vampire Warrior
 
 *Medium* *Undead*

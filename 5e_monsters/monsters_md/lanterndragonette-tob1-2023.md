@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lantern Dragonette
+size: Tiny
+type: Dragon
+alignment: Lawful Neutral
+cr: 1/2
+xp: 100
+hp: 28
+hp_roll: 8
+ac: 13
+speed: walk 40 ft. fly 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 136
+---
+
 # Lantern Dragonette
 
 *Tiny* *Dragon* *Lawful Neutral*

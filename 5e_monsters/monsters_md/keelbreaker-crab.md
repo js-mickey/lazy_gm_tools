@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Keelbreaker Crab
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 157
+hp_roll: 15d12+60
+ac: 16
+speed: walk 40 ft. swim 40 ft.
+senses: blindsight 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 226
+---
+
 # Keelbreaker Crab
 
 *Huge* *Monstrosity* *unaligned*
@@ -29,5 +48,3 @@ Each figurehead is an object with AC 15, 20 hp, resistance to bludgeoning and pi
 - **Multiattack:** The crab can use its Wail. It then makes two pincer attacks.
 - **Pincer:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 17 (3d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16) if it is a Large or smaller creature. The crab has two claws, each of which can grapple only one target.
 - **Wail:** As long as at least one if its living figureheads remains intact, the keelbreaker crab can cause the figurehead to wail. Roll a d6 and consult the following table to determine the wail.<br><br>| d6 | Wail |<br>|----|------|<br>| 1-2 | Frightening Wail. Each creature within 60 feet who can hear the crab must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the keelbreaker crab’s Frightening Wail for the next 24 hours. |<br>| 3-4 | Maddening Wail. Each creature within 60 feet who can hear the crab must succeed on a DC 16 Wisdom saving throw or take 18 (4d8) psychic damage. |<br>| 5-6 | Stunning Wail. Each creature within 60 feet who can hear the crab must make a DC 16 Constitution saving throw. On a failure, a creature takes 9 (2d8) thunder damage and is stunned until the end of its next turn. On a success, a creature takes half the damage and isn’t stunned. |
-
-

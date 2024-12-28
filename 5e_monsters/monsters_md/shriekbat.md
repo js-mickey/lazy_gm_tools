@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shriekbat
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 178
+hp_roll: 17d12+68
+ac: 15
+speed: fly 100 ft. walk 20 ft.
+senses: blindsight 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 325
+---
+
 # Shriekbat
 
 *Huge* *Monstrosity* *unaligned*
@@ -28,5 +47,3 @@
 - **Bite:** Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) piercing damage.
 - **Talons:** Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (3d6 + 7) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the shriekbat can’t use its talons on another target.
 - **Shriek (Recharge 5-6):** The shriekbat emits a powerful burst of sound in a 30-foot cone. Each creature in that area must make a DC 16 Constitution saving throw, taking 42 (12d6) thunder damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the target is also stunned for 1 minute. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

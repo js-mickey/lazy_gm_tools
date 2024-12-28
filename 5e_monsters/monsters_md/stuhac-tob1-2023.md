@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Stuhac
+size: Medium
+type: Fiend
+alignment: Neutral Evil
+cr: 13
+xp: 10,000
+hp: 209
+hp_roll: 110
+ac: 18
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 351
+---
+
 # Stuhac
 
 *Medium* *Fiend* *Neutral Evil*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadow Ooze
+size: Medium
+type: Ooze
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 76
+hp_roll: 9d8+36
+ac: 8
+speed: climb 20 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 8
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 287
+---
+
 # Shadow Ooze
 
 *Medium* *Ooze* *unaligned*
@@ -29,5 +48,3 @@
 - **Multiattack:** The ooze makes one pseudopod attack and then uses Snuff Out.
 - **Pseudopod:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 7 (2d6) necrotic damage and 3 (1d6) acid damage.
 - **Snuff Out:** The ooze extinguishes one natural or magical light source within 60 feet of it. If the light source is created by a spell, it is dispelled.
-
-

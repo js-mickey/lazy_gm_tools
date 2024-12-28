@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Demon, Inciter
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 1
+xp: 200
+hp: 27
+hp_roll: 5d8+5
+ac: 13
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 108
+---
+
 # Demon, Inciter
 
 *Medium* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@
 ### Bonus Actions
 
 - **Invisibility:** Magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment it wears or carries is invisible with it.
-
-

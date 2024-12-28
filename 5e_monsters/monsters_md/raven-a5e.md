@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Raven
+size: Tiny
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 1
+hp_roll: 1d4-1
+ac: 12
+speed: walk 10 ft. fly 50 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 457
+---
+
 # Raven
 
 *Tiny* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Beak:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 1 piercing damage. If this damage would reduce a Small or larger target to 0 hit points  the target takes no damage from this attack.
-
-

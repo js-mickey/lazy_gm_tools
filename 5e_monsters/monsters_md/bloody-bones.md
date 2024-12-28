@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bloody Bones
+size: Medium
+type: Monstrosity
+alignment: chaotic evil
+cr: 3
+xp: 700
+hp: 55
+hp_roll: 10d8+10
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 54
+---
+
 # Bloody Bones
 
 *Medium* *Monstrosity* *chaotic evil*
@@ -30,5 +49,3 @@
 ### Reactions
 
 - **Its Crown Runs Red:** When it is hit by an attack, the bloody bones regains 5 (1d10) hit points and has resistance to that damage type until the end of its next turn as life-giving blood pours from the top of its skull.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Flame Dragon
+size: Gargantuan
+type: Dragon
+alignment: Chaotic Evil
+cr: 23
+xp: 50,000
+hp: 518
+hp_roll: 224
+ac: 22
+speed: walk 80 ft. fly 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 27
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 117
+---
+
 # Ancient Flame Dragon
 
 *Gargantuan* *Dragon* *Chaotic Evil*

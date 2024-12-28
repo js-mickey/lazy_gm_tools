@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Agnibarra
+size: Small
+type: Monstrosity
+alignment: chaotic neutral
+cr: 1
+xp: 200
+hp: 39
+hp_roll: 6d6+18
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 9
+---
+
 # Agnibarra
 
 *Small* *Monstrosity* *chaotic neutral*
@@ -27,5 +46,3 @@
 
 - **Burning Claw:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 3 (1d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 - **Spit Fire:** Ranged Weapon Attack: +4 to hit, range 15/30 ft., one target. Hit: 9 (2d6 + 2) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
-
-

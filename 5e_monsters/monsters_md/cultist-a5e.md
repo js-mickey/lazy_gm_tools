@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cultist
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/8
+xp: 25
+hp: 9
+hp_roll: 2d8
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 472
+---
+
 # Cultist
 
 *Medium* *Humanoid*
@@ -24,5 +43,3 @@
 
 - **Dagger:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 20/60 ft.  one target. Hit: 4 (1d4 + 2) piercing damage.
 - **Cultists worship forbidden gods, devils, demons, and other sinister beings:** Many cultists work to summon the object of their devotion to the world so it might grant them power and destroy their enemies.
-
-

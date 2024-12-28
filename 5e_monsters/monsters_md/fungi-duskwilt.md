@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fungi, Duskwilt
+size: Small
+type: Plant
+alignment: lawful neutral
+cr: 4
+xp: 1,100
+hp: 97
+hp_roll: 15d6+45
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 190
+---
+
 # Fungi, Duskwilt
 
 *Small* *Plant* *lawful neutral*
@@ -29,5 +48,3 @@
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 6 (1d4+4) bludgeoning damage + 3 (1d6) necrotic.
 - **Nether Bolt:** Ranged Spell Attack: +4 to hit, 60 ft., one target, 9 (2d6+2) necrotic.
 - **Necrotizing Spores (3/Day):** Each creature within 15 ft. of the duskwilt and that isn’t a Construct or Undead must make a DC 14 Con save. On a failure a creature takes 15 (6d4) poison and is poisoned for 1 min. On a success a creature takes half the damage and isn’t poisoned. The poisoned creature can re-save at end of each of its turns success ends effect on itself. In addition each Undead within 15 ft. of the duskwilt gains 7 (2d6) temp hp.
-
-

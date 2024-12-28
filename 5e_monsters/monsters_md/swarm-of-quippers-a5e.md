@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm of Quippers
+size: Medium
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 28
+hp_roll: 8d8-8
+ac: 13
+speed: walk 0 ft. swim 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 461
+---
+
 # Swarm of Quippers
 
 *Medium* *Beast*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +5 to hit  reach 0 ft.  one target. Hit: 10 (4d4) piercing damage  or 5 (2d4) piercing damage if the swarm is bloodied. On a hit  the swarm can use a bonus action to make a second bites attack.
-
-

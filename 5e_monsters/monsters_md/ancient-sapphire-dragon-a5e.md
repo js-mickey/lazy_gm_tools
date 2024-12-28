@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ancient Sapphire Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 25
+xp: 75,000
+hp: 429
+hp_roll: 26d20+156
+ac: 21
+speed: walk 40 ft. burrow 40 ft. fly 80 ft.
+senses: darkvision 120 ft. 
+passive_perception: 27
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 149
+---
+
 # Ancient Sapphire Dragon
 
 *Gargantuan* *Dragon*

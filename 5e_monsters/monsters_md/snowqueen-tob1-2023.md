@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Snow Queen
+size: Medium
+type: Fey
+alignment: Neutral Evil
+cr: 16
+xp: 15,000
+hp: 182
+hp_roll: 56
+ac: 17
+speed: walk 40 ft.
+senses: blindsight 10 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 184
+---
+
 # Snow Queen
 
 *Medium* *Fey* *Neutral Evil*

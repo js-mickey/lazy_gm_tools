@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xecha
+size: Medium
+type: Fiend
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d8+70
+ac: 15
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 397
+---
+
 # Xecha
 
 *Medium* *Fiend* *chaotic evil*
@@ -32,5 +51,3 @@
 - **Pseudopod (True Form Only):** Melee Weapon Attack: +6 to hit, 5 ft., one target, 13 (3d6+3) bludgeoning damage + 7 (2d6) acid.
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 12 (2d8+3) bludgeoning damage.
 - **Sensory Overload (Recharge 5–6):** Psychic pulse. Each creature that isn’t a Construct or Undead within 20' of the xecha: 24 (7d6) psychic and blinded and deafened until end of its next turn (DC 15 Int half damage not blinded/deafened).
-
-

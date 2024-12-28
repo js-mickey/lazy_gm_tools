@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Reaver
+size: Medium
+type: Humanoid
+alignment: Neutral
+cr: 4
+xp: 1,100
+hp: 82
+hp_roll: 33
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 371
+---
+
 # Trollkin Reaver
 
 *Medium* *Humanoid* *Neutral*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Revilock
+size: Medium
+type: Humanoid
+alignment: 
+cr: 2
+xp: 450
+hp: 39
+hp_roll: 6d8+12
+ac: 12
+speed: walk 30 ft.
+senses: blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius) 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 259
+---
+
 # Revilock
 
 *Medium* *Humanoid*
@@ -28,5 +47,3 @@
 - **Spiked Club:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 2 (1d4) piercing damage.
 - **Throttle:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one creature. Hit: 4 (1d4 + 2) bludgeoning damage  and the target is grappled (escape DC 12) and can't breathe. Until this grapple ends  the grimlock can't use any attack other than throttle and only against the grappled target  and it makes this attack with advantage.
 - **Sling:** Ranged Weapon Attack: +4 to hit  range 30/120 ft.  one target. Hit: 4 (1d4 + 2) bludgeoning damage.
-
-

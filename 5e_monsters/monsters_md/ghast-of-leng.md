@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghast of Leng
+size: Large
+type: Aberration
+alignment: neutral evil
+cr: 3
+xp: 700
+hp: 127
+hp_roll: 17d10+34
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 168
+---
+
 # Ghast of Leng
 
 *Large* *Aberration* *neutral evil*
@@ -29,5 +48,3 @@
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-
-

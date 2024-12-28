@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Boreas’ Chosen
+size: Medium
+type: Humanoid
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 102
+hp_roll: 12d8+48
+ac: 15
+speed: walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 48
+---
+
 # Boreas’ Chosen
 
 *Medium* *Humanoid* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** Boreas’ chosen makes two ice spear attacks.
 - **Spear:** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 9 (2d8) cold damage.
 - **Breath of the North Wind:** (Recharge 5-6). Boreas’ chosen exhales freezing breath in a 15-foot cone. Each creature in that area must make a DC 15 Constitution saving throw. On a failure, a creature takes 28 (8d6) cold damage and its speed is reduced by 10 feet until the end of its next turn. On a success, a creature takes half the damage and its speed isn’t reduced. A creature that fails the saving throw by 5 or more is petrified in ice until the end of its next turn instead.
-
-

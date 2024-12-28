@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hraesvelgr
+size: Huge
+type: Giant
+alignment: Titan
+cr: 19
+xp: 22,000
+hp: 241
+hp_roll: 105
+ac: 19
+speed: walk 120 ft. fly 20 ft.
+senses: 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 207
+---
+
 # Hraesvelgr
 
 *Huge* *Giant* *Titan)*

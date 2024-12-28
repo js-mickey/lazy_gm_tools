@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kamaitachi
+size: Small
+type: Monstrosity
+alignment: chaotic neutral
+cr: 5
+xp: 1,800
+hp: 84
+hp_roll: 13d6+39
+ac: 14
+speed: walk 30 ft. climb 15 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 220
+---
+
 # Kamaitachi
 
 *Small* *Monstrosity* *chaotic neutral*
@@ -30,5 +49,3 @@
 - **Multiattack:** The kamaitachi makes two sickle paw attacks.
 - **Sickle Paw (True Form Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 18 (4d6 + 4) slashing damage.
 - **Wintry Assault (Wintry Swirl Form Only):** Each creature in the kamaitachi’s space must make a DC 15 Dexterity saving throw. On a failure, the creature takes 9 (2d8) slashing damage plus 9 (2d8) cold damage and is blinded until the end of its next turn. On a success, it takes half the damage and isn’t blinded.
-
-

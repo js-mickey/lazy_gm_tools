@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kot Bayun
+size: Medium
+type: Monstrosity
+alignment: Neutral
+cr: 3
+xp: 700
+hp: 66
+hp_roll: 12
+ac: 15
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 248
+---
+
 # Kot Bayun
 
 *Medium* *Monstrosity* *Neutral*

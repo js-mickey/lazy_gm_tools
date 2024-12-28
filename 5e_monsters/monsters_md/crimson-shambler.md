@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Crimson Shambler
+size: Medium
+type: Plant
+alignment: unaligned
+cr: 1/2
+xp: 100
+hp: 32
+hp_roll: 5d8+10
+ac: 12
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 73
+---
+
 # Crimson Shambler
 
 *Medium* *Plant* *unaligned*
@@ -27,5 +46,3 @@
 
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 3 (1d6) acid damage.
 - **Slime Glob:** Ranged Weapon Attack: +2 to hit, range 20/60 ft., one target. Hit: 3 (1d6) acid damage and the target must succeed on a DC 12 Constitution saving throw or become infected with the shambler’s spores (see the Spores trait).
-
-

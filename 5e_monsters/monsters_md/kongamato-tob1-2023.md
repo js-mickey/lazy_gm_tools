@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kongamato
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 6
+xp: 2,300
+hp: 127
+hp_roll: 34
+ac: 16
+speed: walk 60 ft. fly 10 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 247
+---
+
 # Kongamato
 
 *Large* *Beast* *Unaligned*

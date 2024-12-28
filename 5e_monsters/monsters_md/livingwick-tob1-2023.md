@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Living Wick
+size: Small
+type: Construct
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 28
+hp_roll: 8d6
+ac: 13
+speed: walk 20 ft.
+senses: 
+passive_perception: 7
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 257
+---
+
 # Living Wick
 
 *Small* *Construct* *Unaligned*

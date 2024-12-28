@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Hag
+size: Medium
+type: Fey
+alignment: Chaotic Evil
+cr: 11
+xp: 7,200
+hp: 204
+hp_roll: 96
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 226
+---
+
 # Blood Hag
 
 *Medium* *Fey* *Chaotic Evil*

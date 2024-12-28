@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lazavik
+size: Tiny
+type: Fey
+alignment: neutral good
+cr: 3
+xp: 700
+hp: 36
+hp_roll: 8d4+16
+ac: 14
+speed: swim 30 ft. walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 236
+---
+
 # Lazavik
 
 *Tiny* *Fey* *neutral good*
@@ -29,5 +48,3 @@
 
 - **Reed Whip:** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage.
 - **Eye Flare (Recharge 5-6):** The lazavik’s eye flares with blinding light in a 15-foot cone. Each creature in the area much make a DC 13 Dexterity saving throw. On a failure, a creature takes 10 (3d6) radiant damage and is blinded for 1 minute. On a success, a creature takes half the damage and isn’t blinded. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dire Wolf
+size: Large
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 30
+hp_roll: 4d10+8
+ac: 13
+speed: walk 50 ft.
+senses: darkvision 30 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 443
+---
+
 # Dire Wolf
 
 *Large* *Beast*
@@ -24,5 +43,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (2d4+3) piercing damage. If the target is a creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
-
-

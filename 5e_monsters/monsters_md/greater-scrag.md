@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Greater Scrag
+size: Large
+type: Monstrosity
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 127
+hp_roll: 15d10+45
+ac: 16
+speed: swim 40 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 401
+---
+
 # Greater Scrag
 
 *Large* *Monstrosity* *chaotic evil*
@@ -28,5 +47,3 @@
 - **Multiattack:** The greater scrag makes three attacks: one with its bite and two with its claws.
 - **Bite:** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5)
 - **Claws:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (3d4 + 5)
-
-

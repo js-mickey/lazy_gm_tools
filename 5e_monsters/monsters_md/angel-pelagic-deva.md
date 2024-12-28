@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Angel, Pelagic Deva
+size: Medium
+type: Celestial
+alignment: neutral good
+cr: 11
+xp: 7,200
+hp: 142
+hp_roll: 15d8+75
+ac: 17
+speed: walk 20 ft. swim 90 ft.
+senses: darkvision 120 ft. 
+passive_perception: 19
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 27
+---
+
 # Angel, Pelagic Deva
 
 *Medium* *Celestial* *neutral good*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Anoxic Aura (1/Day):** Removes oxygen from nearby water for 1 min. Each creature that requires oxygen to live (including air-breathing creatures under effects of water breathing) and starts its turn within 20' of deva: DC 17 Con save or begin suffocating. Deva never suffers effects of this; can choose any creatures in area to ignore it.
-
-

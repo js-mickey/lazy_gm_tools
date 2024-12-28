@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Leonino
+size: Tiny
+type: Beast
+alignment: unaligned
+cr: 1/8
+xp: 25
+hp: 13
+hp_roll: 3d4+6
+ac: 13
+speed: fly 40 ft. walk 30 ft.
+senses: darkvision 30 ft. 
+passive_perception: 11
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 250
+---
+
 # Leonino
 
 *Tiny* *Beast* *unaligned*
@@ -26,5 +45,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage. If this is the first time the leonino has hit the target within the past 24 hours, the target must succeed on a DC 10 Wisdom saving throw or be charmed by the leonino for 1 hour.
-
-

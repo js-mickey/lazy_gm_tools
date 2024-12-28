@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Salamander
+size: Large
+type: Elemental
+alignment: 
+cr: 6
+xp: 2,300
+hp: 90
+hp_roll: 12d10+24
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 379
+---
+
 # Salamander
 
 *Large* *Elemental*
@@ -28,5 +47,3 @@
 - **Multiattack:** The salamander makes a tail attack and a pike attack.
 - **Tail:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 9 (2d4 + 4) bludgeoning damage  the target is subjected to the salamanders Heated Body trait  and the target is grappled (escape DC 15). Until this grapple ends  the target is restrained  the salamander automatically hits the target with its tail attack  and the salamander can't attack a different target with its tail.
 - **Pike:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 15 (2d10 + 4) piercing damage plus 3 (1d6) fire damage.
-
-

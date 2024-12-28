@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dinosaur, Guardian Archaeopteryx
+size: Small
+type: Beast
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 36
+hp_roll: 8d6+8
+ac: 15
+speed: walk 15 ft. fly 50 ft.
+senses: 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 126
+---
+
 # Dinosaur, Guardian Archaeopteryx
 
 *Small* *Beast* *unaligned*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Imbue Poison:** The guardian archaeopteryx chooses a friendly creature it can see within 30' of it and imbues that creature’s attacks with magical poison. The next time the friendly creature hits with an attack before the start of archaeopteryx’s next turn target of attack takes an extra 2 (1d4) poison and must make DC 11 Con save or be poisoned until end of its next turn.
-
-

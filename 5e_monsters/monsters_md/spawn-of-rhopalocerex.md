@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spawn of Rhopalocerex
+size: Large
+type: Fiend
+alignment: chaotic evil
+cr: 6
+xp: 2,300
+hp: 112
+hp_roll: 15d10+30
+ac: 17
+speed: hover True ft. walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 92
+---
+
 # Spawn of Rhopalocerex
 
 *Large* *Fiend* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 - **Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft. or range 5 ft., one creature. Hit: 7 (1d6 + 4) slashing damage.
 - **Enchanting Display (Recharge 5-6):** The spawn of Rhopalocerex flutters its wings, and its large eyes briefly shine. Each creature within 30 feet of the spawn and that can see it must make a DC 15 Charisma saving throw. On a failure, a creature is charmed for 1 minute. On a success, a creature takes 14 (4d6) psychic damage.
-
-

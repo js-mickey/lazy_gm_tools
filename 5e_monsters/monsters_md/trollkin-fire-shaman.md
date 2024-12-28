@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Trollkin Fire Shaman
+size: Medium
+type: Humanoid
+alignment: neutral
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 7d8+14
+ac: 14
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 376
+---
+
 # Trollkin Fire Shaman
 
 *Medium* *Humanoid* *neutral*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Fiery Escape (2/Day):** When shaman takes damage each creature within 5 ft. of it: DC 13 Dex save or take 7 (2d6) fire. Shaman is then wreathed in flames and teleports up to 30' to unoccupied space it can see.
-
-

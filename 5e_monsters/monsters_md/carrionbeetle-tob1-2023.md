@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Carrion Beetle
+size: Large
+type: Beast
+alignment: Unaligned
+cr: 4
+xp: 1,100
+hp: 127
+hp_roll: 45
+ac: 15
+speed: walk 10 ft. burrow 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 50
+---
+
 # Carrion Beetle
 
 *Large* *Beast* *Unaligned*

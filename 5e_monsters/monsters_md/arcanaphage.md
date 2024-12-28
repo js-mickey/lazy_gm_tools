@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Arcanaphage
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 60
+hp_roll: 8d8+24
+ac: 14
+speed: fly 30 ft. hover True ft. walk 0 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 42
+---
+
 # Arcanaphage
 
 *Medium* *Monstrosity* *unaligned*
@@ -33,5 +52,3 @@
 ### Reactions
 
 - **Voracious:** The arcanaphage's tentacles glow when a spell is cast within 30 feet of it, countering the spell. This reaction works like the counterspell spell, except the arcanaphage must always make a spellcasting ability check, no matter the spell level. Its ability check for this is +5. If it successfully counters the spell, the arcanaphage feeds.
-
-

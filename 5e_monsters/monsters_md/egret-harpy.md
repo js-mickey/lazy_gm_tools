@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Egret Harpy
+size: Medium
+type: Monstrosity
+alignment: neutral
+cr: 2
+xp: 450
+hp: 75
+hp_roll: 10d8+30
+ac: 12
+speed: fly 60 ft. walk 30 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 122
+---
+
 # Egret Harpy
 
 *Medium* *Monstrosity* *neutral*
@@ -27,5 +46,3 @@
 - **Talons:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 - **Wing Buffet (Recharge 5-6):** The egret harpy beats its wings rapidly. Each Medium or smaller creature within 5 feet of the harpy must make a DC 13 Strength saving throw. On a failure, a creature takes 10 (3d6) bludgeoning damage and is knocked prone. On a success, a creature takes half the damage and isn’t knocked prone.
 - **Guiding Song:** The egret harpy sings a magical melody. Each humanoid and giant of the harpy’s choice within 300 feet of the harpy has advantage on Wisdom (Survival) checks to navigate marshes, and difficult terrain composed of mud, standing water, or other features of a marsh doesn’t cost it extra movement. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.<br><br>The harpy can use an action to end the song and cast mass suggestion. Each creature that can hear the harpy’s song must succeed on a DC 12 Wisdom saving throw or be affected by the spell for 8 hours. If the harpy chooses to end the song this way, it can’t use Guiding Song again until it finishes a long rest.
-
-

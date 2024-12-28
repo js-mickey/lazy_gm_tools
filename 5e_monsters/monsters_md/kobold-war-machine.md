@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kobold War Machine
+size: Large
+type: Construct
+alignment: unaligned
+cr: 9
+xp: 5,000
+hp: 114
+hp_roll: 12d10+48
+ac: 16
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 233
+---
+
 # Kobold War Machine
 
 *Large* *Construct* *unaligned*
@@ -36,5 +55,3 @@ If a creature scores a critical hit against the kobold war machine, the creature
 - **Spiked Wheel:** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) piercing damage.
 - **Spit Fire:** Ranged Weapon Attack: +6 to hit, range 120 ft., one target. Hit: 14 (4d6) fire damage.
 - **Fire Breath (Recharge 5-6):** The kobold war machine exhales fire in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save, or half as much damage on a successful one.
-
-

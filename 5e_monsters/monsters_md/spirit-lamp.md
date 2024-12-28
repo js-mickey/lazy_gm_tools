@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Spirit Lamp
+size: Medium
+type: Undead
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 82
+hp_roll: 11d8+33
+ac: 17
+speed: walk 40 ft.
+senses: 
+passive_perception: 15
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 349
+---
+
 # Spirit Lamp
 
 *Medium* *Undead* *chaotic evil*
@@ -34,5 +53,3 @@ If the creature remains cursed after 30 days, it is irreversibly changed by the 
 - **Multiattack:** The spirit lamp makes three attacks.
 - **Spirit Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) necrotic damage.
 - **Lantern Beam:** Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 11 (2d10) fire damage.
-
-

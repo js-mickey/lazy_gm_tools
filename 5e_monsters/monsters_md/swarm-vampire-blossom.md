@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Swarm, Vampire Blossom
+size: Large
+type: Plant
+alignment: unaligned
+cr: 3
+xp: 700
+hp: 82
+hp_roll: 11d10+22
+ac: 14
+speed: walk 20 ft. fly 10 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 364
+---
+
 # Swarm, Vampire Blossom
 
 *Large* *Plant* *unaligned*
@@ -30,5 +49,3 @@
 ### Actions
 
 - **Petal Slashes:** Melee Weapon Attack: +6 to hit, 0 ft., one creature, in the swarm’s space. 18 (4d8) slashing damage or 9 (2d8) slashing damage if the swarm has half its hp or fewer. Target must make a DC 13 Con save reducing its hp max by an amount equal to damage taken on a failed save or by half as much if made. This reduction lasts until creature finishes a long rest. Target dies if this reduces its hp max to 0.
-
-

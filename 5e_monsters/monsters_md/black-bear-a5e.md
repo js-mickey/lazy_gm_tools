@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Black Bear
+size: Medium
+type: Beast
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 11
+speed: walk 40 ft. climb 30 ft.
+senses: 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 439
+---
+
 # Black Bear
 
 *Medium* *Beast*
@@ -25,5 +44,3 @@
 - **Multiattack:** The bear attacks once with its bite and once with its claws.
 - **Bite:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) piercing damage.
 - **Claws:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 5 (1d6+2) slashing damage.
-
-

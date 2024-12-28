@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Phase Giant
+size: Huge
+type: Giant
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 136
+hp_roll: 13d12+52
+ac: 15
+speed: climb 20 ft. walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 172
+---
+
 # Phase Giant
 
 *Huge* *Giant* *neutral*
@@ -25,5 +44,3 @@
 - **Multiattack:** The giant makes two attacks with its spiked fists. If both attacks hit a Large or smaller target, the target must succeed on a DC 15 Strength saving throw or take 7 (2d6) piercing damage as the giant impales the target on its body spikes.
 - **Spiked Fist:** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 16). The phase giant has two fists, each of which can grapple only one target.
 - **Rock:** Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
-
-

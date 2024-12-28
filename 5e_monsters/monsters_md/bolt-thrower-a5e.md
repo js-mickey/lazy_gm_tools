@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bolt-Thrower
+size: Small
+type: Construct
+alignment: 
+cr: 2
+xp: 450
+hp: 44
+hp_roll: 8d6+16
+ac: 14
+speed: walk 15 ft. climb 15 ft.
+senses: blindsight 120 ft. (blind beyond that range) 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 52
+---
+
 # Bolt-Thrower
 
 *Small* *Construct*
@@ -28,5 +47,3 @@
 - **Multiattack:** The bolt-thrower attacks once with each of its crossbows.
 - **Light Crossbow:** Ranged Weapon Attack: +5 to hit  range 80/320 ft.  one target. Hit: 7 (1d8 + 3) piercing damage.
 - **Heavy Crossbow:** Ranged Weapon Attack: +5 to hit  range 100/400 ft.  one target. Hit: 8 (1d10 + 3) piercing damage.
-
-

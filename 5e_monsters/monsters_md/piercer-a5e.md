@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Piercer
+size: Small
+type: Monstrosity
+alignment: 
+cr: 1/2
+xp: 100
+hp: 9
+hp_roll: 2d6+2
+ac: 17
+speed: walk 0 ft.
+senses: blindsight 30 ft. (blind beyond that radius) 
+passive_perception: 8
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 373
+---
+
 # Piercer
 
 *Small* *Monstrosity*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Pierce:** Melee Weapon Attack: +2 to hit  one target directly underneath the piercer. Hit: 10 (3d6) piercing damage. This attack has disadvantage against a creature that is protecting its head with a shield or similar object. If the attack misses  the piercer dies.
-
-

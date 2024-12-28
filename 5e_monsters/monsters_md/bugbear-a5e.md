@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Bugbear
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1
+xp: 200
+hp: 30
+hp_roll: 5d8+8
+ac: 12
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 38
+---
+
 # Bugbear
 
 *Medium* *Humanoid*
@@ -22,5 +41,3 @@
 - **Maul:** Melee Weapon Attack: +4 to hit  reach 5 ft.  one target. Hit: 9 (2d6 + 2) bludgeoning damage.
 - **Javelin:** Melee or Ranged Weapon Attack: +4 to hit  reach 5 ft. or range 30/120 ft.  one target. Hit: 5 (1d6 + 2) piercing damage  or 12 (3d6 + 2) piercing damage if the target is a creature that is surprised or that can't see the bugbear.
 - **Stealthy Sneak:** The bugbear moves up to half its Speed without provoking opportunity attacks. It can then attempt to hide.
-
-

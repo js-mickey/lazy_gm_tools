@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sarcophagus Slime
+size: Medium
+type: Undead
+alignment: Neutral Evil
+cr: 5
+xp: 1,800
+hp: 102
+hp_roll: 48
+ac: 11
+speed: walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 316
+---
+
 # Sarcophagus Slime
 
 *Medium* *Undead* *Neutral Evil*

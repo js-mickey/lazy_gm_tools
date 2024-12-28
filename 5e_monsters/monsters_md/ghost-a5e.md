@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ghost
+size: Medium
+type: Undead
+alignment: 
+cr: 4
+xp: 1,100
+hp: 58
+hp_roll: 13d8
+ac: 11
+speed: walk 0 ft. fly 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 226
+---
+
 # Ghost
 
 *Medium* *Undead*
@@ -36,5 +55,3 @@
 ### Reactions
 
 - **Horrifying Visage:** If the ghost takes damage from an attack or spell, it uses Horrifying Visage.
-
-

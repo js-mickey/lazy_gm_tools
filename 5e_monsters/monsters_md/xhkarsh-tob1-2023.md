@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Xhkarsh
+size: Large
+type: Aberration
+alignment: Neutral Evil
+cr: 9
+xp: 5,000
+hp: 171
+hp_roll: 72
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 60 ft. tremorsense 120 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 400
+---
+
 # Xhkarsh
 
 *Large* *Aberration* *Neutral Evil*

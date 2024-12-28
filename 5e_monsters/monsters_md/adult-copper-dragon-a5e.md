@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Copper Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 17
+xp: 18,000
+hp: 253
+hp_roll: 22d12+110
+ac: 18
+speed: walk 40 ft. climb 40 ft. fly 80 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 20
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 166
+---
+
 # Adult Copper Dragon
 
 *Huge* *Dragon*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Barong
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 17
+xp: 18,000
+hp: 225
+hp_roll: 18d10+126
+ac: 20
+speed: fly 60 ft. walk 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 22
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 49
+---
+
 # Barong
 
 *Large* *Celestial* *lawful good*

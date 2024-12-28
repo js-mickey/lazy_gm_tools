@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Great Wyrm Black Dragon
+size: Gargantuan
+type: Dragon
+alignment: 
+cr: 23
+xp: 50,000
+hp: 735
+hp_roll: 42d20+294
+ac: 22
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 22
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 101
+---
+
 # Great Wyrm Black Dragon
 
 *Gargantuan* *Dragon*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Lou Carcolh
+size: Medium
+type: Monstrosity
+alignment: unaligned
+cr: 2
+xp: 450
+hp: 78
+hp_roll: 12d8+24
+ac: 14
+speed: climb 10 ft. swim 20 ft. walk 30 ft.
+senses: tremorsense 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 257
+---
+
 # Lou Carcolh
 
 *Medium* *Monstrosity* *unaligned*
@@ -27,5 +46,3 @@
 - **Spit Venom:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 16 (3d10) poison damage.
 - **Sticky Tongue:** Melee Weapon Attack: +4 to hit, reach 60 ft., one target. Hit: The target is restrained and the lou carcolh can't use the same sticky tongue on another target.
 - **Reel:** The lou carcolh pulls in each creature of Large size or smaller who is restrained by one of its sticky tongues. The creature is knocked prone and dragged up to 30 feet towards the lou carcolh. If a creature is dragged within 5 feet of the lou carcolh, it can make one bite attack against the creature as a bonus action.
-
-

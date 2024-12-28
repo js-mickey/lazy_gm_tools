@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mountain Dryad
+size: Huge
+type: Fey
+alignment: neutral
+cr: 11
+xp: 7,200
+hp: 172
+hp_roll: 15d12+75
+ac: 17
+speed: walk 40 ft. burrow 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft 
+passive_perception: 18
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 261
+---
+
 # Mountain Dryad
 
 *Huge* *Fey* *neutral*
@@ -36,5 +55,3 @@
 - **Slam:** Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) bludgeoning damage.
 - **Rock:** Ranged Weapon Attack: +13 to hit, range 60/240 ft., one target. Hit: 31 (4d10 + 9) bludgeoning damage.
 - **Mountain’s Awe (1/Day):** The mountain dryad emits a magical aura that radiates out from it for 1 minute. Each creature that starts its turn within 30 feet of the dryad must succeed on a DC 16 Charisma saving throw or be charmed for 1 minute. A charmed creature is incapacitated and, if it is more than 5 feet away from the mountain dryad, it must move on its turn toward the dryad by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the dryad, it can repeat the saving throw. While charmed within 5 feet of the dryad, a Medium or smaller creature must climb the dryad, no check required. After climbing 20 feet, the charmed creature throws itself off the mountain dryad, taking falling damage and landing prone in an unoccupied space within 5 feet of the mountain dryad. A charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-

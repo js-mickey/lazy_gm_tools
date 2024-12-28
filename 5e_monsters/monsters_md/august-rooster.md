@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: August Rooster
+size: Medium
+type: Monstrosity
+alignment: neutral evil
+cr: 4
+xp: 1,100
+hp: 75
+hp_roll: 10d8+30
+ac: 14
+speed: walk 25 ft.
+senses: 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 33
+---
+
 # August Rooster
 
 *Medium* *Monstrosity* *neutral evil*
@@ -32,5 +51,3 @@ At will: dancing lights, mage hand, message, vicious mockery
 
 - **Multiattack:** The august rooster makes two talon attacks.
 - **Talon:** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
-
-

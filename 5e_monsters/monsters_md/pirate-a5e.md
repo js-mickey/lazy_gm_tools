@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Pirate
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/8
+xp: 25
+hp: 9
+hp_roll: 2d8
+ac: 12
+speed: walk 30 ft.
+senses: 
+passive_perception: 10
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 470
+---
+
 # Pirate
 
 *Medium* *Humanoid*
@@ -21,5 +40,3 @@
 - **Scimitar:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 4 (1d6 + 1) slashing damage.
 - **Light Crossbow:** Ranged Weapon Attack: +2 to hit  range 80/320 ft.  one target. Hit: 4 (1d8) piercing damage.
 - **Pirates rob merchant ships on the high seas and in coastal waters:** Pirate statistics can also be used to represent armed sailors.
-
-

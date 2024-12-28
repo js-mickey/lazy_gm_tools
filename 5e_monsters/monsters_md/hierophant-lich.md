@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hierophant Lich
+size: Medium
+type: Undead
+alignment: evil alignment
+cr: 9
+xp: 5,000
+hp: 91
+hp_roll: 14d8+28
+ac: 14
+speed: walk 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 19
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 252
+---
+
 # Hierophant Lich
 
 *Medium* *Undead* *any evil alignment*

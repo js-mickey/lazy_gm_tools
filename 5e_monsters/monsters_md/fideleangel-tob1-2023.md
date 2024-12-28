@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fidele Angel
+size: Medium
+type: Celestial
+alignment: Lawful Good
+cr: 5
+xp: 1,800
+hp: 104
+hp_roll: 32
+ac: 16
+speed: walk 80 ft. fly 10 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 19
+---
+
 # Fidele Angel
 
 *Medium* *Celestial* *Lawful Good*

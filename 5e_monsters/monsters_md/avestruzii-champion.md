@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Avestruzii Champion
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 2
+xp: 450
+hp: 45
+hp_roll: 6d8+18
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 48
+---
+
 # Avestruzii Champion
 
 *Medium* *Humanoid* *any alignment*
@@ -26,5 +45,3 @@
 ### Reactions
 
 - **Dig In:** As Avestruzi above.
-
-

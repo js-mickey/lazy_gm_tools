@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Magma Mephit
+size: Small
+type: Elemental
+alignment: 
+cr: 1/2
+xp: 100
+hp: 21
+hp_roll: 6d6
+ac: 11
+speed: walk 30 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 326
+---
+
 # Magma Mephit
 
 *Small* *Elemental*
@@ -30,5 +49,3 @@
 - **Claws:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 - **Heat Metal (1/Day):** Ranged Spell Attack: +4 to hit  range 60 ft.  one creature wearing or holding a metal object. Hit: 9 (2d8) fire damage. If a creature is holding the object and suffers damage  it makes a DC 10 Constitution saving throw  dropping the object on a failure.
 - **Fire Breath (1/Day):** The mephit exhales a 15-foot cone of fire. Each creature in the area makes a DC 10 Constitution saving throw  taking 7 (2d6) fire damage on a failed save or half damage on a success.
-
-

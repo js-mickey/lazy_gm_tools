@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Imperial Dragon Wyrmling
+size: Medium
+type: Dragon
+alignment: neutral
+cr: 3
+xp: 700
+hp: 60
+hp_roll: 8d8+24
+ac: 17
+speed: walk 30 ft. fly 60 ft. swim 30 ft.
+senses: blindsight 10 ft. darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 117
+---
+
 # Imperial Dragon Wyrmling
 
 *Medium* *Dragon* *neutral*
@@ -27,5 +46,3 @@
 
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.
 - **Lightning Breath (Recharge 5-6):** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
-
-

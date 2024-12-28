@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Archon, Ursan
+size: Large
+type: Celestial
+alignment: chaotic good
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 15d10+60
+ac: 16
+speed: walk 30 ft. fly 60 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 43
+---
+
 # Archon, Ursan
 
 *Large* *Celestial* *chaotic good*
@@ -37,5 +56,3 @@
 ### Reactions
 
 - **Rallying Roar:** When it reduces a creature to 0 hp it can utter a triumphant roar. Each friendly creature within 60' of the archon that is frightened paralyzed stunned or unconscious has advantage on its next save. A friendly creature with o those conditions has advantage on its next attack roll. In addition each friendly creature within 60' of archon that can hear the roar gains 14 (4d6) temp hp.
-
-

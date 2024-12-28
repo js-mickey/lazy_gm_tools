@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cavefish Zombie
+size: Medium
+type: Undead
+alignment: neutral evil
+cr: 1/2
+xp: 100
+hp: 37
+hp_roll: 5d8+15
+ac: 10
+speed: swim 40 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 8
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 384
+---
+
 # Cavefish Zombie
 
 *Medium* *Undead* *neutral evil*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Slam:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.
-
-

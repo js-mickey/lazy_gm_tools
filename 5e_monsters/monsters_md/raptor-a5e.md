@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Raptor
+size: Medium
+type: Beast
+alignment: 
+cr: 1
+xp: 200
+hp: 32
+hp_roll: 5d8+10
+ac: 13
+speed: walk 60 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 91
+---
+
 # Raptor
 
 *Medium* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Claw:** Melee Weapon Attack: +5 to hit  reach 5 ft.  one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a Medium or smaller creature  it makes a DC 13 Strength saving throw  falling prone on a failure.
-
-

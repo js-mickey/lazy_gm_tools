@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Witch Queen
+size: Small
+type: Humanoid
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 77
+hp_roll: 14d6+28
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 97
+---
+
 # Witch Queen
 
 *Small* *Humanoid* *chaotic evil*
@@ -31,5 +50,3 @@ Cantrips (at will): acid splash, mage hand, message, ray of frost
 ### Actions
 
 - **Maddening Scimitar:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Charisma saving throw or use its reaction to move up to its speed and make a melee attack against the nearest enemy of the witch queen.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Young River Dragon
+size: Large
+type: Dragon
+alignment: 
+cr: 9
+xp: 5,000
+hp: 142
+hp_roll: 19d10+38
+ac: 17
+speed: walk 60 ft. fly 80 ft. swim 80 ft.
+senses: darkvision 120 ft. tremorsense 120 ft. (only detects vibrations in water) 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 132
+---
+
 # Young River Dragon
 
 *Large* *Dragon*
@@ -33,5 +52,3 @@
 - **Bite:** Melee Weapon Attack: +7 to hit  reach 10 ft.  one target. Hit: 19 (3d10 + 3) piercing damage.
 - **Claws:** Melee Weapon Attack: +7 to hit  reach 5 ft.  one target. Hit: 12 (2d8 + 3) slashing damage.
 - **Torrential Breath (Recharge 5-6):** The dragon exhales water in a 30-foot-long  5-foot-wide line. Each creature in the area makes a DC 14 Dexterity saving throw  taking 42 (12d6) bludgeoning damage on a failed save or half damage on a success.
-
-

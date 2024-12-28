@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Labyrinth Keeper
+size: Large
+type: Monstrosity
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 119
+hp_roll: 14d10+42
+ac: 15
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 267
+---
+
 # Labyrinth Keeper
 
 *Large* *Monstrosity* *chaotic evil*
@@ -30,5 +49,3 @@ At will: acid arrow, fire bolt, locate object, misty step
 - **Multiattack:** The minotaur labyrinth keeper makes two attacks: one with its gore and one with its shortsword.
 - **Gore:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
 - **Shortsword:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
-
-

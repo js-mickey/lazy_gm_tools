@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Fomorian
+size: Huge
+type: Fey
+alignment: 
+cr: 8
+xp: 3,900
+hp: 138
+hp_roll: 12d12+60
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 406
+---
+
 # Fomorian
 
 *Huge* *Fey*
@@ -32,5 +51,3 @@
 - **Charming Gaze (Gaze):** A creature within 60 feet makes a DC 15 Wisdom saving throw. On a failure, the creature is magically charmed by the fomorian. The creature repeats the saving throw every 24 hours and whenever it takes damage. On a successful saving throw or if the effect ends for it, the creature is immune to any fomorians Charming Gaze for the next 24 hours.
 - **Mesmerizing Gaze (Gaze:** A creature within 60 feet makes a DC 15 Wisdom saving throw. On a failure, the creature is magically restrained. The creature repeats the saving throw at the end of its next turn, ending the effect on itself on a success and becoming paralyzed on a failure. While the fomorian is not in line of sight, a paralyzed creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. On a successful saving throw or if the effect ends for it, the creature is immune to any fomorians Mesmerizing Gaze for 24 hours.
 - **Immortal Form:** While in its lair, the fomorian magically changes into a specific Medium humanoid resembling a human or back to its true form. Apart from its size, its statistics are unchanged. The fomorian reverts to its true form when it dies, is incapacitated, or leaves its lair.
-
-

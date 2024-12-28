@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Rakshasa
+size: Medium
+type: Fiend
+alignment: 
+cr: 13
+xp: 10,000
+hp: 161
+hp_roll: 19d8+76
+ac: 16
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 367
+---
+
 # Rakshasa
 
 *Medium* *Fiend*
@@ -39,5 +58,3 @@
 ### Reactions
 
 - **Counterproposal:** The rakshasa uses Sweet Promises on a creature that attacked it or attempted to target it with a spell.
-
-

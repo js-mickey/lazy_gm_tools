@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mandriano
+size: Large
+type: Plant
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 60
+hp_roll: 8d10+16
+ac: 13
+speed: walk 40 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 261
+---
+
 # Mandriano
 
 *Large* *Plant* *lawful evil*
@@ -25,5 +44,3 @@
 - **Multiattack:** The mandriano makes two swipe attacks.
 - **Swipe:** Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 14). Until this grapple ends, the target is restrained. It can grapple up to three creatures.
 - **Consume the Spark:** The mandriano drains the essence of one grappled target. The target must make a DC 14 Constitution saving throw, taking 13 (4d6) necrotic damage on a failed save, or half as much damage on a successful one. The target's hp maximum is reduced by an amount equal to the necrotic damage taken, and the mandriano regains hp equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hp maximum to 0. A humanoid slain in this way rises 24 hours later as a zombie or skeleton under the mandriano's control, unless the humanoid is restored to life or its body is destroyed. The mandriano can control up to twelve undead at one time.
-
-

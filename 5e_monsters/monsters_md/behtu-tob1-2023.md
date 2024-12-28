@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Behtu
+size: Small
+type: Humanoid
+alignment: Chaotic Evil
+cr: 2
+xp: 450
+hp: 52
+hp_roll: 24
+ac: 14
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 34
+---
+
 # Behtu
 
 *Small* *Humanoid* *Chaotic Evil*

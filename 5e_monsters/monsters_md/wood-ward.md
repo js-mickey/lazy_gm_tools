@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wood Ward
+size: Medium
+type: Construct
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 19
+hp_roll: 2d10+8
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 374
+---
+
 # Wood Ward
 
 *Medium* *Construct* *unaligned*
@@ -29,5 +48,3 @@
 - **Multiattack:** The wood ward makes two slam attacks.
 - **Slam:** Melee Weapon Attack: +3 to hit, reach 5 ft. one target. Hit: 3 (1d4 + 1) bludgeoning damage.
 - **Horror Gaze (1/Day):** The wood ward’s eye sockets release an eerie glow in a 30-foot cone. Each creature in the area must succeed on a DC 10 Charisma saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the wood ward’s Horror Gaze for the next 24 hours.
-
-

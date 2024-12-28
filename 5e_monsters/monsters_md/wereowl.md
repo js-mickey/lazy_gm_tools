@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Wereowl
+size: Medium
+type: Humanoid
+alignment: lawful evil
+cr: 5
+xp: 1,800
+hp: 117
+hp_roll: 18d8+36
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 17
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 194
+---
+
 # Wereowl
 
 *Medium* *Humanoid* *lawful evil*
@@ -30,5 +49,3 @@
 - **Shortsword (Humanoid or Hybrid Form Only):** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 - **Talon (Hybrid or Owl Form Only):** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with wereowl lycanthropy.
 - **Shortbow (Humanoid or Hybrid Form Only):** Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
-
-

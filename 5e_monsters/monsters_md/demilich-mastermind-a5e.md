@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Demilich Mastermind
+size: Tiny
+type: Undead
+alignment: 
+cr: 18
+xp: 20,000
+hp: 319
+hp_roll: 58d4+174
+ac: 20
+speed: walk 0 ft. fly 30 ft.
+senses: truesight 60 ft. 
+passive_perception: 22
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 63
+---
+
 # Demilich Mastermind
 
 *Tiny* *Undead*

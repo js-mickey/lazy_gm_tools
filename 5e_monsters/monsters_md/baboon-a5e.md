@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Baboon
+size: Small
+type: Beast
+alignment: 
+cr: 0
+xp: 25
+hp: 3
+hp_roll: 1d6
+ac: 12
+speed: walk 30 ft. climb 30 ft.
+senses: 
+passive_perception: 11
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 438
+---
+
 # Baboon
 
 *Small* *Beast*
@@ -23,5 +42,3 @@
 ### Actions
 
 - **Bite:** Melee Weapon Attack: +1 to hit  reach 5 ft.  one target. Hit: 1 piercing damage.
-
-

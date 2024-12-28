@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dinosaur, Therizinosaurus
+size: Huge
+type: Beast
+alignment: unaligned
+cr: 5
+xp: 1,800
+hp: 95
+hp_roll: 10d12+30
+ac: 13
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 126
+---
+
 # Dinosaur, Therizinosaurus
 
 *Huge* *Beast* *unaligned*
@@ -24,5 +43,3 @@
 
 - **Multiattack:** Two claw attacks.
 - **Claw:** Melee Weapon Attack: +8 to hit, 15 ft., one target, 18 (3d8+5) slashing damage and the target must make DC 16 Str save or be knocked prone.
-
-

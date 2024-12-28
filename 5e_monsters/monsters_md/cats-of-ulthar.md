@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cats of Ulthar
+size: Huge
+type: Beast
+alignment: unaligned
+cr: 4
+xp: 1,100
+hp: 55
+hp_roll: 10d10
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 30 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 58
+---
+
 # Cats of Ulthar
 
 *Huge* *Beast* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Bites:** Melee Weapon Attack: +6 to hit, reach 0 ft., up to two creatures in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Adult Green Dragon
+size: Huge
+type: Dragon
+alignment: 
+cr: 18
+xp: 20,000
+hp: 287
+hp_roll: 25d12+125
+ac: 18
+speed: walk 40 ft. fly 80 ft. swim 40 ft.
+senses: blindsight 60 ft. darkvision 120 ft. 
+passive_perception: 21
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 113
+---
+
 # Adult Green Dragon
 
 *Huge* *Dragon*

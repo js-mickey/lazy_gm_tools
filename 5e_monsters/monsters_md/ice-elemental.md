@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ice Elemental
+size: Large
+type: Elemental
+alignment: neutral
+cr: 5
+xp: 1,800
+hp: 114
+hp_roll: 12d10+48
+ac: 15
+speed: burrow 30 ft. climb 20 ft. walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 133
+---
+
 # Ice Elemental
 
 *Large* *Elemental* *neutral*
@@ -32,5 +51,3 @@
 - **Multiattack:** The ice elemental makes two ice claw attacks.
 - **Ice Claw:** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (4d8 + 4) slashing damage.
 - **Encase in Ice:** Melee Weapon Attack: +7 to hit, reach 10 ft. one creature. Hit: 14 (4d6) cold damage, and the target must make a DC 14 Constitution saving throw. On a failure, ice begins to form around the creature, and it is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified in ice on a failure or ending the effect on a success. The petrification lasts until the creature spends at least 1 hour in a warm environment. Alternatively, a creature can be freed of the restrained or petrified conditions if it takes at least 10 fire damage.
-
-

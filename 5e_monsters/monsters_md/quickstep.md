@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Quickstep
+size: Small
+type: Fey
+alignment: neutral evil
+cr: 5
+xp: 1,800
+hp: 49
+hp_roll: 9d6+18
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 60 ft. truesight 60 ft. 
+passive_perception: 14
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 308
+---
+
 # Quickstep
 
 *Small* *Fey* *neutral evil*
@@ -34,5 +53,3 @@
 ### Reactions
 
 - **Quick Dodge:** When a creature the quickstep can see targets it with an attack, the quickstep can move to an unoccupied space within 5 feet of it without provoking opportunity attacks. If this movement would put the quickstep out of reach of the attacker, the attack misses.
-
-

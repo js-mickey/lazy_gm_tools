@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Avestruzii
+size: Medium
+type: Humanoid
+alignment: any alignment
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 3d8+9
+ac: 14
+speed: walk 40 ft.
+senses: 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 48
+---
+
 # Avestruzii
 
 *Medium* *Humanoid* *any alignment*
@@ -25,5 +44,3 @@
 ### Reactions
 
 - **Dig In:** Has resistance to one melee weapon attack that would hit it. To do so the avestruzii must see the attacker and must not have moved during its previous turn.
-
-

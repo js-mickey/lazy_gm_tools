@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elemental, Rockslide
+size: Large
+type: Elemental
+alignment: neutral
+cr: 8
+xp: 3,900
+hp: 147
+hp_roll: 14d10+70
+ac: 14
+speed: walk 40 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 168
+---
+
 # Elemental, Rockslide
 
 *Large* *Elemental* *neutral*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Nimble Separation:** Can briefly separate its components parts and take the Dash action. Opportunity attacks vs. it have disadvantage until start of its next turn.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Empyrean
+size: Gargantuan
+type: Celestial
+alignment: 
+cr: 22
+xp: 41,000
+hp: 328
+hp_roll: 16d20+160
+ac: 21
+speed: walk 60 ft. fly 60 ft.
+senses: truesight 120 ft. 
+passive_perception: 17
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 405
+---
+
 # Empyrean
 
 *Gargantuan* *Celestial*

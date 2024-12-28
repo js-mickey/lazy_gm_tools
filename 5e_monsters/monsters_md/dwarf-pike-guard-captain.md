@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dwarf, Pike Guard Captain
+size: Medium
+type: Humanoid
+alignment: lawful neutral
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 18
+speed: walk 25 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 166
+---
+
 # Dwarf, Pike Guard Captain
 
 *Medium* *Humanoid* *lawful neutral*
@@ -33,5 +52,3 @@
 
 - **Brace Pike:** When a creature enters the captain’s reach the captain can brace its pike. If it does so it has advantage on its next attack roll vs. that creature.
 - **Bring It Down:** When a creature within captain’s reach takes damage from a pike guard or pike guard captain captain can make one opportunity attack vs. that creature.
-
-

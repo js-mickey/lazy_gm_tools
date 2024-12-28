@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Cave Mimic
+size: Gargantuan
+type: Monstrosity
+alignment: neutral
+cr: 7
+xp: 2,900
+hp: 174
+hp_roll: 12d20+48
+ac: 13
+speed: walk 10 ft. burrow 20 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 77
+---
+
 # Cave Mimic
 
 *Gargantuan* *Monstrosity* *neutral*
@@ -36,5 +55,3 @@
 ### Bonus Actions
 
 - **Change Shape:** Into Gargantuan object or stretches out as terrain up to 35 ft. cube or back to true amorphous form. Stats same. Items worn/carried not transformed. Reverts on death.
-
-

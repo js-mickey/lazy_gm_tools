@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ichneumon
+size: Large
+type: Monstrosity
+alignment: unaligned
+cr: 11
+xp: 7,200
+hp: 123
+hp_roll: 13d10+52
+ac: 16
+speed: walk 50 ft.
+senses: darkvision 120 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 224
+---
+
 # Ichneumon
 
 *Large* *Monstrosity* *unaligned*
@@ -30,5 +49,3 @@
 - **Multiattack:** The ichneumon makes three attacks: two with its bite and one with its claws.
 - **Bite:** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) piercing damage and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the ichneumon can't use its bite on another target.
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
-
-

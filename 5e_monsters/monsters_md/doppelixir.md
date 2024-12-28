@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Doppelixir
+size: Tiny
+type: Ooze
+alignment: unaligned
+cr: 1
+xp: 200
+hp: 45
+hp_roll: 10d4+20
+ac: 13
+speed: walk 20 ft. climb 20 ft. swim 20 ft.
+senses: blindsight 60 ft. (blind beyond) 
+passive_perception: 11
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 139
+---
+
 # Doppelixir
 
 *Tiny* *Ooze* *unaligned*
@@ -33,5 +52,3 @@
 ### Bonus Actions
 
 - **Imitative Liquid:** Imitates one common or uncommon potion oil or other alchemical substance until it uses this bonus action again to end it or to imitate a different liquid. If it takes no acid fire or poison on the round it is slain creature can collect its remains which can be used as the liquid it was imitating as died.
-
-

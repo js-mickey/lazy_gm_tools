@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Mummy Lord
+size: Medium
+type: Undead
+alignment: 
+cr: 15
+xp: 13,000
+hp: 221
+hp_roll: 26d8+104
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 339
+---
+
 # Mummy Lord
 
 *Medium* *Undead*

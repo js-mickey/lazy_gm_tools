@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Sahuagin
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 22
+hp_roll: 4d8+4
+ac: 12
+speed: walk 30 ft. swim 40 ft.
+senses: darkvision 120 ft. 
+passive_perception: 13
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 376
+---
+
 # Sahuagin
 
 *Medium* *Humanoid*
@@ -30,5 +49,3 @@
 ### Bonus Actions
 
 - **Bite:** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
-
-

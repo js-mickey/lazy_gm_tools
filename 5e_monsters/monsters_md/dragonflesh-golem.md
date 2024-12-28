@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Dragonflesh Golem
+size: Large
+type: Construct
+alignment: unaligned
+cr: 10
+xp: 5,900
+hp: 115
+hp_roll: 11d10+55
+ac: 18
+speed: walk 30 ft.
+senses: darkvision 120 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 180
+---
+
 # Dragonflesh Golem
 
 *Large* *Construct* *unaligned*
@@ -32,5 +51,3 @@
 - **Claws:** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) slashing damage.
 - **Terror Stare:** The dragonflesh golem chooses a creature that can see its eyes within 30 feet of it. The target must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the golem’s Terror Stare for the next 24 hours.
 - **Elemental Breath (Recharge 5-6):** The dragonflesh golem exhales energy in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 21 (6d6) fire damage and 21 (6d6) damage of another type on a failed save, or half as much damage on a successful one. Roll a d4 to determine the additional damage type: 1 is acid, 2 is cold, 3 is lightning, and 4 is poison.
-
-

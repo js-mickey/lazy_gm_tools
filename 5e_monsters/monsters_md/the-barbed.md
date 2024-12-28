@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: The Barbed
+size: Small
+type: Humanoid
+alignment: lawful evil
+cr: 1
+xp: 200
+hp: 44
+hp_roll: 8d8+8
+ac: 13
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 406
+---
+
 # The Barbed
 
 *Small* *Humanoid* *lawful evil*
@@ -27,5 +46,3 @@
 
 - **Barbed Slash:** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage and 3 (1d6) poison damage. The target must succeed on a DC 12 Constitution saving throw or be poisoned until the end of its next turn.
 - **Javelin:** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-
-

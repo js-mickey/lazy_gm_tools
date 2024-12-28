@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ascetic Grandmaster
+size: Medium
+type: Humanoid
+alignment: 
+cr: 14
+xp: 11,500
+hp: 172
+hp_roll: 23d8+69
+ac: 20
+speed: walk 60 ft. climb 60 ft.
+senses: 
+passive_perception: 22
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 465
+---
+
 # Ascetic Grandmaster
 
 *Medium* *Humanoid*
@@ -42,5 +61,3 @@
 
 - **Deft Dodge (1/Round):** When an attacker that the grandmaster can see hits them with an attack, the grandmaster halves the attacks damage against them.
 - **Ascetic grandmasters lead the finest monasteries in the world or travel alone seeking worthy challenges and students:** They often appear unassuming, but challenging the speed and strength of these legendary martial artists is akin to challenging a hurricane.
-
-

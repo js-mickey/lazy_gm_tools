@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Shadhavar
+size: Large
+type: Monstrosity
+alignment: Neutral
+cr: 2
+xp: 450
+hp: 82
+hp_roll: 22
+ac: 14
+speed: walk 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 323
+---
+
 # Shadhavar
 
 *Large* *Monstrosity* *Neutral*

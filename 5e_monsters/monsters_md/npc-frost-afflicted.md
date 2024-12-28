@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Npc: Frost-Afflicted
+size: Medium
+type: Humanoid
+alignment: chaotic neutral
+cr: 3
+xp: 700
+hp: 65
+hp_roll: 10d8+20
+ac: 13
+speed: walk 30 ft.
+senses: 
+passive_perception: 13
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 408
+---
+
 # Npc: Frost-Afflicted
 
 *Medium* *Humanoid* *chaotic neutral*
@@ -32,5 +51,3 @@
 ### Reactions
 
 - **Frigid Flare:** When a creature hits the frost-afflicted with weapon attack ice bursts from the frost-afflicted. Each creature within 5 ft. of the frost-afflicted must make a DC 13 Con save taking 5 (2d4) cold on a failed save or half damage if made.
-
-

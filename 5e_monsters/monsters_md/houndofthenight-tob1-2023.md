@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hound of the Night
+size: Large
+type: Monstrosity
+alignment: Neutral
+cr: 5
+xp: 1,800
+hp: 112
+hp_roll: 30
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 15
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 235
+---
+
 # Hound of the Night
 
 *Large* *Monstrosity* *Neutral*

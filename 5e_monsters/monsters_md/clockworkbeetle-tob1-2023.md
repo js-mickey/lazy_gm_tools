@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Clockwork Beetle
+size: Tiny
+type: Construct
+alignment: Unaligned
+cr: 1/2
+xp: 100
+hp: 20
+hp_roll: 8d4
+ac: 14
+speed: walk 50 ft. fly 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 60
+---
+
 # Clockwork Beetle
 
 *Tiny* *Construct* *Unaligned*

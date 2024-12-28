@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Millitaur
+size: Large
+type: Monstrosity
+alignment: Neutral
+cr: 3
+xp: 700
+hp: 85
+hp_roll: 30
+ac: 14
+speed: walk 30 ft. burrow 40 ft.
+senses: darkvision 60 ft. tremorsense 30 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 267
+---
+
 # Millitaur
 
 *Large* *Monstrosity* *Neutral*

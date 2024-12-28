@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Violet Fungus
+size: Medium
+type: Plant
+alignment: 
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 4d8
+ac: 5
+speed: walk 5 ft.
+senses: blindsight 30 ft. (blind beyond this radius) 
+passive_perception: 6
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 212
+---
+
 # Violet Fungus
 
 *Medium* *Plant*
@@ -26,5 +45,3 @@
 
 - **Multiattack:** The fungus makes a rotting touch attack against two different creatures.
 - **Rotting Touch:** Melee Weapon Attack: +2 to hit  reach 15 ft.  one target. Hit: 5 (1d10) necrotic damage.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Elemental, Permafrost
+size: Large
+type: Elemental
+alignment: neutral
+cr: 6
+xp: 2,300
+hp: 133
+hp_roll: 14d10+56
+ac: 16
+speed: walk 20 ft. burrow 30 ft.
+senses: darkvision 60 ft. tremorsense 60 ft. 
+passive_perception: 12
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 167
+---
+
 # Elemental, Permafrost
 
 *Large* *Elemental* *neutral*
@@ -31,5 +50,3 @@
 - **Multiattack:** Two Slam attacks.
 - **Slam:** Melee Weapon Attack: +7 to hit, 10 ft., one target, 13 (2d8+4) bludgeoning damage + 7 (2d6) cold.
 - **Plague-Ridden Pound (Recharge 5–6):** Brings both of its fists down striking ground and sending ice shards from its body flying at nearby creatures. Each creature on the ground within 20' of it: 10 (3d6) bludgeoning damage and 10 (3d6) cold knocked prone and becomes infected with primordial plague (see Plague Bearer; DC 14 Dex half damage and not prone or infected).
-
-

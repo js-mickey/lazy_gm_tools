@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Blood Ooze
+size: Large
+type: Ooze
+alignment: unaligned
+cr: 6
+xp: 2,300
+hp: 76
+hp_roll: 8d10+32
+ac: 8
+speed: climb 20 ft. walk 20 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 9
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 282
+---
+
 # Blood Ooze
 
 *Large* *Ooze* *unaligned*
@@ -31,5 +50,3 @@
 ### Reactions
 
 - **Overflow:** When the blood ooze is hit with a melee attack, it can drain blood from the attacker. The attacker must make a DC 15 Constitution saving throw, taking 11 (2d10) necrotic damage on a failed save, or half as much damage on a successful one. The ooze gains temporary hp equal to the necrotic damage taken.
-
-

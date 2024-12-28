@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Frost Giant
+size: Huge
+type: Giant
+alignment: 
+cr: 9
+xp: 5,000
+hp: 138
+hp_roll: 12d12+60
+ac: 15
+speed: walk 40 ft.
+senses: 
+passive_perception: 14
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 236
+---
+
 # Frost Giant
 
 *Huge* *Giant*
@@ -32,5 +51,3 @@
 
 - **Grab:** One creature within 5 feet makes a DC 11 Dexterity saving throw. On a failure, it is grappled (escape DC 18). Until this grapple ends, the giant can't grab another target, and it makes battleaxe attacks with advantage against the grappled target.
 - **Stomp (1/Day):** Melee Weapon Attack: +10 to hit, reach 10 ft., one prone target. Hit: 13 (3d4 + 6) bludgeoning damage.
-
-

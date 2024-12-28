@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Titanoboa
+size: Gargantuan
+type: Beast
+alignment: Unaligned
+cr: 12
+xp: 8,400
+hp: 232
+hp_roll: 75
+ac: 14
+speed: walk 40 ft.
+senses: blindsight 10 ft. 
+passive_perception: 14
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 363
+---
+
 # Titanoboa
 
 *Gargantuan* *Beast* *Unaligned*

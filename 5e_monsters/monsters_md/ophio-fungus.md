@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Ophio Fungus
+size: Huge
+type: Plant
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 119
+hp_roll: 14d12+28
+ac: 14
+speed: walk 10 ft.
+senses: blindsight 120 ft. (blind beyond this radius) 
+passive_perception: 13
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 283
+---
+
 # Ophio Fungus
 
 *Huge* *Plant* *unaligned*
@@ -27,5 +46,3 @@
 ### Actions
 
 - **Release Spores:** The ophio fungus focuses its spores on up to three creatures it can see within 30 feet of it. Each creature must make a DC 15 Constitution saving throw. On a failure, a creature takes 14 (4d6) poison damage and, if it is a humanoid, it becomes infected with ophio spores. On a success, a creature takes half the damage and isn’t infected with spores. A creature that doesn’t need to breathe automatically succeeds on this saving throw. A creature that does need to breathe can still be affected, even if it holds its breath.
-
-

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Silent Crier
+size: Medium
+type: Fiend
+alignment: neutral evil
+cr: 6
+xp: 2,300
+hp: 105
+hp_roll: 14d8+42
+ac: 15
+speed: walk 30 ft.
+senses: blindsight 120 ft. (blind beyond) 
+passive_perception: 17
+source_title: Tome of Beasts 3
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-3-for-5th-edition/
+source_page: 344
+---
+
 # Silent Crier
 
 *Medium* *Fiend* *neutral evil*
@@ -27,5 +46,3 @@
 - **Multiattack:** Two Slam attacks and uses Bell Toll.
 - **Slam:** Melee Weapon Attack: +6 to hit, 5 ft., one target, 10 (2d6+3) bludgeoning damage.
 - **Bell Toll:** Wracks its body causing the bell to toll producing one of the following. Can’t use same effect two rounds in a row.Concussive Knell: Crippling chime. Each creature within 20' of it stunned until end of crier’s next turn (DC 15 Con negates).Crushing Toll: Thunderous strike. Each creature within 20' of it: 18 (4d8) thunder (DC 15 Con half).Endless Ringing: Endless piercing ringing. It must take a bonus action on its subsequent turns to continue this ringing and it can end the ringing at any time. While using Endless Ringing it can’t move or use Bell Toll. When a creature enters a space within 60' of it for the first time on a turn or starts its turn there the creature must make DC 15 Con save or be deafened and unable to cast spells with verbal components until tstart of its next turn.Herald of Dread: Chimes one terror-inducing note. Each creature within 60' of it: frightened for 1 min (DC 15 Wis negates). A creature can re-save at end of each of its turns success ends effect on itself. If a creature’s save is successful or effect ends for it creature is immune to crier’s Herald of Dread for next 24 hrs.
-
-

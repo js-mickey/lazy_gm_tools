@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Hobgoblin
+size: Medium
+type: Humanoid
+alignment: 
+cr: 1/2
+xp: 100
+hp: 19
+hp_roll: 3d8+6
+ac: 16
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: A5e Monstrous Menagerie
+source_url: https://enpublishingrpg.com/products/level-up-monstrous-menagerie-a5e
+source_page: 281
+---
+
 # Hobgoblin
 
 *Medium* *Humanoid*
@@ -24,5 +43,3 @@
 
 - **Longsword:** Melee Weapon Attack: +3 to hit  reach 5 ft.  one target. Hit: 5 (1d8 + 1) slashing damage  or 10 (2d8 + 1) slashing damage if within 5 feet of an ally that is not incapacitated.
 - **Longbow:** Ranged Weapon Attack: +3 to hit  range 150/600 ft.  one target. Hit: 5 (1d8 + 1) piercing damage.
-
-

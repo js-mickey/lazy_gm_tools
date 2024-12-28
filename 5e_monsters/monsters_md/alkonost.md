@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Alkonost
+size: Small
+type: Monstrosity
+alignment: neutral
+cr: 1/2
+xp: 100
+hp: 17
+hp_roll: 5d6
+ac: 12
+speed: fly 40 ft. walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 12
+---
+
 # Alkonost
 
 *Small* *Monstrosity* *neutral*
@@ -25,5 +44,3 @@
 
 - **Claws:** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.
 - **Charged Melody (Recharge 6):** The alkonost sings a beautiful melody. Each creature within 30 feet of it that can hear the melody must succeed on a DC 12 Charisma saving throw or take 7 (2d6) lightning damage the next time it moves.
-
-

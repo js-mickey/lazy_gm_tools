@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Garroter Crab
+size: Tiny
+type: Beast
+alignment: Unaligned
+cr: 1/4
+xp: 50
+hp: 18
+hp_roll: 8
+ac: 13
+speed: walk 20 ft.
+senses: darkvision 60 ft. 
+passive_perception: 10
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 194
+---
+
 # Garroter Crab
 
 *Tiny* *Beast* *Unaligned*

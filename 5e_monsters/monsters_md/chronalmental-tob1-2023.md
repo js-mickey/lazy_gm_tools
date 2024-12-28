@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Chronalmental
+size: Large
+type: Elemental
+alignment: Neutral
+cr: 8
+xp: 3,900
+hp: 142
+hp_roll: 60
+ac: 17
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 11
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 56
+---
+
 # Chronalmental
 
 *Large* *Elemental* *Neutral*

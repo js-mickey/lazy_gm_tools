@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Quoreq
+size: Medium
+type: Aberration
+alignment: chaotic evil
+cr: 5
+xp: 1,800
+hp: 93
+hp_roll: 11d8+44
+ac: 15
+speed: walk 40 ft.
+senses: blindsight 60 ft. (blind beyond this radius) 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition
+source_page: 304
+---
+
 # Quoreq
 
 *Medium* *Aberration* *chaotic evil*
@@ -30,5 +49,3 @@
 - **Multiattack:** The quoreq makes three claw attacks.
 - **Claw:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 - **Bite:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the quoreq scores a critical hit, it rolls damage dice three times, instead of twice.
-
-

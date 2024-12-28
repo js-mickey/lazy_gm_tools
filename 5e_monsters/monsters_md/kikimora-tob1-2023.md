@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Kikimora
+size: Medium
+type: Fey
+alignment: Chaotic Neutral
+cr: 5
+xp: 1,800
+hp: 78
+hp_roll: 24
+ac: 15
+speed: walk 30 ft.
+senses: darkvision 60 ft. 
+passive_perception: 13
+source_title: Tome of Beasts 2023
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-1-2023-edition/
+source_page: 243
+---
+
 # Kikimora
 
 *Medium* *Fey* *Chaotic Neutral*
