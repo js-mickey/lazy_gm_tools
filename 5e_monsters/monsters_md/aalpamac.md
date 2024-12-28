@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aalpamac
+size: Huge
+type: Monstrosity
+alignment: unaligned
+cr: 7
+xp: 2,900
+hp: 136
+hp_roll: 13d12+52
+ac: 14
+speed: walk 15 ft., swim 50 ft.
+senses: darkvision 60 ft. 
+passive_perception: 16
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/
+source_page: 8
+---
+
 # Aalpamac
 
 *Huge* *Monstrosity* *unaligned*

@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: A-mi-kuk
+size: Huge
+type: Aberration
+alignment: chaotic evil
+cr: 7
+xp: 2,900
+hp: 115
+hp_roll: 10d12+50
+ac: 14
+speed: swim 40 ft., burrow 20 ft., walk 30 ft.
+senses: darkvision 60 ft., tremorsense 30 ft., 
+passive_perception: 15
+source_title: Tome of Beasts 2
+source_url: https://koboldpress.com/kpstore/product/tome-of-beasts-2-for-5th-edition/
+source_page: 15
+---
+
 # A-mi-kuk
 
 *Huge* *Aberration* *chaotic evil*

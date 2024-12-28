@@ -1,3 +1,22 @@
+---
+document-type: statblock
+name: Aatxe
+size: Large
+type: Celestial
+alignment: lawful good
+cr: 5
+xp: 1,800
+hp: 105
+hp_roll: 10d10+50
+ac: 14
+speed: walk 50 ft
+senses:  
+passive_perception: 12
+source_title: Creature Codex
+source_url: https://koboldpress.com/kpstore/product/creature-codex-for-5th-edition-dnd
+source_page: 7
+---
+
 # Aatxe
 
 *Large* *Celestial* *lawful good*
